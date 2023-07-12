@@ -30,7 +30,7 @@ jobs:
         OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       run: |
         python generate-icons.py 4
-        python generate-readme.py 4
+        python generate-readme.py
     - name: Commit changes
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
