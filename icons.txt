@@ -549,3 +549,18 @@
 * icon-wheel.svg
 * icon-diamond.svg
 * icon-owl.svg
+*icon-dashboard.svg
+*icon-envelope.svg
+*icon-magnifier.svg
+*icon-shield.svg
+*icon-rocket.svg
+*icon-cog.svg
+*icon-video.svg
+*icon-printer.svg
+*icon-cloud.svg
+*icon-calculator.svg
+*icon-chat.svg
+*icon-map.svg
+*icon-star.svg
+*icon-hourglass.svg
+*icon-lock.svg

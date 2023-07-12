@@ -1,4 +1,15 @@
-<svg class="icon icon-icon-magnifying-glass" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-    <circle cx="10.5" cy="10.5" r="7.75"/>
-    <path d="M22 22l-5.5-5.5"/>
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-icon-magnifying-glass">
+   <circle 
+      class="st0" 
+      cx="210" 
+      cy="210" 
+      r="200" 
+   />
+   <line 
+      class="st0" 
+      x1="362" 
+      y1="362" 
+      x2="500" 
+      y2="500" 
+   />
 </svg>
