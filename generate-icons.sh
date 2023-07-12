@@ -24,7 +24,7 @@ generate_icons(){
   i=0
   icons_index="icons.txt"
   while read line; do
-    if [[ $line == \** ]]; then
+    if [ "$line" == \** ]; then
       raw_icon=${line:1}
       basename=$(basename $raw_icon)
       icon=${basename%.*}
