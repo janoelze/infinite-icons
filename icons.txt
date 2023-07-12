@@ -773,4 +773,18 @@
 * icon-lifering.svg
 * icon-fossil.svg
 * icon-telegraph.svg
-* icon-computer-chip.svg
+* icon-computer-chip.svg* icon-asteroid.svg
+* icon-satellite.svg
+* icon-telescope.svg
+* icon-cybersecurity.svg
+* icon-quantum-computer.svg
+* icon-plant-cell.svg
+* icon-nanobot.svg
+* icon-einstein.svg
+* icon-hologram.svg
+* icon-blackhole.svg
+* icon-teleporter.svg
+* icon-dna-strand.svg
+* icon-time-machine.svg
+* icon-cosmic-ray.svg
+* icon-virtual-reality.svg
