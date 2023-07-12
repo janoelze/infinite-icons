@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-skip-back">
-  <path fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon-hover" d="M7 20l10-8-10-8v16zm2-8h12">
-  </path>
-  <polygon points="17 16 19 16 19 8 17 8 17 16" fill="#FF6347" stroke-width="2" stroke-linejoin="round">
-  </polygon>
-  <rect x="3" y="2" width="2" height="20" fill="#B22222" stroke-width="2" stroke-linejoin="round">
-  </rect>
-</svg>

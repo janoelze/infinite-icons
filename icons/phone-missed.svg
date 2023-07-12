@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-phone-missed">
-    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-      <path class="icon-phone-missed__background" d="M0 0h24v24H0z" fill="#000" />
-      <path class="icon-phone-missed__body" d="M22 16v-4h-2v-3a1 1 0 00-1-1H5a1 1 0 00-1 1v11a1 1 0 001 1h3" stroke="#fff" stroke-width="2" />
-      <path class="icon-phone-missed__line" d="M5 15v6m6-6v6m6-6v6" stroke="#fff" stroke-width="2" />
-      <circle class="icon-phone-missed__circle" cx="12" cy="16" r="3" fill="#000" />
-    </g>
-</svg>

@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-toggle-left" viewBox="0 0 24 24">
-  <path d="M7 5H17C19.2091 5 21 6.79086 21 9V15C21 17.2091 19.2091 19 17 19H7C4.79086 19 3 17.2091 3 15V9C3 6.79086 4.79086 5 7 5Z">
-  </path>
-  <circle cx="7" cy="12" r="3" fill="none" stroke="currentColor" stroke-width="2"/>
-</svg>

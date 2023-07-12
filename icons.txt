@@ -108,3 +108,53 @@
 * satellite-icon.svg
 * headphones-icon.svg
 * ticket-icon.svg
+* starburst-icon.svg
+* coffee-cup-icon.svg
+* bookshelf-icon.svg
+* shopping-cart-icon.svg
+* compass-icon.svg
+* film-reel-icon.svg
+* puzzle-piece-icon.svg
+* megaphone-icon.svg
+* keyhole-icon.svg
+* lightning-bolt-icon.svg
+*icon-home.svg
+*icon-pencil.svg
+*icon-user.svg
+*icon-cog.svg
+*icon-email.svg
+*icon-search.svg
+*icon-camera.svg
+*icon-chat.svg
+*icon-earth.svg
+*icon-clock.svg
+*icon-briefcase.svg
+*icon-chart.svg
+*icon-heart.svg
+*icon-phone.svg
+*icon-music.svg
+*icon-cloud.svg
+*icon-book.svg
+*icon-flag.svg
+*icon-rocket.svg
+*icon-star.svg
+* icon-home.svg
+* icon-pencil.svg
+* icon-search.svg
+* icon-settings.svg
+* icon-clipboard.svg
+* icon-calendar.svg
+* icon-trash.svg
+* icon-envelope.svg
+* icon-bell.svg
+* icon-chart.svg
+* icon-globe.svg
+* icon-users.svg
+* icon-document.svg
+* icon-phone.svg
+* icon-camera.svg
+* icon-cloud.svg
+* icon-lock.svg
+* icon-rocket.svg
+* icon-music.svg
+* icon-basket.svg

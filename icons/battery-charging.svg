@@ -1,4 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-battery-charging" viewbox="0 0 24 24">
-<path d="M23 11H20V4C20 2.895 19.105 2 18 2H6C4.895 2 4 2.895 4 4V11H1C0.448 11 0 11.448 0 12C0 12.552 0.448 13 1 13H4V20C4 21.105 4.895 22 6 22H18C19.105 22 20 21.105 20 20V13H23C23.552 13 24 12.552 24 12C24 11.448 23.552 11 23 11Z" fill="none" stroke="currentColor" stroke-width="2"></path>
-<polygon points="8 12 12 16 16 12 13 9 15 7 11 7 9 9 12 12 8 12" fill="currentColor"></polygon>
-</svg>
