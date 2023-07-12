@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-bread-swords">
+    <path d="M2,21L12,14L22,21L12,9Z" fill="#000000"/>
+    <circle cx="8" cy="12" r="3" fill="#ffffff"/>
+    <path d="M9,1a12,22 0 1,0 6,0a12,22 0 1,0 -6,0" fill="#D2691E"/>
+    <rect x="7" y="11" height="14" width="2" fill="silver" transform="rotate(45, 8, 18)"/>
+    <rect x="14" y="11" height="14" width="2" fill="silver" transform="rotate(-45, 15, 18)"/>
+</svg>

@@ -815,4 +815,18 @@
 * icon-telescope-galaxy.svg
 * icon-tv-static.svg
 * icon-bread-swords.svg
-* icon-cat-moon-eyes.svg
+* icon-cat-moon-eyes.svg* icon-quantum-computer.svg
+* icon-bonsai-tree.svg
+* icon-alien-face.svg
+* icon-telescope.svg
+* icon-temple.svg
+* icon-origami-bird.svg
+* icon-edamame.svg
+* icon-martini-glass.svg
+* icon-hot-air-balloon.svg
+* icon-maracas.svg
+* icon-toy-blocks.svg
+* icon-sushi-roll.svg
+* icon-morpho-butterfly.svg
+* icon-model-t.svg
+* icon-mayan-calendar.svg
