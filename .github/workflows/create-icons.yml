@@ -31,10 +31,6 @@ jobs:
       run: |
         python generate-icons.py
         python generate-readme.py
-    - name: Set up Git
-      run: |
-        git config --global user.name "Automation"
-        git config --global user.email "hallo@janoelze.de"
     - name: Commit changes
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
