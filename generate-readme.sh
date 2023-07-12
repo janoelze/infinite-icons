@@ -1,24 +1,20 @@
 #!/bin/bash
 
-create_readme(){
-  # create a readme.md file
-  # containing a markdown table of all icons, four per row
-
+create_readme() {
   echo "# Icons" > README.md
   echo "" >> README.md
-  echo "|  |  |  |  |" >> README.md
+  echo "| <img width=\"100px\"/> | <img width=\"100px\"/> | <img width=\"100px\"/> | <img width=\"100px\"/> |" >> README.md
   echo "| ---- | ---- | ---- | ---- |" >> README.md
-  # iterate over icons/*.svg in chunks of four
   row=""
   titles=""
   for icon in icons/*.svg; do
-    iconname=$(basename $icon)
+    iconname=$(basename "$icon")
     iconname=${iconname%.*}
-    row="$row| ![$iconname]($icon) "
+    row="$row| <img src=\"$icon\" alt=\"$iconname\" width=\"100px\"/> "
     titles="$titles| $iconname "
-    if [ $(echo $row | wc -w) -eq 8 ]; then
-      echo $row >> README.md
-      echo $titles >> README.md
+    if [ $(echo "$row" | wc -w) -eq 8 ]; then
+      echo "$row" >> README.md
+      echo "$titles" >> README.md
       row=""
       titles=""
     fi

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-radio" viewBox="0 0 24 24">
+    <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M22 8v6a4 4 0 01-4 4H6a4 4 0 01-4-4V8">
+    </path>
+    <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M2 8h20">
+    </path>
+    <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 1h.01M6 3h.01">
+    </path>
+    <path fill="currentColor" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z">
+    </path>
+</svg>
