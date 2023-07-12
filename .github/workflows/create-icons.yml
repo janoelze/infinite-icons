@@ -1,7 +1,12 @@
 name: Generate icons
 on:
   schedule:
-  - cron: "*/60 * * * *"
+    - cron: "*/60 * * * *"
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: 'Log level'
+        required: false
 jobs:
   build:
     runs-on: ubuntu-latest
