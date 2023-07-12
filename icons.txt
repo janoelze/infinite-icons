@@ -871,4 +871,18 @@
 * icon-nanorobot.svg
 * icon-cloning.svg
 * icon-databank.svg
-* icon-hadron-collider.svg
+* icon-hadron-collider.svg* icon-data-analyzer.svg
+* icon-wireless-communication.svg
+* icon-energy-conservation.svg
+* icon-cloud-storage.svg
+* icon-rocket-launch.svg
+* icon-planet-globe.svg
+* icon-cyber-security.svg
+* icon-machine-learning.svg
+* icon-artificial-intelligence.svg
+* icon-nano-technology.svg
+* icon-solar-panel.svg
+* icon-fingerprint-identification.svg
+* icon-quantum-computing.svg
+* icon-mind-map.svg
+* icon-hierarchical-structure.svg
