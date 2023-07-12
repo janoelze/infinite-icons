@@ -16,7 +16,7 @@ def unlink_icons():
     os.mkdir('icons')
 
 def generate_icon_ids():
-    output = subprocess.check_output(['llm', 'Output 20 icons potentially included in a large web icon set. The names should contain descriptive IDs. Output each line starting with a "*" star. The filname should only contain the desceriptive icon ID. For example: icon-home.svg, icon-pencil.svg and so forth. NEVER respond with prose. NEVER respond with markdown. NEVER respond with comments, NEVER respond with notes.'], text=True)
+    output = subprocess.check_output(['llm', 'Output 15 icons potentially included in a large web icon set. The names should contain descriptive IDs. Make them non-obvious. Output each line starting with a "*" star. The filname should only contain the desceriptive icon ID. For example: icon-home.svg, icon-pencil.svg and so forth. NEVER respond with prose. NEVER respond with markdown. NEVER respond with comments, NEVER respond with notes.'], text=True)
     with open('icons.txt', 'a+') as file:
         file.write(output)
 
@@ -30,17 +30,17 @@ def generate_icon(icon):
 
 def generate_icons():
     i = 0
-    icons_index = "icons.txt"
-    with open(icons_index, 'r') as file:
+
+    with open("icons.txt", 'r') as file:
         lines = file.readlines()
-    
+
     for line in lines:
         if line.startswith('*'):
             raw_icon = line[1:].strip()
             basename = os.path.basename(raw_icon)
             icon = os.path.splitext(basename)[0]
             path = f"icons/{icon}.svg"
-            if not os.path.isfile(path) and i < 10:
+            if not os.path.isfile(path) and i < 4:
                 generate_icon(icon)
                 i += 1
 
