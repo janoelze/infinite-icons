@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-icon-shopping-cart" viewBox="0 0 24 24">
+  <path d="M7 4h-2a1 1 0 0 0 -1 1v1a1 1 0 0 0 1 1h2">
+  </path>
+  <path d="M21 4h-11a1 1 0 0 0 -1 1v1a1 1 0 0 0 1 1h11">
+  </path>
+  <path d="M7 10v11a1 1 0 0 0 1 1h15a1 1 0 0 0 1 -1v-11">
+  </path>
+  <path d="M9 22v-1">
+  </path>
+  <path d="M20 22v-2">
+  </path>
+</svg>
