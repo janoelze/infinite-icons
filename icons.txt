@@ -429,3 +429,108 @@
 * icon-rocket-launcher.svg
 * icon-trophy.svg
 * icon-megaphone.svg
+*icon-rocket.svg
+*icon-cog.svg
+*icon-globe.svg
+*icon-lightbulb.svg
+*icon-diamond.svg
+*icon-compass.svg
+*icon-microphone.svg
+*icon-megaphone.svg
+*icon-key.svg
+*icon-sun.svg
+*icon-cloud.svg
+*icon-leaf.svg
+*icon-hourglass.svg
+*icon-umbrella.svg
+*icon-crown.svg
+* icon-mountain-range.svg
+* icon-cogwheel.svg
+* icon-globe.svg
+* icon-rocket.svg
+* icon-umbrella.svg
+* icon-lighthouse.svg
+* icon-binoculars.svg
+* icon-puzzle-piece.svg
+* icon-telescope.svg
+* icon-compass.svg
+* icon-lightbulb.svg
+* icon-microscope.svg
+* icon-ship-wheel.svg
+* icon-key.svg
+* icon-hourglass.svg
+* icon-mountain.svg
+* icon-rocket.svg
+* icon-castle.svg
+* icon-lighthouse.svg
+* icon-briefcase.svg
+* icon-compass.svg
+* icon-telescope.svg
+* icon-hourglass.svg
+* icon-anchor.svg
+* icon-crown.svg
+* icon-puzzle.svg
+* icon-umbrella.svg
+* icon-treasure.svg
+* icon-ship.svg
+* icon-globe.svg
+* icon-mountain-range.svg
+* icon-decibel-meter.svg
+* icon-compass-rose.svg
+* icon-satellite-dish.svg
+* icon-umbrella.svg
+* icon-lighthouse.svg
+* icon-zodiac-signs.svg
+* icon-treasure-chest.svg
+* icon-hourglass.svg
+* icon-telescope.svg
+* icon-puzzle-piece.svg
+* icon-flamingo.svg
+* icon-rocket-ship.svg
+* icon-magnifying-glass.svg
+* icon-lightbulb.svg
+* star-burst.svg
+* lightning-bolt.svg
+* compass-rose.svg
+* magnifying-glass.svg
+* puzzle-piece.svg
+* magic-wand.svg
+* hourglass.svg
+* gear-wheel.svg
+* rocket-ship.svg
+* target-crosshair.svg
+* paper-airplane.svg
+* camera-shutter.svg
+* keyhole.svg
+* paint-palette.svg
+* globe-grid.svg
+*icon-rocketship.svg
+*icon-cogwheel.svg
+*icon-magnifying-glass.svg
+*icon-briefcase.svg
+*icon-lightbulb.svg
+*icon-gear.svg
+*icon-paperclip.svg
+*icon-umbrella.svg
+*icon-target.svg
+*icon-puzzle-piece.svg
+*icon-hourglass.svg
+*icon-key.svg
+*icon-shield.svg
+*icon-padlock.svg
+*icon-credit-card.svg
+*icon-navigation-map.svg
+*icon-communication-mail.svg
+*icon-social-networking-friend.svg
+*icon-shopping-cart.svg
+*icon-education-book.svg
+*icon-entertainment-movie.svg
+*icon-food-restaurant.svg
+*icon-health-heart.svg
+*icon-travel-airplane.svg
+*icon-sports-football.svg
+*icon-music-note.svg
+*icon-weather-sun.svg
+*icon-technology-laptop.svg
+*icon-business-chart.svg
+*icon-art-paintbrush.svg
