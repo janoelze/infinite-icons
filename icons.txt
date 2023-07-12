@@ -787,4 +787,18 @@
 * icon-dna-strand.svg
 * icon-time-machine.svg
 * icon-cosmic-ray.svg
-* icon-virtual-reality.svg
+* icon-virtual-reality.svg* icon-digital-watch.svg
+* icon-microscope.svg
+* icon-atom.svg
+* icon-action-figure.svg
+* icon-tree-sapling.svg
+* icon-climbing-helmet.svg
+* icon-stack-of-books.svg
+* icon-cane-chair.svg
+* icon-weather-vane.svg
+* icon-doughnut.svg
+* icon-enchilada.svg
+* icon-ice-skates.svg
+* icon-escalator.svg
+* icon-amethyst-crystal.svg
+* icon-dartboard.svg
