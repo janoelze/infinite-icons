@@ -429,3 +429,18 @@
 * icon-rocket-launcher.svg
 * icon-trophy.svg
 * icon-megaphone.svg
+*icon-rocket.svg
+*icon-cog.svg
+*icon-globe.svg
+*icon-lightbulb.svg
+*icon-diamond.svg
+*icon-compass.svg
+*icon-microphone.svg
+*icon-megaphone.svg
+*icon-key.svg
+*icon-sun.svg
+*icon-cloud.svg
+*icon-leaf.svg
+*icon-hourglass.svg
+*icon-umbrella.svg
+*icon-crown.svg
