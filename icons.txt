@@ -233,3 +233,18 @@
 * icon-lightbulb.svg
 * icon-megaphone.svg
 * icon-hourglass.svg
+*icon-rocketship.svg
+*icon-sunrise.svg
+*icon-keyboard.svg
+*icon-mountain.svg
+*icon-compass.svg
+*icon-umbrella.svg
+*icon-planet.svg
+*icon-hourglass.svg
+*icon-lightning.svg
+*icon-megaphone.svg
+*icon-satellite.svg
+*icon-headphones.svg
+*icon-laptop.svg
+*icon-trophy.svg
+*icon-palette.svg
