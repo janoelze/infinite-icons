@@ -20,6 +20,7 @@ create_readme(){
       echo $row >> README.md
       echo $titles >> README.md
       row=""
+      titles=""
     fi
   done
   echo "" >> README.md
