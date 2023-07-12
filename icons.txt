@@ -534,3 +534,18 @@
 *icon-technology-laptop.svg
 *icon-business-chart.svg
 *icon-art-paintbrush.svg
+* icon-mountain.svg
+* icon-gears.svg
+* icon-treasure.svg
+* icon-rocket.svg
+* icon-flask.svg
+* icon-umbrella.svg
+* icon-compass.svg
+* icon-key.svg
+* icon-crown.svg
+* icon-lighthouse.svg
+* icon-hourglass.svg
+* icon-paintbrush.svg
+* icon-wheel.svg
+* icon-diamond.svg
+* icon-owl.svg
