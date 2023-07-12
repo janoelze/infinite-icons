@@ -609,3 +609,18 @@
 * icon-leaf.svg
 * icon-ghost.svg
 * icon-paintbrush.svg
+*icon-cube.svg
+*icon-rocket.svg
+*icon-briefcase.svg
+*icon-flask.svg
+*icon-camera.svg
+*icon-compass.svg
+*icon-globe.svg
+*icon-megaphone.svg
+*icon-puzzle.svg
+*icon-tools.svg
+*icon-heart.svg
+*icon-lightbulb.svg
+*icon-umbrella.svg
+*icon-music.svg
+*icon-tree.svg
