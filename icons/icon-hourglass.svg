@@ -1,3 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-icon-hourglass">
-    <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-2.76 0-5-2.24-5-5 0-1.33.26-2.58.74-3.77.1-.24.26-.45.45-.65L12 22l3.8-6.42c.2.2.36.41.46.65.48 1.19.74 2.44.74 3.77 0 2.76-2.24 5-5 5zm0-10c-2.76 0-5-2.24-5-5 0-1.33.26-2.58.74-3.77.1-.24.26-.45.45-.65L12 2l3.8 6.42c.2-.2.36-.41.46-.65.48 1.19.74 2.44.74 3.77 0 2.76-2.24 5-5 5z"/>
+<svg xmlns="http://www.w3.org/2000/svg" id="icon-hourglass" class="icon icon-icon-hourglass" viewBox="0 0 24 24">
+    <path d="M19 2H5V22H19V2Z" stroke="#000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M4 2V22" stroke="#000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M20 2V22" stroke="#000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M4 12H20" stroke="#000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M14 6H10V6C10 6 13.5 10 14 14C14.5 10 14 6 14 6Z" stroke="#000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
