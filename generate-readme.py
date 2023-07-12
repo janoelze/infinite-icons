@@ -4,7 +4,7 @@ import os, glob
 def get_icons():
     # return icons orderd by newest first
     icons = glob.glob('icons/*.svg')
-    icons.sort(key=os.path.getmtime, reverse=True)
+    icons.sort(key=os.path.getctime, reverse=True)
     return icons
 
 def create_readme():
@@ -51,8 +51,9 @@ def create_readme():
         titles = ""
         for i, f in enumerate(get_icons(), start=1):
           icon = os.path.splitext(f)[0]
+          icon_without_path = os.path.basename(icon)
           row += f"| ![{icon}]({icon}.svg) "
-          titles += f"| {icon} "
+          titles += f"| {icon_without_path} "
           if i % 4 == 0:
               file.write(row + '\n')
               file.write(titles + '\n')
