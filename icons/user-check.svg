@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-user-check">
+  
+  <path d="M4 4v16m8-16v16m8-16v16"></path>
+  
+  <circle cx="12" cy="10" r="4"></circle>
+
+  <polyline points="15 21 9 21 7 16 15 16"></polyline>
+
+  <polyline points="17 9 22 4 12 4"></polyline>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-share">
+  <defs><style>.icon-share{opacity:0.87;fill:#000;}</style></defs>
+  <path d="M21 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-6"></path>
+  <polyline points="8 8 12 4 16 8"></polyline>
+  <line x1="12" y1="4" x2="12" y2="16"></line>
+</svg>
