@@ -1,5 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-icon-shield-security">
-<path d="M12 2L3 6v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V6l-9-4z"></path>
-<path d="M12 22C6.48 20.34 2 15.37 2 10V6l10-4 10 4v4c0 5.37-4.48 10.34-10 12z" fill="none"></path>
-<path d="M12 12.41l-3.53-3.53a.996.996 0 0 1 1.41-1.41L12 10.59l7.29-7.29a.996.996 0 0 1 1.41 0c.39.39.39 1.02 0 1.41l-8 8c-.38.38-1.01.39-1.4.02z"></path>
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-icon-shield-security" viewBox="0 0 24 24">
+    <path d="M12 2L2 6v6a10 10 0 0010 10 10 10 0 0010-10V6L12 2z"></path>
+    <path d="M12 14a2 2 0 10-2-2 2 2 0 002 2zm0 2a4 4 0 01-4-4 4 4 0 014-4 4 4 0 014 4 4 4 0 01-4 4z"></path>
 </svg>

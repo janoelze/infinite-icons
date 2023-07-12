@@ -444,3 +444,18 @@
 *icon-hourglass.svg
 *icon-umbrella.svg
 *icon-crown.svg
+* icon-mountain-range.svg
+* icon-cogwheel.svg
+* icon-globe.svg
+* icon-rocket.svg
+* icon-umbrella.svg
+* icon-lighthouse.svg
+* icon-binoculars.svg
+* icon-puzzle-piece.svg
+* icon-telescope.svg
+* icon-compass.svg
+* icon-lightbulb.svg
+* icon-microscope.svg
+* icon-ship-wheel.svg
+* icon-key.svg
+* icon-hourglass.svg
