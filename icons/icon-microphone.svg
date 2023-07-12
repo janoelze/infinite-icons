@@ -1,3 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-icon-microphone" viewBox="0 0 24 24">
-    <path d="M12 1a4 4 0 014 4v6a4 4 0 01-8 0V5a4 4 0 014-4zm0 2a2 2 0 00-2 2v6a2 2 0 004 0V5a2 2 0 00-2-2zM4 12v2a7.08 7.08 0 004 6.92V21h8v-2.08A7.08 7.08 0 0020 14v-2H4zm14 2a5 5 0 01-10 0h10z"/>
+<svg version="1.1" id="icon-microphone" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve" class="icon icon-icon-microphone">
+<path d="M12,14c2.206,0,4-1.794,4-4V4c0-2.206-1.794-4-4-4S8,1.794,8,4v6C8,12.206,9.794,14,12,14z M18,10v2c0,3.309-2.691,6-6,6 s-6-2.691-6-6v-2H4v2c0,3.86,3.14,7,7,7s7-3.14,7-7v-2H18z M12,22c1.105,0,2-0.895,2-2h-4C10,21.105,10.895,22,12,22z"/>
 </svg>
+
