@@ -28,7 +28,7 @@ def create_readme():
     # Create a readme.md file containing a markdown table of all icons, four per row
     with open('README.md', 'w') as file:
         file.write("# infinite icons\n\n")
-        file.write("here we're generating the biggest svg icon set on this planet using openai's gpt-4 llm. current velocity is %s i/ph (icons per hour). we'll reach 1M icons in %s days (%s) and 1B in %s years (%s). Reaching 1B icons will rack up an OpenAI bill of about %s not including the %s required for the GitHUb actions credits. we're desperately seeking funding.\n\n" % (
+        file.write("here we're generating the biggest svg icon set on this planet using openai's gpt-4 llm. current velocity is %s i/ph (icons per hour). we'll reach 1M icons in %s days (%s) and 1B in %s years (%s). Reaching 1B icons will rack up an OpenAI bill of about %s not including the %s required for the GitHub actions credits. we're desperately seeking funding.\n\n" % (
             icons_per_hour,
             days_to_one_million_icons,
             datetime.datetime.strftime(date_one_million_icons, '%Y-%m-%d'),
