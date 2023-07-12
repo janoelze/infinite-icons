@@ -579,3 +579,18 @@
 * icon-trophy.svg
 * icon-globe.svg
 * icon-adventure.svg
+*icon-globe.svg
+*icon-cog.svg
+*icon-envelope.svg
+*icon-chart.svg
+*icon-megaphone.svg
+*icon-rocket.svg
+*icon-key.svg
+*icon-umbrella.svg
+*icon-layers.svg
+*icon-lightbulb.svg
+*icon-compass.svg
+*icon-wallet.svg
+*icon-tools.svg
+*icon-gamepad.svg
+*icon-target.svg
