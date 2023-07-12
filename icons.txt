@@ -203,3 +203,18 @@
 * icon-crown.svg
 * icon-camera.svg
 * icon-palm-tree.svg
+*icon-rocket-launch.svg
+*icon-magnifying-glass.svg
+*icon-lightbulb-brain.svg
+*icon-compass-north-east.svg
+*icon-puzzle-pieces.svg
+*icon-umbrella-rain.svg
+*icon-cloud-sun.svg
+*icon-bookshelf-library.svg
+*icon-camera-shutter.svg
+*icon-leaf-plant.svg
+*icon-tools-hammer-wrench.svg
+*icon-dumbbell-gym.svg
+*icon-browser-window.svg
+*icon-coffee-cup.svg
+*icon-microphone-music.svg
