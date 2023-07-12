@@ -801,4 +801,18 @@
 * icon-ice-skates.svg
 * icon-escalator.svg
 * icon-amethyst-crystal.svg
-* icon-dartboard.svg
+* icon-dartboard.svg* icon-globe-gear.svg
+* icon-cloud-moon-rain.svg
+* icon-fish-chips.svg
+* icon-swan-reflection.svg
+* icon-traffic-gopher.svg
+* icon-cherry-blossom.svg
+* icon-compass-pirate.svg
+* icon-skull-top-hat.svg
+* icon-mountain-night-snow.svg
+* icon-palette-dripping-paint.svg
+* icon-locomotive-smoke-puff.svg
+* icon-telescope-galaxy.svg
+* icon-tv-static.svg
+* icon-bread-swords.svg
+* icon-cat-moon-eyes.svg
