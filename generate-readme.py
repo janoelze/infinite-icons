@@ -37,7 +37,7 @@ def create_readme():
             cost_per_one_billion_icons,
             run_cost_to_one_billion_icons_formatted
             ))
-        file.write("Last update: %s\n\n" % current_date)
+        file.write("last update: %s\n\n" % current_date)
         file.write("|  |  |  |  |\n")
         file.write("| ---- | ---- | ---- | ---- |\n")
 
