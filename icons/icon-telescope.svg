@@ -1,4 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-icon-telescope" viewBox="0 0 24 24">
-  <path d="M0 0h24v24H0z" fill="none"/>
-  <path d="M15.502 18.995l-.144-.63-1.356-.385 2.5-4.5 1.5.5v5l-1.128 1.02-1.372-.005zM3 21v-8a2 2 0 00-1-1.732A2 2 0 012 11V2h6l1 4 9 4-2.5 4-7 4h-5zm16-.782V17h-2.846a4.027 4.027 0 00-.679-.379L21 18.218zM4 14v5.528A2.99 2.99 0 015 15v-2H3v1zm9-8h-2l-.4-1.6L9.6 6H8V3h6v3z"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-icon-telescope">
+    <circle cx="12" cy="12" r="10"></circle>
+    <line x1="12" y1="16" x2="12" y2="12"></line>
+    <line x1="12" y1="8" x2="12" y2="8"></line>
+    <path d="M6 20h12"></path>
 </svg>

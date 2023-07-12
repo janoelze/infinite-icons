@@ -564,3 +564,18 @@
 *icon-star.svg
 *icon-hourglass.svg
 *icon-lock.svg
+* icon-mountain.svg
+* icon-compass.svg
+* icon-telescope.svg
+* icon-treasure.svg
+* icon-lighthouse.svg
+* icon-satellite.svg
+* icon-campfire.svg
+* icon-map.svg
+* icon-binoculars.svg
+* icon-tent.svg
+* icon-shipwheel.svg
+* icon-key.svg
+* icon-trophy.svg
+* icon-globe.svg
+* icon-adventure.svg
