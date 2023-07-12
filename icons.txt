@@ -248,3 +248,18 @@
 *icon-laptop.svg
 *icon-trophy.svg
 *icon-palette.svg
+* icon-cupcake.svg
+* icon-rocketship.svg
+* icon-globe.svg
+* icon-sunrise.svg
+* icon-compass.svg
+* icon-camera.svg
+* icon-musicnote.svg
+* icon-diamond.svg
+* icon-lightbulb.svg
+* icon-telephone.svg
+* icon-magnifyingglass.svg
+* icon-wrench.svg
+* icon-umbrella.svg
+* icon-briefcase.svg
+* icon-puzzle.svg
