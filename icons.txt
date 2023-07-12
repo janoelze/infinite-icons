@@ -857,4 +857,18 @@
 * icon-dinosaur.svg
 * icon-bioluminescence.svg
 * icon-gondola.svg
-* icon-alien.svg
+* icon-alien.svg* icon-dna-sequence.svg
+* icon-quantum-computer.svg
+* icon-rocket-launch.svg
+* icon-3d-printer.svg
+* icon-artificial-intelligence.svg
+* icon-photosynthesis.svg
+* icon-holographic-display.svg
+* icon-jet-engine.svg
+* icon-fusion-reactor.svg
+* icon-virtual-reality.svg
+* icon-antimatter.svg
+* icon-nanorobot.svg
+* icon-cloning.svg
+* icon-databank.svg
+* icon-hadron-collider.svg
