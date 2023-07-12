@@ -2,8 +2,8 @@ import datetime
 import os
 
 def create_readme():
-    icons_per_run = 4
-    runs_per_hour = 4
+    icons_per_run = 5
+    runs_per_hour = 6
     icons_per_hour = icons_per_run * runs_per_hour
     icons_per_day = icons_per_hour * 24
     icons_per_week = icons_per_day * 7
@@ -11,18 +11,18 @@ def create_readme():
     icons_per_year = icons_per_month * 12
     days_to_one_million_icons = round(1000000 / icons_per_day)
     days_to_one_billion_icons = round(1000000000 / icons_per_day)
+    years_to_one_billion_icons = round(days_to_one_billion_icons / 365)
     date_one_million_icons = datetime.datetime.now() + datetime.timedelta(days=days_to_one_million_icons)
     date_one_billion_icons = datetime.datetime.now() + datetime.timedelta(days=days_to_one_billion_icons)
 
     # Create a readme.md file containing a markdown table of all icons, four per row
     with open('README.md', 'w') as file:
-        file.write("# Infinite Icons\n\n")
-        file.write("Let's generate the biggest SVG icon set on this planet.\n")
-        file.write("Current speed is %s i/ph (icons per hour). We'll reach 1M icons in %s days (%s) and 1B in %s days (%s).\n\n" % (
+        file.write("# infinite icons\n\n")
+        file.write("here we're generating the biggest svg icon set on this planet. current velocity is %s i/ph (icons per hour). we'll reach 1M icons in %s days (%s) and 1B in %s years (%s).\n\n" % (
             icons_per_hour,
             days_to_one_million_icons,
             datetime.datetime.strftime(date_one_million_icons, '%Y-%m-%d'),
-            days_to_one_billion_icons,
+            years_to_one_billion_icons,
             datetime.datetime.strftime(date_one_billion_icons, '%Y-%m-%d'),
             ))
         file.write("|  |  |  |  |\n")
