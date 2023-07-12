@@ -1,3 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-icon-briefcase">
-    <path d="M7 7h10v-2a1 1 0 00-1-1h-8a1 1 0 00-1 1v2zm5 0h-4v-2h4v2zm11 8v5a2 2 0 01-2 2h-4v-2h4v-3h-18v3h4v2h-4a2 2 0 01-2-2v-5a1 1 0 00-1-1h-1v-4h24v4h-1a1 1 0 00-1 1zm-2-8h-18v2h18v-2z"/>
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-icon-briefcase" viewBox="0 0 24 24">
+  <path d="M22 7h-4V6c0-1.1-.9-2-2-2h-4c-1.1 0-2 .9-2 2v1H2a1 1 0 0 0-1 1v11c0 1.1.9 2 2 2h20a2 2 0 0 0 2-2V8a1 1 0 0 0-1-1zM12 2h4v4h-4V2z">
+  </path>
 </svg>

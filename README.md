@@ -14,8 +14,8 @@ here we're generating the biggest svg icon set on this planet. current velocity 
 | icon-globe | icon-hourglass | icon-key | icon-laptop 
 | ![icon-lighthouse](icons/icon-lighthouse.svg) | ![icon-lightning](icons/icon-lightning.svg) | ![icon-magnifyingglass](icons/icon-magnifyingglass.svg) | ![icon-mountain](icons/icon-mountain.svg) 
 | icon-lighthouse | icon-lightning | icon-magnifyingglass | icon-mountain 
-| ![icon-owl](icons/icon-owl.svg) | ![icon-puzzle](icons/icon-puzzle.svg) | ![icon-rocket](icons/icon-rocket.svg) | ![icon-star-planet](icons/icon-star-planet.svg) 
-| icon-owl | icon-puzzle | icon-rocket | icon-star-planet 
-| ![icon-target](icons/icon-target.svg) | ![icon-telescope](icons/icon-telescope.svg) | ![icon-umbrella](icons/icon-umbrella.svg) | ![puzzle-piece-icon](icons/puzzle-piece-icon.svg) 
-| icon-target | icon-telescope | icon-umbrella | puzzle-piece-icon 
+| ![icon-owl](icons/icon-owl.svg) | ![icon-puzzle](icons/icon-puzzle.svg) | ![icon-rocket](icons/icon-rocket.svg) | ![icon-star-diamond](icons/icon-star-diamond.svg) 
+| icon-owl | icon-puzzle | icon-rocket | icon-star-diamond 
+| ![icon-star-planet](icons/icon-star-planet.svg) | ![icon-target](icons/icon-target.svg) | ![icon-telescope](icons/icon-telescope.svg) | ![icon-umbrella](icons/icon-umbrella.svg) 
+| icon-star-planet | icon-target | icon-telescope | icon-umbrella 
 
