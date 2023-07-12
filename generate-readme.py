@@ -51,7 +51,7 @@ def create_readme():
         titles = ""
         for i, f in enumerate(get_icons(), start=1):
           icon = os.path.splitext(f)[0]
-          row += f"| ![{icon}](icons/{icon}.svg) "
+          row += f"| ![{icon}]({icon}.svg) "
           titles += f"| {icon} "
           if i % 4 == 0:
               file.write(row + '\n')
