@@ -654,3 +654,108 @@
 * icon-video-camera.svg
 * icon-cloud-download.svg
 * icon-diamond.svg
+* icon-mountain-range.svg
+* icon-compass-rose.svg
+* icon-lightbulb-idea.svg
+* icon-rocket-launch.svg
+* icon-cup-of-coffee.svg
+* icon-puzzle-pieces.svg
+* icon-magnifying-glass.svg
+* icon-thumbs-up.svg
+* icon-music-note.svg
+* icon-umbrella-rain.svg
+* icon-globe-earth.svg
+* icon-hourglass-time.svg
+* icon-leaf-nature.svg
+* icon-camera-shutter.svg
+* icon-chat-bubbles.svg
+*icon-rocket.svg
+*icon-telescope.svg
+*icon-molecule.svg
+*icon-lightbulb.svg
+*icon-compass.svg
+*icon-cogwheel.svg
+*icon-megaphone.svg
+*icon-trophy.svg
+*icon-gears.svg
+*icon-umbrella.svg
+*icon-briefcase.svg
+*icon-palette.svg
+*icon-target.svg
+*icon-crown.svg
+*icon-keyboard.svg
+* icon-chat-bubbles.svg
+* icon-rocket-ship.svg
+* icon-food-truck.svg
+* icon-magnifying-glass.svg
+* icon-lightbulb.svg
+* icon-compass.svg
+* icon-mountain-range.svg
+* icon-shopping-cart.svg
+* icon-trophy.svg
+* icon-puzzle-piece.svg
+* icon-sun.svg
+* icon-diamond.svg
+* icon-leaf.svg
+* icon-headphones.svg
+* icon-planet.svg
+* icon-rocket.svg
+* icon-cogwheel.svg
+* icon-lighthouse.svg
+* icon-compass.svg
+* icon-briefcase.svg
+* icon-megaphone.svg
+* icon-umbrella.svg
+* icon-diamond.svg
+* icon-shield.svg
+* icon-hourglass.svg
+* icon-firework.svg
+* icon-lightbulb.svg
+* icon-key.svg
+* icon-target.svg
+* icon-puzzle.svg
+* icon-rocket.svg
+* icon-cog.svg
+* icon-magnifier.svg
+* icon-lightbulb.svg
+* icon-globe.svg
+* icon-shield.svg
+* icon-umbrella.svg
+* icon-key.svg
+* icon-telephone.svg
+* icon-camera.svg
+* icon-wallet.svg
+* icon-ticket.svg
+* icon-hourglass.svg
+* icon-compass.svg
+* icon-briefcase.svg
+*icon-mountain.svg
+*icon-lightbulb.svg
+*icon-rocket.svg
+*icon-compass.svg
+*icon-gear.svg
+*icon-music-note.svg
+*icon-paw.svg
+*icon-hourglass.svg
+*icon-umbrella.svg
+*icon-target.svg
+*icon-diamond.svg
+*icon-trophy.svg
+*icon-crown.svg
+*icon-key.svg
+*icon-camera.svg
+* star-filled.svg
+* cloud-download.svg
+* chat-bubbles.svg
+* rocket-ship.svg
+* tools-wrench-hammer.svg
+* graph-line-chart.svg
+* globe-network.svg
+* calendar-events.svg
+* puzzle-pieces.svg
+* megaphone-loudspeaker.svg
+* shopping-cart.svg
+* phone-call.svg
+* camera-shutter.svg
+* search-magnifying-glass.svg
+* heart-love.svg
