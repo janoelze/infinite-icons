@@ -594,3 +594,18 @@
 *icon-tools.svg
 *icon-gamepad.svg
 *icon-target.svg
+* icon-rocket.svg
+* icon-cog.svg
+* icon-lightbulb.svg
+* icon-compass.svg
+* icon-globe.svg
+* icon-anchor.svg
+* icon-umbrella.svg
+* icon-mountain.svg
+* icon-camera.svg
+* icon-briefcase.svg
+* icon-megaphone.svg
+* icon-puzzle.svg
+* icon-leaf.svg
+* icon-ghost.svg
+* icon-paintbrush.svg
