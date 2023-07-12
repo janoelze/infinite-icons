@@ -1,5 +1,11 @@
 import datetime
-import os
+import os, glob
+
+def get_icons():
+    # return icons orderd by newest first
+    icons = glob.glob('icons/*.svg')
+    icons.sort(key=os.path.getmtime, reverse=True)
+    return icons
 
 def create_readme():
     icons_per_run = 5
@@ -43,17 +49,15 @@ def create_readme():
 
         row = ""
         titles = ""
-        icons = sorted(os.listdir('icons'))
-        for i, icon in enumerate(icons, start=1):
-            if icon.endswith('.svg'):
-                iconname = os.path.splitext(icon)[0]
-                row += f"| ![{iconname}](icons/{icon}) "
-                titles += f"| {iconname} "
-                if i % 4 == 0:
-                    file.write(row + '\n')
-                    file.write(titles + '\n')
-                    titles = ""
-                    row = ""
+        for i, f in enumerate(get_icons(), start=1):
+          icon = os.path.splitext(f)[0]
+          row += f"| ![{icon}](icons/{icon}.svg) "
+          titles += f"| {icon} "
+          if i % 4 == 0:
+              file.write(row + '\n')
+              file.write(titles + '\n')
+              titles = ""
+              row = ""
 
         file.write("\n")
 
