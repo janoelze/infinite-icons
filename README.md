@@ -2,7 +2,7 @@
 
 here we're generating the biggest svg icon set on this planet using openai's gpt-4 llm. current velocity is 30 i/ph (icons per hour). we'll reach 1M icons in 1389 days (2027-05-01) and 1B in 3805 years (5826-03-06). Reaching 1B icons will rack up an OpenAI bill of about $365,850,000 not including the $1,388,889 required for the GitHub Actions credits. _we're desperately seeking funding._
 
-last update: 2023-07-12 20:02
+last update: 2023-07-12 20:14
 
 |  |  |  |  |
 | ---- | ---- | ---- | ---- |
