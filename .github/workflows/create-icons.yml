@@ -1,7 +1,7 @@
 name: Generate icons
 on:
   schedule:
-    - cron: "*/60 * * * *"
+    - cron: "*/30 * * * *"
   workflow_dispatch:
     inputs:
       logLevel:
@@ -29,8 +29,8 @@ jobs:
       env:
         OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       run: |
-        python generate-icons.py
-        python generate-readme.py
+        python generate-icons.py 4
+        python generate-readme.py 4
     - name: Commit changes
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
