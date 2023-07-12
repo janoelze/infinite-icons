@@ -3,16 +3,23 @@
 create_readme(){
   # create a readme.md file
   # containing a markdown table of all icons, four per row
-  # with the icon name and the icon itself
-  
-  output="| Icon | Name |"
-  output="$output\n| --- | --- |"
+
+  echo "# Icons" > README.md
+  echo "" >> README.md
+  echo "| Icon | Icon | Icon | Icon |" >> README.md
+  echo "| ---- | ---- | ---- | ---- |" >> README.md
+  # iterate over icons/*.svg in chunks of four
+  row=""
   for icon in icons/*.svg; do
     iconname=$(basename $icon)
     iconname=${iconname%.*}
-    output="$output\n| ![$iconname](icons/$iconname.svg) | $iconname |"
+    row="$row| ![$iconname]($icon) "
+    if [ $(echo $row | wc -w) -eq 8 ]; then
+      echo $row >> README.md
+      row=""
+    fi
   done
-  echo -e "$output" > README.md
+  echo "" >> README.md
 }
 
 create_overview(){
