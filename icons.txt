@@ -669,3 +669,18 @@
 * icon-leaf-nature.svg
 * icon-camera-shutter.svg
 * icon-chat-bubbles.svg
+*icon-rocket.svg
+*icon-telescope.svg
+*icon-molecule.svg
+*icon-lightbulb.svg
+*icon-compass.svg
+*icon-cogwheel.svg
+*icon-megaphone.svg
+*icon-trophy.svg
+*icon-gears.svg
+*icon-umbrella.svg
+*icon-briefcase.svg
+*icon-palette.svg
+*icon-target.svg
+*icon-crown.svg
+*icon-keyboard.svg
