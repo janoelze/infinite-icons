@@ -2,8 +2,10 @@
 
 |  |  |  |  |
 | ---- | ---- | ---- | ---- |
-| ![wind](icons/wind.svg) | ![x-circle](icons/x-circle.svg) | ![x-octagon](icons/x-octagon.svg) | ![x-square](icons/x-square.svg)
-| wind | x-circle | x-octagon | x-square
-| ![x](icons/x.svg) | ![youtube](icons/youtube.svg) | ![zap-off](icons/zap-off.svg) | ![zap](icons/zap.svg)
-| wind | x-circle | x-octagon | x-square | x | youtube | zap-off | zap
+| ![align-center](icons/align-center.svg) | ![circle](icons/circle.svg) | ![cloud](icons/cloud.svg) | ![compass](icons/compass.svg)
+| align-center | circle | cloud | compass
+| ![figma](icons/figma.svg) | ![layout](icons/layout.svg) | ![linkedin](icons/linkedin.svg) | ![monitor](icons/monitor.svg)
+| align-center | circle | cloud | compass | figma | layout | linkedin | monitor
+| ![play-circle](icons/play-circle.svg) | ![rotate-ccw](icons/rotate-ccw.svg) | ![tablet](icons/tablet.svg) | ![terminal](icons/terminal.svg)
+| align-center | circle | cloud | compass | figma | layout | linkedin | monitor | play-circle | rotate-ccw | tablet | terminal
 
