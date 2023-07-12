@@ -4,6 +4,7 @@ import os
 def create_readme():
     icons_per_run = 5
     runs_per_hour = 6
+    avg_cost_per_icon = 0.36585
     icons_per_hour = icons_per_run * runs_per_hour
     icons_per_day = icons_per_hour * 24
     icons_per_week = icons_per_day * 7
@@ -14,16 +15,19 @@ def create_readme():
     years_to_one_billion_icons = round(days_to_one_billion_icons / 365)
     date_one_million_icons = datetime.datetime.now() + datetime.timedelta(days=days_to_one_million_icons)
     date_one_billion_icons = datetime.datetime.now() + datetime.timedelta(days=days_to_one_billion_icons)
+    cost_per_one_billion_icons = round(avg_cost_per_icon * 1000000000)
+    cost_per_one_billion_icons = f"${cost_per_one_billion_icons:,}"
 
     # Create a readme.md file containing a markdown table of all icons, four per row
     with open('README.md', 'w') as file:
         file.write("# infinite icons\n\n")
-        file.write("here we're generating the biggest svg icon set on this planet. current velocity is %s i/ph (icons per hour). we'll reach 1M icons in %s days (%s) and 1B in %s years (%s).\n\n" % (
+        file.write("here we're generating the biggest svg icon set on this planet using openai's gpt-4 llm. current velocity is %s i/ph (icons per hour). we'll reach 1M icons in %s days (%s) and 1B in %s years (%s). Reaching 1B icons will rack up an OpenAI bill of about %s.\n\n" % (
             icons_per_hour,
             days_to_one_million_icons,
             datetime.datetime.strftime(date_one_million_icons, '%Y-%m-%d'),
             years_to_one_billion_icons,
             datetime.datetime.strftime(date_one_billion_icons, '%Y-%m-%d'),
+            cost_per_one_billion_icons
             ))
         file.write("|  |  |  |  |\n")
         file.write("| ---- | ---- | ---- | ---- |\n")
