@@ -10,6 +10,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
     - name: Check out this repo
       uses: actions/checkout@v3
@@ -34,7 +36,6 @@ jobs:
         git config --global user.name "Automation"
         git config --global user.email "hallo@janoelze.de"
     - name: Commit changes
-      run: |
-        git add .
-        git commit -m "Commit message"
-        git push
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: "Automated Commit"
