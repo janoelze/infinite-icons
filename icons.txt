@@ -624,3 +624,18 @@
 *icon-umbrella.svg
 *icon-music.svg
 *icon-tree.svg
+* icon-mountain.svg
+* icon-cogwheel.svg
+* icon-lightbulb.svg
+* icon-rocket.svg
+* icon-compass.svg
+* icon-torch.svg
+* icon-globe.svg
+* icon-anchor.svg
+* icon-puzzle.svg
+* icon-diamond.svg
+* icon-infinity.svg
+* icon-hourglass.svg
+* icon-keyhole.svg
+* icon-network.svg
+* icon-quill.svg
