@@ -885,4 +885,18 @@
 * icon-fingerprint-identification.svg
 * icon-quantum-computing.svg
 * icon-mind-map.svg
-* icon-hierarchical-structure.svg
+* icon-hierarchical-structure.svg* icon-lawnmower.svg
+* icon-pinecone.svg
+* icon-cacti.svg
+* icon-samurai.svg
+* icon-octopus.svg
+* icon-quill.svg
+* icon-cannon.svg
+* icon-pterodactyl.svg
+* icon-spaceship.svg
+* icon-cave.svg
+* icon-mammoth.svg
+* icon-hieroglyph.svg
+* icon-sundial.svg
+* icon-galaxy.svg
+* icon-bigfoot.svg
