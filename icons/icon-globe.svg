@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-icon-globe" viewBox="0 0 24 24">
-    <path d="M12,2a10,10,0,1,0,10,10A10,10,0,0,0,12,2Zm6,10A6,6,0,0,1,12,18V6A6,6,0,0,1,18,12Z" />
-    <path d="M11.75,18.08A11.58,11.58,0,0,0,6,12H18A11.58,11.58,0,0,0,11.75,18.08Z"/>
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-icon-globe">
+  <circle cx="50" cy="50" r="40" stroke="black" fill="transparent" />
+  <path d="M50,10 a1,1 0 0,1 0,80 a1,1 0 0,1 0,-80" fill="none" stroke="black"/>
+  <path d="M10,50 a1,1 0 0,0 80,0 a1,1 0 0,0 -80,0" fill="none" stroke="black"/>
 </svg>

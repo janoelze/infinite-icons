@@ -744,3 +744,18 @@
 *icon-crown.svg
 *icon-key.svg
 *icon-camera.svg
+* star-filled.svg
+* cloud-download.svg
+* chat-bubbles.svg
+* rocket-ship.svg
+* tools-wrench-hammer.svg
+* graph-line-chart.svg
+* globe-network.svg
+* calendar-events.svg
+* puzzle-pieces.svg
+* megaphone-loudspeaker.svg
+* shopping-cart.svg
+* phone-call.svg
+* camera-shutter.svg
+* search-magnifying-glass.svg
+* heart-love.svg
