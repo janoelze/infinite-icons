@@ -829,4 +829,18 @@
 * icon-sushi-roll.svg
 * icon-morpho-butterfly.svg
 * icon-model-t.svg
-* icon-mayan-calendar.svg
+* icon-mayan-calendar.svg* icon-dna-sequence.svg
+* icon-radioactive.svg
+* icon-quantum-computer.svg
+* icon-alien-life.svg
+* icon-virtual-reality.svg
+* icon-artificial-intelligence.svg
+* icon-space-elevator.svg
+* icon-genetic-edit.svg
+* icon-cyber-security.svg
+* icon-blockchain.svg
+* icon-cloud-data.svg
+* icon-solar-panel.svg
+* icon-unmanned-drone.svg
+* icon-weather-control.svg
+* icon-humanoid-robot.svg
