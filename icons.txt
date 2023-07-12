@@ -843,4 +843,18 @@
 * icon-solar-panel.svg
 * icon-unmanned-drone.svg
 * icon-weather-control.svg
-* icon-humanoid-robot.svg
+* icon-humanoid-robot.svg* icon-flamingo.svg
+* icon-constellation.svg
+* icon-origami.svg
+* icon-cactus.svg
+* icon-waterfall.svg
+* icon-lighthouse.svg
+* icon-meteor.svg
+* icon-astronaut.svg
+* icon-crystal.svg
+* icon-geyser.svg
+* icon-quill.svg
+* icon-dinosaur.svg
+* icon-bioluminescence.svg
+* icon-gondola.svg
+* icon-alien.svg
