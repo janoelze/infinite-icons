@@ -684,3 +684,18 @@
 *icon-target.svg
 *icon-crown.svg
 *icon-keyboard.svg
+* icon-chat-bubbles.svg
+* icon-rocket-ship.svg
+* icon-food-truck.svg
+* icon-magnifying-glass.svg
+* icon-lightbulb.svg
+* icon-compass.svg
+* icon-mountain-range.svg
+* icon-shopping-cart.svg
+* icon-trophy.svg
+* icon-puzzle-piece.svg
+* icon-sun.svg
+* icon-diamond.svg
+* icon-leaf.svg
+* icon-headphones.svg
+* icon-planet.svg
