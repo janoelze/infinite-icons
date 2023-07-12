@@ -729,3 +729,18 @@
 * icon-hourglass.svg
 * icon-compass.svg
 * icon-briefcase.svg
+*icon-mountain.svg
+*icon-lightbulb.svg
+*icon-rocket.svg
+*icon-compass.svg
+*icon-gear.svg
+*icon-music-note.svg
+*icon-paw.svg
+*icon-hourglass.svg
+*icon-umbrella.svg
+*icon-target.svg
+*icon-diamond.svg
+*icon-trophy.svg
+*icon-crown.svg
+*icon-key.svg
+*icon-camera.svg
