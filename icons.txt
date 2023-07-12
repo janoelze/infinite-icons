@@ -384,3 +384,18 @@
 *icon-puzzle-piece.svg
 *icon-umbrella.svg
 *icon-coffee-cup.svg
+* starburst.svg
+* magnify-glass.svg
+* thunderbolt.svg
+* anchor.svg
+* puzzle-piece.svg
+* hourglass.svg
+* rocket.svg
+* megaphone.svg
+* treasure-chest.svg
+* gears.svg
+* lightbulb.svg
+* shield.svg
+* compass.svg
+* camera.svg
+* book.svg
