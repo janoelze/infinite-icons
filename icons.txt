@@ -1221,4 +1221,18 @@
 * icon-abracadabra-wand.svg
 * icon-sonar-wave.svg
 * icon-cthulhu.svg
-* icon-black-hole.svg
+* icon-black-hole.svg* icon-cloudcomputing.svg
+* icon-globeconnectivity.svg
+* icon-biocryptology.svg
+* icon-energyhive.svg
+* icon-nanotech.svg
+* icon-mobilitylife.svg
+* icon-treesave.svg
+* icon-polarbearprotect.svg
+* icon-mushroompedia.svg
+* icon-energysolar.svg
+* icon-aquaticlife.svg
+* icon-spaceexploration.svg
+* icon-musicwaves.svg
+* icon-gamingconsole.svg
+* icon-virtualreality.svg
