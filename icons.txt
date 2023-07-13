@@ -1487,4 +1487,18 @@
 * icon-photonShower.svg
 * icon-dwarfStar.svg
 * icon-plasmaStream.svg
-* icon-voidCrawler.svg
+* icon-voidCrawler.svg* icon-lightbulb-idea.svg
+* icon-digital-watch.svg
+* icon-ancient-scroll.svg
+* icon-split-atom.svg
+* icon-jigsaw-puzzle.svg
+* icon-hot-air-balloon.svg
+* icon-pyramid-eye.svg
+* icon-astronaut-helmet.svg
+* icon-bonsai-tree.svg
+* icon-caffeine-molecule.svg
+* icon-dna-helix.svg
+* icon-abstract-galaxy.svg
+* icon-paper-airplane.svg
+* icon-vinyl-record.svg
+* icon-tattoo-machine.svg
