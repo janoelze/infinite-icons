@@ -1375,4 +1375,18 @@
 * icon-saturn.svg
 * icon-galaxy.svg
 * icon-tesseract.svg
-* icon-oracle.svg
+* icon-oracle.svg* icon-abacus.svg
+* icon-sundial.svg
+* icon-ultrasound.svg
+* icon-bonsai-tree.svg
+* icon-egyptian-pyramid.svg
+* icon-marionette.svg
+* icon-black-hole.svg
+* icon-origami.svg
+* icon-tesseract.svg
+* icon-papyrus-scroll.svg
+* icon-periscope.svg
+* icon-subatomic-particle.svg
+* icon-mayan-calendar.svg
+* icon-saturn-rings.svg
+* icon-helix-nebula.svg
