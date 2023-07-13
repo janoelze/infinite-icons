@@ -1389,4 +1389,18 @@
 * icon-subatomic-particle.svg
 * icon-mayan-calendar.svg
 * icon-saturn-rings.svg
-* icon-helix-nebula.svg
+* icon-helix-nebula.svg* icon-global-connection.svg
+* icon-voice-assistant.svg
+* icon-quantum-computing.svg
+* icon-cryptocurrency-exchange.svg
+* icon-biohacking.svg
+* icon-e-reading.svg
+* icon-smart-agriculture.svg
+* icon-5g-network.svg
+* icon-drone-transport.svg
+* icon-virtual-reality.svg
+* icon-blockchain.svg
+* icon-data-mining.svg
+* icon-cybersecurity.svg
+* icon-ai-automation.svg
+* icon-green-energy.svg
