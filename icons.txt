@@ -1697,4 +1697,18 @@
 * icon-hot-air-balloon.svg
 * icon-fossil.svg
 * icon-solar-panel.svg
-* icon-scuba-mask.svg
+* icon-scuba-mask.svg* icon-leaf-cluster.svg
+* icon-chemistry-flask.svg
+* icon-keyhole.svg
+* icon-hyperspace.svg
+* icon-abyss.svg
+* icon-vortex.svg
+* icon-alien.svg
+* icon-snowflake-geometry.svg
+* icon-dna-helix.svg
+* icon-blackhole.svg
+* icon-quantum-entanglement.svg
+* icon-tesseract.svg
+* icon-neural-network.svg
+* icon-quantum-computer.svg
+* icon-plasma-lamp.svg

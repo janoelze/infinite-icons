@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-zenith">
+  <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="transparent" />
+  <line x1="50" y1="50" x2="50" y2="10" style="stroke:rgb(255,0,0);stroke-width:2" />
+  <polygon points="45,10 50,0 55,10" style="fill:lime;stroke:purple;stroke-width:1" />
+</svg>
