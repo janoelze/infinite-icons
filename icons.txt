@@ -2579,4 +2579,18 @@
 * icon-juggler.svg
 * icon-komorebi.svg
 * icon-apollo.svg
-* icon-zephyr.svg
+* icon-zephyr.svg* icon-boomerang.svg
+* icon-spacecraft.svg
+* icon-dna.svg
+* icon-origami.svg
+* icon-bonsai.svg
+* icon-abyss.svg
+* icon-quill.svg
+* icon-rune.svg
+* icon-obelisk.svg
+* icon-dervish.svg
+* icon-kaleidoscope.svg
+* icon-sundial.svg
+* icon-mars-rover.svg
+* icon-hieroglyph.svg
+* icon-constellation.svg
