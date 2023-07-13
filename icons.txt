@@ -2551,4 +2551,18 @@
 * icon-origami.svg
 * icon-aloe-vera.svg
 * icon-deer-antler.svg
+* icon-sundial.svg* icon-space-invader.svg
+* icon-dandelion.svg
+* icon-hologram.svg
+* icon-kaleidoscope.svg
+* icon-marshmallow.svg
+* icon-oracle.svg
 * icon-sundial.svg
+* icon-telekinesis.svg
+* icon-yeti.svg
+* icon-zephyr.svg
+* icon-quantum-computer.svg
+* icon-nanobot.svg
+* icon-xenon-lamp.svg
+* icon-umbrella-tree.svg
+* icon-velocipede.svg
