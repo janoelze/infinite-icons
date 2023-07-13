@@ -1109,4 +1109,18 @@
 * icon-windrider.svg
 * icon-vanishingpoint.svg
 * icon-mimosaleaf.svg
-* icon-nauticalcompass.svg
+* icon-nauticalcompass.svg* icon-solar-system.svg
+* icon-world-peace.svg
+* icon-quantum-computing.svg
+* icon-brainstorming.svg
+* icon-eco-friendly.svg
+* icon-innovation.svg
+* icon-mind-map.svg
+* icon-biohacking.svg
+* icon-virtual-reality.svg
+* icon-deep-learning.svg
+* icon-3d-printing.svg
+* icon-cryptocurrency.svg
+* icon-augmented-reality.svg
+* icon-rocket-launch.svg
+* icon-fractal-design.svg

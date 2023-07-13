@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-northern-lights">
+  <path fill="none" stroke="currentColor" stroke-width="2" d="M2 20c20-9 8-18 20-9">
+  <animate attributeName="d" dur="2s" repeatCount="indefinite" values="
+    M2 20c20-9 8-18 20-9;
+    M2 20c20-3 12-11 20-2;
+    M2 20c20 3 6-7 20-4;
+    M2 20c20-9 8-18 20-9;" />
+    </path>
+</svg>
