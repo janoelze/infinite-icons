@@ -2495,4 +2495,18 @@
 * icon-escalator.svg
 * icon-dartboard.svg
 * icon-compass.svg
-* icon-bee.svg
+* icon-bee.svg* icon-data-analytics.svg
+* icon-cyber-security.svg
+* icon-battery-full.svg
+* icon-charging-station.svg
+* icon-artificial-intelligence.svg
+* icon-global-connection.svg
+* icon-solar-power.svg
+* icon-wind-energy.svg
+* icon-organic-food.svg
+* icon-recycling-bin.svg
+* icon-cloud-storage.svg
+* icon-virtual-reality.svg
+* icon-biohazard.svg
+* icon-rocket-ship.svg
+* icon-space-station.svg
