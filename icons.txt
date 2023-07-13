@@ -2257,4 +2257,18 @@
 * icon-cloning.svg
 * icon-hologram.svg
 * icon-rocket-launch.svg
-* icon-nano-technology.svg
+* icon-nano-technology.svg* icon-spacecraft.svg
+* icon-sphinx.svg
+* icon-quill.svg
+* icon-sunrise.svg
+* icon-geode.svg
+* icon-constellation.svg
+* icon-ivy.svg
+* icon-periscope.svg
+* icon-hive.svg
+* icon-origami.svg
+* icon-papyrus.svg
+* icon-lighthouse.svg
+* icon-chimera.svg
+* icon-monocle.svg
+* icon-sundial.svg
