@@ -1725,4 +1725,18 @@
 * icon-dna.svg
 * icon-quill-ink.svg
 * icon-vinyl-record.svg
-* icon-mermaid.svg
+* icon-mermaid.svg* icon-dna-helix.svg
+* icon-saturn-ring.svg
+* icon-quill-inkwell.svg
+* icon-steam-locomotive.svg
+* icon-sushi-roll.svg
+* icon-castle-tower.svg
+* icon-alien-ship.svg
+* icon-venus-flytrap.svg
+* icon-origami-crane.svg
+* icon-antique-compass.svg
+* icon-lyre-harp.svg
+* icon-neptune-trident.svg
+* icon-treehouse.svg
+* icon-viking-shield.svg
+* icon-quantum-entanglement.svg
