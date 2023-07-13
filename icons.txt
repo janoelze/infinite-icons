@@ -2383,4 +2383,18 @@
 * icon-abyss.svg
 * icon-hang-glider.svg
 * icon-galaxy.svg
-* icon-windmill.svg
+* icon-windmill.svg* icon-digitalglobe.svg
+* icon-torchlight.svg
+* icon-featherquill.svg
+* icon-honeycomb.svg
+* icon-stonebridge.svg
+* icon-skeletongrim.svg
+* icon-phoenixfire.svg
+* icon-origamibird.svg
+* icon-aladdinslamp.svg
+* icon-sciencemicroscope.svg
+* icon-cryptokey.svg
+* icon-iceroad.svg
+* icon-nebulacloud.svg
+* icon-mysticmirror.svg
+* icon-clockworkgears.svg
