@@ -2243,4 +2243,18 @@
 * icon-telescope-view.svg
 * icon-art-palette.svg
 * icon-beehive-honey.svg
-* icon-lantern-light.svg
+* icon-lantern-light.svg* icon-global-network.svg
+* icon-data-cloud.svg
+* icon-quantum-computing.svg
+* icon-biohazard.svg
+* icon-dna-sequence.svg
+* icon-microscopic-organism.svg
+* icon-solar-panel.svg
+* icon-quantum-teleportation.svg
+* icon-black-hole.svg
+* icon-radiation.svg
+* icon-alien-lifeform.svg
+* icon-cloning.svg
+* icon-hologram.svg
+* icon-rocket-launch.svg
+* icon-nano-technology.svg
