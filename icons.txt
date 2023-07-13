@@ -2089,4 +2089,18 @@
 * icon-magnetic-compass.svg
 * icon-globe-stand.svg
 * icon-oriental-fan.svg
-* icon-wine-cork.svg
+* icon-wine-cork.svg* icon-globe-grid.svg
+* icon-feather-quill.svg
+* icon-coffee-cup.svg
+* icon-ancient-scroll.svg
+* icon-magnifying-glass-book.svg
+* icon-clock-alarm.svg
+* icon-money-briefcase.svg
+* icon-scrolling-mouse.svg
+* icon-circular-graph.svg
+* icon-waving-hand.svg
+* icon-open-book.svg
+* icon-blueprint-plan.svg
+* icon-falling-star.svg
+* icon-headphone-music.svg
+* icon-message-bird.svg
