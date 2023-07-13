@@ -1319,4 +1319,18 @@
 * icon-honeycomb.svg
 * icon-lighthouse.svg
 * icon-telescope.svg
-* icon-ancient-pyramid.svg
+* icon-ancient-pyramid.svg* icon-galaxy.svg
+* icon-quantum-computer.svg
+* icon-dna-helix.svg
+* icon-tesla-coil.svg
+* icon-black-hole.svg
+* icon-microscope.svg
+* icon-atom.svg
+* icon-robot-arm.svg
+* icon-space-shuttle.svg
+* icon-astronaut-helmet.svg
+* icon-rocket-launch.svg
+* icon-laboratory-flask.svg
+* icon-telescope.svg
+* icon-satellite.svg
+* icon-radar.svg
