@@ -2411,4 +2411,18 @@
 * icon-digital-nomad.svg
 * icon-crowdfunding.svg
 * icon-cyber-security.svg
+* icon-artificial-intelligence.svg* icon-global-connection.svg
+* icon-virtual-reality.svg
+* icon-eco-friendly.svg
+* icon-quantum-computer.svg
+* icon-gravitational-wave.svg
+* icon-organic-chemistry.svg
+* icon-nano-technology.svg
+* icon-coding-brain.svg
+* icon-virtual-assistant.svg
+* icon-machine-learning.svg
+* icon-cloud-computing.svg
+* icon-crypto-blockchain.svg
+* icon-space-exploration.svg
+* icon-philosophers-stone.svg
 * icon-artificial-intelligence.svg
