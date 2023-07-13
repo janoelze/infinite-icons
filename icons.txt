@@ -2425,4 +2425,18 @@
 * icon-crypto-blockchain.svg
 * icon-space-exploration.svg
 * icon-philosophers-stone.svg
-* icon-artificial-intelligence.svg
+* icon-artificial-intelligence.svg* icon-orbital-globe.svg
+* icon-dimmed-candelabra.svg
+* icon-escalator-upward.svg
+* icon-ferry-boat.svg
+* icon-hailstorm-cloud.svg
+* icon-infinity-knot.svg
+* icon-javelin.svg
+* icon-kaleidoscope-lens.svg
+* icon-lochs-map.svg
+* icon-metronome-beat.svg
+* icon-northern-star.svg
+* icon-oyster-pearl.svg
+* icon-paratrooper.svg
+* icon-quill-pen.svg
+* icon-rotary-dial.svg
