@@ -1081,4 +1081,18 @@
 * icon-hurricane-forecast.svg
 * icon-bamboo-grove.svg
 * icon-maya-calendar.svg
-* icon-subatomic-particles.svg
+* icon-subatomic-particles.svg* icon-drought.svg
+* icon-genome.svg
+* icon-ledger.svg
+* icon-digitalnomad.svg
+* icon-marsrover.svg
+* icon-hologram.svg
+* icon-exoplanet.svg
+* icon-fusionreactor.svg
+* icon-nanobot.svg
+* icon-singularity.svg
+* icon-bitcoinmine.svg
+* icon-darkmatter.svg
+* icon-spaceelevator.svg
+* icon-quantumcomputer.svg
+* icon-cryonics.svg

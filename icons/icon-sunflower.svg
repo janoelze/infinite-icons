@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-sunflower">
+  <circle cx="12" cy="12" r="3" />
+  <circle cx="12" cy="12" r="1" />
+  <path d="M12 2l1 4.22a5 5 0 0 1 4 4.78l.5 4.5a2 2 0 0 1-1 1.73l-4 2.27a4 4 0 0 0-3 3.8l-1 4.22" />
+  <path d="M2 12l4.22-1a5 5 0 0 1 4.78-4l4.5-.5a2 2 0 0 1 1.73 1l2.27 4a4 4 0 0 0 3.8 3l4.22 1" />
+</svg>
