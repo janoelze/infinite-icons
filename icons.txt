@@ -983,4 +983,18 @@
 * icon-cowboy-hat-waving.svg
 * icon-forest-tree-line.svg
 * icon-vintage-lantern.svg
-* icon-skeleton-key.svg
+* icon-skeleton-key.svg* icon-microscope.svg
+* icon-umbrella.svg
+* icon-anchor.svg
+* icon-cactus.svg
+* icon-nebula.svg
+* icon-bee.svg
+* icon-hamburger.svg
+* icon-kaleidoscope.svg
+* icon-moustache.svg
+* icon-cupcake.svg
+* icon-postcard.svg
+* icon-feather.svg
+* icon-pinwheel.svg
+* icon-chess.svg
+* icon-raindrop.svg
