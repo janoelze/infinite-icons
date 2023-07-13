@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-wormhole">
+  <circle cx="12" cy="12" r="10" fill="none" stroke="#000" stroke-width="2"/>
+  <path d="M12 2a10 10 0 000 20 10 10 0 000-20z" fill="none" stroke="#000" stroke-width="2"/>
+  <path d="M12 22a10 10 0 010-20 10 10 0 010 20z" fill="none" stroke="#000" stroke-width="2"/>
+</svg>

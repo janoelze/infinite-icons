@@ -2271,4 +2271,18 @@
 * icon-lighthouse.svg
 * icon-chimera.svg
 * icon-monocle.svg
-* icon-sundial.svg
+* icon-sundial.svg* icon-oculus-goggles.svg
+* icon-hologram-projector.svg
+* icon-molecular-bond.svg
+* icon-pi-symbol.svg
+* icon-space-rocket.svg
+* icon-digital-eye.svg
+* icon-rain-cloud.svg
+* icon-quantum-computer.svg
+* icon-lunar-module.svg
+* icon-galaxy.svg
+* icon-papyrus-roll.svg
+* icon-quill-ink.svg
+* icon-bamboo-flute.svg
+* icon-egyptian-pyramid.svg
+* icon-shuriken.svg
