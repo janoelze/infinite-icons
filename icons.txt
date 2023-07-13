@@ -1431,4 +1431,18 @@
 * icon-hologram.svg
 * icon-teletransportation.svg
 * icon-futuristic-city.svg
-* icon-digital-twin.svg
+* icon-digital-twin.svg* icon-digital-keyboard.svg
+* icon-peace-dove.svg
+* icon-cobweb.svg
+* icon-space-shuttle.svg
+* icon-hexagonal-pattern.svg
+* icon-astronaut-helmet.svg
+* icon-origami-bird.svg
+* icon-microscopic-view.svg
+* icon-arctic-fox.svg
+* icon-recursive-fractal.svg
+* icon-chained-link.svg
+* icon-dna-helix.svg
+* icon-edison-bulb.svg
+* icon-typewriter-keys.svg
+* icon-equalizer-waveform.svg
