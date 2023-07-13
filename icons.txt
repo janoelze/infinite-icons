@@ -2439,4 +2439,18 @@
 * icon-oyster-pearl.svg
 * icon-paratrooper.svg
 * icon-quill-pen.svg
-* icon-rotary-dial.svg
+* icon-rotary-dial.svg* icon-galaxy.svg
+* icon-microscope.svg
+* icon-icecream.svg
+* icon-cactus.svg
+* icon-aeroplane.svg
+* icon-anchor.svg
+* icon-sand-clock.svg
+* icon-torchlight.svg
+* icon-elephant.svg
+* icon-cryptocurrency.svg
+* icon-vinyl.svg
+* icon-rainbow.svg
+* icon-infinity.svg
+* icon-phoenix.svg
+* icon-dandelion.svg
