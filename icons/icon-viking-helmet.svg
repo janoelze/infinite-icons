@@ -1,0 +1,11 @@
+<svg version="1.1" id="icon-viking-helmet" class="icon icon-viking-helmet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 48 48" style="enable-background:new 0 0 48 48;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFD700;}
+	.st1{fill:#999999;}
+</style>
+<path class="st0" d="M24,21c-7.2,0-13,5.8-13,13v4h26v-4C37,26.8,31.2,21,24,21z"/>
+<path class="st0" d="M12,24c-1.1,0-2,0.9-2,2v2h9v-2C14,24.9,13.1,24,12,24z"/>
+<path class="st0" d="M36,24c-1.1,0-2,0.9-2,2v2h9v-2C38,24.9,37.1,24,36,24z"/>
+<polygon class="st1" points="18,38 16,44 32,44 30,38 "/>
+</svg>

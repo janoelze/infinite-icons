@@ -1977,4 +1977,18 @@
 * icon-sustainable-architecture.svg
 * icon-smart-glasses.svg
 * icon-autonomous-vehicles.svg
-* icon-digital-currency.svg
+* icon-digital-currency.svg* icon-cloud-computing.svg
+* icon-chemical-flask.svg
+* icon-skull-danger.svg
+* icon-acoustic-guitar.svg
+* icon-knight-helmet.svg
+* icon-rolling-dice.svg
+* icon-alien-creature.svg
+* icon-hexagonal-molecule.svg
+* icon-lightbulb-idea.svg
+* icon-earthquake.svg
+* icon-origami-bird.svg
+* icon-six-pointed-star.svg
+* icon-hamburger-menu.svg
+* icon-french-fries.svg
+* icon-asteroid-space.svg
