@@ -1823,4 +1823,18 @@
 * icon-doughnut.svg
 * icon-robotic-arm.svg
 * icon-periscope.svg
-* icon-alien.svg
+* icon-alien.svg* icon-space-ship.svg
+* icon-abacus.svg
+* icon-rainbow.svg
+* icon-tornado.svg
+* icon-kiwi-bird.svg
+* icon-bamboo.svg
+* icon-wigwam.svg
+* icon-anchor.svg
+* icon-dna.svg
+* icon-geyser.svg
+* icon-blackhole.svg
+* icon-invisible.svg
+* icon-papyrus.svg
+* icon-spinning-top.svg
+* icon-spiral-staircase.svg
