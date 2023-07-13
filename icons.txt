@@ -1599,4 +1599,18 @@
 * icon-metro.svg
 * icon-comet.svg
 * icon-podium.svg
-* icon-unicycle.svg
+* icon-unicycle.svg* icon-sand-clock.svg
+* icon-bread-loaf.svg
+* icon-raven-quill.svg
+* icon-atom-model.svg
+* icon-lunar-phase.svg
+* icon-origami-bird.svg
+* icon-astronaut-helmet.svg
+* icon-windmill.svg
+* icon-pickaxe.svg
+* icon-prism-light.svg
+* icon-tarot-cards.svg
+* icon-stethoscope.svg
+* icon-cactus.svg
+* icon-beaker-flask.svg
+* icon-aztec-pyramid.svg
