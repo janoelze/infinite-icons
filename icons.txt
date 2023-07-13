@@ -2467,4 +2467,18 @@
 * icon-alien-creature.svg
 * icon-atomic-structure.svg
 * icon-future-city.svg
-* icon-quantum-computing.svg
+* icon-quantum-computing.svg* icon-digital-clock.svg
+* icon-cherry-blossom.svg
+* icon-microscope.svg
+* icon-rollerblade.svg
+* icon-hiking-boot.svg
+* icon-geodesic-dome.svg
+* icon-dinosaur.svg
+* icon-retro-microphone.svg
+* icon-coral-reef.svg
+* icon-typewriter.svg
+* icon-galaxy.svg
+* icon-origami.svg
+* icon-electric-guitar.svg
+* icon-spaceship.svg
+* icon-cigarette.svg
