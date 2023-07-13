@@ -2299,4 +2299,18 @@
 * icon-zerowaste.svg
 * icon-oceanpreservation.svg
 * icon-creativecoding.svg
-* icon-neuralnetworks.svg
+* icon-neuralnetworks.svg* icon-rocketship.svg
+* icon-beehive.svg
+* icon-microscope.svg
+* icon-sushiroll.svg
+* icon-kite.svg
+* icon-treasurechest.svg
+* icon-hangglider.svg
+* icon-magnifying-glass.svg
+* icon-telescope.svg
+* icon-quill.svg
+* icon-anvil.svg
+* icon-weather-vane.svg
+* icon-hiking-boot.svg
+* icon-dice.svg
+* icon-goblet.svg
