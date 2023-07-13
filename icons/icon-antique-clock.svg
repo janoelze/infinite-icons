@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-antique-clock">
+    <circle cx="12" cy="12" r="9" style="fill:none;stroke:currentColor;stroke-width:2"/>
+    <line x1="12" y1="12" x2="12" y2="6" style="stroke:currentColor;stroke-width:2"/>
+    <line x1="12" y1="12" x2="15" y2="15" style="stroke:currentColor;stroke-width:2"/>
+    <path d="M12 4a2 2 0 0 0-2 2v1a2 2 0 0 0 2 2h1a2 2 0 0 0 2-2v-1a2 2 0 0 0-2-2h-1z" 
+          style="fill:currentColor"/>
+</svg>

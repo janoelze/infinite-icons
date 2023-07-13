@@ -2187,4 +2187,18 @@
 * icon-neuron-network.svg
 * icon-sound-wave.svg
 * icon-cosmic-ray.svg
-* icon-climate-change.svg
+* icon-climate-change.svg* icon-frog.svg
+* icon-clocktower.svg
+* icon-babybottle.svg
+* icon-electricguitar.svg
+* icon-crystalball.svg
+* icon-origamibird.svg
+* icon-cricketbat.svg
+* icon-telescope.svg
+* icon-barbell.svg
+* icon-inkwell.svg
+* icon-pizzacutter.svg
+* icon-flashlight.svg
+* icon-astrohelmet.svg
+* icon-kaleidoscope.svg
+* icon-goldennugget.svg
