@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-star-suitcase">
+  <rect x="2" y="7" width="20" height="14" rx="2" ry="2"></rect>
+  <path d="M22 9v14H2V9"></path>
+  <path d="M5.63 4.14L7.35 7h9.3l1.72-2.86a.5.5 0 0 0-.36-.14h-9.4a.5.5 0 0 0-.36 .14z"></path>
+  <polygon points="12 2 14.09 8.26 20.18 9.27 15.14 14.77 16.45 21.02 12 17.24 7.55 21.02 8.86 14.77 3.82 9.27 9.91 8.26 12 2"></polygon>
+</svg>

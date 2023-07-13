@@ -1123,4 +1123,18 @@
 * icon-cryptocurrency.svg
 * icon-augmented-reality.svg
 * icon-rocket-launch.svg
-* icon-fractal-design.svg
+* icon-fractal-design.svg* icon-flamingo.svg
+* icon-satellite.svg
+* icon-gondola.svg
+* icon-alien.svg
+* icon-football.svg
+* icon-origami.svg
+* icon-kaleidoscope.svg
+* icon-latomato.svg
+* icon-sphinx.svg
+* icon-hotairballoon.svg
+* icon-cuttlefish.svg
+* icon-diploma.svg
+* icon-lighthouse.svg
+* icon-obelisk.svg
+* icon-timecapsule.svg
