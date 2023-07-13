@@ -1473,4 +1473,18 @@
 * icon-asteroid.svg
 * icon-alien.svg
 * icon-rocket.svg
-* icon-martian.svg
+* icon-martian.svg* icon-compassRose.svg
+* icon-libertyBell.svg
+* icon-rotaryDial.svg
+* icon-holodeck.svg
+* icon-quantumLeveller.svg
+* icon-stoneObelisk.svg
+* icon-novaFilter.svg
+* icon-marinerWheel.svg
+* icon-pulsarField.svg
+* icon-orbitEllipse.svg
+* icon-galacticColossus.svg
+* icon-photonShower.svg
+* icon-dwarfStar.svg
+* icon-plasmaStream.svg
+* icon-voidCrawler.svg

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-pulsarField">
+  <circle cx="50%" cy="50%" r="40%" stroke="currentColor" stroke-width="10%" fill="none" />
+  <path d="M23,13h14v14H23z" fill="currentColor" />
+  <path d="M13,23h14v14H13z" fill="currentColor" />
+  <path d="M23,33h14v14H23z" fill="currentColor" />
+  <animateTransform 
+    attributeName="transform" 
+    type="scale" 
+    values="1; 1.5; 1" 
+    begin="0s" 
+    dur="1s" 
+    repeatCount="indefinite" />
+</svg>
