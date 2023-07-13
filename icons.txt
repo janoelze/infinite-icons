@@ -2523,4 +2523,18 @@
 * icon-spaceshuttle.svg
 * icon-musicalwaves.svg
 * icon-sportssneaker.svg
-* icon-3dglasses.svg
+* icon-3dglasses.svg* icon-anthropology.svg
+* icon-quantum-computer.svg
+* icon-nebula.svg
+* icon-microbiome.svg
+* icon-neural-network.svg
+* icon-biohacking.svg
+* icon-mind-map.svg
+* icon-deep-dive.svg
+* icon-augmented-reality.svg
+* icon-quantum-physics.svg
+* icon-veganism.svg
+* icon-nano-tech.svg
+* icon-time-travel.svg
+* icon-genome-editing.svg
+* icon-futurism.svg
