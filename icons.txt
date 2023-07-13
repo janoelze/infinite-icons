@@ -1655,4 +1655,18 @@
 * icon-GeneticEngineering.svg
 * icon-SpaceExploration.svg
 * icon-3DPrinting.svg
-* icon-BioHacking.svg
+* icon-BioHacking.svg* icon-global-network.svg
+* icon-quantum-computing.svg
+* icon-eco-friendly.svg
+* icon-artificial-intelligence.svg
+* icon-celestial-navigation.svg
+* icon-virtual-reality.svg
+* icon-genetic-engineering.svg
+* icon-holographic-display.svg
+* icon-renewable-energy.svg
+* icon-drone-delivery.svg
+* icon-deep-learning.svg
+* icon-cyber-security.svg
+* icon-future-city.svg
+* icon-autonomous-vehicle.svg
+* icon-space-exploration.svg
