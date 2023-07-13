@@ -1879,4 +1879,18 @@
 * icon-obelisk.svg
 * icon-pentagon.svg
 * icon-hammock.svg
-* icon-scroll.svg
+* icon-scroll.svg* icon-data-cloud.svg
+* icon-virtual-reality.svg
+* icon-encrypted-lock.svg
+* icon-skyscraper.svg
+* icon-molecule.svg
+* icon-astronaut.svg
+* icon-hologram.svg 
+* icon-nano-bot.svg
+* icon-galaxy.svg
+* icon-quantum-computer.svg
+* icon-teleportation.svg
+* icon-hybrid-car.svg
+* icon-satellite.svg
+* icon-exoplanet.svg
+* icon-neural-network.svg
