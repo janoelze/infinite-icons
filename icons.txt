@@ -1949,4 +1949,18 @@
 * icon-grape-vine.svg
 * icon-digital-matrix.svg
 * icon-analog-cassette.svg
-* icon-jazz-saxophone.svg
+* icon-jazz-saxophone.svg* icon-quantum-computer.svg
+* icon-dna-sequencer.svg
+* icon-biometric-sensor.svg
+* icon-drone-delivery.svg
+* icon-3d-printer.svg
+* icon-augmented-reality.svg
+* icon-space-rocket.svg
+* icon-solar-panel.svg
+* icon-wind-turbine.svg
+* icon-lithium-ion-battery.svg
+* icon-electric-vehicle.svg
+* icon-hydrogen-fuel.svg
+* icon-smart-city.svg
+* icon-ai-robot.svg
+* icon-virtual-reality.svg

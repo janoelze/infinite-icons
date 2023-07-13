@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-lithium-ion-battery">
+    <path d="M19,6.41H5a2,2,0,0,0-2,2v7.18a2,2,0,0,0,2,2H19a2,2,0,0,0,2-2V8.41A2,2,0,0,0,19,6.41Zm0,9.18H5V8.41H19Z"></path>
+    <path d="M14,4.82H10V3.64a.64,.64,0,1,1,1.28,0v1.18h1.44Z"></path>
+    <rect x="7" y="10" width="10" height="4"></rect>
+</svg>
