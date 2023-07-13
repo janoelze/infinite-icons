@@ -2159,4 +2159,18 @@
 * icon-quantumcomputing.svg
 * icon-geolocation-tracking.svg
 * icon-smartcity.svg
-* icon-blockchain.svg
+* icon-blockchain.svg* icon-satellite.svg
+* icon-quill.svg
+* icon-octagon.svg
+* icon-vortex.svg
+* icon-hydroelectric.svg
+* icon-sandclock.svg
+* icon-diffraction.svg
+* icon-entanglement.svg
+* icon-neutron.svg
+* icon-papyrus.svg
+* icon-compost.svg
+* icon-fossil.svg
+* icon-fern.svg
+* icon-pangolin.svg
+* icon-obsidian.svg
