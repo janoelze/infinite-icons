@@ -1039,4 +1039,18 @@
 * icon-telescope.svg
 * icon-lunar-rover.svg
 * icon-cybernetic-arm.svg
-* icon-alien.svg
+* icon-alien.svg* icon-meteor-shower.svg
+* icon-bamboo-forest.svg
+* icon-northern-lights.svg
+* icon-mayan-pyramid.svg
+* icon-hot-air-balloon.svg
+* icon-sahara-dessert.svg
+* icon-galaxy-whirl.svg
+* icon-firefly-glow.svg
+* icon-coffee-aroma.svg
+* icon-origami-crane.svg
+* icon-aurora-borealis.svg
+* icon-polar-bear.svg
+* icon-wind-turbine.svg
+* icon-sugar-cane.svg
+* icon-hyacinth-blossom.svg
