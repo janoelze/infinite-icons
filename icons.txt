@@ -1207,4 +1207,18 @@
 * icon-robotic-arm.svg
 * icon-drone-delivery.svg
 * icon-solar-panel.svg
-* icon-3d-printer.svg
+* icon-3d-printer.svg* icon-rocket-launch.svg
+* icon-digital-key.svg
+* icon-cloud-rain.svg
+* icon-infrared.svg
+* icon-origami-bird.svg
+* icon-defective-disc.svg
+* icon-totem-pole.svg
+* icon-magnetic-field.svg
+* icon-drone-delivery.svg
+* icon-ancient-greek-vase.svg
+* icon-tissue-box.svg
+* icon-abracadabra-wand.svg
+* icon-sonar-wave.svg
+* icon-cthulhu.svg
+* icon-black-hole.svg
