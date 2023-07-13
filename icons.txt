@@ -1053,4 +1053,18 @@
 * icon-polar-bear.svg
 * icon-wind-turbine.svg
 * icon-sugar-cane.svg
-* icon-hyacinth-blossom.svg
+* icon-hyacinth-blossom.svg* icon-thermal-scanner.svg
+* icon-space-rocket.svg
+* icon-chain-link.svg
+* icon-satellite-dish.svg
+* icon-battery-three-quarters.svg
+* icon-peace-dove.svg
+* icon-pine-forest.svg
+* icon-beehive.svg
+* icon-magnetic-field.svg
+* icon-antique-compass.svg
+* icon-dna-sequence.svg
+* icon-ankh-cross.svg
+* icon-atomic-nucleus.svg
+* icon-qr-code.svg
+* icon-coral-reef.svg
