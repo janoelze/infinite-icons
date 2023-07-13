@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-polaroid" viewBox="0 0 24 24">
+    <path d="M21,2H3C1.9,2,1,2.9,1,4v16c0,1.1,0.9,2,2,2h18c1.1,0,2-0.9,2-2V4C23,2.9,22.1,2,21,2z M21,20H3V4h18V20L21,20L21,20z"/>
+    <rect x="4" y="5" width="16" height="12"/>
+    <circle cx="12" cy="12" r="3"/>
+</svg>

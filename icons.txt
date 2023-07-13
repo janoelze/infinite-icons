@@ -2201,4 +2201,18 @@
 * icon-flashlight.svg
 * icon-astrohelmet.svg
 * icon-kaleidoscope.svg
-* icon-goldennugget.svg
+* icon-goldennugget.svg* icon-honeycomb.svg
+* icon-quantumcomputer.svg
+* icon-bonsaitree.svg
+* icon-obelisk.svg
+* icon-satellite.svg
+* icon-tesseract.svg
+* icon-iceberg.svg
+* icon-quasar.svg
+* icon-sonar.svg
+* icon-blackhole.svg
+* icon-dnastrand.svg
+* icon-nebula.svg
+* icon-solarpanel.svg
+* icon-supernova.svg
+* icon-timecapsule.svg
