@@ -2565,4 +2565,18 @@
 * icon-nanobot.svg
 * icon-xenon-lamp.svg
 * icon-umbrella-tree.svg
-* icon-velocipede.svg
+* icon-velocipede.svg* icon-dragonfly.svg
+* icon-nebula.svg
+* icon-locomotive.svg
+* icon-kaleidoscope.svg
+* icon-mariner.svg
+* icon-bonsai.svg
+* icon-quill.svg
+* icon-haiku.svg
+* icon-gondola.svg
+* icon-obelisk.svg
+* icon-samurai.svg
+* icon-juggler.svg
+* icon-komorebi.svg
+* icon-apollo.svg
+* icon-zephyr.svg
