@@ -2649,4 +2649,18 @@
 * icon-telescope-view.svg
 * icon-rocket-launch.svg
 * icon-mail-encryption.svg
-* icon-heatmap.svg
+* icon-heatmap.svg* icon-quantum-computer.svg
+* icon-dna-sequence.svg
+* icon-astronaut-helmet.svg
+* icon-black-hole.svg
+* icon-nuclear-fusion.svg
+* icon-drone-delivery.svg
+* icon-green-energy.svg
+* icon-virtual-reality.svg
+* icon-brain-computer-interface.svg
+* icon-genetic-editing.svg
+* icon-spacex-rocket.svg
+* icon-quantum-teleportation.svg
+* icon-neural-network.svg
+* icon-anti-aging.svg
+* icon-artificial-intelligence.svg
