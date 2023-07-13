@@ -1557,4 +1557,18 @@
 * icon-rocket.svg
 * icon-augmented-reality.svg
 * icon-3d-printing.svg
-* icon-eco-friendly.svg
+* icon-eco-friendly.svg* icon-rocketship.svg
+* icon-vr-goggles.svg
+* icon-atoms.svg
+* icon-lantern.svg
+* icon-scroll.svg
+* icon-gears.svg
+* icon-gate.svg
+* icon-dna.svg
+* icon-glacier.svg
+* icon-tesseract.svg
+* icon-quill.svg
+* icon-campfire.svg
+* icon-totem.svg
+* icon-lightbulb.svg
+* icon-time-machine.svg
