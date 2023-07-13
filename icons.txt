@@ -1459,4 +1459,18 @@
 * icon-basketball-lightbulb.svg
 * icon-crown-geometric.svg
 * icon-globe-anchor.svg
-* icon-heart-thunderbolt.svg
+* icon-heart-thunderbolt.svg* icon-firefly.svg
+* icon-atomic.svg
+* icon-quasar.svg
+* icon-laserbeam.svg
+* icon-moonscape.svg
+* icon-orionbelt.svg
+* icon-saturnring.svg
+* icon-comet.svg
+* icon-starcluster.svg
+* icon-galaxy.svg
+* icon-supernova.svg
+* icon-asteroid.svg
+* icon-alien.svg
+* icon-rocket.svg
+* icon-martian.svg
