@@ -2313,4 +2313,18 @@
 * icon-weather-vane.svg
 * icon-hiking-boot.svg
 * icon-dice.svg
-* icon-goblet.svg
+* icon-goblet.svg* icon-jigsaw-piece.svg
+* icon-paper-airplane.svg
+* icon-galactic-star.svg
+* icon-dripping-honey.svg
+* icon-royal-crown.svg
+* icon-hammer-anvil.svg
+* icon-wine-glass.svg
+* icon-open-book.svg
+* icon-vintage-compass.svg
+* icon-hot-air-balloon.svg
+* icon-rainbow.svg
+* icon-tentacle.svg
+* icon-lightning-bolt.svg
+* icon-origami-crane.svg
+* icon-moon-phases.svg
