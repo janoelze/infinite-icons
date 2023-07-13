@@ -899,4 +899,18 @@
 * icon-hieroglyph.svg
 * icon-sundial.svg
 * icon-galaxy.svg
-* icon-bigfoot.svg
+* icon-bigfoot.svg* icon-asteroid.svg
+* icon-lantern.svg
+* icon-compass-rosette.svg
+* icon-dandelion.svg
+* icon-magnet.svg
+* icon-abacus.svg
+* icon-anchor.svg
+* icon-sundial.svg
+* icon-quill-ink.svg
+* icon-fingerprint.svg
+* icon-tree-stump.svg
+* icon-papyrus.scroll.svg
+* icon-kangaroo.svg
+* icon-bamboo.svg
+* icon-hot-air-balloon.svg
