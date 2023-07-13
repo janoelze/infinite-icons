@@ -2103,4 +2103,18 @@
 * icon-blueprint-plan.svg
 * icon-falling-star.svg
 * icon-headphone-music.svg
-* icon-message-bird.svg
+* icon-message-bird.svg* icon-potion-bottle.svg
+* icon-balloon-dog.svg
+* icon-caffeine-molecule.svg
+* icon-rocket-ship.svg
+* icon-origami-crane.svg
+* icon-pizza-slice.svg
+* icon-rain-cloud.svg
+* icon-treasure-chest.svg
+* icon-hang-glider.svg
+* icon-moon-phase.svg
+* icon-karate-gi.svg
+* icon-beer-stein.svg
+* icon-venus-flytrap.svg
+* icon-knight-chess.svg
+* icon-crystal-ball.svg
