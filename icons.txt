@@ -2453,4 +2453,18 @@
 * icon-rainbow.svg
 * icon-infinity.svg
 * icon-phoenix.svg
-* icon-dandelion.svg
+* icon-dandelion.svg* icon-digital-cloud.svg
+* icon-biohazard-symbol.svg
+* icon-encrypted-lock.svg
+* icon-space-rocket.svg
+* icon-lightning-bolt.svg
+* icon-cyber-glove.svg
+* icon-solar-panel.svg
+* icon-satellite-dish.svg
+* icon-language-translation.svg
+* icon-laser-beam.svg
+* icon-genome-sequence.svg
+* icon-alien-creature.svg
+* icon-atomic-structure.svg
+* icon-future-city.svg
+* icon-quantum-computing.svg

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-constellation">
+  <circle cx="6" cy="4" r="2" />
+  <circle cx="12" cy="4" r="2" />
+  <circle cx="18" cy="4" r="2" />
+  <circle cx="6" cy="12" r="2" />
+  <circle cx="12" cy="12" r="2" />
+  <circle cx="18" cy="12" r="2" />
+  <circle cx="6" cy="20" r="2" />
+  <circle cx="12" cy="20" r="2" />
+  <circle cx="18" cy="20" r="2" />
+  <line x1="6" y1="4" x2="12" y2="12" />
+  <line x1="12" y1="4" x2="18" y2="12" />
+  <line x1="6" y1="12" x2="12" y2="20" />
+  <line x1="12" y1="12" x2="18" y2="20" />
+  <line x1="6" y1="20" x2="12" y2="12" />
+  <line x1="18" y1="20" x2="12" y2="12" />
+</svg>
