@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-compass-rosette" viewBox="0 0 32 32">
+  <circle cx="16" cy="16" r="14" fill="none" stroke="currentColor" stroke-width="2"/>
+  <path d="M16 2v8 M16 30v-8 M2 16h8 M30 16h-8" fill="none" stroke="currentColor" stroke-width="2"/>
+  <path d="M5.65 5.65l5.65 5.65m14.7 0l-5.65 5.65 M12.7 19.3l-5.65 5.65m14.7 0l-5.65-5.65" fill="none" stroke="currentColor" stroke-width="2"/>
+</svg>

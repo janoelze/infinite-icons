@@ -997,4 +997,18 @@
 * icon-feather.svg
 * icon-pinwheel.svg
 * icon-chess.svg
-* icon-raindrop.svg
+* icon-raindrop.svg* icon-rocketship.svg
+* icon-sand-timer.svg
+* icon-peacock.svg
+* icon-torchlight.svg
+* icon-doughnut.svg
+* icon-microscope.svg
+* icon-skateboard.svg
+* icon-earthworm.svg
+* icon-hang-glider.svg
+* icon-meteorite.svg
+* icon-fossil.svg
+* icon-origami.svg
+* icon-jackhammer.svg
+* icon-corn-maze.svg
+* icon-space-station.svg
