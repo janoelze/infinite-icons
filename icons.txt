@@ -1753,4 +1753,18 @@
 * icon-cactus.svg
 * icon-owl.svg
 * icon-abacus.svg
-* icon-nuclear.svg
+* icon-nuclear.svg* icon-globe-rotation.svg
+* icon-blender.svg
+* icon-microscope.svg
+* icon-rocket-launch.svg
+* icon-quill-ink.svg
+* icon-abacus.svg
+* icon-compass-map.svg
+* icon-old-telephone.svg
+* icon-papyrus-scroll.svg
+* icon-hourglass-end.svg
+* icon-telescope-stargaze.svg
+* icon-feather-duster.svg
+* icon-antique-key.svg
+* icon-paintbrush-dripping.svg
+* icon-gramophone-disc.svg

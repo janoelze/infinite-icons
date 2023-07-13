@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-teleport" viewBox="0 0 24 24">
+<circle cx="12" cy="12" r="10" style="stroke-width:2;stroke:#000;fill:none;"/>
+<path d="M12 2a10 10 0 0110 10h-10V2z" style="fill:#000"/>
+<path d="M12 22a10 10 0 01-10 -10h10v10z" style="fill:#000"/>
+</svg>
