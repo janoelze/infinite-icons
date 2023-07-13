@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-layers">
+  <path d="M12 2L3 7.5 12 13l9-5.5L12 2z"></path>
+  <path d="M12 13L3 18.5 12 24l9-5.5L12 13z"></path>
+  <path d="M12 13V2v11zm0 11V13v11z"></path>
+</svg>

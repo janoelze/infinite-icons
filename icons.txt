@@ -1543,4 +1543,18 @@
 * icon-lightbulb-off.svg
 * icon-golf-ball.svg
 * icon-ice-cream-cone.svg
-* icon-tornado.svg
+* icon-tornado.svg* icon-quantum-computer.svg
+* icon-neural-network.svg
+* icon-cryptocurrency.svg
+* icon-atmosphere.svg
+* icon-biometric.svg
+* icon-dna-sequencing.svg
+* icon-solar-energy.svg
+* icon-lunar-rover.svg
+* icon-virtual-reality.svg
+* icon-nanotechnology.svg
+* icon-drones.svg
+* icon-rocket.svg
+* icon-augmented-reality.svg
+* icon-3d-printing.svg
+* icon-eco-friendly.svg
