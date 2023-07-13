@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-lightbulb-energy-saving.svg icon-digital-clock">
+  <rect x="10" y="10" width="80" height="80" rx="5" ry="5" fill="#c6c6c6"/>
+  <circle cx="50" cy="50" r="35" stroke="#000000" stroke-width="10" fill="#ffffff"/>
+  <polygon points="35,50 50,70 65,50" style="fill:lime;stroke:purple;stroke-width:2"/>
+  <rect x="30" y="30" width="40" height="20" style="fill:rgba(0,0,255,0.1);stroke:rgba(0,0,255,0.5);stroke-width:2"/>
+  <text x="50" y="45" font-size="15px" text-anchor="middle" fill="#000000">12</text>
+</svg>

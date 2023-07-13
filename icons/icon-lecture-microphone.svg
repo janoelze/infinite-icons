@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-lecture-microphone" viewBox="0 0 24 24">
+    <path fill="none" stroke="currentColor" stroke-width="2" d="M12 1v6a3 3 0 0 0 3 3h4a3 3 0 0 0 3-3V1M16 22v-7M6 9v13a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V9"></path>
+    <line x1="8" y1="1" x2="8" y2="3"></line>
+    <line x1="16" y1="1" x2="16" y2="3"></line>
+    <path fill="none" stroke="currentColor" stroke-width="2" d="M9 5h6a1 1 0 0 1 1 1v4a1 1 0 0 1-1 1H9a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1z"></path>
+</svg>

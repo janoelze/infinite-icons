@@ -2677,4 +2677,18 @@
 * icon-periscope.svg
 * icon-cactus.svg
 * icon-metrotrain.svg
-* icon-sculpture.svg
+* icon-sculpture.svg* icon-meteor-shower.svg
+* icon-chameleontheme.svg
+* icon-aurorabeam.svg
+* icon-edisonbulb.svg
+* icon-twisteddna.svg
+* icon-pixelperfect.svg
+* icon-secretdoor.svg
+* icon-veganfood.svg
+* icon-hoverboard.svg
+* icon-underwatercity.svg
+* icon-cloudcuckooland.svg
+* icon-phoenixfeather.svg
+* icon-paperplane.svg
+* icon-blackhole.svg
+* icon-bacterialcolony.svg
