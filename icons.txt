@@ -1781,4 +1781,18 @@
 * icon-blockchain.svg
 * icon-digital-advertising.svg
 * icon-location-services.svg
-* icon-robotics.svg
+* icon-robotics.svg* icon-avocado.svg
+* icon-bioreactor.svg
+* icon-cybernetic-eye.svg
+* icon-dove-of-peace.svg
+* icon-enchanted-forest.svg
+* icon-flaming-chalice.svg
+* icon-gravitational-lens.svg
+* icon-hedgehog.svg
+* icon-implosion.svg
+* icon-java-programming.svg
+* icon-kaleidoscope.svg
+* icon-lunar-rover.svg
+* icon-metropolis-skyline.svg
+* icon-neutron-star.svg
+* icon-opalescent-pearl.svg
