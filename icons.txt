@@ -1809,4 +1809,18 @@
 * icon-grapefruit.svg
 * icon-geysir.svg
 * icon-volcano.svg
-* icon-meerkat.svg
+* icon-meerkat.svg* icon-flamingo.svg
+* icon-moon-crater.svg
+* icon-torn-paper.svg
+* icon-nebula.svg
+* icon-hyperspace.svg
+* icon-coral-reef.svg
+* icon-magician-hat.svg
+* icon-ivy-leaf.svg
+* icon-viking-helmet.svg
+* icon-pharaoh.svg
+* icon-abacus.svg
+* icon-doughnut.svg
+* icon-robotic-arm.svg
+* icon-periscope.svg
+* icon-alien.svg
