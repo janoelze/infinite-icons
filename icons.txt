@@ -913,4 +913,18 @@
 * icon-papyrus.scroll.svg
 * icon-kangaroo.svg
 * icon-bamboo.svg
-* icon-hot-air-balloon.svg
+* icon-hot-air-balloon.svg* icon-globe-rotation.svg
+* icon-handshake-interaction.svg
+* icon-futuristic-robot.svg
+* icon-eco-friendly.svg
+* icon-virtual-reality-glasses.svg
+* icon-satellite-dish.svg
+* icon-puzzle-solution.svg
+* icon-ebook-reader.svg
+* icon-lab-microscope.svg
+* icon-travel-backpack.svg
+* icon-ancient-scroll.svg
+* icon-music-vinyl-record.svg
+* icon-astronaut-helmet.svg
+* icon-cryptocurrency-bitcoin.svg
+* icon-alien-encounter.svg
