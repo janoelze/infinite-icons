@@ -1445,4 +1445,18 @@
 * icon-dna-helix.svg
 * icon-edison-bulb.svg
 * icon-typewriter-keys.svg
-* icon-equalizer-waveform.svg
+* icon-equalizer-waveform.svg* icon-user-planet.svg
+* icon-book-flame.svg
+* icon-umbrella-palm.svg
+* icon-rocket-window.svg
+* icon-shield-lightning.svg
+* icon-telephone-waves.svg
+* icon-cup-cloud.svg
+* icon-music-flower.svg
+* icon-coin-leaf.svg
+* icon-battery-snowflake.svg
+* icon-key-sun.svg
+* icon-basketball-lightbulb.svg
+* icon-crown-geometric.svg
+* icon-globe-anchor.svg
+* icon-heart-thunderbolt.svg
