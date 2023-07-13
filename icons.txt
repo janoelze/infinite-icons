@@ -1739,4 +1739,18 @@
 * icon-neptune-trident.svg
 * icon-treehouse.svg
 * icon-viking-shield.svg
-* icon-quantum-entanglement.svg
+* icon-quantum-entanglement.svg* icon-global.svg
+* icon-rocket-launch.svg
+* icon-satellite.svg
+* icon-checkers.svg
+* icon-microscope.svg
+* icon-hot-air-balloon.svg
+* icon-tidal-wave.svg
+* icon-equals.svg
+* icon-paint-palette.svg
+* icon-skyscraper.svg
+* icon-luggage-pack.svg
+* icon-cactus.svg
+* icon-owl.svg
+* icon-abacus.svg
+* icon-nuclear.svg

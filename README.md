@@ -2,14 +2,14 @@
 
 here we're generating the biggest svg icon set on this planet using openai's gpt-4 llm. current velocity is 30 i/ph (icons per hour). we'll reach 1M icons in 1389 days (2027-05-02) and 1B in 3805 years (5826-03-07). Reaching 1B icons will rack up an OpenAI bill of about $365,850,000 not including the $1,388,889 required for the GitHub Actions credits. _we're desperately seeking funding._
 
-last update: 2023-07-13 12:03
+last update: 2023-07-13 12:17
 
 |  |  |  |  |
 | ---- | ---- | ---- | ---- |
-| ![icons/icon-skateboard](icons/icon-skateboard.svg) | ![icons/icon-periscope](icons/icon-periscope.svg) | ![icons/icon-vinyl-record](icons/icon-vinyl-record.svg) | ![icons/icon-neptune-trident](icons/icon-neptune-trident.svg) 
-| icon-skateboard | icon-periscope | icon-vinyl-record | icon-neptune-trident 
-| ![icons/icon-bigfoot.svg* icon-asteroid](icons/icon-bigfoot.svg* icon-asteroid.svg) | ![icons/magnify-glass-icon](icons/magnify-glass-icon.svg) | ![icons/icon-wind-turbine](icons/icon-wind-turbine.svg) | ![icons/icon-wrench](icons/icon-wrench.svg) 
-| icon-bigfoot.svg* icon-asteroid | magnify-glass-icon | icon-wind-turbine | icon-wrench 
+| ![icons/icon-eco-friendly](icons/icon-eco-friendly.svg) | ![icons/icon-quasar](icons/icon-quasar.svg) | ![icons/icon-autonomous-vehicle](icons/icon-autonomous-vehicle.svg) | ![icons/icon-barbell](icons/icon-barbell.svg) 
+| icon-eco-friendly | icon-quasar | icon-autonomous-vehicle | icon-barbell 
+| ![icons/icon-avalanche](icons/icon-avalanche.svg) | ![icons/magnify-glass-icon](icons/magnify-glass-icon.svg) | ![icons/icon-wind-turbine](icons/icon-wind-turbine.svg) | ![icons/icon-wrench](icons/icon-wrench.svg) 
+| icon-avalanche | magnify-glass-icon | icon-wind-turbine | icon-wrench 
 | ![icons/target-bullseye-icon](icons/target-bullseye-icon.svg) | ![icons/megaphone-icon](icons/megaphone-icon.svg) | ![icons/icon-weightscale](icons/icon-weightscale.svg) | ![icons/paw-print-icon](icons/paw-print-icon.svg) 
 | target-bullseye-icon | megaphone-icon | icon-weightscale | paw-print-icon 
 | ![icons/treasure-map-icon](icons/treasure-map-icon.svg) | ![icons/icon-zenith](icons/icon-zenith.svg) | ![icons/money-bag-icon](icons/money-bag-icon.svg) | ![icons/rocket-launcher-icon](icons/rocket-launcher-icon.svg) 
@@ -60,64 +60,66 @@ last update: 2023-07-13 12:03
 | icon-spaceship | icon-telegraph | icon-star-coffee | icon-saturn-rings 
 | ![icons/icon-trash](icons/icon-trash.svg) | ![icons/icon-users](icons/icon-users.svg) | ![icons/icon-planet-14](icons/icon-planet-14.svg) | ![icons/icon-star-diamond](icons/icon-star-diamond.svg) 
 | icon-trash | icon-users | icon-planet-14 | icon-star-diamond 
-| ![icons/icon-puzzle](icons/icon-puzzle.svg) | ![icons/icon-virtual-reality-glasses](icons/icon-virtual-reality-glasses.svg) | ![icons/icon-weather-sun](icons/icon-weather-sun.svg) | ![icons/icon-star-music-note](icons/icon-star-music-note.svg) 
-| icon-puzzle | icon-virtual-reality-glasses | icon-weather-sun | icon-star-music-note 
-| ![icons/icon-treasure-map](icons/icon-treasure-map.svg) | ![icons/icon-sports-football](icons/icon-sports-football.svg) | ![icons/icon-quantum-computer](icons/icon-quantum-computer.svg) | ![icons/icon-tree](icons/icon-tree.svg) 
-| icon-treasure-map | icon-sports-football | icon-quantum-computer | icon-tree 
-| ![icons/icon-subatomic-particle](icons/icon-subatomic-particle.svg) | ![icons/icon-shield-04](icons/icon-shield-04.svg) | ![icons/icon-star-planet](icons/icon-star-planet.svg) | ![icons/icon-tree-stump](icons/icon-tree-stump.svg) 
-| icon-subatomic-particle | icon-shield-04 | icon-star-planet | icon-tree-stump 
-| ![icons/icon-planet-globe](icons/icon-planet-globe.svg) | ![icons/icon-waterfall](icons/icon-waterfall.svg) | ![icons/icon-snowflake](icons/icon-snowflake.svg) | ![icons/icon-star-camera](icons/icon-star-camera.svg) 
-| icon-planet-globe | icon-waterfall | icon-snowflake | icon-star-camera 
-| ![icons/icon-paper-airplane](icons/icon-paper-airplane.svg) | ![icons/icon-palette-dripping-paint](icons/icon-palette-dripping-paint.svg) | ![icons/icon-satellite](icons/icon-satellite.svg) | ![icons/icon-recycled-materials](icons/icon-recycled-materials.svg) 
-| icon-paper-airplane | icon-palette-dripping-paint | icon-satellite | icon-recycled-materials 
-| ![icons/icon-star-telescope](icons/icon-star-telescope.svg) | ![icons/icon-puzzle-brain](icons/icon-puzzle-brain.svg) | ![icons/icon-rocket](icons/icon-rocket.svg) | ![icons/icon-starburst](icons/icon-starburst.svg) 
-| icon-star-telescope | icon-puzzle-brain | icon-rocket | icon-starburst 
-| ![icons/icon-peace-dove](icons/icon-peace-dove.svg) | ![icons/icon-texture](icons/icon-texture.svg) | ![icons/icon-wave](icons/icon-wave.svg) | ![icons/icon-speech-bubble-07](icons/icon-speech-bubble-07.svg) 
-| icon-peace-dove | icon-texture | icon-wave | icon-speech-bubble-07 
-| ![icons/icon-star-smile](icons/icon-star-smile.svg) | ![icons/icon-puzzle-pieces](icons/icon-puzzle-pieces.svg) | ![icons/icon-trophy-cup](icons/icon-trophy-cup.svg) | ![icons/icon-star-suitcase](icons/icon-star-suitcase.svg) 
-| icon-star-smile | icon-puzzle-pieces | icon-trophy-cup | icon-star-suitcase 
-| ![icons/icon-puzzle-piece](icons/icon-puzzle-piece.svg) | ![icons/icon-time-machine](icons/icon-time-machine.svg) | ![icons/icon-sunrise](icons/icon-sunrise.svg) | ![icons/icon-sushi-roll](icons/icon-sushi-roll.svg) 
-| icon-puzzle-piece | icon-time-machine | icon-sunrise | icon-sushi-roll 
-| ![icons/icon-virtual-reality](icons/icon-virtual-reality.svg) | ![icons/icon-pi](icons/icon-pi.svg) | ![icons/icon-star-lightbulb](icons/icon-star-lightbulb.svg) | ![icons/icon-smart-home](icons/icon-smart-home.svg) 
-| icon-virtual-reality | icon-pi | icon-star-lightbulb | icon-smart-home 
-| ![icons/icon-shield](icons/icon-shield.svg) | ![icons/icon-quicksand](icons/icon-quicksand.svg) | ![icons/icon-star-fireworks](icons/icon-star-fireworks.svg) | ![icons/icon-sunflower](icons/icon-sunflower.svg) 
-| icon-shield | icon-quicksand | icon-star-fireworks | icon-sunflower 
-| ![icons/icon-starcluster](icons/icon-starcluster.svg) | ![icons/icon-umbrella-shield](icons/icon-umbrella-shield.svg) | ![icons/icon-unmanned-drone](icons/icon-unmanned-drone.svg) | ![icons/icon-trophy-09](icons/icon-trophy-09.svg) 
-| icon-starcluster | icon-umbrella-shield | icon-unmanned-drone | icon-trophy-09 
-| ![icons/icon-steel-drum](icons/icon-steel-drum.svg) | ![icons/icon-shield-security](icons/icon-shield-security.svg) | ![icons/icon-star-favorite](icons/icon-star-favorite.svg) | ![icons/icon-thumbs-up](icons/icon-thumbs-up.svg) 
-| icon-steel-drum | icon-shield-security | icon-star-favorite | icon-thumbs-up 
-| ![icons/icon-ship-wheel](icons/icon-ship-wheel.svg) | ![icons/icon-search-magnifying-glass](icons/icon-search-magnifying-glass.svg) | ![icons/icon-singularity](icons/icon-singularity.svg) | ![icons/icon-tesseract](icons/icon-tesseract.svg) 
-| icon-ship-wheel | icon-search-magnifying-glass | icon-singularity | icon-tesseract 
-| ![icons/icon-tunnel](icons/icon-tunnel.svg) | ![icons/icon-train](icons/icon-train.svg) | ![icons/icon-rocketship](icons/icon-rocketship.svg) | ![icons/icon-social-networking-friend](icons/icon-social-networking-friend.svg) 
-| icon-tunnel | icon-train | icon-rocketship | icon-social-networking-friend 
-| ![icons/icon-star-burst](icons/icon-star-burst.svg) | ![icons/icon-satellite-dish](icons/icon-satellite-dish.svg) | ![icons/icon-radioactive](icons/icon-radioactive.svg) | ![icons/icon-pulsarField](icons/icon-pulsarField.svg) 
-| icon-star-burst | icon-satellite-dish | icon-radioactive | icon-pulsarField 
-| ![icons/icon-target](icons/icon-target.svg) | ![icons/icon-stack-of-books](icons/icon-stack-of-books.svg) | ![icons/icon-settings](icons/icon-settings.svg) | ![icons/icon-totem-pole](icons/icon-totem-pole.svg) 
-| icon-target | icon-stack-of-books | icon-settings | icon-totem-pole 
-| ![icons/icon-vintage-key](icons/icon-vintage-key.svg) | ![icons/icon-hieroglyph](icons/icon-hieroglyph.svg) | ![icons/icon-organic-farming](icons/icon-organic-farming.svg) | ![icons/icon-inflation](icons/icon-inflation.svg) 
-| icon-vintage-key | icon-hieroglyph | icon-organic-farming | icon-inflation 
-| ![icons/icon-hologram](icons/icon-hologram.svg) | ![icons/icon-globe-world](icons/icon-globe-world.svg) | ![icons/icon-leaf](icons/icon-leaf.svg) | ![icons/icon-navigation-map](icons/icon-navigation-map.svg) 
-| icon-hologram | icon-globe-world | icon-leaf | icon-navigation-map 
-| ![icons/icon-inkwell](icons/icon-inkwell.svg) | ![icons/icon-kaleidoscope](icons/icon-kaleidoscope.svg) | ![icons/icon-geode](icons/icon-geode.svg) | ![icons/icon-guillotine](icons/icon-guillotine.svg) 
-| icon-inkwell | icon-kaleidoscope | icon-geode | icon-guillotine 
-| ![icons/icon-innovation](icons/icon-innovation.svg) | ![icons/icon-lightning](icons/icon-lightning.svg) | ![icons/icon-kettlebell](icons/icon-kettlebell.svg) | ![icons/icon-mayan-calendar](icons/icon-mayan-calendar.svg) 
-| icon-innovation | icon-lightning | icon-kettlebell | icon-mayan-calendar 
-| ![icons/icon-illusion](icons/icon-illusion.svg) | ![icons/icon-heartbeat](icons/icon-heartbeat.svg) | ![icons/icon-keyboard](icons/icon-keyboard.svg) | ![icons/icon-key-code](icons/icon-key-code.svg) 
-| icon-illusion | icon-heartbeat | icon-keyboard | icon-key-code 
-| ![icons/icon-hourglass-15](icons/icon-hourglass-15.svg) | ![icons/icon-globe-network](icons/icon-globe-network.svg) | ![icons/icon-mountain-bike](icons/icon-mountain-bike.svg) | ![icons/icon-gondola](icons/icon-gondola.svg) 
-| icon-hourglass-15 | icon-globe-network | icon-mountain-bike | icon-gondola 
-| ![icons/icon-laptop](icons/icon-laptop.svg) | ![icons/icon-megaphone-loudspeaker](icons/icon-megaphone-loudspeaker.svg) | ![icons/icon-martini-glass](icons/icon-martini-glass.svg) | ![icons/icon-paintbrush](icons/icon-paintbrush.svg) 
-| icon-laptop | icon-megaphone-loudspeaker | icon-martini-glass | icon-paintbrush 
-| ![icons/icon-origami-crane](icons/icon-origami-crane.svg) | ![icons/icon-jigsaw-puzzle](icons/icon-jigsaw-puzzle.svg) | ![icons/icon-mountain-night-snow](icons/icon-mountain-night-snow.svg) | ![icons/icon-lightbulb-idea](icons/icon-lightbulb-idea.svg) 
-| icon-origami-crane | icon-jigsaw-puzzle | icon-mountain-night-snow | icon-lightbulb-idea 
-| ![icons/icon-marionette](icons/icon-marionette.svg) | ![icons/icon-mountains](icons/icon-mountains.svg) | ![icons/icon-lab-microscope](icons/icon-lab-microscope.svg) | ![icons/icon-locomotive-smoke-puff](icons/icon-locomotive-smoke-puff.svg) 
-| icon-marionette | icon-mountains | icon-lab-microscope | icon-locomotive-smoke-puff 
-| ![icons/icon-monocle](icons/icon-monocle.svg) | ![icons/icon-owl](icons/icon-owl.svg) | ![icons/icon-paddleboard](icons/icon-paddleboard.svg) | ![icons/icon-molecule](icons/icon-molecule.svg) 
-| icon-monocle | icon-owl | icon-paddleboard | icon-molecule 
-| ![icons/icon-octopus-silhouette](icons/icon-octopus-silhouette.svg) | ![icons/icon-ghost](icons/icon-ghost.svg) | ![icons/icon-mountain-range](icons/icon-mountain-range.svg) | ![icons/icon-nanobot](icons/icon-nanobot.svg) 
-| icon-octopus-silhouette | icon-ghost | icon-mountain-range | icon-nanobot 
-| ![icons/icon-heart-beat](icons/icon-heart-beat.svg) | ![icons/icon-marinerWheel](icons/icon-marinerWheel.svg) | ![icons/icon-maya-calendar](icons/icon-maya-calendar.svg) | ![icons/icon-heart](icons/icon-heart.svg) 
-| icon-heart-beat | icon-marinerWheel | icon-maya-calendar | icon-heart 
+| ![icons/icon-puzzle](icons/icon-puzzle.svg) | ![icons/icon-vinyl-record](icons/icon-vinyl-record.svg) | ![icons/icon-virtual-reality-glasses](icons/icon-virtual-reality-glasses.svg) | ![icons/icon-weather-sun](icons/icon-weather-sun.svg) 
+| icon-puzzle | icon-vinyl-record | icon-virtual-reality-glasses | icon-weather-sun 
+| ![icons/icon-star-music-note](icons/icon-star-music-note.svg) | ![icons/icon-treasure-map](icons/icon-treasure-map.svg) | ![icons/icon-sports-football](icons/icon-sports-football.svg) | ![icons/icon-periscope](icons/icon-periscope.svg) 
+| icon-star-music-note | icon-treasure-map | icon-sports-football | icon-periscope 
+| ![icons/icon-quantum-computer](icons/icon-quantum-computer.svg) | ![icons/icon-tree](icons/icon-tree.svg) | ![icons/icon-subatomic-particle](icons/icon-subatomic-particle.svg) | ![icons/icon-shield-04](icons/icon-shield-04.svg) 
+| icon-quantum-computer | icon-tree | icon-subatomic-particle | icon-shield-04 
+| ![icons/icon-star-planet](icons/icon-star-planet.svg) | ![icons/icon-tree-stump](icons/icon-tree-stump.svg) | ![icons/icon-planet-globe](icons/icon-planet-globe.svg) | ![icons/icon-waterfall](icons/icon-waterfall.svg) 
+| icon-star-planet | icon-tree-stump | icon-planet-globe | icon-waterfall 
+| ![icons/icon-snowflake](icons/icon-snowflake.svg) | ![icons/icon-star-camera](icons/icon-star-camera.svg) | ![icons/icon-paper-airplane](icons/icon-paper-airplane.svg) | ![icons/icon-satellite](icons/icon-satellite.svg) 
+| icon-snowflake | icon-star-camera | icon-paper-airplane | icon-satellite 
+| ![icons/icon-recycled-materials](icons/icon-recycled-materials.svg) | ![icons/icon-star-telescope](icons/icon-star-telescope.svg) | ![icons/icon-puzzle-brain](icons/icon-puzzle-brain.svg) | ![icons/icon-rocket](icons/icon-rocket.svg) 
+| icon-recycled-materials | icon-star-telescope | icon-puzzle-brain | icon-rocket 
+| ![icons/icon-starburst](icons/icon-starburst.svg) | ![icons/icon-peace-dove](icons/icon-peace-dove.svg) | ![icons/icon-texture](icons/icon-texture.svg) | ![icons/icon-wave](icons/icon-wave.svg) 
+| icon-starburst | icon-peace-dove | icon-texture | icon-wave 
+| ![icons/icon-speech-bubble-07](icons/icon-speech-bubble-07.svg) | ![icons/icon-star-smile](icons/icon-star-smile.svg) | ![icons/icon-puzzle-pieces](icons/icon-puzzle-pieces.svg) | ![icons/icon-trophy-cup](icons/icon-trophy-cup.svg) 
+| icon-speech-bubble-07 | icon-star-smile | icon-puzzle-pieces | icon-trophy-cup 
+| ![icons/icon-star-suitcase](icons/icon-star-suitcase.svg) | ![icons/icon-puzzle-piece](icons/icon-puzzle-piece.svg) | ![icons/icon-time-machine](icons/icon-time-machine.svg) | ![icons/icon-sunrise](icons/icon-sunrise.svg) 
+| icon-star-suitcase | icon-puzzle-piece | icon-time-machine | icon-sunrise 
+| ![icons/icon-sushi-roll](icons/icon-sushi-roll.svg) | ![icons/icon-virtual-reality](icons/icon-virtual-reality.svg) | ![icons/icon-pi](icons/icon-pi.svg) | ![icons/icon-star-lightbulb](icons/icon-star-lightbulb.svg) 
+| icon-sushi-roll | icon-virtual-reality | icon-pi | icon-star-lightbulb 
+| ![icons/icon-smart-home](icons/icon-smart-home.svg) | ![icons/icon-shield](icons/icon-shield.svg) | ![icons/icon-quicksand](icons/icon-quicksand.svg) | ![icons/icon-star-fireworks](icons/icon-star-fireworks.svg) 
+| icon-smart-home | icon-shield | icon-quicksand | icon-star-fireworks 
+| ![icons/icon-sunflower](icons/icon-sunflower.svg) | ![icons/icon-starcluster](icons/icon-starcluster.svg) | ![icons/icon-skateboard](icons/icon-skateboard.svg) | ![icons/icon-umbrella-shield](icons/icon-umbrella-shield.svg) 
+| icon-sunflower | icon-starcluster | icon-skateboard | icon-umbrella-shield 
+| ![icons/icon-unmanned-drone](icons/icon-unmanned-drone.svg) | ![icons/icon-trophy-09](icons/icon-trophy-09.svg) | ![icons/icon-steel-drum](icons/icon-steel-drum.svg) | ![icons/icon-shield-security](icons/icon-shield-security.svg) 
+| icon-unmanned-drone | icon-trophy-09 | icon-steel-drum | icon-shield-security 
+| ![icons/icon-star-favorite](icons/icon-star-favorite.svg) | ![icons/icon-thumbs-up](icons/icon-thumbs-up.svg) | ![icons/icon-ship-wheel](icons/icon-ship-wheel.svg) | ![icons/icon-search-magnifying-glass](icons/icon-search-magnifying-glass.svg) 
+| icon-star-favorite | icon-thumbs-up | icon-ship-wheel | icon-search-magnifying-glass 
+| ![icons/icon-singularity](icons/icon-singularity.svg) | ![icons/icon-tesseract](icons/icon-tesseract.svg) | ![icons/icon-tunnel](icons/icon-tunnel.svg) | ![icons/icon-train](icons/icon-train.svg) 
+| icon-singularity | icon-tesseract | icon-tunnel | icon-train 
+| ![icons/icon-rocketship](icons/icon-rocketship.svg) | ![icons/icon-social-networking-friend](icons/icon-social-networking-friend.svg) | ![icons/icon-star-burst](icons/icon-star-burst.svg) | ![icons/icon-satellite-dish](icons/icon-satellite-dish.svg) 
+| icon-rocketship | icon-social-networking-friend | icon-star-burst | icon-satellite-dish 
+| ![icons/icon-radioactive](icons/icon-radioactive.svg) | ![icons/icon-pulsarField](icons/icon-pulsarField.svg) | ![icons/icon-target](icons/icon-target.svg) | ![icons/icon-stack-of-books](icons/icon-stack-of-books.svg) 
+| icon-radioactive | icon-pulsarField | icon-target | icon-stack-of-books 
+| ![icons/icon-settings](icons/icon-settings.svg) | ![icons/icon-totem-pole](icons/icon-totem-pole.svg) | ![icons/icon-vintage-key](icons/icon-vintage-key.svg) | ![icons/icon-hieroglyph](icons/icon-hieroglyph.svg) 
+| icon-settings | icon-totem-pole | icon-vintage-key | icon-hieroglyph 
+| ![icons/icon-neptune-trident](icons/icon-neptune-trident.svg) | ![icons/icon-organic-farming](icons/icon-organic-farming.svg) | ![icons/icon-inflation](icons/icon-inflation.svg) | ![icons/icon-hologram](icons/icon-hologram.svg) 
+| icon-neptune-trident | icon-organic-farming | icon-inflation | icon-hologram 
+| ![icons/icon-globe-world](icons/icon-globe-world.svg) | ![icons/icon-leaf](icons/icon-leaf.svg) | ![icons/icon-navigation-map](icons/icon-navigation-map.svg) | ![icons/icon-inkwell](icons/icon-inkwell.svg) 
+| icon-globe-world | icon-leaf | icon-navigation-map | icon-inkwell 
+| ![icons/icon-kaleidoscope](icons/icon-kaleidoscope.svg) | ![icons/icon-geode](icons/icon-geode.svg) | ![icons/icon-guillotine](icons/icon-guillotine.svg) | ![icons/icon-innovation](icons/icon-innovation.svg) 
+| icon-kaleidoscope | icon-geode | icon-guillotine | icon-innovation 
+| ![icons/icon-lightning](icons/icon-lightning.svg) | ![icons/icon-kettlebell](icons/icon-kettlebell.svg) | ![icons/icon-mayan-calendar](icons/icon-mayan-calendar.svg) | ![icons/icon-illusion](icons/icon-illusion.svg) 
+| icon-lightning | icon-kettlebell | icon-mayan-calendar | icon-illusion 
+| ![icons/icon-heartbeat](icons/icon-heartbeat.svg) | ![icons/icon-keyboard](icons/icon-keyboard.svg) | ![icons/icon-key-code](icons/icon-key-code.svg) | ![icons/icon-hourglass-15](icons/icon-hourglass-15.svg) 
+| icon-heartbeat | icon-keyboard | icon-key-code | icon-hourglass-15 
+| ![icons/icon-globe-network](icons/icon-globe-network.svg) | ![icons/icon-mountain-bike](icons/icon-mountain-bike.svg) | ![icons/icon-gondola](icons/icon-gondola.svg) | ![icons/icon-laptop](icons/icon-laptop.svg) 
+| icon-globe-network | icon-mountain-bike | icon-gondola | icon-laptop 
+| ![icons/icon-megaphone-loudspeaker](icons/icon-megaphone-loudspeaker.svg) | ![icons/icon-martini-glass](icons/icon-martini-glass.svg) | ![icons/icon-paintbrush](icons/icon-paintbrush.svg) | ![icons/icon-origami-crane](icons/icon-origami-crane.svg) 
+| icon-megaphone-loudspeaker | icon-martini-glass | icon-paintbrush | icon-origami-crane 
+| ![icons/icon-jigsaw-puzzle](icons/icon-jigsaw-puzzle.svg) | ![icons/icon-mountain-night-snow](icons/icon-mountain-night-snow.svg) | ![icons/icon-lightbulb-idea](icons/icon-lightbulb-idea.svg) | ![icons/icon-marionette](icons/icon-marionette.svg) 
+| icon-jigsaw-puzzle | icon-mountain-night-snow | icon-lightbulb-idea | icon-marionette 
+| ![icons/icon-mountains](icons/icon-mountains.svg) | ![icons/icon-lab-microscope](icons/icon-lab-microscope.svg) | ![icons/icon-locomotive-smoke-puff](icons/icon-locomotive-smoke-puff.svg) | ![icons/icon-monocle](icons/icon-monocle.svg) 
+| icon-mountains | icon-lab-microscope | icon-locomotive-smoke-puff | icon-monocle 
+| ![icons/icon-owl](icons/icon-owl.svg) | ![icons/icon-paddleboard](icons/icon-paddleboard.svg) | ![icons/icon-molecule](icons/icon-molecule.svg) | ![icons/icon-octopus-silhouette](icons/icon-octopus-silhouette.svg) 
+| icon-owl | icon-paddleboard | icon-molecule | icon-octopus-silhouette 
+| ![icons/icon-ghost](icons/icon-ghost.svg) | ![icons/icon-mountain-range](icons/icon-mountain-range.svg) | ![icons/icon-nanobot](icons/icon-nanobot.svg) | ![icons/icon-heart-beat](icons/icon-heart-beat.svg) 
+| icon-ghost | icon-mountain-range | icon-nanobot | icon-heart-beat 
+| ![icons/icon-marinerWheel](icons/icon-marinerWheel.svg) | ![icons/icon-gears](icons/icon-gears.svg) | ![icons/icon-maya-calendar](icons/icon-maya-calendar.svg) | ![icons/icon-heart](icons/icon-heart.svg) 
+| icon-marinerWheel | icon-gears | icon-maya-calendar | icon-heart 
 | ![icons/icon-geyser](icons/icon-geyser.svg) | ![icons/icon-musicnote](icons/icon-musicnote.svg) | ![icons/icon-megaphone-loud](icons/icon-megaphone-loud.svg) | ![icons/icon-leaf-nature](icons/icon-leaf-nature.svg) 
 | icon-geyser | icon-musicnote | icon-megaphone-loud | icon-leaf-nature 
 | ![icons/icon-graduation-cap](icons/icon-graduation-cap.svg) | ![icons/icon-melody](icons/icon-melody.svg) | ![icons/icon-organizer](icons/icon-organizer.svg) | ![icons/icon-keyhole](icons/icon-keyhole.svg) 
@@ -134,56 +136,56 @@ last update: 2023-07-13 12:03
 | icon-padlock | icon-magic-potion | icon-hourglass-time | icon-microphone-voice 
 | ![icons/icon-music-vinyl-record](icons/icon-music-vinyl-record.svg) | ![icons/icon-organic-cosmetics](icons/icon-organic-cosmetics.svg) | ![icons/icon-lock](icons/icon-lock.svg) | ![icons/icon-mystical-book](icons/icon-mystical-book.svg) 
 | icon-music-vinyl-record | icon-organic-cosmetics | icon-lock | icon-mystical-book 
-| ![icons/icon-origami](icons/icon-origami.svg) | ![icons/icon-mayan-pyramid](icons/icon-mayan-pyramid.svg) | ![icons/icon-osprey.svg* icon-digital-watch](icons/icon-osprey.svg* icon-digital-watch.svg) | ![icons/icon-northern-lights](icons/icon-northern-lights.svg) 
-| icon-origami | icon-mayan-pyramid | icon-osprey.svg* icon-digital-watch | icon-northern-lights 
-| ![icons/icon-graph-line-chart](icons/icon-graph-line-chart.svg) | ![icons/icon-megaphone](icons/icon-megaphone.svg) | ![icons/icon-neural-network](icons/icon-neural-network.svg) | ![icons/icon-paint-palette](icons/icon-paint-palette.svg) 
-| icon-graph-line-chart | icon-megaphone | icon-neural-network | icon-paint-palette 
-| ![icons/icon-network](icons/icon-network.svg) | ![icons/icon-hotairballoon](icons/icon-hotairballoon.svg) | ![icons/icon-magnifying-glass](icons/icon-magnifying-glass.svg) | ![icons/icon-jellyfish](icons/icon-jellyfish.svg) 
-| icon-network | icon-hotairballoon | icon-magnifying-glass | icon-jellyfish 
-| ![icons/icon-hurricane-forecast](icons/icon-hurricane-forecast.svg) | ![icons/icon-nebula](icons/icon-nebula.svg) | ![icons/icon-lighthouse.svg* icon-magnifying-glass](icons/icon-lighthouse.svg* icon-magnifying-glass.svg) | ![icons/icon-grainsack](icons/icon-grainsack.svg) 
-| icon-hurricane-forecast | icon-nebula | icon-lighthouse.svg* icon-magnifying-glass | icon-grainsack 
-| ![icons/icon-medical-innovation](icons/icon-medical-innovation.svg) | ![icons/icon-moonstone](icons/icon-moonstone.svg) | ![icons/icon-magnetic-field](icons/icon-magnetic-field.svg) | ![icons/icon-key-lock](icons/icon-key-lock.svg) 
-| icon-medical-innovation | icon-moonstone | icon-magnetic-field | icon-key-lock 
-| ![icons/icon-hourglass](icons/icon-hourglass.svg) | ![icons/icon-music-note](icons/icon-music-note.svg) | ![icons/icon-home](icons/icon-home.svg) | ![icons/icon-lantern](icons/icon-lantern.svg) 
-| icon-hourglass | icon-music-note | icon-home | icon-lantern 
-| ![icons/icon-microscope](icons/icon-microscope.svg) | ![icons/icon-meteor](icons/icon-meteor.svg) | ![icons/icon-ice-skates](icons/icon-ice-skates.svg) | ![icons/icon-lightning-bolt](icons/icon-lightning-bolt.svg) 
-| icon-microscope | icon-meteor | icon-ice-skates | icon-lightning-bolt 
-| ![icons/icon-music](icons/icon-music.svg) | ![icons/icon-nanorobot](icons/icon-nanorobot.svg) | ![icons/icon-mayan-calendar.svg* icon-dna-sequence](icons/icon-mayan-calendar.svg* icon-dna-sequence.svg) | ![icons/icon-mobilitylife](icons/icon-mobilitylife.svg) 
-| icon-music | icon-nanorobot | icon-mayan-calendar.svg* icon-dna-sequence | icon-mobilitylife 
-| ![icons/icon-hot-air-balloon](icons/icon-hot-air-balloon.svg) | ![icons/icon-origami-bird](icons/icon-origami-bird.svg) | ![icons/icon-magnify-glass](icons/icon-magnify-glass.svg) | ![icons/icon-lighthouse](icons/icon-lighthouse.svg) 
-| icon-hot-air-balloon | icon-origami-bird | icon-magnify-glass | icon-lighthouse 
-| ![icons/icon-nano-technology](icons/icon-nano-technology.svg) | ![icons/icon-paintbrush-art](icons/icon-paintbrush-art.svg) | ![icons/icon-infinity](icons/icon-infinity.svg) | ![icons/icon-lightning-bolt-02](icons/icon-lightning-bolt-02.svg) 
-| icon-nano-technology | icon-paintbrush-art | icon-infinity | icon-lightning-bolt-02 
-| ![icons/icon-lightbulb](icons/icon-lightbulb.svg) | ![icons/icon-headphones](icons/icon-headphones.svg) | ![icons/icon-globe](icons/icon-globe.svg) | ![icons/icon-gecko](icons/icon-gecko.svg) 
-| icon-lightbulb | icon-headphones | icon-globe | icon-gecko 
-| ![icons/icon-microphone](icons/icon-microphone.svg) | ![icons/icon-jet-engine](icons/icon-jet-engine.svg) | ![icons/icon-conductor-baton](icons/icon-conductor-baton.svg) | ![icons/icon-business-chart](icons/icon-business-chart.svg) 
-| icon-microphone | icon-jet-engine | icon-conductor-baton | icon-business-chart 
-| ![icons/icon-compass-pirate](icons/icon-compass-pirate.svg) | ![icons/icon-bread-swords](icons/icon-bread-swords.svg) | ![icons/icon-fingerprint](icons/icon-fingerprint.svg) | ![icons/icon-briefcase](icons/icon-briefcase.svg) 
-| icon-compass-pirate | icon-bread-swords | icon-fingerprint | icon-briefcase 
-| ![icons/icon-exoplanet](icons/icon-exoplanet.svg) | ![icons/icon-film-reel-12](icons/icon-film-reel-12.svg) | ![icons/icon-coffee-beans](icons/icon-coffee-beans.svg) | ![icons/icon-clipboard](icons/icon-clipboard.svg) 
-| icon-exoplanet | icon-film-reel-12 | icon-coffee-beans | icon-clipboard 
-| ![icons/icon-castle](icons/icon-castle.svg) | ![icons/icon-dna-sequence](icons/icon-dna-sequence.svg) | ![icons/icon-blooming-flower](icons/icon-blooming-flower.svg) | ![icons/icon-dna-sequencing](icons/icon-dna-sequencing.svg) 
-| icon-castle | icon-dna-sequence | icon-blooming-flower | icon-dna-sequencing 
-| ![icons/icon-alien-encounter.svg* icon-abyss](icons/icon-alien-encounter.svg* icon-abyss.svg) | ![icons/icon-gear](icons/icon-gear.svg) | ![icons/icon-3d-printing](icons/icon-3d-printing.svg) | ![icons/icon-calendar-events](icons/icon-calendar-events.svg) 
-| icon-alien-encounter.svg* icon-abyss | icon-gear | icon-3d-printing | icon-calendar-events 
-| ![icons/icon-dinosaur](icons/icon-dinosaur.svg) | ![icons/icon-anchor](icons/icon-anchor.svg) | ![icons/icon-forest-tree-line](icons/icon-forest-tree-line.svg) | ![icons/icon-brain](icons/icon-brain.svg) 
-| icon-dinosaur | icon-anchor | icon-forest-tree-line | icon-brain 
-| ![icons/icon-cloud-storage](icons/icon-cloud-storage.svg) | ![icons/icon-brewery-craft-beer.svg* icon-rainforest](icons/icon-brewery-craft-beer.svg* icon-rainforest.svg) | ![icons/icon-aurora-borealis](icons/icon-aurora-borealis.svg) | ![icons/icon-communication-mail](icons/icon-communication-mail.svg) 
-| icon-cloud-storage | icon-brewery-craft-beer.svg* icon-rainforest | icon-aurora-borealis | icon-communication-mail 
-| ![icons/icon-coffee-cup-13](icons/icon-coffee-cup-13.svg) | ![icons/icon-cogwheel](icons/icon-cogwheel.svg) | ![icons/icon-defective-disc](icons/icon-defective-disc.svg) | ![icons/icon-enchanted-rose](icons/icon-enchanted-rose.svg) 
-| icon-coffee-cup-13 | icon-cogwheel | icon-defective-disc | icon-enchanted-rose 
-| ![icons/icon-enchilada](icons/icon-enchilada.svg) | ![icons/icon-compass](icons/icon-compass.svg) | ![icons/icon-diode](icons/icon-diode.svg) | ![icons/icon-camera-vintage](icons/icon-camera-vintage.svg) 
-| icon-enchilada | icon-compass | icon-diode | icon-camera-vintage 
-| ![icons/icon-biocryptology](icons/icon-biocryptology.svg) | ![icons/icon-cloud-download](icons/icon-cloud-download.svg) | ![icons/icon-crystal-ball](icons/icon-crystal-ball.svg) | ![icons/icon-cactus](icons/icon-cactus.svg) 
-| icon-biocryptology | icon-cloud-download | icon-crystal-ball | icon-cactus 
-| ![icons/icon-bomb](icons/icon-bomb.svg) | ![icons/icon-blockchain](icons/icon-blockchain.svg) | ![icons/icon-artificial-intelligence](icons/icon-artificial-intelligence.svg) | ![icons/icon-fountain-pen](icons/icon-fountain-pen.svg) 
-| icon-bomb | icon-blockchain | icon-artificial-intelligence | icon-fountain-pen 
-| ![icons/icon-crowdfunding](icons/icon-crowdfunding.svg) | ![icons/icon-cherry-blossom](icons/icon-cherry-blossom.svg) | ![icons/icon-crown](icons/icon-crown.svg) | ![icons/icon-galaxy](icons/icon-galaxy.svg) 
-| icon-crowdfunding | icon-cherry-blossom | icon-crown | icon-galaxy 
-| ![icons/icon-black-hole.svg* icon-cloudcomputing](icons/icon-black-hole.svg* icon-cloudcomputing.svg) | ![icons/icon-candy](icons/icon-candy.svg) | ![icons/icon-fish-chips](icons/icon-fish-chips.svg) | ![icons/icon-apollo-landing](icons/icon-apollo-landing.svg) 
-| icon-black-hole.svg* icon-cloudcomputing | icon-candy | icon-fish-chips | icon-apollo-landing 
-| ![icons/icon-cupcake](icons/icon-cupcake.svg) | ![icons/icon-credit-card](icons/icon-credit-card.svg) | ![icons/icon-coffee-cup](icons/icon-coffee-cup.svg) | ![icons/icon-gears](icons/icon-gears.svg) 
-| icon-cupcake | icon-credit-card | icon-coffee-cup | icon-gears 
+| ![icons/icon-origami](icons/icon-origami.svg) | ![icons/icon-palette-dripping-paint](icons/icon-palette-dripping-paint.svg) | ![icons/icon-mayan-pyramid](icons/icon-mayan-pyramid.svg) | ![icons/icon-osprey.svg* icon-digital-watch](icons/icon-osprey.svg* icon-digital-watch.svg) 
+| icon-origami | icon-palette-dripping-paint | icon-mayan-pyramid | icon-osprey.svg* icon-digital-watch 
+| ![icons/icon-northern-lights](icons/icon-northern-lights.svg) | ![icons/icon-graph-line-chart](icons/icon-graph-line-chart.svg) | ![icons/icon-megaphone](icons/icon-megaphone.svg) | ![icons/icon-neural-network](icons/icon-neural-network.svg) 
+| icon-northern-lights | icon-graph-line-chart | icon-megaphone | icon-neural-network 
+| ![icons/icon-paint-palette](icons/icon-paint-palette.svg) | ![icons/icon-network](icons/icon-network.svg) | ![icons/icon-hotairballoon](icons/icon-hotairballoon.svg) | ![icons/icon-magnifying-glass](icons/icon-magnifying-glass.svg) 
+| icon-paint-palette | icon-network | icon-hotairballoon | icon-magnifying-glass 
+| ![icons/icon-jellyfish](icons/icon-jellyfish.svg) | ![icons/icon-hurricane-forecast](icons/icon-hurricane-forecast.svg) | ![icons/icon-nebula](icons/icon-nebula.svg) | ![icons/icon-lighthouse.svg* icon-magnifying-glass](icons/icon-lighthouse.svg* icon-magnifying-glass.svg) 
+| icon-jellyfish | icon-hurricane-forecast | icon-nebula | icon-lighthouse.svg* icon-magnifying-glass 
+| ![icons/icon-grainsack](icons/icon-grainsack.svg) | ![icons/icon-medical-innovation](icons/icon-medical-innovation.svg) | ![icons/icon-moonstone](icons/icon-moonstone.svg) | ![icons/icon-magnetic-field](icons/icon-magnetic-field.svg) 
+| icon-grainsack | icon-medical-innovation | icon-moonstone | icon-magnetic-field 
+| ![icons/icon-key-lock](icons/icon-key-lock.svg) | ![icons/icon-hourglass](icons/icon-hourglass.svg) | ![icons/icon-music-note](icons/icon-music-note.svg) | ![icons/icon-home](icons/icon-home.svg) 
+| icon-key-lock | icon-hourglass | icon-music-note | icon-home 
+| ![icons/icon-lantern](icons/icon-lantern.svg) | ![icons/icon-microscope](icons/icon-microscope.svg) | ![icons/icon-meteor](icons/icon-meteor.svg) | ![icons/icon-ice-skates](icons/icon-ice-skates.svg) 
+| icon-lantern | icon-microscope | icon-meteor | icon-ice-skates 
+| ![icons/icon-lightning-bolt](icons/icon-lightning-bolt.svg) | ![icons/icon-music](icons/icon-music.svg) | ![icons/icon-nanorobot](icons/icon-nanorobot.svg) | ![icons/icon-mayan-calendar.svg* icon-dna-sequence](icons/icon-mayan-calendar.svg* icon-dna-sequence.svg) 
+| icon-lightning-bolt | icon-music | icon-nanorobot | icon-mayan-calendar.svg* icon-dna-sequence 
+| ![icons/icon-mobilitylife](icons/icon-mobilitylife.svg) | ![icons/icon-hot-air-balloon](icons/icon-hot-air-balloon.svg) | ![icons/icon-origami-bird](icons/icon-origami-bird.svg) | ![icons/icon-magnify-glass](icons/icon-magnify-glass.svg) 
+| icon-mobilitylife | icon-hot-air-balloon | icon-origami-bird | icon-magnify-glass 
+| ![icons/icon-lighthouse](icons/icon-lighthouse.svg) | ![icons/icon-nano-technology](icons/icon-nano-technology.svg) | ![icons/icon-paintbrush-art](icons/icon-paintbrush-art.svg) | ![icons/icon-infinity](icons/icon-infinity.svg) 
+| icon-lighthouse | icon-nano-technology | icon-paintbrush-art | icon-infinity 
+| ![icons/icon-lightning-bolt-02](icons/icon-lightning-bolt-02.svg) | ![icons/icon-lightbulb](icons/icon-lightbulb.svg) | ![icons/icon-headphones](icons/icon-headphones.svg) | ![icons/icon-globe](icons/icon-globe.svg) 
+| icon-lightning-bolt-02 | icon-lightbulb | icon-headphones | icon-globe 
+| ![icons/icon-gecko](icons/icon-gecko.svg) | ![icons/icon-microphone](icons/icon-microphone.svg) | ![icons/icon-jet-engine](icons/icon-jet-engine.svg) | ![icons/icon-conductor-baton](icons/icon-conductor-baton.svg) 
+| icon-gecko | icon-microphone | icon-jet-engine | icon-conductor-baton 
+| ![icons/icon-business-chart](icons/icon-business-chart.svg) | ![icons/icon-compass-pirate](icons/icon-compass-pirate.svg) | ![icons/icon-bread-swords](icons/icon-bread-swords.svg) | ![icons/icon-fingerprint](icons/icon-fingerprint.svg) 
+| icon-business-chart | icon-compass-pirate | icon-bread-swords | icon-fingerprint 
+| ![icons/icon-briefcase](icons/icon-briefcase.svg) | ![icons/icon-exoplanet](icons/icon-exoplanet.svg) | ![icons/icon-film-reel-12](icons/icon-film-reel-12.svg) | ![icons/icon-coffee-beans](icons/icon-coffee-beans.svg) 
+| icon-briefcase | icon-exoplanet | icon-film-reel-12 | icon-coffee-beans 
+| ![icons/icon-clipboard](icons/icon-clipboard.svg) | ![icons/icon-castle](icons/icon-castle.svg) | ![icons/icon-dna-sequence](icons/icon-dna-sequence.svg) | ![icons/icon-blooming-flower](icons/icon-blooming-flower.svg) 
+| icon-clipboard | icon-castle | icon-dna-sequence | icon-blooming-flower 
+| ![icons/icon-dna-sequencing](icons/icon-dna-sequencing.svg) | ![icons/icon-alien-encounter.svg* icon-abyss](icons/icon-alien-encounter.svg* icon-abyss.svg) | ![icons/icon-gear](icons/icon-gear.svg) | ![icons/icon-3d-printing](icons/icon-3d-printing.svg) 
+| icon-dna-sequencing | icon-alien-encounter.svg* icon-abyss | icon-gear | icon-3d-printing 
+| ![icons/icon-calendar-events](icons/icon-calendar-events.svg) | ![icons/icon-dinosaur](icons/icon-dinosaur.svg) | ![icons/icon-anchor](icons/icon-anchor.svg) | ![icons/icon-forest-tree-line](icons/icon-forest-tree-line.svg) 
+| icon-calendar-events | icon-dinosaur | icon-anchor | icon-forest-tree-line 
+| ![icons/icon-brain](icons/icon-brain.svg) | ![icons/icon-cloud-storage](icons/icon-cloud-storage.svg) | ![icons/icon-brewery-craft-beer.svg* icon-rainforest](icons/icon-brewery-craft-beer.svg* icon-rainforest.svg) | ![icons/icon-aurora-borealis](icons/icon-aurora-borealis.svg) 
+| icon-brain | icon-cloud-storage | icon-brewery-craft-beer.svg* icon-rainforest | icon-aurora-borealis 
+| ![icons/icon-communication-mail](icons/icon-communication-mail.svg) | ![icons/icon-coffee-cup-13](icons/icon-coffee-cup-13.svg) | ![icons/icon-cogwheel](icons/icon-cogwheel.svg) | ![icons/icon-defective-disc](icons/icon-defective-disc.svg) 
+| icon-communication-mail | icon-coffee-cup-13 | icon-cogwheel | icon-defective-disc 
+| ![icons/icon-enchanted-rose](icons/icon-enchanted-rose.svg) | ![icons/icon-enchilada](icons/icon-enchilada.svg) | ![icons/icon-compass](icons/icon-compass.svg) | ![icons/icon-diode](icons/icon-diode.svg) 
+| icon-enchanted-rose | icon-enchilada | icon-compass | icon-diode 
+| ![icons/icon-camera-vintage](icons/icon-camera-vintage.svg) | ![icons/icon-biocryptology](icons/icon-biocryptology.svg) | ![icons/icon-cloud-download](icons/icon-cloud-download.svg) | ![icons/icon-crystal-ball](icons/icon-crystal-ball.svg) 
+| icon-camera-vintage | icon-biocryptology | icon-cloud-download | icon-crystal-ball 
+| ![icons/icon-cactus](icons/icon-cactus.svg) | ![icons/icon-bomb](icons/icon-bomb.svg) | ![icons/icon-blockchain](icons/icon-blockchain.svg) | ![icons/icon-artificial-intelligence](icons/icon-artificial-intelligence.svg) 
+| icon-cactus | icon-bomb | icon-blockchain | icon-artificial-intelligence 
+| ![icons/icon-fountain-pen](icons/icon-fountain-pen.svg) | ![icons/icon-crowdfunding](icons/icon-crowdfunding.svg) | ![icons/icon-cherry-blossom](icons/icon-cherry-blossom.svg) | ![icons/icon-crown](icons/icon-crown.svg) 
+| icon-fountain-pen | icon-crowdfunding | icon-cherry-blossom | icon-crown 
+| ![icons/icon-galaxy](icons/icon-galaxy.svg) | ![icons/icon-black-hole.svg* icon-cloudcomputing](icons/icon-black-hole.svg* icon-cloudcomputing.svg) | ![icons/icon-candy](icons/icon-candy.svg) | ![icons/icon-fish-chips](icons/icon-fish-chips.svg) 
+| icon-galaxy | icon-black-hole.svg* icon-cloudcomputing | icon-candy | icon-fish-chips 
+| ![icons/icon-apollo-landing](icons/icon-apollo-landing.svg) | ![icons/icon-cupcake](icons/icon-cupcake.svg) | ![icons/icon-credit-card](icons/icon-credit-card.svg) | ![icons/icon-coffee-cup](icons/icon-coffee-cup.svg) 
+| icon-apollo-landing | icon-cupcake | icon-credit-card | icon-coffee-cup 
 | ![icons/icon-ancient-greek-vase](icons/icon-ancient-greek-vase.svg) | ![icons/icon-compass-rose](icons/icon-compass-rose.svg) | ![icons/icon-compass-rosette](icons/icon-compass-rosette.svg) | ![icons/icon-chat](icons/icon-chat.svg) 
 | icon-ancient-greek-vase | icon-compass-rose | icon-compass-rosette | icon-chat 
 | ![icons/hourglass-time-icon](icons/hourglass-time-icon.svg) | ![icons/icon-dandelion](icons/icon-dandelion.svg) | ![icons/icon-dice-dice](icons/icon-dice-dice.svg) | ![icons/icon-art-paintbrush](icons/icon-art-paintbrush.svg) 
@@ -194,48 +196,48 @@ last update: 2023-07-13 12:03
 | icon-cog | icon-antimatter | icon-biometric-scanner | icon-cryptogram 
 | ![icons/icon-abacus](icons/icon-abacus.svg) | ![icons/icon-darkmatter](icons/icon-darkmatter.svg) | ![icons/icon-fusion-reactor](icons/icon-fusion-reactor.svg) | ![icons/icon-equalizer-waveform.svg* icon-user-planet](icons/icon-equalizer-waveform.svg* icon-user-planet.svg) 
 | icon-abacus | icon-darkmatter | icon-fusion-reactor | icon-equalizer-waveform.svg* icon-user-planet 
-| ![icons/icon-cuttlefish](icons/icon-cuttlefish.svg) | ![icons/icon-bookmark](icons/icon-bookmark.svg) | ![icons/icon-comet](icons/icon-comet.svg) | ![icons/icon-dna-strand](icons/icon-dna-strand.svg) 
-| icon-cuttlefish | icon-bookmark | icon-comet | icon-dna-strand 
-| ![icons/icon-accordion](icons/icon-accordion.svg) | ![icons/icon-automated-teller-machine](icons/icon-automated-teller-machine.svg) | ![icons/icon-chat-bubbles](icons/icon-chat-bubbles.svg) | ![icons/icon-drone-delivery](icons/icon-drone-delivery.svg) 
-| icon-accordion | icon-automated-teller-machine | icon-chat-bubbles | icon-drone-delivery 
-| ![icons/icon-book-05](icons/icon-book-05.svg) | ![icons/icon-earthworm](icons/icon-earthworm.svg) | ![icons/icon-gear-06](icons/icon-gear-06.svg) | ![icons/icon-film-reel](icons/icon-film-reel.svg) 
-| icon-book-05 | icon-earthworm | icon-gear-06 | icon-film-reel 
-| ![icons/icon-camera-shutter](icons/icon-camera-shutter.svg) | ![icons/icon-book](icons/icon-book.svg) | ![icons/icon-bamboo-stalk](icons/icon-bamboo-stalk.svg) | ![icons/icon-brainstorming](icons/icon-brainstorming.svg) 
-| icon-camera-shutter | icon-book | icon-bamboo-stalk | icon-brainstorming 
-| ![icons/icon-atom](icons/icon-atom.svg) | ![icons/icon-fairy-wand](icons/icon-fairy-wand.svg) | ![icons/icon-cloud-moon-rain](icons/icon-cloud-moon-rain.svg) | ![icons/icon-cyber-security](icons/icon-cyber-security.svg) 
-| icon-atom | icon-fairy-wand | icon-cloud-moon-rain | icon-cyber-security 
-| ![icons/icon-book-education](icons/icon-book-education.svg) | ![icons/icon-cube](icons/icon-cube.svg) | ![icons/icon-feather](icons/icon-feather.svg) | ![icons/icon-biohacking](icons/icon-biohacking.svg) 
-| icon-book-education | icon-cube | icon-feather | icon-biohacking 
-| ![icons/icon-cloud-data](icons/icon-cloud-data.svg) | ![icons/icon-flamingo](icons/icon-flamingo.svg) | ![icons/icon-einstein](icons/icon-einstein.svg) | ![icons/icon-binoculars](icons/icon-binoculars.svg) 
-| icon-cloud-data | icon-flamingo | icon-einstein | icon-binoculars 
-| ![icons/icon-climbing-helmet](icons/icon-climbing-helmet.svg) | ![icons/icon-flag](icons/icon-flag.svg) | ![icons/icon-clipboard-checkmark](icons/icon-clipboard-checkmark.svg) | ![icons/icon-camera](icons/icon-camera.svg) 
-| icon-climbing-helmet | icon-flag | icon-clipboard-checkmark | icon-camera 
-| ![icons/icon-fingerprint-identification](icons/icon-fingerprint-identification.svg) | ![icons/icon-fossil](icons/icon-fossil.svg) | ![icons/icon-edamame](icons/icon-edamame.svg) | ![icons/icon-feather-feather](icons/icon-feather-feather.svg) 
-| icon-fingerprint-identification | icon-fossil | icon-edamame | icon-feather-feather 
-| ![icons/icon-entertainment-movie](icons/icon-entertainment-movie.svg) | ![icons/icon-alien-life](icons/icon-alien-life.svg) | ![icons/icon-confetti-cannon.svg* icon-lightbulb-idea](icons/icon-confetti-cannon.svg* icon-lightbulb-idea.svg) | ![icons/icon-alarm-clock](icons/icon-alarm-clock.svg) 
-| icon-entertainment-movie | icon-alien-life | icon-confetti-cannon.svg* icon-lightbulb-idea | icon-alarm-clock 
-| ![icons/icon-coin](icons/icon-coin.svg) | ![icons/icon-e-reading](icons/icon-e-reading.svg) | ![icons/icon-dna-helix](icons/icon-dna-helix.svg) | ![icons/icon-atomic-nucleus](icons/icon-atomic-nucleus.svg) 
-| icon-coin | icon-e-reading | icon-dna-helix | icon-atomic-nucleus 
-| ![icons/icon-chat-bubble](icons/icon-chat-bubble.svg) | ![icons/icon-ancient-scroll](icons/icon-ancient-scroll.svg) | ![icons/icon-cubic-interactivity](icons/icon-cubic-interactivity.svg) | ![icons/icon-cacti](icons/icon-cacti.svg) 
-| icon-chat-bubble | icon-ancient-scroll | icon-cubic-interactivity | icon-cacti 
-| ![icons/icon-chat-bubble-doodle](icons/icon-chat-bubble-doodle.svg) | ![icons/icon-cup-of-coffee](icons/icon-cup-of-coffee.svg) | ![icons/icon-book-stack](icons/icon-book-stack.svg) | ![icons/icon-echo](icons/icon-echo.svg) 
-| icon-chat-bubble-doodle | icon-cup-of-coffee | icon-book-stack | icon-echo 
-| ![icons/icon-coral-reef.svg* icon-global-network](icons/icon-coral-reef.svg* icon-global-network.svg) | ![icons/icon-astronaut-helmet](icons/icon-astronaut-helmet.svg) | ![icons/icon-fusionreactor](icons/icon-fusionreactor.svg) | ![icons/icon-diploma](icons/icon-diploma.svg) 
-| icon-coral-reef.svg* icon-global-network | icon-astronaut-helmet | icon-fusionreactor | icon-diploma 
-| ![icons/icon-alien.svg* icon-dna-sequence](icons/icon-alien.svg* icon-dna-sequence.svg) | ![icons/icon-ar-vr-glasses](icons/icon-ar-vr-glasses.svg) | ![icons/icon-document](icons/icon-document.svg) | ![icons/icon-chessknight](icons/icon-chessknight.svg) 
-| icon-alien.svg* icon-dna-sequence | icon-ar-vr-glasses | icon-document | icon-chessknight 
-| ![icons/icon-cybersecurity](icons/icon-cybersecurity.svg) | ![icons/icon-gear-wheel](icons/icon-gear-wheel.svg) | ![icons/icon-compass-north](icons/icon-compass-north.svg) | ![icons/icon-evolving-ai](icons/icon-evolving-ai.svg) 
-| icon-cybersecurity | icon-gear-wheel | icon-compass-north | icon-evolving-ai 
-| ![icons/icon-battery-three-quarters](icons/icon-battery-three-quarters.svg) | ![icons/icon-advanced-analytics](icons/icon-advanced-analytics.svg) | ![icons/icon-computer-chip.svg* icon-asteroid](icons/icon-computer-chip.svg* icon-asteroid.svg) | ![icons/icon-escalator](icons/icon-escalator.svg) 
-| icon-battery-three-quarters | icon-advanced-analytics | icon-computer-chip.svg* icon-asteroid | icon-escalator 
-| ![icons/icon-diamond](icons/icon-diamond.svg) | ![icons/icon-envelope](icons/icon-envelope.svg) | ![icons/icon-flask](icons/icon-flask.svg) | ![icons/icon-cryptocurrency](icons/icon-cryptocurrency.svg) 
-| icon-diamond | icon-envelope | icon-flask | icon-cryptocurrency 
-| ![icons/icon-bamboo](icons/icon-bamboo.svg) | ![icons/icon-bonsai](icons/icon-bonsai.svg) | ![icons/icon-firefly-glow](icons/icon-firefly-glow.svg) | ![icons/icon-cosmic-rays](icons/icon-cosmic-rays.svg) 
-| icon-bamboo | icon-bonsai | icon-firefly-glow | icon-cosmic-rays 
-| ![icons/icon-clock-time](icons/icon-clock-time.svg) | ![icons/crown-icon](icons/crown-icon.svg) | ![icons/bicycle-icon](icons/bicycle-icon.svg) | ![icons/hourglass-icon](icons/hourglass-icon.svg) 
-| icon-clock-time | crown-icon | bicycle-icon | hourglass-icon 
-| ![icons/graduation-cap-icon](icons/graduation-cap-icon.svg) | ![icons/gear-cogs-icon](icons/gear-cogs-icon.svg) | ![icons/checklist-checked-icon](icons/checklist-checked-icon.svg) | ![icons/envelope-open-icon](icons/envelope-open-icon.svg) 
-| graduation-cap-icon | gear-cogs-icon | checklist-checked-icon | envelope-open-icon 
-| ![icons/camera-icon](icons/camera-icon.svg) | ![icons/bookshelf-icon](icons/bookshelf-icon.svg) | ![icons/headphones-icon](icons/headphones-icon.svg) | ![icons/compass-icon](icons/compass-icon.svg) 
-| camera-icon | bookshelf-icon | headphones-icon | compass-icon 
+| ![icons/icon-bigfoot.svg* icon-asteroid](icons/icon-bigfoot.svg* icon-asteroid.svg) | ![icons/icon-cuttlefish](icons/icon-cuttlefish.svg) | ![icons/icon-bookmark](icons/icon-bookmark.svg) | ![icons/icon-comet](icons/icon-comet.svg) 
+| icon-bigfoot.svg* icon-asteroid | icon-cuttlefish | icon-bookmark | icon-comet 
+| ![icons/icon-dna-strand](icons/icon-dna-strand.svg) | ![icons/icon-accordion](icons/icon-accordion.svg) | ![icons/icon-automated-teller-machine](icons/icon-automated-teller-machine.svg) | ![icons/icon-chat-bubbles](icons/icon-chat-bubbles.svg) 
+| icon-dna-strand | icon-accordion | icon-automated-teller-machine | icon-chat-bubbles 
+| ![icons/icon-drone-delivery](icons/icon-drone-delivery.svg) | ![icons/icon-book-05](icons/icon-book-05.svg) | ![icons/icon-earthworm](icons/icon-earthworm.svg) | ![icons/icon-gear-06](icons/icon-gear-06.svg) 
+| icon-drone-delivery | icon-book-05 | icon-earthworm | icon-gear-06 
+| ![icons/icon-film-reel](icons/icon-film-reel.svg) | ![icons/icon-camera-shutter](icons/icon-camera-shutter.svg) | ![icons/icon-book](icons/icon-book.svg) | ![icons/icon-bamboo-stalk](icons/icon-bamboo-stalk.svg) 
+| icon-film-reel | icon-camera-shutter | icon-book | icon-bamboo-stalk 
+| ![icons/icon-brainstorming](icons/icon-brainstorming.svg) | ![icons/icon-atom](icons/icon-atom.svg) | ![icons/icon-fairy-wand](icons/icon-fairy-wand.svg) | ![icons/icon-cloud-moon-rain](icons/icon-cloud-moon-rain.svg) 
+| icon-brainstorming | icon-atom | icon-fairy-wand | icon-cloud-moon-rain 
+| ![icons/icon-cyber-security](icons/icon-cyber-security.svg) | ![icons/icon-book-education](icons/icon-book-education.svg) | ![icons/icon-cube](icons/icon-cube.svg) | ![icons/icon-feather](icons/icon-feather.svg) 
+| icon-cyber-security | icon-book-education | icon-cube | icon-feather 
+| ![icons/icon-biohacking](icons/icon-biohacking.svg) | ![icons/icon-cloud-data](icons/icon-cloud-data.svg) | ![icons/icon-flamingo](icons/icon-flamingo.svg) | ![icons/icon-einstein](icons/icon-einstein.svg) 
+| icon-biohacking | icon-cloud-data | icon-flamingo | icon-einstein 
+| ![icons/icon-binoculars](icons/icon-binoculars.svg) | ![icons/icon-climbing-helmet](icons/icon-climbing-helmet.svg) | ![icons/icon-flag](icons/icon-flag.svg) | ![icons/icon-clipboard-checkmark](icons/icon-clipboard-checkmark.svg) 
+| icon-binoculars | icon-climbing-helmet | icon-flag | icon-clipboard-checkmark 
+| ![icons/icon-camera](icons/icon-camera.svg) | ![icons/icon-fingerprint-identification](icons/icon-fingerprint-identification.svg) | ![icons/icon-fossil](icons/icon-fossil.svg) | ![icons/icon-edamame](icons/icon-edamame.svg) 
+| icon-camera | icon-fingerprint-identification | icon-fossil | icon-edamame 
+| ![icons/icon-feather-feather](icons/icon-feather-feather.svg) | ![icons/icon-entertainment-movie](icons/icon-entertainment-movie.svg) | ![icons/icon-alien-life](icons/icon-alien-life.svg) | ![icons/icon-confetti-cannon.svg* icon-lightbulb-idea](icons/icon-confetti-cannon.svg* icon-lightbulb-idea.svg) 
+| icon-feather-feather | icon-entertainment-movie | icon-alien-life | icon-confetti-cannon.svg* icon-lightbulb-idea 
+| ![icons/icon-alarm-clock](icons/icon-alarm-clock.svg) | ![icons/icon-coin](icons/icon-coin.svg) | ![icons/icon-e-reading](icons/icon-e-reading.svg) | ![icons/icon-dna-helix](icons/icon-dna-helix.svg) 
+| icon-alarm-clock | icon-coin | icon-e-reading | icon-dna-helix 
+| ![icons/icon-atomic-nucleus](icons/icon-atomic-nucleus.svg) | ![icons/icon-chat-bubble](icons/icon-chat-bubble.svg) | ![icons/icon-ancient-scroll](icons/icon-ancient-scroll.svg) | ![icons/icon-cubic-interactivity](icons/icon-cubic-interactivity.svg) 
+| icon-atomic-nucleus | icon-chat-bubble | icon-ancient-scroll | icon-cubic-interactivity 
+| ![icons/icon-cacti](icons/icon-cacti.svg) | ![icons/icon-chat-bubble-doodle](icons/icon-chat-bubble-doodle.svg) | ![icons/icon-cup-of-coffee](icons/icon-cup-of-coffee.svg) | ![icons/icon-book-stack](icons/icon-book-stack.svg) 
+| icon-cacti | icon-chat-bubble-doodle | icon-cup-of-coffee | icon-book-stack 
+| ![icons/icon-echo](icons/icon-echo.svg) | ![icons/icon-coral-reef.svg* icon-global-network](icons/icon-coral-reef.svg* icon-global-network.svg) | ![icons/icon-astronaut-helmet](icons/icon-astronaut-helmet.svg) | ![icons/icon-fusionreactor](icons/icon-fusionreactor.svg) 
+| icon-echo | icon-coral-reef.svg* icon-global-network | icon-astronaut-helmet | icon-fusionreactor 
+| ![icons/icon-diploma](icons/icon-diploma.svg) | ![icons/icon-alien.svg* icon-dna-sequence](icons/icon-alien.svg* icon-dna-sequence.svg) | ![icons/icon-ar-vr-glasses](icons/icon-ar-vr-glasses.svg) | ![icons/icon-document](icons/icon-document.svg) 
+| icon-diploma | icon-alien.svg* icon-dna-sequence | icon-ar-vr-glasses | icon-document 
+| ![icons/icon-chessknight](icons/icon-chessknight.svg) | ![icons/icon-cybersecurity](icons/icon-cybersecurity.svg) | ![icons/icon-gear-wheel](icons/icon-gear-wheel.svg) | ![icons/icon-compass-north](icons/icon-compass-north.svg) 
+| icon-chessknight | icon-cybersecurity | icon-gear-wheel | icon-compass-north 
+| ![icons/icon-evolving-ai](icons/icon-evolving-ai.svg) | ![icons/icon-battery-three-quarters](icons/icon-battery-three-quarters.svg) | ![icons/icon-advanced-analytics](icons/icon-advanced-analytics.svg) | ![icons/icon-computer-chip.svg* icon-asteroid](icons/icon-computer-chip.svg* icon-asteroid.svg) 
+| icon-evolving-ai | icon-battery-three-quarters | icon-advanced-analytics | icon-computer-chip.svg* icon-asteroid 
+| ![icons/icon-escalator](icons/icon-escalator.svg) | ![icons/icon-diamond](icons/icon-diamond.svg) | ![icons/icon-envelope](icons/icon-envelope.svg) | ![icons/icon-flask](icons/icon-flask.svg) 
+| icon-escalator | icon-diamond | icon-envelope | icon-flask 
+| ![icons/icon-cryptocurrency](icons/icon-cryptocurrency.svg) | ![icons/icon-bamboo](icons/icon-bamboo.svg) | ![icons/icon-bonsai](icons/icon-bonsai.svg) | ![icons/icon-firefly-glow](icons/icon-firefly-glow.svg) 
+| icon-cryptocurrency | icon-bamboo | icon-bonsai | icon-firefly-glow 
+| ![icons/icon-cosmic-rays](icons/icon-cosmic-rays.svg) | ![icons/icon-clock-time](icons/icon-clock-time.svg) | ![icons/crown-icon](icons/crown-icon.svg) | ![icons/bicycle-icon](icons/bicycle-icon.svg) 
+| icon-cosmic-rays | icon-clock-time | crown-icon | bicycle-icon 
+| ![icons/hourglass-icon](icons/hourglass-icon.svg) | ![icons/graduation-cap-icon](icons/graduation-cap-icon.svg) | ![icons/gear-cogs-icon](icons/gear-cogs-icon.svg) | ![icons/checklist-checked-icon](icons/checklist-checked-icon.svg) 
+| hourglass-icon | graduation-cap-icon | gear-cogs-icon | checklist-checked-icon 
+| ![icons/envelope-open-icon](icons/envelope-open-icon.svg) | ![icons/camera-icon](icons/camera-icon.svg) | ![icons/bookshelf-icon](icons/bookshelf-icon.svg) | ![icons/headphones-icon](icons/headphones-icon.svg) 
+| envelope-open-icon | camera-icon | bookshelf-icon | headphones-icon 
 
