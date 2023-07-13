@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-adventure">
+  <path d="M10 20L20 30L30 20L40 30L50 20" stroke-width="2" stroke="black" fill="none"/>
+  <circle cx="30" cy="15" r="10" stroke="black" stroke-width="2" fill="none"/>
+  <rect x="25" y="5" width="10" height="10" stroke="black" stroke-width="2" fill="none"/>
+</svg>

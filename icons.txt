@@ -1865,4 +1865,18 @@
 * icon-kimono.svg
 * icon-deep-sea-diving.svg
 * icon-antique-clock.svg
-* icon-volcano.svg
+* icon-volcano.svg* icon-sailboat.svg
+* icon-astronaut.svg
+* icon-unicorn.svg
+* icon-lighthouse.svg
+* icon-abacus.svg
+* icon-pyramid.svg
+* icon-compassrose.svg
+* icon-quill.svg
+* icon-hotairballoon.svg
+* icon-polaroid.svg
+* icon-sextant.svg
+* icon-obelisk.svg
+* icon-pentagon.svg
+* icon-hammock.svg
+* icon-scroll.svg
