@@ -1963,4 +1963,18 @@
 * icon-hydrogen-fuel.svg
 * icon-smart-city.svg
 * icon-ai-robot.svg
-* icon-virtual-reality.svg
+* icon-virtual-reality.svg* icon-quantum-computing.svg
+* icon-green-energy.svg
+* icon-VR-goggles.svg
+* icon-biofuel.svg
+* icon-nano-technology.svg
+* icon-drone-delivery.svg
+* icon-e-waste.svg
+* icon-3d-printing.svg
+* icon-genetic-engineering.svg
+* icon-telemedicine.svg
+* icon-space-tourism.svg
+* icon-sustainable-architecture.svg
+* icon-smart-glasses.svg
+* icon-autonomous-vehicles.svg
+* icon-digital-currency.svg

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-caffeine-molecule">
+    <circle class="dot" cx="12" cy="8" r="2"/>
+    <circle class="dot" cx="16" cy="14" r="2"/>
+    <circle class="dot" cx="8" cy="14" r="2"/>
+    <circle class="dot" cx="12" cy="20" r="2"/>
+    <line class="link" x1="12" y1="10" x2="12" y2="18"/>
+    <line class="link" x1="12" y1="18" x2="16" y2="16"/>
+    <line class="link" x1="12" y1="18" x2="8" y2="16"/>
+    <line class="link" x1="12" y1="10" x2="16" y2="12"/>
+    <line class="link" x1="12" y1="10" x2="8" y2="12"/>
+</svg>
