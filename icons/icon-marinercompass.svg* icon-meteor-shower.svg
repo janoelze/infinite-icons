@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-marinercompass.svg icon-meteor-shower">
+  <!-- Comet Icon (meteor) starts -->
+  <path d="M16 0C9.9 8.1 0.1 15.9 0 23.8 6.1 32.9 16 40.9 16 48h8c0-7.1 9.9-15.9 16-23.8-7.1-8.9-16-15.7-16-23.8h-8z"/>
+  <!-- Comet Icon (meteor) ends -->
+
+  <!-- Compass Icon starts -->
+  <path d="M32 0C14.4 0 0 14.4 0 32s14.4 32 32 32 32-14.4 32-32S49.6 0 32 0zm0 60C17.6 60 4 46.4 4 32S17.6 4 32 4s28 13.6 28 28-13.6 28-28 28z"/>
+  <path d="M45.3 18.7l-11.6 4.7-4.7 11.6-11.6-4.7 4.7-11.6L41.5 12c.2-.1.5-.2.7-.2.7 0 1.3 .5 1.5 1.2.3 1 .2 2-.2 2.9l-1.2 2.8zM32 22c1.7 0 3 1.3 3 3s-1.3 3-3 3-3-1.3-3-3 1.3-3 3-3z"/>
+  <!-- Compass Icon ends -->
+</svg>

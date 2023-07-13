@@ -1,0 +1,5 @@
+<svg class="icon icon-book-flame" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
+  <path d="M20 2H4a2 2 0 0 0 -2 2v12a2 2 0 0 0 2 2h16a2 2 0 0 0 2 -2V4a2 2 0 0 0 -2 -2zm-1 10l-1 -1l-1 1v4l1 -1l1 1v-4"></path>
+  <path class="icon-fire" d="M10.948 22C7 22 5 19.5 5 15.5S7.582 10 11 11.236"></path>
+</svg>

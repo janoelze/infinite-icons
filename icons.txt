@@ -2131,4 +2131,18 @@
 * icon-virtualrealityheadset.svg
 * icon-3Dprinting.svg
 * icon-augmentedrealityglasses.svg
-* icon-dronecamera.svg
+* icon-dronecamera.svg* icon-submarine.svg
+* icon-compassrose.svg
+* icon-treehouse.svg
+* icon-crystalball.svg
+* icon-timecapsule.svg
+* icon-dragonfly.svg
+* icon-constellation.svg
+* icon-abacus.svg
+* icon-kaleidoscope.svg
+* icon-pocketwatch.svg
+* icon-polaroid.svg
+* icon-journey.svg
+* icon-origami.svg
+* icon-antiquekey.svg
+* icon-sundial.svg
