@@ -2397,4 +2397,18 @@
 * icon-iceroad.svg
 * icon-nebulacloud.svg
 * icon-mysticmirror.svg
-* icon-clockworkgears.svg
+* icon-clockworkgears.svg* icon-data-encryption.svg
+* icon-cloud-networking.svg
+* icon-social-impact.svg
+* icon-adaptive-learning.svg
+* icon-drone-delivery.svg
+* icon-voice-assistant.svg
+* icon-virtual-reality.svg
+* icon-biometric-authentication.svg
+* icon-blockchain-technology.svg
+* icon-machine-learning.svg
+* icon-sustainable-energy.svg
+* icon-digital-nomad.svg
+* icon-crowdfunding.svg
+* icon-cyber-security.svg
+* icon-artificial-intelligence.svg
