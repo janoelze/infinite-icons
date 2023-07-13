@@ -1571,4 +1571,18 @@
 * icon-campfire.svg
 * icon-totem.svg
 * icon-lightbulb.svg
-* icon-time-machine.svg
+* icon-time-machine.svg* icon-wireless-charging.svg
+* icon-bookshelf.svg
+* icon-fingerprint-authorization.svg
+* icon-virtual-reality.svg
+* icon-solar-panel.svg
+* icon-audio-book.svg
+* icon-thread-sewing.svg
+* icon-microscope.svg
+* icon-scuba-diving.svg
+* icon-tree-seedling.svg
+* icon-cardboard-recycling.svg
+* icon-espresso-machine.svg
+* icon-thermometer-cold.svg
+* icon-wind-turbine.svg
+* icon-lightbulb-energy-saving.svg
