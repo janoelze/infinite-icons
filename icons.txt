@@ -1305,4 +1305,18 @@
 * icon-quantum.svg
 * icon-spacetime.svg
 * icon-inflation.svg
-* icon-gravitywaves.svg
+* icon-gravitywaves.svg* icon-gears.svg
+* icon-hot-air-balloon.svg
+* icon-film-reel.svg
+* icon-treasure-chest.svg
+* icon-ice-cream-cone.svg
+* icon-lightbulb.svg
+* icon-atomic-structure.svg
+* icon-hang-gliding.svg
+* icon-bonsai-tree.svg
+* icon-swiss-knife.svg
+* icon-roller-coaster.svg
+* icon-honeycomb.svg
+* icon-lighthouse.svg
+* icon-telescope.svg
+* icon-ancient-pyramid.svg

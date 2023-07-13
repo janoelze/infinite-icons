@@ -1,0 +1,5 @@
+<svg version="1.1" id="icon-atom" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" viewBox="0 0 50 50" class="icon icon-atom">
+    <circle cx="25" cy="25" r="10" class="icon-atom__particle"/>
+    <path d="M25,0A25,25 0,1,0,25,50A25,25 0,1,0,25,0" class="icon-atom__orbit"/>
+    <path d="M0,25A25,25,45 0,1,50,25A25,25,45 0,1,0,25" class="icon-atom__orbit"/>
+</svg>
