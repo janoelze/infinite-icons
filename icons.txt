@@ -955,4 +955,18 @@
 * icon-monocle.svg
 * icon-telescope.svg
 * icon-pyramid.svg
-* icon-volcano.svg
+* icon-volcano.svg* icon-molecule.svg
+* icon-compost-bin.svg
+* icon-retro-jukebox.svg
+* icon-speed-skating.svg
+* icon-constellation-map.svg
+* icon-cargo-ship.svg
+* icon-conductor-baton.svg
+* icon-hieroglyphs.svg
+* icon-steel-drum.svg
+* icon-childbirth.svg
+* icon-helical-staircase.svg
+* icon-carpentry-saw.svg
+* icon-automated-teller-machine.svg
+* icon-architect-blueprint.svg
+* icon-paddleboard.svg
