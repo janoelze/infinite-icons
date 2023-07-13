@@ -2607,4 +2607,18 @@
 * icon-origami-bird.svg
 * icon-pirate-flag.svg
 * icon-quill-ink.svg
-* icon-rabbit-hole.svg
+* icon-rabbit-hole.svg* icon-forest.svg
+* icon-kaleidoscope.svg
+* icon-sundial.svg
+* icon-origami.svg
+* icon-hotairballoon.svg
+* icon-telescope.svg
+* icon-obelisk.svg
+* icon-cobblestone.svg
+* icon-tombstone.svg
+* icon-silkhat.svg
+* icon-featherquill.svg
+* icon-papyrus.svg
+* icon-cashregister.svg
+* icon-monocle.svg
+* icon-finch.svg
