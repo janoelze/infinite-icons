@@ -1795,4 +1795,18 @@
 * icon-lunar-rover.svg
 * icon-metropolis-skyline.svg
 * icon-neutron-star.svg
-* icon-opalescent-pearl.svg
+* icon-opalescent-pearl.svg* icon-artichoke.svg
+* icon-cupcake.svg
+* icon-snowflake.svg
+* icon-tortoise.svg
+* icon-asteroid.svg
+* icon-flamingo.svg
+* icon-redwood.svg
+* icon-pythagoras.svg
+* icon-paintbrush.svg
+* icon-tango.svg
+* icon-molecule.svg
+* icon-grapefruit.svg
+* icon-geysir.svg
+* icon-volcano.svg
+* icon-meerkat.svg
