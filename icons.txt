@@ -2117,4 +2117,18 @@
 * icon-beer-stein.svg
 * icon-venus-flytrap.svg
 * icon-knight-chess.svg
-* icon-crystal-ball.svg
+* icon-crystal-ball.svg* icon-digitalpuzzle.svg
+* icon-cybersecuritylock.svg
+* icon-globenetwork.svg
+* icon-quantumcomputer.svg
+* icon-futuristiccar.svg
+* icon-digitalwallet.svg
+* icon-greenenergy.svg
+* icon-spaceexploration.svg
+* icon-nanotechnology.svg
+* icon-biometricaccess.svg
+* icon-geneticediting.svg
+* icon-virtualrealityheadset.svg
+* icon-3Dprinting.svg
+* icon-augmentedrealityglasses.svg
+* icon-dronecamera.svg
