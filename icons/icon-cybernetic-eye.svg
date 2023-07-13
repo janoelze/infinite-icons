@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-cybernetic-eye">
+    <path d="M12,4C6.48,4,2,7.58,2,12s4.48,8,10,8s10-3.58,10-8S17.52,4,12,4z M12,20c-4.41,0-8-2.69-8-6s3.59-6,8-6 s8,2.69,8,6S16.41,20,12,20z"></path>
+    <circle cx="12" cy="12" r="3"></circle>
+</svg>

@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-crosshair-target">
+  <circle cx="12" cy="12" r="10" class="primary"/>
+  <path class="secondary" d="M22 12h-6m-4 0H2m12-4V2m0 16v6"/>
+</svg>

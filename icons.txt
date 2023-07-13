@@ -2621,4 +2621,18 @@
 * icon-papyrus.svg
 * icon-cashregister.svg
 * icon-monocle.svg
-* icon-finch.svg
+* icon-finch.svg* icon-satellite.svg
+* icon-dna-sequence.svg
+* icon-planetarium.svg
+* icon-galaxy.svg
+* icon-lecture-microphone.svg
+* icon-bee-hive.svg
+* icon-hot-air-balloon.svg
+* icon-unicycle.svg
+* icon-sand-timer.svg
+* icon-microscope.svg
+* icon-snowflake.svg
+* icon-unlocked-padlock.svg
+* icon-campfire.svg
+* icon-alien.svg
+* icon-psychedelic-mushroom.svg
