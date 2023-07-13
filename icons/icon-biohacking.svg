@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-biohacking">
+  <path d="M0 0h24v24H0z" fill="none"/>
+  <path d="M3 9v6a3 3 0 0 0 6 0V9H3zm14 0v6a3 3 0 0 0 6 0V9h-6z" fill="currentColor"/>
+  <circle cx="12" cy="4" r="4" fill="currentColor"/>
+  <path d="M12 19v3h-2v-3a1.978 1.978 0 0 0-1-.6V17h4v1.4a1.978 1.978 0 0 0-1 .6z" fill="currentColor"/>
+</svg>

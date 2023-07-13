@@ -1641,4 +1641,18 @@
 * icon-anchor-anchor.svg
 * icon-spatula-spatula.svg
 * icon-pipe-pipe.svg
-* icon-cogs-cogs.svg
+* icon-cogs-cogs.svg* icon-GlobalCollaboration.svg
+* icon-CloudSecurity.svg
+* icon-CreativeProcess.svg
+* icon-DigitalCurrency.svg
+* icon-VirtualReality.svg
+* icon-DataMining.svg
+* icon-SmartCity.svg
+* icon-QuantumComputing.svg
+* icon-DroneDelivery.svg
+* icon-AiRobotics.svg
+* icon-EcoSustainability.svg
+* icon-GeneticEngineering.svg
+* icon-SpaceExploration.svg
+* icon-3DPrinting.svg
+* icon-BioHacking.svg
