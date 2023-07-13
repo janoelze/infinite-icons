@@ -1669,4 +1669,18 @@
 * icon-cyber-security.svg
 * icon-future-city.svg
 * icon-autonomous-vehicle.svg
-* icon-space-exploration.svg
+* icon-space-exploration.svg* icon-thermal-cup.svg
+* icon-vinyl-record.svg
+* icon-antique-lantern.svg
+* icon-magnet-pull.svg
+* icon-space-rocket.svg
+* icon-diving-goggles.svg
+* icon-robot-arm.svg
+* icon-cloud-lightning.svg
+* icon-command-console.svg
+* icon-origami-bird.svg
+* icon-archery-target.svg
+* icon-proton.svg
+* icon-chameleon.svg
+* icon-astronaut-helmet.svg
+* icon-dodecahedron.svg
