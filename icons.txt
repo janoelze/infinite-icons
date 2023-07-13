@@ -2047,4 +2047,18 @@
 * icon-data-analysis.svg
 * icon-fingerprint-sensor.svg
 * icon-facial-recognition.svg
-* icon-smartphone-integration.svg
+* icon-smartphone-integration.svg* icon-cogwheel.svg
+* icon-envelope-open.svg
+* icon-cafe-cup.svg
+* icon-leaf.svg
+* icon-pawprint.svg
+* icon-terminal.svg
+* icon-circuit-board.svg
+* icon-tooth.svg
+* icon-crane.svg
+* icon-chemistry-beaker.svg
+* icon-anchor.svg
+* icon-telescope.svg
+* icon-cash-register.svg
+* icon-rocket.svg
+* icon-gear-shift.svg
