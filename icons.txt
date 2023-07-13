@@ -1529,4 +1529,18 @@
 * icon-flask.svg
 * icon-obelisk.svg
 * icon-meteor.svg
-* icon-lighthouse.svg
+* icon-lighthouse.svg* icon-magnifying-glass.svg
+* icon-gear-wheel.svg
+* icon-music-note.svg
+* icon-rocket-ship.svg
+* icon-flamingo.svg
+* icon-dna-strand.svg
+* icon-anchor.svg
+* icon-chart-bar.svg
+* icon-broken-heart.svg
+* icon-microchip.svg
+* icon-cactus.svg
+* icon-lightbulb-off.svg
+* icon-golf-ball.svg
+* icon-ice-cream-cone.svg
+* icon-tornado.svg
