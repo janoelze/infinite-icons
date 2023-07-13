@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" class="icon icon-organicfarming">
+    <path d="M16,2C9.4,2,4,7.4,4,14h12C16,7.7,16.1,2.4,16,2L16,2z"/>
+    <path d="M20,14h8c0,7.7-6.3,14-14,14v-2c6.6,0,12-5.4,12-12L20,14L20,14z"/>
+    <path d="M9,23v2c-4.9,0-9-4.1-9-9h2C2,19.9,5.1,23,9,23L9,23z"/>
+    <path d="M14,27h2v3h-2V27z"/>
+    <path d="M0,16h3v2H0V16z"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg width="50" height="50" class="icon icon-psychedelic-art">
+    <circle cx="25" cy="25" r="20" stroke-width="2" stroke="black" fill="none"/>
+    <path d="M25 5 Q 40 25 25 45 Q 10 25 25 5 Z" stroke="blue" fill="none"/>
+    <path d="M25 5 Q 15 20 25 35 Q 35 20 25 5 Z" stroke="red" fill="none"/>
+    <path d="M15 15 Q 25 25 35 35" stroke="green" fill="none"/>
+    <path d="M35 15 Q 25 25 15 35" stroke="purple" fill="none"/>
+</svg>

@@ -2593,4 +2593,18 @@
 * icon-sundial.svg
 * icon-mars-rover.svg
 * icon-hieroglyph.svg
-* icon-constellation.svg
+* icon-constellation.svg* icon-antenna.svg
+* icon-crystal-ball.svg
+* icon-fishing-rod.svg
+* icon-graffiti-spray.svg
+* icon-hiking-boots.svg
+* icon-invisible-ink.svg
+* icon-jupiter.svg
+* icon-koala.svg
+* icon-love-letter.svg
+* icon-mushroom.svg
+* icon-ninja-star.svg
+* icon-origami-bird.svg
+* icon-pirate-flag.svg
+* icon-quill-ink.svg
+* icon-rabbit-hole.svg
