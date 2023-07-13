@@ -1837,4 +1837,18 @@
 * icon-invisible.svg
 * icon-papyrus.svg
 * icon-spinning-top.svg
-* icon-spiral-staircase.svg
+* icon-spiral-staircase.svg* icon-umbrella.svg
+* icon-satellite.svg
+* icon-firefly.svg
+* icon-cactus.svg
+* icon-kebab.svg
+* icon-kettlebell.svg
+* icon-yo-yo.svg
+* icon-porcupine.svg
+* icon-geyser.svg
+* icon-snowflake.svg
+* icon-cobblestone.svg
+* icon-locomotive.svg
+* icon-moth.svg
+* icon-candelabra.svg
+* icon-saddle.svg
