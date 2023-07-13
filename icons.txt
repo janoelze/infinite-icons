@@ -1263,4 +1263,18 @@
 * icon-circuit-board.svg
 * icon-apollo-landing.svg
 * icon-pharaoh-mask.svg
-* icon-giant-telescope.svg
+* icon-giant-telescope.svg* icon-doughnut.svg
+* icon-origami-bird.svg
+* icon-robot-arm.svg
+* icon-lotus-flower.svg
+* icon-binoculars.svg
+* icon-anchor.svg
+* icon-accordion.svg
+* icon-fountain-pen.svg
+* icon-trebuchet.svg
+* icon-quill.svg
+* icon-glacier.svg
+* icon-compass-rose.svg
+* icon-caboose.svg
+* icon-microscope.svg
+* icon-pawprint.svg
