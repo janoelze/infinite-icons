@@ -1851,4 +1851,18 @@
 * icon-locomotive.svg
 * icon-moth.svg
 * icon-candelabra.svg
-* icon-saddle.svg
+* icon-saddle.svg* icon-solar-system.svg
+* icon-camouflage.svg
+* icon-laboratory.svg
+* icon-quill.svg
+* icon-mammoth.svg
+* icon-jack-in-the-box.svg
+* icon-aquarium.svg
+* icon-mosquito.svg
+* icon-obelisk.svg
+* icon-chameleon.svg
+* icon-ouija-board.svg
+* icon-kimono.svg
+* icon-deep-sea-diving.svg
+* icon-antique-clock.svg
+* icon-volcano.svg
