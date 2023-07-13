@@ -2481,4 +2481,18 @@
 * icon-origami.svg
 * icon-electric-guitar.svg
 * icon-spaceship.svg
-* icon-cigarette.svg
+* icon-cigarette.svg* icon-thermometer.svg
+* icon-satellite.svg
+* icon-origami.svg
+* icon-kaleidoscope.svg
+* icon-obelisk.svg
+* icon-net.svg
+* icon-jigsaw.svg
+* icon-igloo.svg
+* icon-hydrant.svg
+* icon-globe.svg
+* icon-fountain.svg
+* icon-escalator.svg
+* icon-dartboard.svg
+* icon-compass.svg
+* icon-bee.svg

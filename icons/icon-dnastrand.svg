@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-dnastrand" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M5 3.13v4.16c1.6 .23 2.8 1.02 4 2.22l3 3a14.3 14.3 0 0 1 4-2.32V3.13A2 2 0 0 0 14.3 2a22.6 22.6 0 0 0-4.6 0A2 2 0 0 0 8.7 3.13z"></path>
+  <path d="M6.3 1H6a2 2 0 0 0-2 2v6.2C7 12 12 21 12 21v-8"></path>
+  <path d="M12 2.07A7.8 7.8 0 0 0 11.2 0h-1a8 8 0 0 0-.5 11v11"></path>
+  <line x1="12" y1="21" x2="12" y2="12"></line>
+  <line x1="12" y1="6" x2="20" y2="6"></line>
+  <line x1="12" y1="0" x2="20" y2="0"></line>
+</svg>
