@@ -1333,4 +1333,18 @@
 * icon-laboratory-flask.svg
 * icon-telescope.svg
 * icon-satellite.svg
-* icon-radar.svg
+* icon-radar.svg* icon-helicopter.svg
+* icon-totempoll.svg
+* icon-kaleidoscope.svg
+* icon-igloo.svg
+* icon-alien.svg
+* icon-telescope.svg
+* icon-marionette.svg
+* icon-spacestation.svg
+* icon-telegraph.svg
+* icon-guillotine.svg
+* icon-coralreef.svg
+* icon-papyrus.svg
+* icon-geyser.svg
+* icon-quicksand.svg
+* icon-levitation.svg
