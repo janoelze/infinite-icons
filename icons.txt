@@ -1613,4 +1613,18 @@
 * icon-stethoscope.svg
 * icon-cactus.svg
 * icon-beaker-flask.svg
-* icon-aztec-pyramid.svg
+* icon-aztec-pyramid.svg* icon-global-interaction.svg
+* icon-quantum-computing.svg
+* icon-virtual-reality.svg
+* icon-energy-conservation.svg
+* icon-quantum-entanglement.svg
+* icon-nanotechnology.svg
+* icon-machine-learning.svg
+* icon-carbon-footprint.svg
+* icon-space-exploration.svg
+* icon-biodiversity.svg
+* icon-artificial-intelligence.svg
+* icon-dna-sequencing.svg
+* icon-drone-delivery.svg
+* icon-telemedicine.svg
+* icon-sustainable-agriculture.svg
