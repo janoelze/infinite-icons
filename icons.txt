@@ -1361,4 +1361,18 @@
 * icon-zodiac.svg
 * icon-coralreef.svg
 * icon-shieldmaiden.svg
-* icon-cybernetic.svg
+* icon-cybernetic.svg* icon-octagon.svg
+* icon-parachute.svg
+* icon-gecko.svg
+* icon-piston.svg
+* icon-meteor.svg
+* icon-kaleidoscope.svg
+* icon-axe.svg
+* icon-mammoth.svg
+* icon-diode.svg
+* icon-obelisk.svg
+* icon-compass.svg
+* icon-saturn.svg
+* icon-galaxy.svg
+* icon-tesseract.svg
+* icon-oracle.svg
