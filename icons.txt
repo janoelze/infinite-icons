@@ -1935,4 +1935,18 @@
 * icon-fountainpen.svg
 * icon-lantern.svg
 * icon-scroll.svg
-* icon-marinercompass.svg
+* icon-marinercompass.svg* icon-meteor-shower.svg
+* icon-tribal-mask.svg
+* icon-bubble-tea.svg
+* icon-quill-ink.svg
+* icon-steam-engine.svg
+* icon-space-elevator.svg
+* icon-ancient-pyramid.svg
+* icon-underground-mole.svg
+* icon-origami-crane.svg
+* icon-solar-system.svg
+* icon-arctic-fox.svg
+* icon-grape-vine.svg
+* icon-digital-matrix.svg
+* icon-analog-cassette.svg
+* icon-jazz-saxophone.svg
