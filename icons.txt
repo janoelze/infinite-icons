@@ -2145,4 +2145,18 @@
 * icon-journey.svg
 * icon-origami.svg
 * icon-antiquekey.svg
-* icon-sundial.svg
+* icon-sundial.svg* icon-dataencryption.svg
+* icon-cloudmigration.svg
+* icon-fingerprintverification.svg
+* icon-3Dprinting.svg
+* icon-drone.svg
+* icon-virtualreality.svg
+* icon-biomimicry.svg
+* icon-wirelesscharging.svg
+* icon-augmentedreality.svg
+* icon-artificialintelligence.svg
+* icon-nanotechnology.svg
+* icon-quantumcomputing.svg
+* icon-geolocation-tracking.svg
+* icon-smartcity.svg
+* icon-blockchain.svg
