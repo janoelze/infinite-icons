@@ -1767,4 +1767,18 @@
 * icon-feather-duster.svg
 * icon-antique-key.svg
 * icon-paintbrush-dripping.svg
-* icon-gramophone-disc.svg
+* icon-gramophone-disc.svg* icon-data-encryption.svg
+* icon-cloud-computing.svg
+* icon-advanced-analytics.svg
+* icon-virtual-reality.svg
+* icon-mobile-apps.svg
+* icon-cybersecurity.svg
+* icon-social-network.svg
+* icon-video-streaming.svg
+* icon-e-commerce.svg
+* icon-ai-technology.svg
+* icon-email-marketing.svg
+* icon-blockchain.svg
+* icon-digital-advertising.svg
+* icon-location-services.svg
+* icon-robotics.svg
