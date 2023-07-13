@@ -927,4 +927,18 @@
 * icon-music-vinyl-record.svg
 * icon-astronaut-helmet.svg
 * icon-cryptocurrency-bitcoin.svg
-* icon-alien-encounter.svg
+* icon-alien-encounter.svg* icon-abyss.svg
+* icon-briarpatch.svg
+* icon-cryptogram.svg
+* icon-dandelion.svg
+* icon-echo.svg
+* icon-foxtrot.svg
+* icon-grainsack.svg
+* icon-havoc.svg
+* icon-inkwell.svg
+* icon-jackal.svg
+* icon-kaleidoscope.svg
+* icon-labyrinth.svg
+* icon-moonstone.svg
+* icon-nexus.svg
+* icon-osprey.svg
