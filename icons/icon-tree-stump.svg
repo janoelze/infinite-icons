@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-tree-stump">
+    <path d="M2 19h20v2H2z"/>
+    <path d="M4 15h16v2H4z"/>
+    <path d="M8 13V7h2a2 2 0 0 0 4 0h2v6H8z"/>
+    <path fill="none" d="M13 13h-2v4h2v-4z"/>
+</svg>

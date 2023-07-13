@@ -1179,4 +1179,18 @@
 * icon-global-interconnection.svg
 * icon-big-data-analysis.svg
 * icon-cyber-security.svg
-* icon-digital-transformation.svg
+* icon-digital-transformation.svg* icon-cactus.svg
+* icon-wind-turbine.svg
+* icon-galaxy.svg
+* icon-pirate-ship.svg
+* icon-mountain-bike.svg
+* icon-origami-bird.svg
+* icon-treehouse.svg
+* icon-abyss.svg
+* icon-shooting-star.svg
+* icon-mayan-calendar.svg
+* icon-sandcastle.svg
+* icon-meteorite.svg
+* icon-unicycle.svg
+* icon-lighthouse.svg
+* icon-confetti-cannon.svg

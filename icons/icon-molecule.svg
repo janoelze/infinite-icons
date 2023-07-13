@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-molecule" viewBox="0 0 24 24">
+  <circle cx="12" cy="12" r="3" />
+  <circle cx="12" cy="5" r="3" />
+  <circle cx="5" cy="12" r="3" />
+  <circle cx="19" cy="12" r="3" />
+  <path d="M12 15l0 4 0 0" />
+  <path d="M12 9l0 -4 0 0" />
+  <path d="M8 12l-3 0 0 0" />
+  <path d="M16 12l3 0 0 0" />
+ </svg>
