@@ -1515,4 +1515,18 @@
 * icon-abyss.svg
 * icon-root-system.svg
 * icon-quantum-computer.svg
-* icon-postal-pigeon.svg
+* icon-postal-pigeon.svg* icon-astrology.svg
+* icon-microchip.svg
+* icon-abacus.svg
+* icon-anvil.svg
+* icon-hotairballoon.svg
+* icon-oasis.svg
+* icon-periscope.svg
+* icon-papyrus.svg
+* icon-lumberjack.svg
+* icon-quill.svg
+* icon-cavalry.svg
+* icon-flask.svg
+* icon-obelisk.svg
+* icon-meteor.svg
+* icon-lighthouse.svg
