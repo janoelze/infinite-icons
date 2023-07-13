@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-quantum-computer">
+  <path d="M2,6V18a1,1,0,0,0,1,1H9a1,1,0,0,0,1-1V6a1,1,0,0,0-1-1H3A1,1,0,0,0,2,6Z"/>
+  <path d="M14,5V19a1,1,0,0,0,1,1h6a1,1,0,0,0,1-1V5a1,1,0,0,0-1-1H15A1,1,0,0,0,14,5Z"/>
+  <circle cx="6" cy="12" r="2"/>
+  <circle cx="18" cy="12" r="2"/>
+  <line x1="8" y1="12" x2="16" y2="12"/>
+</svg>

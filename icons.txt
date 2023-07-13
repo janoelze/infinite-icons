@@ -1277,4 +1277,18 @@
 * icon-compass-rose.svg
 * icon-caboose.svg
 * icon-microscope.svg
-* icon-pawprint.svg
+* icon-pawprint.svg* icon-global-communication.svg
+* icon-cyber-security.svg
+* icon-cloud-storage.svg
+* icon-advanced-analytics.svg
+* icon-virtual-reality.svg
+* icon-digital-transformation.svg
+* icon-smart-home.svg
+* icon-quantum-computing.svg
+* icon-green-energy.svg
+* icon-medical-innovation.svg
+* icon-artificial-intelligence.svg
+* icon-sustainable-living.svg
+* icon-cryptocurrency.svg
+* icon-3d-printing.svg
+* icon-data-privacy.svg
