@@ -1151,4 +1151,18 @@
 * icon-lyre.svg
 * icon-sundial.svg
 * icon-weightscale.svg
-* icon-origamibird.svg
+* icon-origamibird.svg* icon-satellite.svg
+* icon-pi.svg
+* icon-nanobot.svg
+* icon-wormhole.svg
+* icon-quasar.svg
+* icon-photon.svg
+* icon-sonicboom.svg
+* icon-nebula.svg
+* icon-digital-key.svg
+* icon-laser-beam.svg
+* icon-photon-belt.svg
+* icon-blackhole.svg
+* icon-qubit.svg
+* icon-cosmic-rays.svg
+* icon-virtual-reality.svg
