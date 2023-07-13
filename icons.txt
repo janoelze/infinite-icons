@@ -2173,4 +2173,18 @@
 * icon-fossil.svg
 * icon-fern.svg
 * icon-pangolin.svg
-* icon-obsidian.svg
+* icon-obsidian.svg* icon-quantum-computing.svg
+* icon-bioluminescence.svg
+* icon-telescope.svg
+* icon-encrypted-data.svg
+* icon-molecular-structure.svg
+* icon-blackhole.svg
+* icon-alien-life.svg
+* icon-energy-conservation.svg
+* icon-light-speed.svg
+* icon-fusion-energy.svg
+* icon-microbiome.svg
+* icon-neuron-network.svg
+* icon-sound-wave.svg
+* icon-cosmic-ray.svg
+* icon-climate-change.svg
