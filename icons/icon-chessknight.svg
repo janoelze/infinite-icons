@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-chessknight">
+  <path d="M0 0h24v24H0z" fill="none"/>
+  <path d="M2 11h2V7a2 2 0 012-2h3V1h2v2a2 2 0 012 2v3h1.5a3.5 3.5 0 012.245 6.06l-.195.135a1.994 1.994 0 01-.311.818l-.02.04a4.992 4.992 0 01-.749.972l1.853 1.962a2 2 0 11-1.463.805l-1.808-1.916-1.71 1H6a1 1 0 01-1-1v-5l1-1V7H4a2 2 0 00-2 2v2z"/>
+</svg>

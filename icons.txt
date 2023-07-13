@@ -1711,4 +1711,18 @@
 * icon-tesseract.svg
 * icon-neural-network.svg
 * icon-quantum-computer.svg
-* icon-plasma-lamp.svg
+* icon-plasma-lamp.svg* icon-space-shuttle.svg
+* icon-moon-crater.svg
+* icon-snake-charmer.svg
+* icon-origami-crane.svg
+* icon-neon-sign.svg
+* icon-locomotive.svg
+* icon-telescope.svg
+* icon-wind-turbine.svg
+* icon-asteroid.svg
+* icon-castle.svg
+* icon-gondola.svg
+* icon-dna.svg
+* icon-quill-ink.svg
+* icon-vinyl-record.svg
+* icon-mermaid.svg
