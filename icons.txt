@@ -1011,4 +1011,18 @@
 * icon-origami.svg
 * icon-jackhammer.svg
 * icon-corn-maze.svg
-* icon-space-station.svg
+* icon-space-station.svg* icon-exploration.svg
+* icon-texture.svg
+* icon-quicksand.svg
+* icon-melody.svg
+* icon-avalanche.svg
+* icon-dusk.svg
+* icon-cascade.svg
+* icon-nebula.svg
+* icon-panorama.svg
+* icon-zenith.svg
+* icon-valley.svg
+* icon-illusion.svg
+* icon-epiphany.svg
+* icon-labyrinth.svg
+* icon-mariner.svg
