@@ -1417,4 +1417,18 @@
 * icon-exoplanet-discovery.svg
 * icon-neural-network.svg
 * icon-virtual-reality-headset.svg
-* icon-wormhole.svg
+* icon-wormhole.svg* icon-dna-sequence.svg
+* icon-nebula.svg
+* icon-black-hole.svg
+* icon-quantum-computer.svg
+* icon-thermodynamics.svg
+* icon-invisible-hand.svg
+* icon-higgs-boson.svg
+* icon-string-theory.svg
+* icon-galaxy-cluster.svg
+* icon-nanotech.svg
+* icon-telescope.svg
+* icon-hologram.svg
+* icon-teletransportation.svg
+* icon-futuristic-city.svg
+* icon-digital-twin.svg
