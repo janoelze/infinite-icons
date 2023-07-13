@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-cardboard-recycling" viewBox="0 0 24 24">
+    <path d="M21 2H3a1 1 0 0 0-1 1v4h1V4h18v16H3v-2H2v3a1 1 0 0 0 1 1h18a1 1 0 0 0 1-1V3a1 1 0 0 0-1-1z"/>
+    <path d="M6 6h5V5H6V6zm6 0h5V5h-5v1zm0 6h5v-1h-5v1zm-6 0h5v-1H6v1zm0 6h5v-1H6v1zm6 0h5v-1h-5v1z"/>
+    <path d="M12 14a2 2 0 0 1 2-2h3.586l-1.293-1.293a.999.999 0 1 1 1.414-1.414l3 3a.999.999 0 0 1 0 1.414l-3 3a.997.997 0 0 1-1.414 0 .999.999 0 0 1 0-1.414L17.586 16H14a2 2 0 0 1-2-2z"/>
+</svg>

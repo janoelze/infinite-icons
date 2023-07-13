@@ -1,0 +1,5 @@
+<svg class="icon icon-anvil" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+    <path d="M21,14H3a1,1,0,0,1-1-1V8a1,1,0,0,1,1-1H21a1,1,0,0,1,1,1v5A1,1,0,0,1,21,14Zm0-2H3V9H21v3Z"/>
+    <path d="M12,22a2,2,0,0,1-2-2H9V16h6v4h-1A2,2,0,0,1,12,22Z"/>
+    <path d="M9,16H15a1,1,0,0,1,1,1v1H8v-1A1,1,0,0,1,9,16Z"/>
+</svg>

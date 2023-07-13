@@ -1991,4 +1991,18 @@
 * icon-six-pointed-star.svg
 * icon-hamburger-menu.svg
 * icon-french-fries.svg
-* icon-asteroid-space.svg
+* icon-asteroid-space.svg* icon-digital-key.svg
+* icon-cloud-lightning.svg
+* icon-finger-swipe.svg
+* icon-jigsaw-piece.svg
+* icon-crosshair-target.svg
+* icon-lava-lamp.svg
+* icon-flamingo.svg
+* icon-steampunk-goggles.svg
+* icon-rainbow-keyboard.svg
+* icon-gramophone.svg
+* icon-infinity-loop.svg
+* icon-quantum-computer.svg
+* icon-molotov-cocktail.svg
+* icon-bonsai-tree.svg
+* icon-ancient-scroll.svg
