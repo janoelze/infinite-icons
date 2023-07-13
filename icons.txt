@@ -1907,4 +1907,18 @@
 * icon-veganism.svg
 * icon-microplastic.svg
 * icon-psychedelic-therapy.svg
-* icon-carbon-footprint.svg
+* icon-carbon-footprint.svg* icon-cryptocurrency.svg
+* icon-fingerprint.svg
+* icon-dna.svg
+* icon-hologram.svg
+* icon-augmented-reality.svg
+* icon-drone.svg
+* icon-robot-arm.svg
+* icon-infrared.svg
+* icon-nanobot.svg
+* icon-quantum-computing.svg
+* icon-virtual-reality.svg
+* icon-smartgrid.svg
+* icon-prosthetic-limb.svg
+* icon-self-driving-car.svg
+* icon-genetic-engineering.svg
