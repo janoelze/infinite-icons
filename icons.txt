@@ -2341,4 +2341,18 @@
 * icon-cyborg-hand.svg
 * icon-artificial-intelligence.svg
 * icon-space-rocket.svg
-* icon-hydrogen-atom.svg
+* icon-hydrogen-atom.svg* icon-macro-lens.svg
+* icon-pinecone.svg
+* icon-bioluminescence.svg
+* icon-spiral-galaxy.svg
+* icon-nanobot.svg
+* icon-hyperloop.svg
+* icon-watermelon-slice.svg
+* icon-camelopard.svg
+* icon-quasar.svg
+* icon-hologram.svg
+* icon-zephyr.svg
+* icon-quetzal.svg
+* icon-nebula.svg
+* icon-icicle.svg
+* icon-ophiuchus.svg

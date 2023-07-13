@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-biometric-sensor" viewBox="0 0 50 50">
+    <circle cx="50%" cy="50%" r="15" stroke="none" fill="black" />
+    <path d="M25 15 v20" stroke="white" stroke-width="5" fill="none" />
+    <path d="M15 25 h20" stroke="white" stroke-width="5" fill="none" />
+</svg>
