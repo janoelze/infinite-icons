@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-echo">
+  <circle cx="12" cy="12" r="10" stroke="currentColor" stroke-width="2" fill="none"/>
+  <path d="M12 6L12 18" stroke="currentColor" stroke-width="2"/>
+  <path d="M16 12L8 12" stroke="currentColor" stroke-width="2"/>
+</svg>

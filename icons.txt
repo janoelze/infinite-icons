@@ -1067,4 +1067,18 @@
 * icon-ankh-cross.svg
 * icon-atomic-nucleus.svg
 * icon-qr-code.svg
-* icon-coral-reef.svg
+* icon-coral-reef.svg* icon-global-network.svg
+* icon-cubic-interactivity.svg
+* icon-sunrise-landscape.svg
+* icon-blooming-flower.svg
+* icon-subway-travel.svg
+* icon-molecular-structure.svg
+* icon-ancient-pyramid.svg
+* icon-exploration-astronaut.svg
+* icon-kaleidoscope-pattern.svg
+* icon-genomic-sequence.svg
+* icon-quantum-computing.svg
+* icon-hurricane-forecast.svg
+* icon-bamboo-grove.svg
+* icon-maya-calendar.svg
+* icon-subatomic-particles.svg

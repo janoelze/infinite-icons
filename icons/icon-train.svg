@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-train">
+    <path d="M21 11V8a2 2 0 0 0-2-2h-2V2a1 1 0 0 0-1-1H8a1 1 0 0 0-1 1v4H5a2 2 0 0 0-2 2v3l-2 9v2h22v-2l-2-9zm-1 9H4l1.5-7h14L20 20zm-2-10H5V8h14v1z"/>
+    <circle cx="7" cy="22" r="2"/>
+    <circle cx="17" cy="22" r="2"/>
+</svg>
