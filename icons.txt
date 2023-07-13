@@ -1235,4 +1235,18 @@
 * icon-spaceexploration.svg
 * icon-musicwaves.svg
 * icon-gamingconsole.svg
-* icon-virtualreality.svg
+* icon-virtualreality.svg* icon-quantum-computing.svg
+* icon-digital-nomad.svg
+* icon-green-energy.svg
+* icon-coffee-beans.svg
+* icon-urban-gardening.svg
+* icon-virtual-reality-headset.svg
+* icon-falcon-rocket.svg
+* icon-crowdfunding.svg
+* icon-organic-cosmetics.svg
+* icon-hybrid-car.svg
+* icon-subscription-box.svg
+* icon-food-truck.svg
+* icon-drone-delivery.svg
+* icon-recycled-materials.svg
+* icon-brewery-craft-beer.svg
