@@ -1095,4 +1095,18 @@
 * icon-darkmatter.svg
 * icon-spaceelevator.svg
 * icon-quantumcomputer.svg
-* icon-cryonics.svg
+* icon-cryonics.svg* icon-rocketship.svg
+* icon-magnifyingglass.svg
+* icon-parachute.svg
+* icon-questionmark.svg
+* icon-diamond.svg 
+* icon-archivebox.svg
+* icon-barbell.svg
+* icon-dove.svg
+* icon-chessknight.svg
+* icon-curfewhour.svg
+* icon-atom.svg
+* icon-windrider.svg
+* icon-vanishingpoint.svg
+* icon-mimosaleaf.svg
+* icon-nauticalcompass.svg

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-sundial">
+  <circle cx="12" cy="12" r="10" fill="none" stroke="currentColor" stroke-width="2"/>
+  <line x1="12" y1="2" x2="12" y2="22" stroke="currentColor" stroke-width="2"/>
+  <line x1="2" y1="12" x2="22" y2="12" stroke="currentColor" stroke-width="2"/>
+  <polygon points="12 2 13 7 17 9 13 11 12 16 11 11 7 9 11 7" fill="none" stroke="currentColor" stroke-width="2"/>
+</svg>
