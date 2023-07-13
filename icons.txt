@@ -1137,4 +1137,18 @@
 * icon-diploma.svg
 * icon-lighthouse.svg
 * icon-obelisk.svg
-* icon-timecapsule.svg
+* icon-timecapsule.svg* icon-basketballhoop.svg
+* icon-crystalball.svg
+* icon-microscope.svg
+* icon-scubadiver.svg
+* icon-abacus.svg
+* icon-rollercoaster.svg
+* icon-peacepipe.svg
+* icon-treasurechest.svg
+* icon-quillpen.svg
+* icon-marionette.svg
+* icon-rocketlaunch.svg
+* icon-lyre.svg
+* icon-sundial.svg
+* icon-weightscale.svg
+* icon-origamibird.svg
