@@ -2509,4 +2509,18 @@
 * icon-virtual-reality.svg
 * icon-biohazard.svg
 * icon-rocket-ship.svg
-* icon-space-station.svg
+* icon-space-station.svg* icon-rocketlaunch.svg
+* icon-moonlight.svg
+* icon-cloudsync.svg
+* icon-flametorch.svg
+* icon-windcompass.svg
+* icon-leafdew.svg
+* icon-bottlemessage.svg
+* icon-lavalamp.svg
+* icon-paperscroll.svg
+* icon-electricbolt.svg
+* icon-roboticarm.svg
+* icon-spaceshuttle.svg
+* icon-musicalwaves.svg
+* icon-sportssneaker.svg
+* icon-3dglasses.svg

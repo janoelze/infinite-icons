@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-zodiac-signs">
+  <circle cx="25" cy="25" r="20" stroke="black" fill="#FFFFFF"/>
+  <text x="20" y="30" font-size="18px">♈︎</text>
+  <circle cx="75" cy="25" r="20" stroke="black" fill="#FFFFFF"/>
+  <text x="70" y="30" font-size="18px">♉︎</text>
+  <circle cx="25" cy="75" r="20" stroke="black" fill="#FFFFFF"/>
+  <text x="20" y="80" font-size="18px">♊︎</text>
+  <circle cx="75" cy="75" r="20" stroke="black" fill="#FFFFFF"/>
+  <text x="70" y="80" font-size="18px">♋︎</text>
+  <line x1="25" y1="25" x2="25" y2="0" style="stroke:rgb(0,0,0);stroke-width:1"/>
+  <line x1="75" y1="25" x2="75" y2="0" style="stroke:rgb(0,0,0);stroke-width:1"/>
+  <line x1="25" y1="75" x2="25" y2="100" style="stroke:rgb(0,0,0);stroke-width:1"/>
+  <line x1="75" y1="75" x2="75" y2="100" style="stroke:rgb(0,0,0);stroke-width:1"/>
+</svg>
