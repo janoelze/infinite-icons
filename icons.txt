@@ -1627,4 +1627,18 @@
 * icon-dna-sequencing.svg
 * icon-drone-delivery.svg
 * icon-telemedicine.svg
-* icon-sustainable-agriculture.svg
+* icon-sustainable-agriculture.svg* icon-quill-quill.svg
+* icon-droplet-droplet.svg
+* icon-bulb-bulb.svg
+* icon-dice-dice.svg
+* icon-medal-medal.svg
+* icon-helm-helm.svg
+* icon-crown-crown.svg
+* icon-globe-globe.svg
+* icon-telescope-telescope.svg
+* icon-feather-feather.svg
+* icon-compass-compass.svg
+* icon-anchor-anchor.svg
+* icon-spatula-spatula.svg
+* icon-pipe-pipe.svg
+* icon-cogs-cogs.svg
