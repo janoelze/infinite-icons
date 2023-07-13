@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-blockchain-network" viewBox="0 0 32 32">
+  <circle cx="6" cy="16" r="5" stroke="black" fill="none"/>
+  <circle cx="26" cy="16" r="5" stroke="black" fill="none"/>
+  <circle cx="16" cy="6" r="5" stroke="black" fill="none"/>
+  <circle cx="16" cy="26" r="5" stroke="black" fill="none"/>
+  <line x1="8.66" y1="13.66" x2="13.334" y2="8.665" stroke="black"/>
+  <line x1="8.66" y1="18.33" x2="13.334" y2="23.335" stroke="black"/>
+  <line x1="23.33" y1="13.665" x2="18.665" y2="8.665" stroke="black"/>
+  <line x1="23.33" y1="18.335" x2="18.665" y2="23.335" stroke="black"/>
+</svg>

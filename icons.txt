@@ -2327,4 +2327,18 @@
 * icon-tentacle.svg
 * icon-lightning-bolt.svg
 * icon-origami-crane.svg
-* icon-moon-phases.svg
+* icon-moon-phases.svg* icon-gears-mechanism.svg
+* icon-quantum-computer.svg
+* icon-microscope-observation.svg
+* icon-satellite-dish.svg
+* icon-analytical-pyramid.svg
+* icon-virtual-reality.svg
+* icon-3d-printer.svg
+* icon-nano-technology.svg
+* icon-astronaut-helmet.svg
+* icon-galaxy-view.svg
+* icon-time-travel.svg
+* icon-cyborg-hand.svg
+* icon-artificial-intelligence.svg
+* icon-space-rocket.svg
+* icon-hydrogen-atom.svg
