@@ -1193,4 +1193,18 @@
 * icon-meteorite.svg
 * icon-unicycle.svg
 * icon-lighthouse.svg
-* icon-confetti-cannon.svg
+* icon-confetti-cannon.svg* icon-lightbulb-idea.svg
+* icon-cloud-computing.svg
+* icon-biometric-fingerprint.svg
+* icon-satellite-dish.svg
+* icon-artificial-intelligence.svg
+* icon-nuclear-energy.svg
+* icon-genome-editing.svg
+* icon-augmented-reality.svg
+* icon-virtual-reality.svg
+* icon-quantum-computing.svg
+* icon-blockchain-network.svg
+* icon-robotic-arm.svg
+* icon-drone-delivery.svg
+* icon-solar-panel.svg
+* icon-3d-printer.svg
