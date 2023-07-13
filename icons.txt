@@ -1683,4 +1683,18 @@
 * icon-proton.svg
 * icon-chameleon.svg
 * icon-astronaut-helmet.svg
-* icon-dodecahedron.svg
+* icon-dodecahedron.svg* icon-rocket-launch.svg
+* icon-iceberg.svg
+* icon-falling-star.svg
+* icon-puzzle-piece.svg
+* icon-bicycle-gear.svg
+* icon-telescope.svg
+* icon-hypnosis-spiral.svg
+* icon-quill-ink.svg
+* icon-vintage-compass.svg
+* icon-maze.svg
+* icon-sunflower.svg
+* icon-hot-air-balloon.svg
+* icon-fossil.svg
+* icon-solar-panel.svg
+* icon-scuba-mask.svg

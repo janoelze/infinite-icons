@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="icon-speech-bubble-07" class="icon icon-speech-bubble-07">
+    <rect x="25" y="25" width="50" height="50" stroke="black" fill="transparent" stroke-width="2"/>
+    <polygon points="50,75 60,85 70,75" stroke="black" fill="transparent" stroke-width="2"/>
+    <text x="45" y="55" font-size="20" text-anchor="middle" fill="black">T</text>
+</svg>
