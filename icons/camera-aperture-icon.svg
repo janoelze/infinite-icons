@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon camera-aperture-icon" viewBox="0 0 24 24">
+  <path d="M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="12" cy="12" r="3" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M2.22144 4.92604L3.17157 3.97591L8.36396 9.1683L7.41413 10.1184L2.22144 4.92604Z" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M2.22144 19.0739L7.41413 13.8816L8.36396 14.8317L3.17157 19.0241L2.22144 19.0739Z" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M21.7786 4.92604L16.586 9.1683L15.6361 10.1184L20.8285 3.97591L21.7786 4.92604Z" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M21.7786 19.0739L20.8285 19.0241L15.6361 14.8317L16.586 13.8816L21.7786 19.0739Z" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

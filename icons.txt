@@ -1893,4 +1893,18 @@
 * icon-hybrid-car.svg
 * icon-satellite.svg
 * icon-exoplanet.svg
-* icon-neural-network.svg
+* icon-neural-network.svg* icon-data-cloud.svg
+* icon-quantum-computer.svg
+* icon-eco-energy.svg
+* icon-virtual-reality.svg
+* icon-pandemic-mask.svg
+* icon-drone-delivery.svg
+* icon-ai-robot.svg
+* icon-genome-edit.svg
+* icon-galaxy-explorer.svg
+* icon-social-justice.svg
+* icon-deep-web.svg 
+* icon-veganism.svg
+* icon-microplastic.svg
+* icon-psychedelic-therapy.svg
+* icon-carbon-footprint.svg
