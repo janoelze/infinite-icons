@@ -1921,4 +1921,18 @@
 * icon-smartgrid.svg
 * icon-prosthetic-limb.svg
 * icon-self-driving-car.svg
-* icon-genetic-engineering.svg
+* icon-genetic-engineering.svg* icon-shipwheel.svg
+* icon-sundial.svg
+* icon-featherquill.svg
+* icon-papyrus.svg
+* icon-ouroboros.svg
+* icon-gearcog.svg
+* icon-constellation.svg
+* icon-vintagemicrophone.svg
+* icon-compassrose.svg
+* icon-oldprojector.svg
+* icon-hourglass.svg
+* icon-fountainpen.svg
+* icon-lantern.svg
+* icon-scroll.svg
+* icon-marinercompass.svg
