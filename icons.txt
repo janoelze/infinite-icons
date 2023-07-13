@@ -2635,4 +2635,18 @@
 * icon-unlocked-padlock.svg
 * icon-campfire.svg
 * icon-alien.svg
-* icon-psychedelic-mushroom.svg
+* icon-psychedelic-mushroom.svg* icon-globe-rotating.svg
+* icon-mailbox-open.svg
+* icon-microscope-zoom.svg
+* icon-dumbbell-lift.svg
+* icon-laptop-code.svg
+* icon-earthquake-seismograph.svg
+* icon-dna-helix.svg
+* icon-karaoke-microphone.svg
+* icon-satellite-orbit.svg
+* icon-prism-light.svg
+* icon-bookshelf.svg
+* icon-telescope-view.svg
+* icon-rocket-launch.svg
+* icon-mail-encryption.svg
+* icon-heatmap.svg
