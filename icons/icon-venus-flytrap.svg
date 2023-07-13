@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-venus-flytrap">
+  <circle cx="50" cy="50" r="45" fill="#4CAF50"/>
+  <ellipse cx="50" cy="70" rx="20" ry="30" fill="#37474F"/>
+  <path d="M30,60 Q50,50 70,60" fill="none" stroke="#37474F" stroke-width="10"/>
+  <line x1="30" y1="60" x2="30" y2="80" stroke="#4CAF50" stroke-width="10"/>
+  <line x1="70" y1="60" x2="70" y2="80" stroke="#4CAF50" stroke-width="10"/>
+</svg>

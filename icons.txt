@@ -2075,4 +2075,18 @@
 * icon-quill.svg
 * icon-sundial.svg
 * icon-vineyard.svg
-* icon-joystick.svg
+* icon-joystick.svg* icon-meteor-shower.svg
+* icon-quill-ink.svg
+* icon-bonsai-tree.svg
+* icon-sunflower.svg
+* icon-viking-helmet.svg
+* icon-ancient-pyramid.svg
+* icon-space-satellite.svg
+* icon-rudder-ship.svg
+* icon-sundial.svg
+* icon-fossil.svg
+* icon-mayan-calendar.svg
+* icon-magnetic-compass.svg
+* icon-globe-stand.svg
+* icon-oriental-fan.svg
+* icon-wine-cork.svg
