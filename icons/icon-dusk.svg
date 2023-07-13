@@ -1,0 +1,15 @@
+<svg version="1.1" id="icon-dusk" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 50 50" class="icon icon-dusk">
+   
+    <!-- Representation of the sunset with disc and rays -->
+    <circle cx="25" cy="35" r="14" style="fill:#FFA500;"/>  <!--Sun-->
+
+    <!-- Rays of the sun -->
+    <line class="ray" x1="25" y1="21" x2="25" y2="1" style="stroke:#FFA500;stroke-width:2"/>
+    <line class="ray" x1="35" y1="24" x2="47" y2="10" style="stroke:#FFA500;stroke-width:2"/>
+    <line class="ray" x1="41" y1="35" x2="59" y2="35" style="stroke:#FFA500;stroke-width:2"/>
+    <line class="ray" x1="35" y1="46" x2="47" y2="60" style="stroke:#FFA500;stroke-width:2"/>
+
+    <!-- Representation of the horizon -->
+    <rect x="0" y="40" width="50" height="10" style="fill:#6B8E23;"/>  <!--Ground-->
+
+</svg>

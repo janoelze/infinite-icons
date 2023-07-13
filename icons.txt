@@ -2537,4 +2537,18 @@
 * icon-nano-tech.svg
 * icon-time-travel.svg
 * icon-genome-editing.svg
-* icon-futurism.svg
+* icon-futurism.svg* icon-shipwheel.svg
+* icon-grain.svg
+* icon-library.svg
+* icon-doublehelix.svg
+* icon-winsurfboard.svg
+* icon-toucan.svg
+* icon-saturn.svg
+* icon-stethoscope.svg
+* icon-futuristiccity.svg
+* icon-igloo.svg
+* icon-dumbbell.svg
+* icon-origami.svg
+* icon-aloe-vera.svg
+* icon-deer-antler.svg
+* icon-sundial.svg
