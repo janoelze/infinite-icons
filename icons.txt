@@ -2663,4 +2663,18 @@
 * icon-quantum-teleportation.svg
 * icon-neural-network.svg
 * icon-anti-aging.svg
-* icon-artificial-intelligence.svg
+* icon-artificial-intelligence.svg* icon-icecream.svg
+* icon-footprint.svg
+* icon-rockingchair.svg
+* icon-bamboo.svg
+* icon-quill.svg
+* icon-moonscape.svg
+* icon-breezeway.svg
+* icon-nest.svg
+* icon-peapod.svg
+* icon-fossil.svg
+* icon-cuckooclock.svg
+* icon-periscope.svg
+* icon-cactus.svg
+* icon-metrotrain.svg
+* icon-sculpture.svg
