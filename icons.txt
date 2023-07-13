@@ -2033,4 +2033,18 @@
 * icon-3d-printer.svg
 * icon-nuclear-reactor.svg
 * icon-psychedelic-art.svg
-* icon-dna-structure.svg
+* icon-dna-structure.svg* icon-data-encryption.svg
+* icon-cloud-refresh.svg
+* icon-infinite-scroller.svg
+* icon-file-inventory.svg
+* icon-social-networking.svg
+* icon-calendar-scheduler.svg
+* icon-mind-map.svg
+* icon-gps-locaion.svg
+* icon-quick-search.svg
+* icon-elearning.svg
+* icon-cyber-security.svg
+* icon-data-analysis.svg
+* icon-fingerprint-sensor.svg
+* icon-facial-recognition.svg
+* icon-smartphone-integration.svg
