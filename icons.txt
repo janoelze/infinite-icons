@@ -2005,4 +2005,18 @@
 * icon-quantum-computer.svg
 * icon-molotov-cocktail.svg
 * icon-bonsai-tree.svg
-* icon-ancient-scroll.svg
+* icon-ancient-scroll.svg* icon-octopus.svg
+* icon-compassrose.svg
+* icon-megaphone.svg
+* icon-abacus.svg
+* icon-albatross.svg
+* icon-kaleidoscope.svg
+* icon-tumbleweed.svg
+* icon-cactus.svg
+* icon-periscope.svg
+* icon-quill.svg
+* icon-chariot.svg
+* icon-sundial.svg
+* icon-obelisk.svg
+* icon-davincihelicopter.svg
+* icon-venusflytrap.svg
