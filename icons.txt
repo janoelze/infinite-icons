@@ -2369,4 +2369,18 @@
 * icon-space-rover.svg
 * icon-atomic.svg
 * icon-meteor-shower.svg
-* icon-eco-friendly.svg
+* icon-eco-friendly.svg* icon-microscope.svg
+* icon-atom.svg
+* icon-roulette-wheel.svg
+* icon-blueprint.svg
+* icon-abyss.svg
+* icon-albatross.svg
+* icon-kaleidoscope.svg
+* icon-petrified-wood.svg
+* icon-octopus.svg
+* icon-skyscraper.svg
+* icon-dark-matter.svg
+* icon-abyss.svg
+* icon-hang-glider.svg
+* icon-galaxy.svg
+* icon-windmill.svg
