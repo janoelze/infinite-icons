@@ -2285,4 +2285,18 @@
 * icon-quill-ink.svg
 * icon-bamboo-flute.svg
 * icon-egyptian-pyramid.svg
-* icon-shuriken.svg
+* icon-shuriken.svg* icon-globalinteraction.svg
+* icon-waterconservation.svg
+* icon-biometricauth.svg
+* icon-organicfarming.svg
+* icon-nanoengineering.svg
+* icon-greentechnology.svg
+* icon-mindfulness.svg
+* icon-quantumcomputing.svg
+* icon-inclusivity.svg
+* icon-digitaldetox.svg
+* icon-socialinnovation.svg
+* icon-zerowaste.svg
+* icon-oceanpreservation.svg
+* icon-creativecoding.svg
+* icon-neuralnetworks.svg

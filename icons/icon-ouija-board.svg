@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-ouija-board" viewBox="0 0 24 24">
+    <path fill="none" d="M0 0h24v24H0z"/>
+    <path d="M22 2H2v20h20V2zm-2 2v4H4V4h16zm-5 14h3v2h-2v-1H6v1H4v-2h3V7h2v2h4V7h2v2h4v9z"/>
+    <circle cx="9" cy="15" r="1"/>
+    <circle cx="15" cy="15" r="1"/>
+    <path d="M12 12h2v2h-2z"/>
+</svg>
