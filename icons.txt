@@ -1025,4 +1025,18 @@
 * icon-illusion.svg
 * icon-epiphany.svg
 * icon-labyrinth.svg
-* icon-mariner.svg
+* icon-mariner.svg* icon-space-rocket.svg
+* icon-organizer.svg
+* icon-treehouse.svg
+* icon-crystal-ball.svg
+* icon-dinosaur.svg
+* icon-biometric-scanner.svg
+* icon-nautical-wheel.svg
+* icon-teleport.svg
+* icon-quantum-computer.svg
+* icon-space-elevator.svg
+* icon-roman-helmet.svg
+* icon-telescope.svg
+* icon-lunar-rover.svg
+* icon-cybernetic-arm.svg
+* icon-alien.svg
