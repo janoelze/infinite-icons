@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-castle" viewBox="0 0 24 24">
+    <path d="M0 0h24v24H0z" fill="none"/>
+    <path d="M12 19v-7H8a1 1 0 0 0-1 1v5H5V8H3a1 1 0 0 0-1 1v11h4v-5h4v5h4v-5h4v5h4V9a1 1 0 0 0-1-1h-2v8h-2v-5a1 1 0 0 0-1-1h-4z"/>
+    <path d="M16 7V4a1 1 0 0 0-1-1h-2a1 1 0 0 0-1 1v3"/>
+</svg>

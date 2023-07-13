@@ -969,4 +969,18 @@
 * icon-carpentry-saw.svg
 * icon-automated-teller-machine.svg
 * icon-architect-blueprint.svg
-* icon-paddleboard.svg
+* icon-paddleboard.svg* icon-globe-wireframe.svg
+* icon-chat-bubble-doodle.svg
+* icon-liquor-bottle-outline.svg
+* icon-umbrella-raindrops.svg
+* icon-octopus-silhouette.svg
+* icon-hiking-boot-print.svg
+* icon-dna-helix.svg
+* icon-chili-pepper-flame.svg
+* icon-robot-head-outline.svg
+* icon-stack-of-books.svg
+* icon-planet-rings.svg
+* icon-cowboy-hat-waving.svg
+* icon-forest-tree-line.svg
+* icon-vintage-lantern.svg
+* icon-skeleton-key.svg
