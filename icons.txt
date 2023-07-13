@@ -2215,4 +2215,18 @@
 * icon-nebula.svg
 * icon-solarpanel.svg
 * icon-supernova.svg
-* icon-timecapsule.svg
+* icon-timecapsule.svg* icon-antenna.svg
+* icon-vortex.svg
+* icon-hyperspace.svg
+* icon-astrolabe.svg
+* icon-quasar.svg
+* icon-tesseract.svg
+* icon-chronosphere.svg
+* icon-quantum.svg
+* icon-nanobot.svg
+* icon-hologram.svg
+* icon-teleport.svg
+* icon-orionbelt.svg
+* icon-nebulas.svg
+* icon-singularity.svg
+* icon-dnaHelix.svg
