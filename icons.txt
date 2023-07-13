@@ -2019,4 +2019,18 @@
 * icon-sundial.svg
 * icon-obelisk.svg
 * icon-davincihelicopter.svg
-* icon-venusflytrap.svg
+* icon-venusflytrap.svg* icon-solar-system.svg
+* icon-atomic-energy.svg
+* icon-origami-bird.svg
+* icon-math-formula.svg
+* icon-philosophy-book.svg
+* icon-cryptocurrency.svg
+* icon-robotic-arm.svg
+* icon-graffiti-spray.svg
+* icon-astronaut-helmet.svg
+* icon-satellite-dish.svg
+* icon-quantum-computer.svg
+* icon-3d-printer.svg
+* icon-nuclear-reactor.svg
+* icon-psychedelic-art.svg
+* icon-dna-structure.svg
