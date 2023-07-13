@@ -2355,4 +2355,18 @@
 * icon-quetzal.svg
 * icon-nebula.svg
 * icon-icicle.svg
-* icon-ophiuchus.svg
+* icon-ophiuchus.svg* icon-global-connection.svg
+* icon-cloud-storage.svg
+* icon-velocity-meter.svg
+* icon-puzzle-piece.svg
+* icon-virtual-reality-goggles.svg
+* icon-biometric-scan.svg
+* icon-magnetic-field.svg
+* icon-quantum-computer.svg
+* icon-nanobot.svg
+* icon-satellite-dish.svg
+* icon-tectonic-plates.svg
+* icon-space-rover.svg
+* icon-atomic.svg
+* icon-meteor-shower.svg
+* icon-eco-friendly.svg

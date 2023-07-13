@@ -1,0 +1,6 @@
+<svg version="1.1" id="icon-food-restaurant" class="icon icon-food-restaurant" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 48 48" style="enable-background:new 0 0 48 48;" xml:space="preserve">
+<path d="M24,0c-6.627,0-12,5.373-12,12s5.373,12,12,12s12-5.373,12-12S30.627,0,24,0z M24,20c-4.418,0-8-3.582-8-8s3.582-8,8-8
+s8,3.582,8,8S28.418,20,24,20z" />
+<path d="M16,40c0-6.627-5.373-12-6-12H2c-1.105,0-2,0.895-2,2v10c0,1.105,0.895,2,2,2h8C10.627,42,16,36.627,16,40z" />
+<path d="M46,30h-8c-0.627,0-6,5.373-6,12c0-3.373,5.373-6,6-6h8c1.105,0,2-0.895,2-2V32C48,30.895,47.105,30,46,30z" />
+</svg>
