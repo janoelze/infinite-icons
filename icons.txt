@@ -1585,4 +1585,18 @@
 * icon-espresso-machine.svg
 * icon-thermometer-cold.svg
 * icon-wind-turbine.svg
-* icon-lightbulb-energy-saving.svg
+* icon-lightbulb-energy-saving.svg* icon-digital-clock.svg
+* icon-waveform.svg
+* icon-telescope.svg
+* icon-ice-cream.svg
+* icon-infinity.svg
+* icon-puzzle-piece.svg
+* icon-barbell.svg
+* icon-fuel-pump.svg
+* icon-satellite.svg
+* icon-quill.svg
+* icon-hot-air-balloon.svg
+* icon-metro.svg
+* icon-comet.svg
+* icon-podium.svg
+* icon-unicycle.svg
