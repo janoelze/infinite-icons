@@ -2229,4 +2229,18 @@
 * icon-orionbelt.svg
 * icon-nebulas.svg
 * icon-singularity.svg
-* icon-dnaHelix.svg
+* icon-dnaHelix.svg* icon-planet-galaxy.svg
+* icon-magic-wand.svg
+* icon-owl-wisdom.svg
+* icon-tornado-storm.svg
+* icon-snake-coil.svg
+* icon-chess-knight.svg
+* icon-repair-tools.svg
+* icon-quill-ink.svg
+* icon-hot-air-balloon.svg
+* icon-meteor-shower.svg
+* icon-rainforest-tree.svg
+* icon-telescope-view.svg
+* icon-art-palette.svg
+* icon-beehive-honey.svg
+* icon-lantern-light.svg

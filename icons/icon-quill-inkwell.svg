@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" class="icon icon-quill-inkwell">
+  <path d="M12 2m-6.364 6.364a8 8 0 0 1 12.728 0m0 0a8 8 0 0 1 0 11.314m0 0a8 8 0 0 1-12.728 0m12.728 0a8 8 0 0 1 0-11.314m-12.728 11.314a8 8 0 0 1 0-11.314M12 2v20M2 22h20M2 22a10 10 0 0 0 20 0"></path>
+  <path d="M12 2v6m0 0v6"></path>
+  <path d="M12 14l5-5-5-5-5 5z"></path>
+  <path d="M2 22v-6a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v6"></path>
+</svg>
