@@ -1165,4 +1165,18 @@
 * icon-blackhole.svg
 * icon-qubit.svg
 * icon-cosmic-rays.svg
-* icon-virtual-reality.svg
+* icon-virtual-reality.svg* icon-carbon-emission.svg
+* icon-mind-map.svg
+* icon-ar-vr-glasses.svg
+* icon-space-rocket.svg
+* icon-quantum-computing.svg
+* icon-nanotechnology.svg
+* icon-organic-farming.svg
+* icon-evolving-ai.svg
+* icon-dna-sequence.svg
+* icon-5g-network.svg
+* icon-green-energy.svg
+* icon-global-interconnection.svg
+* icon-big-data-analysis.svg
+* icon-cyber-security.svg
+* icon-digital-transformation.svg
