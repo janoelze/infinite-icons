@@ -1403,4 +1403,18 @@
 * icon-data-mining.svg
 * icon-cybersecurity.svg
 * icon-ai-automation.svg
-* icon-green-energy.svg
+* icon-green-energy.svg* icon-quantum-computer.svg
+* icon-global-temperature.svg
+* icon-genetic-sequence.svg
+* icon-nanotech-gears.svg
+* icon-time-travel.svg
+* icon-eco-footprint.svg
+* icon-astronaut-helmet.svg
+* icon-quantum-tunneling.svg
+* icon-rocket-launch.svg
+* icon-holographic-display.svg
+* icon-artificial-intelligence.svg
+* icon-exoplanet-discovery.svg
+* icon-neural-network.svg
+* icon-virtual-reality-headset.svg
+* icon-wormhole.svg

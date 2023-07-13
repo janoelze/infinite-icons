@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-globe-travel">
+    <circle cx="12" cy="12" r="10" fill="none" stroke="currentColor" stroke-width="2"/>
+    <path d="M2,12h20" fill="none" stroke="currentColor" stroke-width="2"/>
+    <path d="M12,2v20" fill="none" stroke="currentColor" stroke-width="2"/>
+    <path d="M12,2a10,10,0,0,0,0,20" fill="none" stroke="currentColor" stroke-width="2"/>
+    <polyline points="22 10 19 5 12 2 5 5 2 10" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/>
+    <polyline points="2 14 5 19 12 22 19 19 22 14" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/>
+</svg>

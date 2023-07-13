@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-mountain-night-snow">
+  <circle cx="12" cy="12" r="10" fill="none"/>
+  <polygon points="12,2 2,20 22,20" fill="none"/>
+  <circle cx="12" cy="12" r="3" fill="none"/>
+  <circle cx="7" cy="17" r="2" fill="none"/>
+  <circle cx="16" cy="17" r="2" fill="none"/>
+</svg>
