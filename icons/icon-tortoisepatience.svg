@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tortoisepatience" viewBox="0 0 24 24">
+    <path d="M2,9h20c0,5.5-4.5,10-10,10S2,14.5,2,9z"/>
+    <path d="M19,9a7,7,0,0,0-14,0"/>
+    <path d="M12,5a9,9,0,0,1,0,14"/>
+    <circle cx="12" cy="8" r="1"/>
+    <circle cx="12" cy="10" r="1"/>
+    <circle cx="12" cy="12" r="1"/>
+</svg>

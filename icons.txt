@@ -3027,4 +3027,18 @@
 * icon-sandcastle.svg
 * icon-tumbleweed.svg
 * icon-raindrop.svg
-* icon-papyrus.svg
+* icon-papyrus.svg* icon-data-analysis.svg
+* icon-microscope-research.svg
+* icon-green-energy.svg
+* icon-peace-dove.svg
+* icon-satellite-dish.svg
+* icon-unmanned-aerial-vehicle.svg
+* icon-advanced-robotics.svg
+* icon-modern-farming.svg
+* icon-medical-innovation.svg
+* icon-virtual-reality.svg
+* icon-smart-city.svg
+* icon-eco-friendly-car.svg
+* icon-wireless-charging.svg
+* icon-smart-home.svg
+* icon-cloud-computing.svg

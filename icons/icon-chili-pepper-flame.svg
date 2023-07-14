@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="icon icon-chili-pepper-flame">
+    <path d="M6 22C4.89543 22 4 21.1046 4 20V4C4 2.89543 4.89543 2 6 2H18C19.1046 2 20 2.89543 20 4V20C20 21.1046 19.1046 22 18 22H6Z" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M10.375 10.375C11.1426 9.60745 12.0008 9.00012 13 9C14.4747 9 15.9486 9.8683 16.625 10.875C17.8432 12.4159 17.8423 14.5844 16.625 16.125C15.9484 17.1317 14.4745 18 13 18C12.0008 18 11.1426 17.3926 10.375 16.625C9.60745 15.8574 9.00013 15 9 14C9 12.5255 9.8683 11.0518 10.375 10.375Z" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M6 9L9 12" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M18 16L15 13" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
