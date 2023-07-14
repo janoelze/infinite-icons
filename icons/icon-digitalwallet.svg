@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-digitalwallet" viewBox="0 0 24 24">
+    <path d="M3 3h18v18H3V3z" fill="none"></path>
+    <path d="M3 7h18V5H3v2zm0 4h18V9H3v2zm0 4h18v-2H3v2z"></path>
+    <circle cx="7.5" cy="16.5" r="1.5"></circle>
+    <circle cx="16.5" cy="16.5" r="1.5"></circle>
+    <path d="M3 13h18v-2H3v2z"></path>
+</svg>

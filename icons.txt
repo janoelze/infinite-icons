@@ -3139,4 +3139,18 @@
 * icon-fossil.svg
 * icon-quill.svg
 * icon-liana.svg
-* icon-nebula.svg
+* icon-nebula.svg* icon-rainbow.svg
+* icon-compassrose.svg
+* icon-spacehelmet.svg
+* icon-cactus.svg
+* icon-digitalwatch.svg
+* icon-rollerblade.svg
+* icon-spatula.svg
+* icon-barbell.svg
+* icon-lavalamplight.svg
+* icon-origamicrane.svg
+* icon-antiquekey.svg
+* icon-quillpen.svg
+* icon-treasurechest.svg
+* icon-mandala.svg
+* icon-pigeonpost.svg
