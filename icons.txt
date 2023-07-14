@@ -3867,4 +3867,18 @@
 * icon-space-elevator.svg
 * icon-steam-train.svg
 * icon-artificial-intelligence.svg
-* icon-bluetech-goggles.svg
+* icon-bluetech-goggles.svg* icon-cryptography.svg
+* icon-space-rocket.svg
+* icon-nuclear-energy.svg
+* icon-fractal-pattern.svg
+* icon-night-vision.svg
+* icon-stealth.svg
+* icon-underwater-explore.svg
+* icon-microscopic-view.svg
+* icon-fusion-reactor.svg
+* icon-alien-lifeform.svg
+* icon-extraterrestrial.svg
+* icon-quantum-computing.svg
+* icon-ancient-civilization.svg
+* icon-time-travel.svg
+* icon-parallel-universe.svg
