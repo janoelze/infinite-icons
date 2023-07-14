@@ -2719,4 +2719,18 @@
 * icon-3d-printer.svg
 * icon-electric-car.svg
 * icon-drone-delivery.svg
-* icon-eco-friendly.svg
+* icon-eco-friendly.svg* icon-world-domination.svg
+* icon-cryptic-cipher.svg
+* icon-quantum-computing.svg
+* icon-eco-biome.svg
+* icon-invisible-cloak.svg
+* icon-stellar-exploration.svg
+* icon-cosmic-energy.svg
+* icon-time-travel.svg
+* icon-astrological-align.svg
+* icon-pixel-perfection.svg
+* icon-alien-communication.svg
+* icon-urban-rebellion.svg
+* icon-silicon-intelligence.svg
+* icon-hive-social.svg
+* icon-quantum-entanglement.svg
