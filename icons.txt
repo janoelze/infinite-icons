@@ -4147,4 +4147,18 @@
 * icon-sundial.svg
 * icon-cactus.svg
 * icon-hot-air-balloon.svg
-* icon-polaroid-camera.svg
+* icon-polaroid-camera.svg* icon-ancient-scroll.svg
+* icon-bioluminescent-lamp.svg
+* icon-quantum-computer.svg
+* icon-space-elevator.svg
+* icon-fossil-ammonite.svg
+* icon-mayan-pyramid.svg
+* icon-nebula-galaxy.svg
+* icon-hemlock-tree.svg 
+* icon-pterodactyl-silhouette.svg
+* icon-alchemist-lab.svg
+* icon-submersible-vehicle.svg
+* icon-rotating-gears.svg
+* icon-gothic-cathedral.svg
+* icon-interstellar-ship.svg
+* icon-sand-hourglass.svg
