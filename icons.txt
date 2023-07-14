@@ -4105,4 +4105,18 @@
 * icon-mayanpyramid.svg
 * icon-sushimaki.svg
 * icon-stormcloud.svg
-* icon-quantumcomputer.svg
+* icon-quantumcomputer.svg* icon-ancient-scroll.svg
+* icon-quantum-computer.svg
+* icon-mayan-pyramid.svg
+* icon-digital-globe.svg
+* icon-wind-turbine.svg
+* icon-microscopic-cells.svg
+* icon-galactic-cluster.svg
+* icon-medieval-castle.svg
+* icon-nuclear-fusion.svg
+* icon-meteor-shower.svg
+* icon-virtual-reality-headset.svg
+* icon-geothermal-plant.svg
+* icon-vintage-compass.svg
+* icon-rocket-launch.svg
+* icon-holographic-display.svg
