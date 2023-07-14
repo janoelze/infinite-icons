@@ -3573,4 +3573,18 @@
 * icon-crystal-ball.svg
 * icon-codex.svg
 * icon-oil-lamp.svg
-* icon-treasure-chest.svg
+* icon-treasure-chest.svg* icon-quantum-computer.svg
+* icon-biohazard.svg
+* icon-satellite.svg
+* icon-nanobot.svg
+* icon-antimatter.svg
+* icon-alien.svg
+* icon-blackhole.svg
+* icon-time-machine.svg
+* icon-cloning.svg
+* icon-rocket.svg
+* icon-exoplanet.svg
+* icon-supernova.svg
+* icon-asteroid.svg
+* icon-quantum-leap.svg
+* icon-Big-Bang.svg
