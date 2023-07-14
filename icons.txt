@@ -4007,4 +4007,18 @@
 * icon-artificial-intelligence.svg
 * icon-planetary-gear.svg
 * icon-galaxy.svg
-* icon-dna-sequence.svg
+* icon-dna-sequence.svg* icon-recipe-book.svg
+* icon-digital-compass.svg
+* icon-plant-leaf.svg
+* icon-code-bracket.svg
+* icon-vinyl-record.svg
+* icon-space-rocket.svg
+* icon-quantum-computer.svg
+* icon-origami-bird.svg
+* icon-cupcake.svg
+* icon-pirate-ship.svg
+* icon-peacock-feather.svg
+* icon-dna-helix.svg
+* icon-digital-globe.svg
+* icon-laboratory-flask.svg
+* icon-guitar-pick.svg
