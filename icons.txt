@@ -3251,4 +3251,18 @@
 * icon-neural-network.svg
 * icon-hologram.svg
 * icon-virtual-reality.svg
-* icon-asteroid.svg
+* icon-asteroid.svg* icon-dna.svg
+* icon-lunar-phase.svg
+* icon-quill.svg
+* icon-nebula.svg
+* icon-digital-twin.svg
+* icon-swirl.svg
+* icon-origami.svg
+* icon-fossil.svg
+* icon-jigsaw-piece.svg
+* icon-magic-wand.svg
+* icon-centaur.svg
+* icon-equalizer.svg
+* icon-dodecahedron.svg
+* icon-geode.svg
+* icon-unicorn.svg

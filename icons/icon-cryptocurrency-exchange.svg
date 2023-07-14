@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-cryptocurrency-exchange">
+<path d="M12 1v2"></path>
+<circle cx="12" cy="6" r="5"></circle>
+<path d="M12 11v2"></path>
+<path d="M4.22 2.878l1.415 1.415"></path>
+<line x1="1" y1="1" x2="23" y2="23"></line>
+<path d="M12 21v2"></path>
+<circle cx="12" cy="16" r="5"></circle>
+<path d="M12 11v2"></path>
+<path d="M19.78 20.122l1.415 -1.415"></path>
+</svg>
