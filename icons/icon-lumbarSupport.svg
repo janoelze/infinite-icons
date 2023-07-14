@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" class="icon icon-lumbarSupport">
+  <path d="M25,10 Q30,15 25,20 Q20,15 25,10" fill="none" stroke="black"/>
+  <path d="M20,20 Q25,30 30,20" fill="none" stroke="black"/>
+  <circle cx="25" cy="35" r="5" stroke="black" fill="none"/>
+</svg>

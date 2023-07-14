@@ -3839,4 +3839,18 @@
 * icon-genie-lamp.svg
 * icon-cave-painting.svg
 * icon-Mayan-calendar.svg
-* icon-space-elevator.svg
+* icon-space-elevator.svg* icon-global-connection.svg
+* icon-cloud-computing.svg
+* icon-secure-shield.svg
+* icon-envelope-open.svg
+* icon-bookmark-tag.svg
+* icon-wallet-money.svg
+* icon-recycle-bin.svg
+* icon-rocket-launch.svg
+* icon-human-brain.svg
+* icon-analytic-graph.svg
+* icon-auction-hammer.svg
+* icon-compass-navigate.svg
+* icon-user-secret.svg
+* icon-trophy-award.svg
+* icon-umbrella-weather.svg
