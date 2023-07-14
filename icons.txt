@@ -4455,4 +4455,18 @@
 * icon-temporal-wormhole.svg
 * icon-infrared-vision.svg
 * icon-ninja-shuriken.svg
-* icon-origami-crane.svg
+* icon-origami-crane.svg* icon-quantum-computer.svg
+* icon-nanotech.svg
+* icon Orionnebula.svg
+* icon-astrolabe.svg
+* icon-spectrometer.svg
+* icon-hologram.svg
+* icon-cosmic-rays.svg
+* icon-pulsar.svg
+* icon-neutrino.svg
+* icon-quantum-entanglement.svg
+* icon-light-spectrum.svg
+* icon-superconductor.svg
+* icon-quasar.svg
+* icon-dna-helix.svg
+* icon-black-hole.svg
