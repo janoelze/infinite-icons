@@ -3461,4 +3461,18 @@
 * icon-sushi-roll.svg
 * icon-ox-cart.svg
 * icon-pirate-flag.svg
-* icon-open-suitcase.svg
+* icon-open-suitcase.svg* icon-dna-strand.svg
+* icon-ladder.svg
+* icon-abyss.svg
+* icon-lemonade.svg
+* icon-meteor.svg
+* icon-orion-constellation.svg
+* icon-pentacle.svg
+* icon-pineapple.svg
+* icon-quill-and-ink.svg
+* icon-straw-man.svg
+* icon-ultimatum.svg
+* icon-vortex.svg
+* icon-welder.svg
+* icon-xylophone.svg
+* icon-zeppelin.svg
