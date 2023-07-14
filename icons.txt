@@ -4273,4 +4273,18 @@
 * icon-nauticalCompass.svg
 * icon-prism.svg
 * icon-vintageCar.svg
-* icon-telescope.svg
+* icon-telescope.svg* icon-global-communication.svg
+* icon-bullet-journal.svg
+* icon-quantum-computing.svg
+* icon-save-planet.svg
+* icon-graffiti-art.svg
+* icon-uncorked-bottle.svg
+* icon-galactic-explorer.svg
+* icon-dna-sequencing.svg
+* icon-digital-nomad.svg
+* icon-mindfulness-meditation.svg
+* icon-space-time-continuum.svg
+* icon-ancient-pyramid.svg
+* icon-crypto-mining.svg
+* icon-permaculture-gardening.svg
+* icon-virtual-reality-gaming.svg
