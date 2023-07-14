@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-sandcastle">
+  <path d="M12 2C10.346 2 9 3.346 9 5C9 5.552 9.448 6 10 6H14C14.552 6 15 5.552 15 5C15 3.346 13.654 2 12 2Z"/>
+  <path d="M2 22H22V20H2V22Z"/>
+  <path d="M6 18H18V16H6V18Z"/>
+  <path d="M8 14H16V9C16 7.346 14.654 6 13 6H11C9.346 6 8 7.346 8 9V14Z"/>
+  <path d="M10 9H14V14H10V9Z"/>
+</svg>

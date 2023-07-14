@@ -3545,4 +3545,18 @@
 * icon-kiwi-bird.svg
 * icon-hot-air-balloon.svg
 * icon-tectonic-plates.svg
-* icon-rubber-duck.svg
+* icon-rubber-duck.svg* icon-global-network.svg
+* icon-fingerprint-scan.svg
+* icon-lightbulb-idea.svg
+* icon-quantum-computer.svg
+* icon-big-data.svg
+* icon-space-rocket.svg
+* icon-artificial-intelligence.svg
+* icon-biometric-recognition.svg
+* icon-epigenetics.svg
+* icon-holographic-display.svg
+* icon-nanobot.svg
+* icon-solar-energy.svg
+* icon-smart-glasses.svg
+* icon-augmented-reality.svg
+* icon-self-driving-car.svg
