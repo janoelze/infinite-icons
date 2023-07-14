@@ -3167,4 +3167,18 @@
 * icon-virtual-reality.svg
 * icon-brain-computer-interface.svg
 * icon-solar-system.svg
-* icon-nanorobotics.svg
+* icon-nanorobotics.svg* icon-shipwheel.svg
+* icon-dandelion.svg
+* icon-antenna.svg
+* icon-quill.svg
+* icon-scales.svg
+* icon-meteor.svg
+* icon-cogs.svg
+* icon-obelisk.svg
+* icon-torch.svg
+* icon-caduceus.svg
+* icon-dna.svg
+* icon-kebab.svg
+* icon-dynamo.svg
+* icon-kaleidoscope.svg
+* icon-pilgrim-hat.svg

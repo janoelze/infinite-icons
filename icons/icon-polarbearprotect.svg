@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-polarbearprotect">
+  <path d="M0 0h24v24H0z" fill="none"/>
+  <!-- Polar bear outline -->
+  <path d="M2 22v-2a4 4 0 014-4h12a4 4 0 014 4v2H2zm7-12V7l-5-5-1 1 5.327 5.327A3.5 3.5 0 0110 13zm3 .5V20h6v-2a1.5 1.5 0 00-1.5-1.5h-3a1.5 1.5 0 00-1.5 1.5v2z" fill="currentColor"/>
+  <!-- Protection shield -->
+  <path d="M21 4a9 9 0 01-18 0l1-2 8-.001 8.001 2.001L21 4zm-9 11c3.315 0 6-2.239 6-5a6 6 0 00-12 0c0 2.761 2.685 5 6 5z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
