@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-cargo-ship">
+    <rect x="2" y="14" width="20" height="4" />
+    <rect x="4" y="4" width="4" height="10" />
+    <rect x="10" y="4" width="4" height="10" />
+    <rect x="16" y="4" width="4" height="10" />
+    <path d="M22 18 L20 22 L4 22 L2 18" />
+</svg>

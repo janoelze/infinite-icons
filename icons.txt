@@ -2789,4 +2789,18 @@
 * icon-excalibur.svg
 * icon-constellation.svg
 * icon-mayan-pyramid.svg
-* icon-coral-reef.svg
+* icon-coral-reef.svg* icon-atom.svg
+* icon-biocell.svg
+* icon-chain-link.svg
+* icon-chess-board.svg
+* icon-cogwheel.svg
+* icon-dna-helix.svg
+* icon-geometric-cube.svg
+* icon-honeycomb.svg
+* icon-infinity.svg
+* icon-labyrinth.svg
+* icon-mosaic.svg
+* icon-orbital-path.svg
+* icon-pentagonal.svg
+* icon-tree-ring.svg
+* icon-zodiac-wheel.svg
