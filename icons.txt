@@ -3783,4 +3783,18 @@
 * icon-dice-gaming.svg
 * icon-pyramid-egypt.svg
 * icon-pagoda-asia.svg
-* icon-castle-medieval.svg
+* icon-castle-medieval.svg* icon-quantum-computer.svg
+* icon-crypto-wallet.svg
+* icon-dna-sequencer.svg
+* icon-virtual-reality.svg
+* icon-teleportation.svg
+* icon-cybernetic-eye.svg
+* icon-mind-reading.svg
+* icon-satellite.svg
+* icon-lunar-rover.svg
+* icon-drone-delivery.svg
+* icon-skyscraper.svg
+* icon-astrology.svg
+* icon-black-hole.svg
+* icon-biohacking.svg
+* icon-cloning.svg
