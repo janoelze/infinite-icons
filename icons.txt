@@ -3321,4 +3321,18 @@
 * icon-ancientscroll.svg
 * icon-divingmask.svg
 * icon-rollercoaster.svg
-* icon-hotairballoon.svg
+* icon-hotairballoon.svg* icon-rocketship.svg
+* icon-octopus.svg
+* icon-jukebox.svg
+* icon-sandcastle.svg
+* icon-hedgehog.svg
+* icon-meteor.svg
+* icon-quicksand.svg
+* icon-raincloud.svg
+* icon-dragonfruit.svg
+* icon-paintbrush.svg
+* icon-compassrose.svg
+* icon-telescope.svg
+* icon-fairy.svg
+* icon-tarot.svg
+* icon-molecular.svg
