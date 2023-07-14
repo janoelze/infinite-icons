@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-geysir" viewBox="0 0 24 24">
+  <path d="M12 2C6.477 2 2 6.477 2 12c0 5.522 4.477 10 10 10s10-4.478 10-10c0-5.523-4.477-10-10-10zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"/>
+  <path d="M13 9h-2V7h2v2zm0-4h-2V3h2v2zm4 0h-2V3h4v2h-2zm2 4h-2V7h2v2zm-8 0H7V7h4v2zm6 10h-2v-2h2v2zm2-4h-2v-2h2v2zm-6 0h-2v-2h2v2zm-6-4H7V7h2v2zm10 6h-2v-2h2v2zm-6 0H9v-2h2v2z"/>
+</svg>

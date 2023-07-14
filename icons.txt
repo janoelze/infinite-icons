@@ -3055,4 +3055,18 @@
 * icon-cogwheel.svg
 * icon-chalice.svg
 * icon-volcano.svg
-* icon-tesseract.svg
+* icon-tesseract.svg* icon-compass.svg
+* icon-astronaut.svg
+* icon-thermometer.svg
+* icon-satellite.svg
+* icon-beaker.svg
+* icon-bonsai.svg
+* icon-chessboard.svg
+* icon-ouroboros.svg
+* icon-raven.svg
+* icon-pencilTip.svg
+* icon-sunflower.svg
+* icon-supernova.svg
+* icon-quill.svg
+* icon-cellular.svg
+* icon-vortex.svg
