@@ -3223,4 +3223,18 @@
 * icon-scuba-diving.svg
 * icon-mt-rushmore.svg
 * icon-screenplay-script.svg
-* icon-ringed-planet.svg
+* icon-ringed-planet.svg* icon-globalInteraction.svg
+* icon-droneDelivery.svg
+* icon-virtualReality.svg
+* icon-smartHome.svg
+* icon-digitalNomad.svg
+* icon-blockchainCurrency.svg
+* icon-techWearables.svg
+* icon-renewableEnergy.svg
+* icon-cloudComputing.svg
+* icon-AIrobot.svg
+* icon-dataPrivacy.svg
+* icon-biometricSecurity.svg
+* icon-autonomousVehicle.svg
+* icon-facialRecognition.svg
+* icon-3dPrinting.svg

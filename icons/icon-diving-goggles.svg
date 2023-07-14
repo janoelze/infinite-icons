@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-diving-goggles">
+    <path d="M2,14c0,6,4,8,10,8s10-2,10-8H2z" />
+    <path fill-opacity=".1" d="M12,14c0,3.33-1.33,6-4,8a8,8 0 0 0,8,0c-2.67-2-4-4.67-4-8z"/>
+    <line x1="2" y1="14" x2="22" y2="14"/>
+</svg>
