@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-ebook-reader" viewBox="0 0 24 24">
+    <path d="M3,3h18v18H3V3z M12,5c-3.9,0-7,3.1-7,7s3.1,7,7,7s7-3.1,7-7S15.9,5,12,5z M12,17c-2.8,0-5-2.2-5-5s2.2-5,5-5s5,2.2,5,5 S14.8,17,12,17z"></path>
+    <path d="M12,7c-2.8,0-5,2.2-5,5s2.2,5,5,5s5-2.2,5-5S14.8,7,12,7z"></path>
+    <path d="M17,4H7v16h10V4L17,4z M15,18H9V6h6V18L15,18z"></path>
+</svg>
