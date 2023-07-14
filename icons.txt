@@ -3125,4 +3125,18 @@
 * icon-papyrus-scroll.svg
 * icon-castle-turret.svg
 * icon-gavel-of-auction.svg
-* icon-carnival-mask.svg
+* icon-carnival-mask.svg* icon-satellite.svg
+* icon-galaxy.svg
+* icon-microscope.svg
+* icon-flask.svg
+* icon-anemometer.svg
+* icon-indigo.svg
+* icon-origami.svg
+* icon-hippopotamus.svg
+* icon-zucchini.svg
+* icon-elevator.svg
+* icon-obelisk.svg
+* icon-fossil.svg
+* icon-quill.svg
+* icon-liana.svg
+* icon-nebula.svg
