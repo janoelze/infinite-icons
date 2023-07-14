@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-typewriter">
+  <path d="M3,18v-8a1,1,0,0,1,1-1h16a1,1,0,0,1,1,1v8a1,1,0,0,1-1,1H4a1,1,0,0,1-1-1Zm18-10H3A3,3,0,0,0,0,11v7a3,3,0,0,0,3,3h18a3,3,0,0,0,3-3v-7a3,3,0,0,0-3-3Z" />
+  <rect x="2" y="14" width="20" height="2" />
+  <circle cx="6" cy="18" r="1" />
+  <circle cx="18" cy="18" r="1" />
+</svg>

@@ -3391,4 +3391,18 @@
 * icon-rocketship.svg
 * icon-telescope.svg
 * icon-hologram.svg
-* icon-robot.svg
+* icon-robot.svg* icon-globe-analytics.svg
+* icon-blockchain.svg
+* icon-live-chat.svg
+* icon-VR-glasses.svg
+* icon-drone-delivery.svg
+* icon-clean-energy.svg
+* icon-biometric-scanner.svg
+* icon-cloud-computing.svg
+* icon-smart-wearable.svg
+* icon-genomic-sequencing.svg
+* icon-quantum-computer.svg
+* icon-intelligent-automobile.svg
+* icon-3d-printing.svg
+* icon-cryptocurrency-wallet.svg
+* icon-augmented-reality.svg
