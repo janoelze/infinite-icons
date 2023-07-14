@@ -4399,4 +4399,18 @@
 * icon-nanobots.svg
 * icon-genetic-engineering.svg
 * icon-lunar-base.svg
-* icon-space-telescope.svg
+* icon-space-telescope.svg* icon-digitalcompass.svg
+* icon-virtualreality.svg
+* icon-aeroplane.svg
+* icon-globalcuisine.svg
+* icon-sandtimer.svg
+* icon-microscope.svg
+* icon-satellites.svg
+* icon-skyscrapers.svg
+* icon-gamingcontroller.svg
+* icon-carbonfootprint.svg
+* icon-mysteriousdoor.svg
+* icon-constellation.svg
+* icon-genemodification.svg
+* icon-nuclearreactor.svg
+* icon-artificialintelligence.svg
