@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-rubber-duck icon-global-network" viewBox="0 0 24 24">
+  <path d="M0 0h24v24H0z" fill="none"/>
+  <path d="M13 2.05v2.02a7 7 0 0 1 4.95 4.95h2.02a9 9 0 0 0-7.02-7.02z"/>
+  <path d="M2.05 13H4.07a7 7 0 0 1 4.95-4.95V2.05a9 9 0 0 0-7.02 7.02z"/>
+  <path d="M13 4.07V2.05a9 9 0 0 0-7.02 7.02h2.02a7 7 0 0 1 4.95-4.95z"/>
+  <path d="M2.05 13h2.02a7 7 0 0 1 4.95 4.95V22a9 9 0 0 0-7.02-7.02z"/>
+  <path d="M18.2 12a8.1 8.1 0 0 1 1.78 5.38l1.9 .63a10 10 0 0 0-1.94-6.57L18.2 12z"/>
+</svg>

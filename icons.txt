@@ -4427,4 +4427,18 @@
 * icon-pumpkin-lantern.svg 
 * icon-space-station.svg
 * icon-loch-ness-monster.svg 
-* icon-mermaids-tail.svg
+* icon-mermaids-tail.svg* icon-globe-stand.svg
+* icon-scroll-quill.svg
+* icon-pinecone.svg
+* icon-satellite-dish.svg
+* icon-brick-wall.svg
+* icon-telescope.svg
+* icon-bottle-ship.svg
+* icon-prism.svg
+* icon-food-truck.svg
+* icon-pegasus.svg
+* icon-quicksand.svg
+* icon-voodoo-doll.svg
+* icon-petrichor.svg
+* icon-molten-lava.svg
+* icon-snowflake-ice.svg
