@@ -4371,4 +4371,18 @@
 * icon-beehive.svg
 * icon-gondola.svg
 * icon-oriolus.svg
-* icon-toucan.svg
+* icon-toucan.svg* icon-layeredgraphics.svg
+* icon-quantumcomputing.svg
+* icon-3dprinter.svg
+* icon-spacehelmet.svg
+* icon-neuralnetwork.svg
+* icon-liquidcrystal.svg
+* icon-hologram.svg
+* icon-rocketship.svg
+* icon-dronedelivery.svg
+* icon-graphene.svg
+* icon-superconductor.svg
+* icon-darkmatter.svg
+* icon-robotarm.svg
+* icon-lidar.svg
+* icon-virtualreality.svg
