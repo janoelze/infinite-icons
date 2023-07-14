@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-lotus-meditation" viewBox="0 0 24 24">
+    <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"></path>
+    <path d="M12 6.5A2.5 2.5 0 0114.5 9v1h-5V9A2.5 2.5 0 0112 6.5z"></path>
+    <path d="M10 10.5h4v3h-4v-3z"></path>
+    <path d="M9 10h6v2H9z"></path>
+</svg>

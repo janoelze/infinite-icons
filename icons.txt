@@ -4133,4 +4133,18 @@
 * icon-arrow-quiver.svg
 * icon-locomotive-transport.svg
 * icon-gear-cogwheel.svg
-* icon-octopus-maritime.svg
+* icon-octopus-maritime.svg* icon-ship-wheel.svg
+* icon-flame-torch.svg
+* icon-comet.svg
+* icon-feather-quill.svg
+* icon-spaghetti.svg
+* icon-sea-urchin.svg
+* icon-abacus.svg
+* icon-lemonade.svg
+* icon-barbell.svg
+* icon-origami-crane.svg
+* icon-snowflake.svg
+* icon-sundial.svg
+* icon-cactus.svg
+* icon-hot-air-balloon.svg
+* icon-polaroid-camera.svg
