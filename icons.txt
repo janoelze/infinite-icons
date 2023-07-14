@@ -3853,4 +3853,18 @@
 * icon-compass-navigate.svg
 * icon-user-secret.svg
 * icon-trophy-award.svg
-* icon-umbrella-weather.svg
+* icon-umbrella-weather.svg* icon-digital-compass.svg
+* icon-retro-tv.svg
+* icon-futuristic-glasses.svg
+* icon-origami-crane.svg
+* icon-flaming-chili.svg
+* icon-quantum-computer.svg
+* icon-alien-spaceship.svg
+* icon-vintage-telephone.svg
+* icon-astronaut-helmet.svg
+* icon-underwater-camera.svg
+* icon-haunted-house.svg
+* icon-space-elevator.svg
+* icon-steam-train.svg
+* icon-artificial-intelligence.svg
+* icon-bluetech-goggles.svg
