@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-emoji-frown">
+<g>
+<circle cx="50" cy="50" r="40"></circle>
+<circle cx="35" cy="40" r="5"></circle>
+<circle cx="65" cy="40" r="5"></circle>
+<path d="M 30 60 Q 50 80 70 60"></path>
+</g>
+</svg>

@@ -4161,4 +4161,18 @@
 * icon-rotating-gears.svg
 * icon-gothic-cathedral.svg
 * icon-interstellar-ship.svg
-* icon-sand-hourglass.svg
+* icon-sand-hourglass.svg* icon-digital-microscope.svg
+* icon-message-in-bottle.svg
+* icon-enigma-machine.svg
+* icon-quantum-computer.svg
+* icon-antikythera-mechanism.svg
+* icon-steampunk-gear.svg
+* icon-origami-crane.svg
+* icon-mayan-calendar.svg
+* icon-double-helix.svg
+* icon-alchemical-symbol.svg
+* icon-aquatic-plankton.svg
+* icon-solar-flare.svg
+* icon-paper-lantern.svg
+* icon-stonehenge.svg
+* icon-sonar-wave.svg
