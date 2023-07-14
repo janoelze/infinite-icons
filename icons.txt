@@ -3503,4 +3503,18 @@
 * icon-thermal-conductivity.svg
 * icon-universe-expansion.svg
 * icon-virtual-reality.svg
-* icon-wormhole-travel.svg
+* icon-wormhole-travel.svg* icon-scrolling-globe.svg
+* icon-polaroid-photo.svg
+* icon-jellyfish.svg
+* icon-microchip.svg
+* icon-platypus.svg
+* icon-paint-palette.svg
+* icon-amphora.svg
+* icon-abacus.svg
+* icon-gold-nugget.svg
+* icon-totem-pole.svg
+* icon-spaceman-helmet.svg
+* icon-boot-print.svg
+* icon-origami-crane.svg
+* icon-alien-head.svg
+* icon-menhir.svg
