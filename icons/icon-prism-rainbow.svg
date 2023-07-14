@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-prism-rainbow">
+  <polygon points="50,0 100,50 50,100 0,50" fill="white" stroke="black" stroke-width="2"></polygon>
+  <path d="M 20,55 Q 50,40 80,55" fill="none" stroke="red" stroke-width="2"></path>
+  <path d="M 20,60 Q 50,45 80,60" fill="none" stroke="orange" stroke-width="2"></path>
+  <path d="M 20,65 Q 50,50 80,65" fill="none" stroke="yellow" stroke-width="2"></path>
+  <path d="M 20,70 Q 50,55 80,70" fill="none" stroke="green" stroke-width="2"></path>
+  <path d="M 20,75 Q 50,60 80,75" fill="none" stroke="blue" stroke-width="2"></path>
+  <path d="M 20,80 Q 50,65 80,80" fill="none" stroke="indigo" stroke-width="2"></path>
+  <path d="M 20,85 Q 50,70 80,85" fill="none" stroke="violet" stroke-width="2"></path>
+</svg>

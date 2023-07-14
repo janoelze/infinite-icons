@@ -3881,4 +3881,18 @@
 * icon-quantum-computing.svg
 * icon-ancient-civilization.svg
 * icon-time-travel.svg
-* icon-parallel-universe.svg
+* icon-parallel-universe.svg* icon-rocket-launch.svg
+* icon-digital-clock.svg
+* icon-cactus.svg
+* icon-fantasy-dragon.svg
+* icon-coding-brackets.svg
+* icon-quill-inkpot.svg
+* icon-satellite-dish.svg
+* icon-archer-bow.svg
+* icon-mountain-peak.svg
+* icon-vintage-compass.svg
+* icon-diving-mask.svg
+* icon-ancient-pyramid.svg
+* icon-geometric-crystal.svg
+* icon-space-blackhole.svg
+* icon-flying-hotairballoon.svg
