@@ -3713,4 +3713,18 @@
 * icon-harmonica.svg
 * icon-icicle.svg
 * icon-jackfruit.svg
-* icon-kaleidoscope.svg
+* icon-kaleidoscope.svg* icon-digital-cybersecurity.svg
+* icon-weather-lightning.svg
+* icon-nautical-steering-wheel.svg
+* icon-quantum-computing.svg
+* icon-astronomy-telescope.svg
+* icon-archaeology-fossil.svg
+* icon-botanical-houseplant.svg
+* icon-cuisine-croissant.svg
+* icon-aviation-propeller.svg
+* icon-gaming-joystick.svg
+* icon-geology-volcano.svg
+* icon-sculpture-chisel.svg
+* icon-virology-virus.svg
+* icon-optics-prism.svg
+* icon-zoology-pawprint.svg

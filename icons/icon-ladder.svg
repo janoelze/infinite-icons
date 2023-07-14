@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-ladder">
+  <path d="M5,3 h14 a2,2 0 0,1 2,2 v14 a2,2 0 0,1 -2,2 h-14 a2,2 0 0,1 -2,-2 v-14 a2,2 0 0,1 2,-2"></path>
+  <rect x="7" y="3" width="3" height="18"></rect>
+  <rect x="14" y="3" width="3" height="18"></rect>
+  <line x1="7" y1="6" x2="17" y2="6"></line>
+  <line x1="7" y1="12" x2="17" y2="12"></line>
+  <line x1="7" y1="18" x2="17" y2="18"></line>
+</svg>
