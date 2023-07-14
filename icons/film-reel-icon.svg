@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon film-reel-icon" viewBox="0 0 50 50">
+    <circle cx="25" cy="25" r="20" stroke="black" stroke-width="3" fill="none" />
+    <path d="M5 25 h10 m30 0 h10" stroke="black" stroke-width="2" />
+    <path d="M5 15 h40 m0 20 h-40" stroke="black" stroke-width="2" />
+    <circle cx="15" cy="15" r="2" fill="black" />
+    <circle cx="35" cy="15" r="2" fill="black" />
+    <circle cx="15" cy="35" r="2" fill="black" />
+    <circle cx="35" cy="35" r="2" fill="black" />
+</svg>

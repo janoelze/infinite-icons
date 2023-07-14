@@ -2985,4 +2985,18 @@
 * icon-interstellar-ship.svg
 * icon-terraforming.svg
 * icon-cryonics.svg
-* icon-singularity.svg
+* icon-singularity.svg* icon-eco-friendly.svg
+* icon-nanotech.svg
+* icon-procrastination.svg
+* icon-exoplanet.svg
+* icon-mind-map.svg
+* icon-cryptocurrency.svg
+* icon-flash-mob.svg
+* icon-fusion-reactor.svg
+* icon-time-travel.svg
+* icon-brain-computer-interface.svg
+* icon-organic-food.svg
+* icon-sustainable-energy.svg
+* icon-metaverse.svg
+* icon-sublime.svg
+* icon-dark-matter.svg
