@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" class="icon icon-GeneticEngineering">
+  <path d="M22.5,5A17.5,17.5,0,1,0,40,22.5,17.52,17.52,0,0,0,22.5,5Zm0,30A12.5,12.5,0,1,1,35,22.5,12.52,12.52,0,0,1,22.5,35Z"/>
+  <path d="M22.5,15v15"/>
+  <path d="M22.5,30h10"/>
+  <circle cx="22.5" cy="22.5" r="2.5"/>
+</svg>

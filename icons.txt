@@ -3615,4 +3615,18 @@
 * icon-medical-drone-delivery.svg
 * icon-perpetual-motion-machine.svg
 * icon-holo-deck.svg
-* icon-teleportation.svg
+* icon-teleportation.svg* icon-satellite-dish.svg
+* icon-wind-turbine.svg
+* icon-scuba-diver.svg
+* icon-astronaut-helmet.svg
+* icon-spectacles.svg
+* icon-planetarium.svg
+* icon-stethoscope.svg
+* icon-gramophone.svg
+* icon-aeroplane-tail.svg
+* icon-speedometer.svg
+* icon-beehive.svg
+* icon-atom.svg
+* icon-volcano.svg
+* icon-compass.svg
+* icon-geyser.svg
