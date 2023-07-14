@@ -3097,4 +3097,18 @@
 * icon-microchip.svg
 * icon-biometric.svg
 * icon-virtual-reality.svg
-* icon-augmented-reality.svg
+* icon-augmented-reality.svg* icon-waterfall.svg
+* icon-tornado.svg
+* icon-meteor.svg
+* icon-library.svg
+* icon-jungle.svg
+* icon-crystal.svg
+* icon-castle.svg
+* icon-volcano.svg
+* icon-igloo.svg
+* icon-oasis.svg
+* icon-galaxy.svg
+* icon-diamond.svg
+* icon-abyss.svg
+* icon-shipwreck.svg
+* icon-temples.svg

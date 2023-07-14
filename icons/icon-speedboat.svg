@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-speedboat">
+  <path d="M0 0h24v24H0z" fill="none"/>
+  <path d="M2 9h2v2H2V9zm4 0h2v2H6V9zm4 0h2v2h-2V9zm10 0a5 5 0 0 1 5 5h-2a3 3 0 0 0 -3-3h-4V9H2V3h20v6h-6zM4 19h16v2H4v-2zm4-14h4v3h-4V5zm1 5.5l6.5 2.5 3.5-2l.5-.5H9.003L9 10.5zM16 10a2 2 0 1 1 0 4 2 2 0 0 1 0-4z"/>
+</svg>
