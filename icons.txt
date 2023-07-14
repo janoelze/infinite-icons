@@ -2887,4 +2887,18 @@
 * icon-space-invader.svg
 * icon-retro-joystick.svg
 * icon-pizza-slice.svg
-* icon-steampunk-gear.svg
+* icon-steampunk-gear.svg* icon-satellite.svg
+* icon-rocketlaunch.svg
+* icon-icecream.svg
+* icon-fenchurch.svg
+* icon-magicrod.svg
+* icon-gravitationalwave.svg
+* icon-nanobot.svg
+* icon-shamanmask.svg
+* icon-arcticfox.svg
+* icon-platonic.svg
+* icon-pepperchili.svg
+* icon-theatermask.svg
+* icon-magma.svg
+* icon-nebula.svg
+* icon-pharaoh.svg
