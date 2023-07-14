@@ -2761,4 +2761,18 @@
 * icon-quantum-computing.svg
 * icon-virtual-assistant.svg
 * icon-cyber-security.svg
-* icon-smart-city.svg
+* icon-smart-city.svg* icon-globe-digital.svg 
+* icon-cloud-synch.svg 
+* icon-smartphone-secure.svg
+* icon-data-sphere.svg 
+* icon-RFID-chip.svg 
+* icon-search-magnifier.svg 
+* icon-dna-sequence.svg 
+* icon-VR-goggles.svg 
+* icon-augmented-reality.svg 
+* icon-cryptocurrency.svg 
+* icon-drone-delivery.svg 
+* icon-Robot-assistant.svg 
+* icon-solar-panel.svg
+* icon-earth-windmill.svg 
+* icon-electric-car-charger.svg
