@@ -3657,4 +3657,18 @@
 * icon-moon-crater.svg
 * icon-goose.svg
 * icon-cells.svg
-* icon-castle.svg
+* icon-castle.svg* icon-hovercraft.svg
+* icon-spacesuit.svg
+* icon-glacier.svg
+* icon-prism.svg
+* icon-bonsai.svg
+* icon-anvil.svg
+* icon-obelisk.svg
+* icon-platform.svg
+* icon-dynamo.svg
+* icon-cybernetics.svg
+* icon-iodine.svg
+* icon-quasar.svg
+* icon-vortex.svg
+* icon-zenith.svg
+* icon-fjord.svg

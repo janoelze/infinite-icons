@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-yeti" viewBox="0 0 24 24">
+  <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"></path>
+  <path d="M0 0h24v24H0z" fill="none"></path>
+  <path d="M7 22h10v2H7v-2zm3-10l5-13h-2l-1 3h-4l-1-3H8l5 13zm1-8h2l1 2h-4l1-2z"></path>
+</svg>
