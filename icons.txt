@@ -3279,4 +3279,18 @@
 * icon-aurora-borealis.svg
 * icon-platypus-australia.svg
 * icon-ouroboros-snake.svg
-* icon-samurai-sword.svg
+* icon-samurai-sword.svg* icon-glider.svg
+* icon-beanstalk.svg
+* icon-treasure-chest.svg
+* icon-pinecone.svg
+* icon-gargoyle.svg
+* icon-storybook.svg
+* icon-three-wishes.svg
+* icon-mermaids-tail.svg
+* icon-alchemists-flask.svg
+* icon-phoenix-feather.svg
+* icon-time-travel.svg
+* icon-cybernetic-eye.svg
+* icon-owl-post.svg
+* icon-solar-system.svg
+* icon-floating-castle.svg
