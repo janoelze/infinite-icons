@@ -3489,4 +3489,18 @@
 * icon-chess-rook.svg
 * icon-pharaoh-pyramid.svg
 * icon-crumpled-paper.svg
-* icon-peacock-feather.svg
+* icon-peacock-feather.svg* icon-data-cloud.svg
+* icon-quantum-computer.svg
+* icon-kinetic-energy.svg
+* icon-lunar-module.svg
+* icon-molecule-bond.svg
+* icon-neural-network.svg
+* icon-orion-constellation.svg
+* icon-photon-emission.svg
+* icon-quantum-tunneling.svg
+* icon-radiation-shield.svg
+* icon-solar-power.svg
+* icon-thermal-conductivity.svg
+* icon-universe-expansion.svg
+* icon-virtual-reality.svg
+* icon-wormhole-travel.svg
