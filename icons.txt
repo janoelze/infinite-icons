@@ -3811,4 +3811,18 @@
 * icon-potion.svg
 * icon-visitor.svg
 * icon-sabre.svg
-* icon-rune.svg
+* icon-rune.svg* icon-earthquake.svg 
+* icon-books-shelf.svg 
+* icon-lightbulb-idea.svg 
+* icon-smile-face.svg 
+* icon-contact-lens.svg 
+* icon-climbing-mountain.svg 
+* icon-kite-flying.svg 
+* icon-music-score.svg 
+* icon-dinosaur-bones.svg 
+* icon-rolling-dice.svg 
+* icon-bamboo-plant.svg 
+* icon-rocket-launch.svg 
+* icon-fortune-cookie.svg 
+* icon-robotic-arm.svg 
+* icon-welding-mask.svg

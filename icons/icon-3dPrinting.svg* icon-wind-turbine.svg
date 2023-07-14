@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-3dPrinting icon-wind-turbine" viewBox="0 0 40 40">
+  <!-- 3D Printer Icon -->
+  <path d="M10 8v26h20V8H10zm15 2h-10v8h10V10zm-10 10h10v12h-10V20zm13-18H9v6h2V6h18v2h-1v30h3V4z" fill="#000"/>
+  <!-- Wind Turbine Icon -->
+  <path d="M20 4v12l8-8-8-4zm0 24v12l8-8-8-4zm10 10l-10-4-10 4-4-10 4-10-10 4 4 10 10 4 4-10 4 10 10-4z" fill="#000"/>
+</svg>
