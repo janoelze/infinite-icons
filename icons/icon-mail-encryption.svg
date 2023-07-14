@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-mail-encryption">
+  <path d="M0 0h24v24H0V0z" fill="none"/>
+  <path d="M12 12l-8-5H4c-1.1 0-1.99.9-1.99 2L2 20c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V9l-8 5z"/>
+  <path d="M6 2h9v7L12 12l-3-3V2z"/>
+  <path d="M6 7.5l3 3 3-3"/>
+  <path d="M18 16h-2v-2a4 4 0 10-8 0v2H6v5h12v-5zM9 16v2h6v-2"/>
+</svg>

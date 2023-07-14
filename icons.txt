@@ -2971,4 +2971,18 @@
 * icon-microscope.svg
 * icon-nanobots.svg
 * icon-virtual-reality.svg
-* icon-submarine.svg
+* icon-submarine.svg* icon-quantum-computer.svg
+* icon-cosmic-ray.svg
+* icon-genetic-sequence.svg
+* icon-quantum-tunnel.svg
+* icon-nanotechnology.svg
+* icon-fusion-reactor.svg
+* icon-antimatter.svg
+* icon-artificial-intelligence.svg
+* icon-futuristic-city.svg
+* icon-space-elevator.svg
+* icon-cybernetic-implant.svg
+* icon-interstellar-ship.svg
+* icon-terraforming.svg
+* icon-cryonics.svg
+* icon-singularity.svg
