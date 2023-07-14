@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-platform">
+    <rect x="4" y="20" width="16" height="2"></rect>
+    <rect x="2" y="9" width="20" height="2"></rect>
+    <polyline points="4,9 4,19 20,19 20,9"></polyline>
+</svg>

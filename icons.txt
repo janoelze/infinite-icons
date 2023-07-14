@@ -4301,4 +4301,18 @@
 * icon-infrared-sensor.svg
 * icon-wind-turbine.svg
 * icon-undersea-cable.svg
-* icon-global-positioning-system.svg
+* icon-global-positioning-system.svg* icon-tropical-fruit.svg
+* icon-ancient-column.svg
+* icon-digital-lock.svg
+* icon-ice-cream-cone.svg
+* icon-nebula-cloud.svg
+* icon-theatre-mask.svg
+* icon-music-clef.svg
+* icon-robotic-hand.svg
+* icon-professor-hat.svg
+* icon-expedition-map.svg
+* icon-space-shuttle.svg
+* icon-mountain-ranges.svg
+* icon-satellite-dish.svg
+* icon-virtual-reality.svg
+* icon-green-energy.svg
