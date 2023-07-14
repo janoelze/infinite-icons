@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-rollerblade">
+  <path d="M2,20a2,2 0 0 0 2,2h4a2,2 0 0 0 2,-2v-1H2V20z"/>
+  <path d="M14,20a2,2 0 0 0 2,2h4a2,2 0 0 0 2,-2v-1H14V20z"/>
+  <path d="M2,9a2,2 0 0 1 2,-2h16a2,2 0 0 1 2,2l-1,6H3L2,9z" fill-opacity=".1"/>
+  <path d="M2,9a4,4 0 1 1 4,-4a4,4 0 0 1 -4,4"/>
+  <polygon points="2,6 5,11 8,6"/>
+  <path d="M9,8a1,1 0 0 1 1,1v4a1,1 0 0 1 -1,1H7a1,1 0 0 1 -1,-1V9a1,1 0 0 1 1,-1h2m0,-2H7a3,3 0 0 0 -3,3v4a3,3 0 0 0 3,3h2a3,3 0 0 0 3,-3V9a3,3 0 0 0 -3,-3z"/>
+</svg>

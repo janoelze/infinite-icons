@@ -3265,4 +3265,18 @@
 * icon-equalizer.svg
 * icon-dodecahedron.svg
 * icon-geode.svg
-* icon-unicorn.svg
+* icon-unicorn.svg* icon-infinity-loop.svg
+* icon-dove-peace.svg
+* icon-nebula-galaxy.svg
+* icon-chess-pawn.svg
+* icon-ginkgo-leaf.svg
+* icon-dna-helix.svg
+* icon-sphinx-egypt.svg
+* icon-bamboo-chute.svg
+* icon-mayan-calendar.svg
+* icon-phoenix-rebirth.svg
+* icon-kaleidoscope-pattern.svg
+* icon-aurora-borealis.svg
+* icon-platypus-australia.svg
+* icon-ouroboros-snake.svg
+* icon-samurai-sword.svg
