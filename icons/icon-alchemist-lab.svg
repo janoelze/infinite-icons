@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-alchemist-lab" viewBox="0 0 24 24">
+  <path d="M0 0h24v24H0z" fill="none"/>
+  <circle cx="12" cy="6" r="2" />
+  <path d="M5 22a4.978 4.978 0 0 0 4-2h6a4.978 4.978 0 0 0 4 2H5zM4 18l2-2h12l2 2H4zm7-12h2v3h-2zm1-5a9 9 0 1 0 0 18 9 9 0 0 0 0-18z" />
+</svg>

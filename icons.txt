@@ -4441,4 +4441,18 @@
 * icon-voodoo-doll.svg
 * icon-petrichor.svg
 * icon-molten-lava.svg
-* icon-snowflake-ice.svg
+* icon-snowflake-ice.svg* icon-globe-wireless.svg
+* icon-thermal-camera.svg
+* icon-alien-language.svg
+* icon-graffiti-spray.svg
+* icon-eclipse-lunar.svg
+* icon-aurora-borealis.svg
+* icon-petrified-wood.svg
+* icon-echolocation.svg
+* icon-antique-compass.svg
+* icon-truffle-hunting.svg
+* icon-leap-year.svg
+* icon-temporal-wormhole.svg
+* icon-infrared-vision.svg
+* icon-ninja-shuriken.svg
+* icon-origami-crane.svg
