@@ -3909,4 +3909,18 @@
 * icon-kaleidoscope.svg
 * icon-juggler.svg
 * icon-iguana.svg
-* icon-harpoon.svg
+* icon-harpoon.svg* icon-hoverboard.svg
+* icon-quasar.svg
+* icon-telescope.svg
+* icon-proton.svg
+* icon-oasis.svg
+* icon-comet.svg
+* icon-dune.svg
+* icon-galaxy.svg
+* icon-supercluster.svg
+* icon-orion.svg
+* icon-infinity.svg
+* icon-jupiter.svg
+* icon-satellite.svg
+* icon-asteroid.svg
+* icon-blackhole.svg
