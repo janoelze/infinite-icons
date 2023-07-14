@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-spacehelmet">
+    <path d="M2,9a7,7,0,0,1,14,0v5H14.62a3,3,0,0,0-5.24,0H2Z"/>
+    <path d="M16,14a2,2,0,0,0,4,0V9a8,8,0,0,0-16,0v5"/>
+    <line x1="6" y1="16" x2="6.01" y2="16"/>
+    <line x1="10" y1="16" x2="10.01" y2="16"/>
+</svg>

@@ -4343,4 +4343,18 @@
 * icon-sustainable-energy.svg
 * icon-ship-in-a-bottle.svg
 * icon-mountains-at-dusk.svg
-* icon-kneading-dough.svg
+* icon-kneading-dough.svg* icon-quantum-computer.svg
+* icon-virtual-reality-headset.svg
+* icon-3d-printer.svg
+* icon-cryogenic-chamber.svg
+* icon-anti-gravity-boot.svg
+* icon-teleport.svg
+* icon-martian-landscape.svg
+* icon-tesseract.svg
+* icon-mind-control-device.svg
+* icon-galaxy.svg
+* icon-supernova.svg
+* icon-alien-lifeform.svg
+* icon-dna-manipulation.svg
+* icon-genome-sequencer.svg
+* icon-dark-matter-detector.svg
