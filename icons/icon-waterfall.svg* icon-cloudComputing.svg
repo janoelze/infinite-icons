@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-waterfall.svg icon-cloudComputing" viewBox="0 0 24 24">
+    <g>
+        <path fill="none" stroke="black" d="M3.74,1.42a1.74,1.74,0,0,1-1.74-1.74H23.26a1.74,1.74,0,0,1-1.74,1.74Z"/>
+        <path fill="none" stroke="black" d="M5.48,3.16a1.74,1.74,0,0,0-1.74-1.74H23.26a1.74,1.74,0,0,0-1.74,1.74Z"/>
+        <path fill="none" stroke="black" d="M10.22,4.9a1.74,1.74,0,0,1-1.74-1.74H23.26a1.74,1.74,0,0,1-1.74,1.74Z"/>
+
+        <path fill="black" d="M3 13l2 2l2 -2V10l2 2l2 -2V7l4 4l4 -4V3"/>
+        <path fill="none" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M13 2L11 4 9 2 7 4 5 2 3 4"/>
+        <path fill="none" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M22 12 L20 10 18 12 16 10 14 12 12 10"/>
+        <path fill="none" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M2 15h20"/>
+    </g>
+</svg>

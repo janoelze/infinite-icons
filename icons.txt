@@ -2943,4 +2943,18 @@
 * icon-icebergmystery.svg
 * icon-compassdirection.svg
 * icon-firepassion.svg
-* icon-cloudimagination.svg
+* icon-cloudimagination.svg* icon-digital-globe.svg
+* icon-academic-cap.svg
+* icon-nebula-cloud.svg
+* icon-nesting-dolls.svg
+* icon-quantum-computer.svg
+* icon-pet-dinosaur.svg
+* icon-zipper.svg
+* icon-package-rocket.svg
+* icon-ballot-box.svg
+* icon-supermarket-cart.svg
+* icon-mountain-climber.svg
+* icon-3d-glasses.svg
+* icon-antique-compass.svg
+* icon-dna-structure.svg
+* icon-nuclear-reactor.svg
