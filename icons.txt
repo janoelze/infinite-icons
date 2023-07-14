@@ -3083,4 +3083,18 @@
 * icon-darkMatter.svg
 * icon-memoryPalace.svg
 * icon-gravitationalLens.svg
-* icon-holographicDisplay.svg
+* icon-holographicDisplay.svg* icon-quantum-computer.svg
+* icon-teleportation.svg
+* icon-pixels.svg
+* icon-crypto-wallet.svg
+* icon-quantum-encryption.svg
+* icon-astronaut.svg
+* icon-alien.svg
+* icon-black-hole.svg
+* icon-space-station.svg
+* icon-galaxy.svg
+* icon-wormhole.svg
+* icon-microchip.svg
+* icon-biometric.svg
+* icon-virtual-reality.svg
+* icon-augmented-reality.svg
