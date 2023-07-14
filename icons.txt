@@ -3433,4 +3433,18 @@
 * icon-hyperloop-transport.svg
 * icon-facial-recognition.svg
 * icon-virtual-reality-gaming.svg
-* icon-3d-printer.svg
+* icon-3d-printer.svg* icon-rocket-launch.svg
+* icon-crystal-ball.svg
+* icon-satellite.svg
+* icon-telescope.svg
+* icon-ancient-scroll.svg
+* icon-nuclear-atom.svg
+* icon-wheelbarrow.svg
+* icon-beehive.svg
+* icon-origami-bird.svg
+* icon-royal-crown.svg
+* icon-steam-locomotive.svg
+* icon-mayan-pyramid.svg
+* icon-meteor-shower.svg
+* icon-octopus.svg
+* icon-quill-ink.svg
