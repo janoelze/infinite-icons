@@ -3405,4 +3405,18 @@
 * icon-intelligent-automobile.svg
 * icon-3d-printing.svg
 * icon-cryptocurrency-wallet.svg
-* icon-augmented-reality.svg
+* icon-augmented-reality.svg* icon-meteor.svg
+* icon-antenna.svg
+* icon-quill.svg
+* icon-dumbbell.svg
+* icon-toucan.svg
+* icon-sandbox.svg
+* icon-crucible.svg
+* icon-kaleidoscope.svg
+* icon-propeller.svg
+* icon-pulley.svg
+* icon-satellite.svg
+* icon-time-machine.svg
+* icon-vortex.svg
+* icon-wishbone.svg
+* icon-zodiac.svg
