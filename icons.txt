@@ -4329,4 +4329,18 @@
 * icon-galactic-cluster.svg
 * icon-seed-germination.svg
 * icon-neolithic-tool.svg
-* icon-antikythera-mechanism.svg
+* icon-antikythera-mechanism.svg* icon-octopus.svg
+* icon-chess-king.svg
+* icon-satellite.svg
+* icon-lunar-module.svg
+* icon-rose.svg
+* icon-festival-mask.svg
+* icon-foam-hand.svg
+* icon-seahorse.svg
+* icon-bi-plane.svg
+* icon-operating-theatre.svg
+* icon-microscopic-disease.svg
+* icon-sustainable-energy.svg
+* icon-ship-in-a-bottle.svg
+* icon-mountains-at-dusk.svg
+* icon-kneading-dough.svg
