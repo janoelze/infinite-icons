@@ -3419,4 +3419,18 @@
 * icon-time-machine.svg
 * icon-vortex.svg
 * icon-wishbone.svg
-* icon-zodiac.svg
+* icon-zodiac.svg* icon-global-network.svg
+* icon-speech-bubble.svg
+* icon-quantum-computing.svg
+* icon-handshake-silhouette.svg
+* icon-eco-friendly.svg
+* icon-space-exploration.svg
+* icon-nano-technology.svg
+* icon-biometric-data.svg
+* icon-quantum-entanglement.svg
+* icon-data-encryption.svg
+* icon-off-grid-living.svg
+* icon-hyperloop-transport.svg
+* icon-facial-recognition.svg
+* icon-virtual-reality-gaming.svg
+* icon-3d-printer.svg
