@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-love-letter">
+  <path d="M0 0h24v24H0z" fill="none"/>
+  <path d="M12 2l6 6v10a1 1 0 0 1-1 1H7a1 1 0 0 1-1-1V8l6-6zm0 2.828L7.879 8.95L12 13.121l4.121-4.17L12 4.827zM6 8v10h12V8l-6-6l-6 6z"/>
+  <path d="M8 12h8a2 2 0 0 1 2 2v2a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2v-2a2 2 0 0 1 2-2z"/>
+</svg>

@@ -3475,4 +3475,18 @@
 * icon-vortex.svg
 * icon-welder.svg
 * icon-xylophone.svg
-* icon-zeppelin.svg
+* icon-zeppelin.svg* icon-globe-grid.svg
+* icon-palm-tree.svg
+* icon-rocket-launch.svg
+* icon-music-clef.svg
+* icon-asymmetric-curve.svg
+* icon-quill-ink.svg
+* icon-beaker-experiment.svg
+* icon-telescope-stargaze.svg
+* icon-dna-structure.svg
+* icon-rhino-head.svg
+* icon-moai-statue.svg
+* icon-chess-rook.svg
+* icon-pharaoh-pyramid.svg
+* icon-crumpled-paper.svg
+* icon-peacock-feather.svg
