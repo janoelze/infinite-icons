@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-pharaoh">
+    <path d="M3.5 10.5c2.5-1.5 2-4.5 4-6s4.5 0 6 1.5 2 4 4 4.5 3.5-1.5 5.5 0S21 15 19.5 17s-2 2.5-4.5 3-6 0-7.5-2S7.5 13 6 14.5 4 18 3.5 20.5 3 22.5 2 21s-1.5-4.5 0-7 1.5-3.5 1.5-3.5z" fill="none" stroke="#000"></path>
+    <circle cx="9" cy="12" r="2" stroke="#000" fill="none"></circle>
+    <circle cx="15" cy="12" r="2" stroke="#000" fill="none"></circle>
+</svg>

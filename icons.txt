@@ -4469,4 +4469,18 @@
 * icon-superconductor.svg
 * icon-quasar.svg
 * icon-dna-helix.svg
-* icon-black-hole.svg
+* icon-black-hole.svg* icon-chaos-theory.svg
+* icon-lunar-cycle.svg
+* icon-gravitational-wave.svg
+* icon-quantum-state.svg
+* icon-galactic-center.svg
+* icon-fusion-reactor.svg
+* icon-electromagnetic-pulse.svg
+* icon-alien-lifeform.svg
+* icon-interstellar-travel.svg
+* icon-time-dilation.svg
+* icon-event-horizon.svg
+* icon-higgs-boson.svg
+* icon-dark-matter.svg
+* icon-cosmic-ray.svg
+* icon-asteroid-impact.svg
