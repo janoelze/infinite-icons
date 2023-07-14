@@ -1,0 +1,13 @@
+<svg class="icon icon-hydrogen-atom.svg icon-macro-lens" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <circle cx="12" cy="12" r="10" stroke="currentColor" stroke-width="2" fill="none" />
+
+  <circle cx="12" cy="12" r="1" fill="currentColor" />
+
+  <path d="M16 8a5 5 0 0 1-10 0" stroke="currentColor" fill="none" stroke-width="2" />
+  
+  <path d="M11 4a3 3 0 011.5 2.6L13 8a3 3 0 01-2 2.8V4z" fill="currentColor" />
+
+  <path d="M11 20a9 9 0 009-9" stroke="currentColor" fill="none" stroke-width="2" />
+  
+  <path d="M15 4a3 3 0 012 2.8V4h-2z" fill="currentColor" />
+</svg>

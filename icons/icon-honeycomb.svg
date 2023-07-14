@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-honeycomb">
+  <path d="M12 22l9-13m-18 0l9 13m9-13l-9-13l-9 13l9-13z"
+    stroke="#000" stroke-width="2" fill="none"/>
+  <path d="M12 22l9-13l-9-13l-9 13z" stroke="#000" stroke-width="2" fill="none"/>
+</svg>

@@ -3069,4 +3069,18 @@
 * icon-supernova.svg
 * icon-quill.svg
 * icon-cellular.svg
-* icon-vortex.svg
+* icon-vortex.svg* icon-teleportation.svg
+* icon-quantumLeap.svg
+* icon-operaGoggles.svg
+* icon-zenGarden.svg
+* icon-spaceElevator.svg
+* icon-codeMatrix.svg
+* icon-biohazardSuit.svg
+* icon-atomicCore.svg
+* icon-cubesat.svg
+* icon-hyperloop.svg
+* icon-interstellarProbe.svg
+* icon-darkMatter.svg
+* icon-memoryPalace.svg
+* icon-gravitationalLens.svg
+* icon-holographicDisplay.svg
