@@ -4035,4 +4035,18 @@
 * icon-harpoon.svg
 * icon-butterchurn.svg
 * icon-abacus.svg
-* icon-amphora.svg
+* icon-amphora.svg* icon-fingerprint.svg
+* icon-molecule.svg
+* icon-circuit-board.svg
+* icon-skyscraper.svg
+* icon-telescope.svg
+* icon-satellite.svg
+* icon-avocado.svg
+* icon-flamingo.svg
+* icon-hologram.svg
+* icon-black-hole.svg
+* icon-equalizer.svg
+* icon-cargo-ship.svg
+* icon-oil-rig.svg
+* icon-nuclear-plant.svg
+* icon-hyperloop.svg

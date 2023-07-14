@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-owl-wisdom" viewBox="0 0 24 24">
+  <path fill="none" d="M0 0h24v24H0z"/>
+  <path d="M12 2a8.5 8.5 0 0 1 8.5 8.5 8.48 8.48 0 0 1-1.32 4.38l1.5 1.42A10.965 10.965 0 0 0 23 10.5 10.5 10.5 0 1 0 10.5 21v-2a8.5 8.5 0 0 1 1.5-5.38l-1.45-1.42A8.462 8.462 0 0 1 12 2z"></path>
+  <path d="M11 13h3v4h-3z"></path>
+  <path d="M10 2a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2H8c-1.1 0-2-.9-2-2V4a2 2 0 0 1 2-2"></path>
+  <path d="M16 2a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2h-2a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2"></path>
+</svg>
