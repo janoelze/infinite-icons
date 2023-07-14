@@ -3895,4 +3895,18 @@
 * icon-ancient-pyramid.svg
 * icon-geometric-crystal.svg
 * icon-space-blackhole.svg
-* icon-flying-hotairballoon.svg
+* icon-flying-hotairballoon.svg* icon-telescope.svg
+* icon-periscope.svg
+* icon-abacus.svg
+* icon-octopus.svg
+* icon-cyclone.svg
+* icon-yeti.svg
+* icon-rune.svg
+* icon-quasar.svg
+* icon-platypus.svg
+* icon-nebula.svg
+* icon-marionette.svg
+* icon-kaleidoscope.svg
+* icon-juggler.svg
+* icon-iguana.svg
+* icon-harpoon.svg

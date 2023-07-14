@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-rain-cloud">
+  <circle cx="6" cy="11" r="5" fill="none" stroke="currentColor" stroke-width="2"></circle>
+  <path fill="none" stroke="currentColor" stroke-width="2" d="M16 16c2.8 0 5-2.2 5-5s-2.2-5-5-5"></path>
+  <path fill="currentColor" d="M2 18c0-3.2 3.4-6 8-6h5"></path>
+  <line x1="2" y1="18" x2="2" y2="24" fill="none" stroke="currentColor" stroke-width="2"></line>
+  <line x1="5" y1="18" x2="5" y2="24" fill="none" stroke="currentColor" stroke-width="2"></line>
+  <line x1="8" y1="18" x2="8" y2="24" fill="none" stroke="currentColor" stroke-width="2"></line>
+  <line x1="11" y1="18" x2="11" y2="24" fill="none" stroke="currentColor" stroke-width="2"></line>
+</svg>
