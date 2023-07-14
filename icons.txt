@@ -4385,4 +4385,18 @@
 * icon-darkmatter.svg
 * icon-robotarm.svg
 * icon-lidar.svg
-* icon-virtualreality.svg
+* icon-virtualreality.svg* icon-biometric-access.svg
+* icon-meteorology.svg
+* icon-virtual-reality.svg
+* icon-molecular-structure.svg
+* icon-cybernetic-implant.svg
+* icon-quantum-computing.svg
+* icon-hologram-display.svg
+* icon-space-elevator.svg
+* icon-teleportation.svg
+* icon-time-travel.svg
+* icon-interstellar-colonisation.svg
+* icon-nanobots.svg
+* icon-genetic-engineering.svg
+* icon-lunar-base.svg
+* icon-space-telescope.svg
