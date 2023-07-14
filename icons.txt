@@ -3293,4 +3293,18 @@
 * icon-cybernetic-eye.svg
 * icon-owl-post.svg
 * icon-solar-system.svg
-* icon-floating-castle.svg
+* icon-floating-castle.svg* icon-comet.svg
+* icon-digital-clock.svg
+* icon-microscope.svg
+* icon-nebula.svg
+* icon-origami.svg
+* icon-velociraptor.svg
+* icon-obelisk.svg
+* icon-space-elevator.svg
+* icon-quarks.svg
+* icon-plasma-ball.svg
+* icon-hologram.svg
+* icon-silicon-chip.svg
+* icon-solar-panel.svg
+* icon-black-hole.svg
+* icon-quantum-computer.svg
