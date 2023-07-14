@@ -2957,4 +2957,18 @@
 * icon-3d-glasses.svg
 * icon-antique-compass.svg
 * icon-dna-structure.svg
-* icon-nuclear-reactor.svg
+* icon-nuclear-reactor.svg* icon-compass-rose.svg
+* icon-crypto-currency.svg
+* icon-stethoscope.svg
+* icon-nuclear-plant.svg
+* icon-space-station.svg
+* icon-quantum-computer.svg
+* icon-dna-replication.svg
+* icon-astrolabe.svg
+* icon-hyperloop.svg
+* icon-brainwave.svg
+* icon-rocket-launch.svg
+* icon-microscope.svg
+* icon-nanobots.svg
+* icon-virtual-reality.svg
+* icon-submarine.svg
