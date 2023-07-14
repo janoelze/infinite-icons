@@ -4245,4 +4245,18 @@
 * icon-satellite.svg
 * icon-green-energy.svg
 * icon-drone.svg
-* icon-augmented-reality.svg
+* icon-augmented-reality.svg* icon-satellite.svg
+* icon-energy-drink.svg
+* icon-bonsai.svg
+* icon-quill.svg
+* icon-marshmallow.svg
+* icon-popsicle.svg
+* icon-treasure-map.svg
+* icon-black-hole.svg
+* icon-fern.svg
+* icon-unicycle.svg
+* icon-galaxy.svg
+* icon-origami.svg
+* icon-jellyfish.svg
+* icon-nanobot.svg
+* icon-meteor.svg

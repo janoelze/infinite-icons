@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-spyglass">
+  <path d="M0 0h24v24H0z" fill="none"/>
+  <circle cx="10" cy="10" r="7" fill="none" stroke="currentColor" stroke-width="2"/>
+  <line x1="21" y1="21" x2="15" y2="15" fill="none" stroke="currentColor" stroke-width="2"/>
+  <rect x="16" y="16" width="5" height="5" fill="none" stroke="currentColor" stroke-width="2" transform="rotate(45 18.5 18.5)"/>
+</svg>

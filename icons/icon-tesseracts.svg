@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tesseracts" viewBox="0 0 24 24">
+  <path d="M12,2L2,7L12,12L22,7L12,2Z"></path>
+  <path d="M12,22L2,17L12,12L22,17L12,22Z"></path>
+  <line x1="2" y1="7" x2="12" y2="12"></line>
+  <line x1="12" y1="12" x2="2" y2="17"></line>
+  <line x1="22" y1="7" x2="12" y2="12"></line>
+  <line x1="12" y1="12" x2="22" y2="17"></line>
+</svg>
