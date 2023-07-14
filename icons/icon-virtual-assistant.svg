@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-virtual-assistant" viewBox="0 0 24 24">
+<path fill="none" stroke="currentColor" stroke-width="2" d="M7 7a4 4 0 1 0 0 8 4 4 0 0 0 0-8zM17 7a4 4 0 1 0 0 8 4 4 0 0 0 0-8z"/>
+<path fill="none" stroke="currentColor" stroke-width="2" d="M7 21v-1a6 6 0 0 1 6-6h0a6 6 0 0 1 6 6v1"/>
+<line x1="12" y1="11" x2="12" y2="11" stroke="currentColor"/>
+</svg>

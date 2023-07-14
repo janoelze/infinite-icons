@@ -3041,4 +3041,18 @@
 * icon-eco-friendly-car.svg
 * icon-wireless-charging.svg
 * icon-smart-home.svg
-* icon-cloud-computing.svg
+* icon-cloud-computing.svg* icon-atom.svg
+* icon-zeppelin.svg
+* icon-metronome.svg
+* icon-mandala.svg
+* icon-pentagon.svg
+* icon-anvil.svg
+* icon-cloak.svg
+* icon-dinosaur.svg
+* icon-papyrus.svg
+* icon-quill.svg
+* icon-mjolnir.svg
+* icon-cogwheel.svg
+* icon-chalice.svg
+* icon-volcano.svg
+* icon-tesseract.svg
