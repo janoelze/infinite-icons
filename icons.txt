@@ -4217,4 +4217,18 @@
 * icon-string-theory.svg
 * icon-teleportation.svg
 * icon-multi-universe.svg
-* icon-dark-energy.svg
+* icon-dark-energy.svg* icon-galaxy.svg
+* icon-dandelion.svg
+* icon-harpoon.svg
+* icon-jigsaw.svg
+* icon-ocelot.svg
+* icon-platypus.svg
+* icon-camel.svg
+* icon-raccoon.svg
+* icon-thistle.svg
+* icon-pango.svg
+* icon-quokka.svg
+* icon-xebec.svg
+* icon-dragonfly.svg
+* icon-jackal.svg
+* icon-custard_apple.svg

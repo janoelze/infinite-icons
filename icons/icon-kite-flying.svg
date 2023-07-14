@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-kite-flying">
+  <path d="M12 2L3 9l9 7 9-4.5-9-9.5zm0 2.82L6.6 8.6l3.7 3.7 5.4-5.48L12 4.82zM2 12l10 2-10 8v-10zm20 0l-10 2 10 8v-10z"/>
+  <line x1="12" y1="19" x2="12" y2="23"/>
+  <line x1="7" y1="23" x2="15" y2="23"/>
+</svg>
