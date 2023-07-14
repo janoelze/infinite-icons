@@ -3643,4 +3643,18 @@
 * icon-quasar.svg
 * icon-steam-engine.svg
 * icon-lunar-rover.svg
-* icon-sonar-wave.svg
+* icon-sonar-wave.svg* icon-rain-cloud.svg
+* icon-cupcake.svg
+* icon-roller-coaster.svg
+* icon-book-stack.svg
+* icon-lightbulb-on.svg
+* icon-broccoli.svg
+* icon-compass-rose.svg
+* icon-guitar.svg
+* icon-helicopter.svg
+* icon-pinwheel.svg
+* icon-quetzal.svg
+* icon-moon-crater.svg
+* icon-goose.svg
+* icon-cells.svg
+* icon-castle.svg
