@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-campfire">
+  <path d="M19 11.993V20a1 1 0 01-1 1H6a1 1 0 01-1-1v-8.007C8.225 7.89 12 4 12 4s3.794 3.865 7 7.993v-.031c-.692-.69-1.607-1.139-2.657-1.311L15 11h1z"></path>
+  <path d="M12 22v-8"></path>
+  <circle cx="12" cy="4" r="2"></circle>
+</svg>

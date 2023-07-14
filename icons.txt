@@ -2775,4 +2775,18 @@
 * icon-Robot-assistant.svg 
 * icon-solar-panel.svg
 * icon-earth-windmill.svg 
-* icon-electric-car-charger.svg
+* icon-electric-car-charger.svg* icon-satellite.svg
+* icon-origami.svg
+* icon-thermos.svg
+* icon-escalator.svg
+* icon-hologram.svg
+* icon-arcade.svg
+* icon-periscope.svg
+* icon-geyser.svg
+* icon-fossil.svg
+* icon-oasis.svg
+* icon-obelisk.svg
+* icon-excalibur.svg
+* icon-constellation.svg
+* icon-mayan-pyramid.svg
+* icon-coral-reef.svg
