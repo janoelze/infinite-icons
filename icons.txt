@@ -3195,4 +3195,18 @@
 * icon-ancient-scroll.svg
 * icon-spaceship.svg
 * icon-planet-earth.svg
-* icon-chess-rook.svg
+* icon-chess-rook.svg* icon-handshake.svg
+* icon-worldmap.svg
+* icon-snake.svg
+* icon-umbrella.svg
+* icon-beehive.svg
+* icon-satellite.svg
+* icon-rugbyball.svg
+* icon-magicwand.svg
+* icon-ghost.svg
+* icon-rainbow.svg
+* icon-mermaid.svg
+* icon-scorpion.svg
+* icon-donut.svg
+* icon-cactus.svg
+* icon-koala.svg
