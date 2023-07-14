@@ -3993,4 +3993,18 @@
 * icon-quill-ink.svg
 * icon-telescope-lens.svg
 * icon-nautical-knot.svg
-* icon-galaxy-spin.svg
+* icon-galaxy-spin.svg* icon-virtual-reality.svg
+* icon-satellite.svg
+* icon-microscope.svg
+* icon-binary-code.svg
+* icon-quantum-computer.svg
+* icon-nano-robot.svg
+* icon-space-suit.svg
+* icon-rocket-launch.svg
+* icon-meteor.svg
+* icon-black-hole.svg
+* icon-time-travel.svg
+* icon-artificial-intelligence.svg
+* icon-planetary-gear.svg
+* icon-galaxy.svg
+* icon-dna-sequence.svg
