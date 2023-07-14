@@ -3797,4 +3797,18 @@
 * icon-astrology.svg
 * icon-black-hole.svg
 * icon-biohacking.svg
-* icon-cloning.svg
+* icon-cloning.svg* icon-blueprint.svg
+* icon-lighthouse.svg
+* icon-teleport.svg
+* icon-alien.svg
+* icon-saurus.svg
+* icon-quill.svg
+* icon-relic.svg
+* icon-obelisk.svg
+* icon-orb.svg
+* icon-chronometer.svg
+* icon-quasar.svg
+* icon-potion.svg
+* icon-visitor.svg
+* icon-sabre.svg
+* icon-rune.svg
