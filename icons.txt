@@ -2691,4 +2691,18 @@
 * icon-phoenixfeather.svg
 * icon-paperplane.svg
 * icon-blackhole.svg
-* icon-bacterialcolony.svg
+* icon-bacterialcolony.svg* icon-galactic-nav.svg
+* icon-pulse-locator.svg
+* icon-time-reversal.svg
+* icon-nebula-cloud.svg
+* icon-quantum-link.svg
+* icon-black-hole.svg
+* icon-nanobot-swarm.svg
+* icon-photon-decoder.svg
+* icon-telepathy-wave.svg
+* icon-cybernetic-eye.svg
+* icon-universal-hub.svg
+* icon-stellar-vortex.svg
+* icon-entity-cluster.svg
+* icon-cosmic-bridge.svg
+* icon-helix-nebula.svg
