@@ -3671,4 +3671,18 @@
 * icon-quasar.svg
 * icon-vortex.svg
 * icon-zenith.svg
-* icon-fjord.svg
+* icon-fjord.svg* icon-digital-clock.svg
+* icon-ancient-scroll.svg
+* icon-meteor.svg
+* icon-satellite-dish.svg
+* icon-sheriff-badge.svg
+* icon-flaming-skull.svg
+* icon-caduceus.svg
+* icon-treasure-map.svg
+* icon-oil-derrick.svg
+* icon-quill-ink.svg
+* icon-castle-turret.svg
+* icon-roman-helmet.svg
+* icon-atom-model.svg
+* icon-abacus.svg
+* icon-fossil.svg
