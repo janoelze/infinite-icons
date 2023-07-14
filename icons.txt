@@ -3699,4 +3699,18 @@
 * icon-viking-helmet.svg
 * icon-steam-punk-goggles.svg
 * icon-bamboo.svg
-* icon-lunar-module.svg
+* icon-lunar-module.svg* icon-rollerbrush.svg
+* icon-peonies.svg
+* icon-pharaoh.svg
+* icon-baguette.svg
+* icon-abacus.svg
+* icon-aspenleaf.svg
+* icon-bluewhale.svg
+* icon-campfire.svg
+* icon-dartboard.svg
+* icon-fortunecookie.svg
+* icon-galaxy.svg
+* icon-harmonica.svg
+* icon-icicle.svg
+* icon-jackfruit.svg
+* icon-kaleidoscope.svg

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-snakeflexibility">
+  <path d="M20,3a2,2,0,0,0,2,2H19V19H5a2,2,0,0,0,2,2H21V5H20Z" />
+  <polyline points="1 1 8 8 1 15" />
+  <path d="M2,4a3,3,0,0,1,2-.98V1H5A2,2,0,0,1,7,3V2H9V6H14V14a4,4,0,0,1-1,2.9A3.28,3.28,0,0,1,10,18" />
+</svg>

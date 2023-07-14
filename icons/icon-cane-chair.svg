@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-cane-chair">
+  <path d="M2.5 11c7.5-2.5 12.5-2.5 20 0"></path>
+  <path d="M2.5 16c7.5-2.5 12.5-2.5 20 0"></path>
+  <path d="M2.5 21c7.5-2.5 12.5-2.5 20 0"></path>
+  <rect x="6" y="3" width="12" height="15" fill="none" stroke="currentColor">
+  <circle cx="12" cy="16" r="4" fill="none" stroke="currentColor"></circle>
+</svg>
