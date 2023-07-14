@@ -2747,4 +2747,18 @@
 * icon-hologram-projection.svg
 * icon-exoplanet.svg
 * icon-blackhole.svg
-* icon-quantum-entanglement.svg
+* icon-quantum-entanglement.svg* icon-global-communication.svg
+* icon-virtual-reality.svg
+* icon-renewable-energy.svg
+* icon-multi-biometrics.svg
+* icon-cloud-storage.svg
+* icon-data-encryption.svg
+* icon-artificial-intelligence.svg
+* icon-space-exploration.svg
+* icon-3d-printing.svg
+* icon-blockchain.svg
+* icon-genetic-editing.svg
+* icon-quantum-computing.svg
+* icon-virtual-assistant.svg
+* icon-cyber-security.svg
+* icon-smart-city.svg

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-quantum-link">
+    <path d="M7 7h10v10H7z"></path>
+    <path d="M17 7h10v10H17z" fill="#333"></path>
+    <path d="M7 17h10v10H7z" fill="#666"></path>
+    <path d="M17 17h10v10H17z" fill="#999"></path>
+    <circle cx="14" cy="14" r="3" fill="#fff"></circle>
+    <circle cx="24" cy="24" r="3" fill="#fff"></circle>
+</svg>
