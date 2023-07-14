@@ -4203,4 +4203,18 @@
 * icon-egyptian-pyramids.svg
 * icon-dragon.svg
 * icon-meteor-shower.svg
-* icon-magnet.svg
+* icon-magnet.svg* icon-quantum-computer.svg
+* icon-nanobot.svg
+* icon-cyber-security.svg
+* icon-virtual-reality.svg
+* icon-quantum-tunneling.svg
+* icon-genetic-algorithms.svg
+* icon-machine-learning.svg
+* icon-deep-learning.svg
+* icon-reinforcement-learning.svg
+* icon-dark-matter.svg
+* icon-higgs-boson.svg
+* icon-string-theory.svg
+* icon-teleportation.svg
+* icon-multi-universe.svg
+* icon-dark-energy.svg
