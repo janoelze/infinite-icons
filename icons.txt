@@ -2705,4 +2705,18 @@
 * icon-stellar-vortex.svg
 * icon-entity-cluster.svg
 * icon-cosmic-bridge.svg
-* icon-helix-nebula.svg
+* icon-helix-nebula.svg* icon-globe-rotate.svg
+* icon-hot-air-balloon.svg
+* icon-cyber-security.svg
+* icon-abstract-data.svg
+* icon-future-tech.svg
+* icon-quantum-computer.svg
+* icon-biometric-fingerprint.svg
+* icon-virtual-reality-goggles.svg
+* icon-rocket-launch.svg
+* icon-dna-sequence.svg
+* icon-solar-panel.svg
+* icon-3d-printer.svg
+* icon-electric-car.svg
+* icon-drone-delivery.svg
+* icon-eco-friendly.svg
