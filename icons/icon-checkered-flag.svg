@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-checkered-flag">
+  <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" 
+  d="M2 3v18
+    9 2 2 2 2 0 2-2 2-2s2 2 2 0-2-2-2-2 2-2 2 0 2 2 2 0-2-2-2-2">
+    <rect x="14" y="1" width="2" height="2" fill="#000"/>
+    <rect x="18" y="1" width="2" height="2" fill="#000"/>
+    <rect x="16" y="3" width="2" height="2" fill="#000"/>
+    <rect x="14" y="5" width="2" height="2" fill="#000"/>
+    <rect x="18" y="5" width="2" height="2" fill="#000"/>
+    <rect x="16" y="7" width="2" height="2" fill="#000"/>
+  </path>
+</svg>

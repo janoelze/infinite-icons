@@ -4175,4 +4175,18 @@
 * icon-solar-flare.svg
 * icon-paper-lantern.svg
 * icon-stonehenge.svg
-* icon-sonar-wave.svg
+* icon-sonar-wave.svg* icon-astronaut.svg
+* icon-biometric.svg
+* icon-chameleon.svg
+* icon-dodecahedron.svg
+* icon-enigma.svg
+* icon-fluorescent.svg
+* icon-gravitational-wave.svg
+* icon-hologram.svg
+* icon-ionic-column.svg
+* icon-jetpack.svg
+* icon-kaleidoscope.svg
+* icon-lithography.svg
+* icon-mechatronics.svg
+* icon-nebula.svg
+* icon-opalescent.svg
