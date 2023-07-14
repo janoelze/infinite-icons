@@ -3531,4 +3531,18 @@
 * icon-satellite.svg
 * icon-rocket-ship.svg
 * icon-quasar.svg
-* icon-pulsar.svg
+* icon-pulsar.svg* icon-satellite-dish.svg
+* icon-checkered-flag.svg
+* icon-donut.svg
+* icon-linguistic.svg
+* icon-arcturus.svg
+* icon-quokka.svg
+* icon-snowflake.svg
+* icon-constellation.svg
+* icon-hang-glider.svg
+* icon-double-bass.svg
+* icon-nebula.svg
+* icon-kiwi-bird.svg
+* icon-hot-air-balloon.svg
+* icon-tectonic-plates.svg
+* icon-rubber-duck.svg
