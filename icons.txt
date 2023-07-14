@@ -3335,4 +3335,18 @@
 * icon-telescope.svg
 * icon-fairy.svg
 * icon-tarot.svg
-* icon-molecular.svg
+* icon-molecular.svg* icon-meteor.svg
+* icon-safelock.svg
+* icon-stethoscope.svg
+* icon-origami.svg
+* icon-quill.svg
+* icon-dumbbell.svg
+* icon-graffiti.svg
+* icon-abacus.svg
+* icon-jellyfish.svg
+* icon-windchime.svg
+* icon-aromatherapy.svg
+* icon-gemstone.svg
+* icon-scroll.svg
+* icon-mosaic.svg
+* icon-coralreef.svg

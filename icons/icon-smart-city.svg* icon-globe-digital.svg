@@ -1,0 +1,5 @@
+<svg width="50" height="50" xmlns="http://www.w3.org/2000/svg" class="icon icon-smart-city.svg icon-globe-digital">
+  <circle class="icon-globe" cx="25" cy="25" r="20" stroke="black" stroke-width="1" fill="white"/>
+  <path class="icon-digital" d="M15 25 Q25 5 35 25" stroke="black" stroke-width="2" fill="transparent"/>
+  <path class="icon-city" d="M15 35 H35 V45 H15 Z" stroke="black" stroke-width="1" fill="grey"/>
+</svg>
