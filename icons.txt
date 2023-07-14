@@ -3363,4 +3363,18 @@
 * icon-serving-tray.svg
 * icon-broomstick.svg
 * icon-flamingo.svg
-* icon-toucan.svg
+* icon-toucan.svg* icon-globe-network.svg
+* icon-virtual-reality.svg
+* icon-digital-currency.svg
+* icon-cloud-storage.svg
+* icon-astronomy-telescope.svg
+* icon-quantum-computing.svg
+* icon-cyber-security.svg
+* icon-smart-glasses.svg
+* icon-biohacking.svg
+* icon-dna-sequencing.svg
+* icon-eco-friendly.svg
+* icon-fusion-energy.svg
+* icon-nanotechnology.svg
+* icon-wireless-power.svg
+* icon-space-travel.svg
