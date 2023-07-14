@@ -4287,4 +4287,18 @@
 * icon-ancient-pyramid.svg
 * icon-crypto-mining.svg
 * icon-permaculture-gardening.svg
-* icon-virtual-reality-gaming.svg
+* icon-virtual-reality-gaming.svg* icon-data-cloud.svg
+* icon-quantum-computing.svg
+* icon-cryptocurrency.svg
+* icon-biohazard.svg
+* icon-artificial-intelligence.svg
+* icon-origami-bird.svg
+* icon-3d-printer.svg
+* icon-hologram.svg
+* icon-virtual-reality.svg
+* icon-defibrillator.svg
+* icon-nuclear-energy.svg
+* icon-infrared-sensor.svg
+* icon-wind-turbine.svg
+* icon-undersea-cable.svg
+* icon-global-positioning-system.svg
