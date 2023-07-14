@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-zenGarden" viewBox="0 0 24 24">
+  <path d="M0 0h24v24H0z" fill="none"/>
+  <rect x="2" y="3" width="20" height="14" rx="2"/>
+  <path d="M6 3v14h4"/>
+  <path d="M2 13h20"/>
+  <path d="M12.5 11.5l.5 2.5h2l1 4h2"/>
+</svg>

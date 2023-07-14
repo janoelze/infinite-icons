@@ -3447,4 +3447,18 @@
 * icon-mayan-pyramid.svg
 * icon-meteor-shower.svg
 * icon-octopus.svg
-* icon-quill-ink.svg
+* icon-quill-ink.svg* icon-digital-clock.svg
+* icon-coin-purse.svg
+* icon-magnifying-glass-with-led.svg
+* icon-sand-timer.svg
+* icon-mountain-range.svg
+* icon-solar-system.svg
+* icon-compact-disc.svg
+* icon-wind-turbine.svg
+* icon-ancient-scroll.svg
+* icon-emoji-frown.svg
+* icon-cruise-ship.svg
+* icon-sushi-roll.svg
+* icon-ox-cart.svg
+* icon-pirate-flag.svg
+* icon-open-suitcase.svg
