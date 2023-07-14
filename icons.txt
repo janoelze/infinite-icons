@@ -3965,4 +3965,18 @@
 * icon-alien-ship.svg
 * icon-arctic-wolf.svg
 * icon-constellation.svg
-* icon-gearwheel.svg
+* icon-gearwheel.svg* icon-porcupine.svg
+* icon-origami-bird.svg
+* icon-purple-cactus.svg
+* icon-cracked-vase.svg
+* icon-two-faced-mask.svg
+* icon-quasar.svg
+* icon-hypnotic-spiral.svg
+* icon-empty-hourglass.svg
+* icon-metal-gear.svg
+* icon-rotating-globe.svg
+* icon-lightning-dragon.svg
+* icon-tesseracts.svg
+* icon-polar-bear.svg
+* icon-frozen-lake.svg
+* icon-melting-candle.svg

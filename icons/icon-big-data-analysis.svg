@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-big-data-analysis" viewBox="0 0 24 24">
+    <path d="M0 0h24v24H0z" fill="none"/>
+    <path d="M3 16V4h4v12H3zm10 0v-5h4v5h-4zm7 0v-5h-2v5h2zm-4 0H8v7h4v-7z" fill="currentColor"/>
+    <path d="M12 2v10h3V2h-3zM21 10l-2 2-2-2h4zM2 13v-2h2v2H2z" fill="currentColor"/>
+</svg>
