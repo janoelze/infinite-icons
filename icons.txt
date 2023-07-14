@@ -3587,4 +3587,18 @@
 * icon-supernova.svg
 * icon-asteroid.svg
 * icon-quantum-leap.svg
-* icon-Big-Bang.svg
+* icon-Big-Bang.svg* icon-atom.svg
+* icon-droplet.svg
+* icon-spellbook.svg
+* icon-steampunk.svg
+* icon-hoverboard.svg
+* icon-alien.svg
+* icon-obelisk.svg
+* icon-blizzard.svg
+* icon-metronome.svg
+* icon-fossil.svg
+* icon-gearshift.svg
+* icon-quasar.svg
+* icon-jackal.svg
+* icon-anemone.svg
+* icon-cipher.svg
