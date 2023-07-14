@@ -3111,4 +3111,18 @@
 * icon-diamond.svg
 * icon-abyss.svg
 * icon-shipwreck.svg
-* icon-temples.svg
+* icon-temples.svg* icon-sands-of-time.svg
+* icon-quill-feather.svg
+* icon-dove-of-peace.svg
+* icon-nondescript-mask.svg
+* icon-lantern-of-knowledge.svg
+* icon-mystic-orb.svg
+* icon-draught-of-elixir.svg
+* icon-crystal-ball.svg
+* icon-arrow-of-cupid.svg
+* icon-propeller-beanie.svg
+* icon-compass-rose.svg
+* icon-papyrus-scroll.svg
+* icon-castle-turret.svg
+* icon-gavel-of-auction.svg
+* icon-carnival-mask.svg
