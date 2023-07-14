@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-globe-stand" viewBox="0 0 24 24">
+  <path fill="none" stroke="currentColor" stroke-width="2" d="M12,2A10,10,0,1,1,2,12,10,10,0,0,1,12,2Z"></path>
+  <line x1="2" y1="22" x2="22" y2="22" style="fill:none;stroke:currentColor;stroke-width:2"></line>
+  <circle cx="12" cy="12" r="3" style="fill:none;stroke:currentColor;stroke-width:2"></circle>
+</svg>

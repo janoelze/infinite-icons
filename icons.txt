@@ -2929,4 +2929,18 @@
 * icon-bamboo.svg
 * icon-ivy-leaf.svg
 * icon-hot-air-balloon.svg
-* icon-sonar.svg
+* icon-sonar.svg* icon-dovepeace.svg
+* icon-octopusintelligence.svg
+* icon-volcanopower.svg
+* icon-cactusresilience.svg
+* icon-snakeflexibility.svg
+* icon-tortoisepatience.svg
+* icon-diamondsstrength.svg
+* icon-owlwisdom.svg
+* icon-pineapplegrowth.svg
+* icon-fishfreedom.svg
+* icon-wolfloyalty.svg
+* icon-icebergmystery.svg
+* icon-compassdirection.svg
+* icon-firepassion.svg
+* icon-cloudimagination.svg
