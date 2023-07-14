@@ -4413,4 +4413,18 @@
 * icon-constellation.svg
 * icon-genemodification.svg
 * icon-nuclearreactor.svg
-* icon-artificialintelligence.svg
+* icon-artificialintelligence.svg* icon-diamond-ring.svg
+* icon-open-book.svg
+* icon-parking-meter.svg
+* icon-lifecycle.svg 
+* icon-rainbow.svg 
+* icon-volcano.svg 
+* icon-tumbleweed.svg 
+* icon-espresso-machine.svg 
+* icon-mt-everest.svg
+* icon-magic-wand.svg 
+* icon-zombie.svg 
+* icon-pumpkin-lantern.svg 
+* icon-space-station.svg
+* icon-loch-ness-monster.svg 
+* icon-mermaids-tail.svg
