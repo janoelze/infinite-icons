@@ -3825,4 +3825,18 @@
 * icon-rocket-launch.svg 
 * icon-fortune-cookie.svg 
 * icon-robotic-arm.svg 
-* icon-welding-mask.svg
+* icon-welding-mask.svg* icon-meteor-shower.svg
+* icon-eyeglasses.svg
+* icon-magic-wand.svg
+* icon-Roman-helmet.svg
+* icon-robot-hand.svg
+* icon-graffiti-spraycan.svg
+* icon-bonsai-tree.svg
+* icon-viking-ship.svg
+* icon-ancient-scroll.svg
+* icon-3D-glasses.svg
+* icon-flying-saucer.svg
+* icon-genie-lamp.svg
+* icon-cave-painting.svg
+* icon-Mayan-calendar.svg
+* icon-space-elevator.svg

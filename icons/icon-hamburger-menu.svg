@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-hamburger-menu">
+  <g>
+    <rect x="0" y="0" width="50" height="10"/>
+    <rect x="0" y="20" width="50" height="10"/>
+    <rect x="0" y="40" width="50" height="10"/>
+  </g>
+</svg>
