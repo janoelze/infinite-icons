@@ -1,0 +1,12 @@
+<svg class='icon icon-ancient-scroll.svg icon-octopus' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'>
+  <!-- Ancient Scroll SVG Code -->
+  <path d='M18 2H6a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h3'></path>
+  <circle cx='18' cy='18' r='3'></circle>
+  <circle cx='6' cy='18' r='3'></circle>
+
+  <!-- Octopus SVG Code -->
+  <path d='M3 12h18M2 12s-1 3 2 3 2-3 2-3M22 12s1 3-2 3-2-3-2-3'></path>
+  <path d='M12 19a3 3 0 0 1-2 0C8.15 16.2 5 16 3 12s4-4 9-4 9 2 9 4-5 4.2-7 7a3 3 0 0 1-2 0'></path>
+</svg>
+Please note, you are asking to create an SVG with two different icons under the same 'class' attribute which is not a standard practice. You may want to revise your request to create individual SVGs for each icon. Also, consider that the ancient scroll and the octopus icon might not look good when combined depending on size and color.
+In this code, the first part of the SVG code represents the ancient scroll and the second, the octopus. These paths and circles make up each respective icon. The stroke color, width, and other specifications can be modified as per your requirements.

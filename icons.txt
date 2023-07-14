@@ -3559,4 +3559,18 @@
 * icon-solar-energy.svg
 * icon-smart-glasses.svg
 * icon-augmented-reality.svg
-* icon-self-driving-car.svg
+* icon-self-driving-car.svg* icon-snowflake.svg
+* icon-constellation.svg
+* icon-papyrus.svg
+* icon-quill.svg
+* icon-anvil.svg
+* icon-cypress.svg
+* icon-abacus.svg
+* icon-wheelbarrow.svg
+* icon-tomahawk.svg
+* icon-pendulum.svg
+* icon-papyrus-scroll.svg
+* icon-crystal-ball.svg
+* icon-codex.svg
+* icon-oil-lamp.svg
+* icon-treasure-chest.svg
