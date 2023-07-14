@@ -4357,4 +4357,18 @@
 * icon-alien-lifeform.svg
 * icon-dna-manipulation.svg
 * icon-genome-sequencer.svg
-* icon-dark-matter-detector.svg
+* icon-dark-matter-detector.svg* icon-raindrop.svg
+* icon-megaphone.svg
+* icon-pinecone.svg
+* icon-flashlight.svg
+* icon-compass.svg
+* icon-microscope.svg
+* icon-crane.svg
+* icon-dumbbell.svg
+* icon-kickstand.svg
+* icon-hang-gliding.svg
+* icon-suitcase.svg
+* icon-beehive.svg
+* icon-gondola.svg
+* icon-oriolus.svg
+* icon-toucan.svg
