@@ -3181,4 +3181,18 @@
 * icon-kebab.svg
 * icon-dynamo.svg
 * icon-kaleidoscope.svg
-* icon-pilgrim-hat.svg
+* icon-pilgrim-hat.svg* icon-rainbow.svg
+* icon-lightbulb-idea.svg
+* icon-digital-watch.svg
+* icon-dna-strand.svg
+* icon-quill-inkpot.svg
+* icon-coral-reef.svg
+* icon-hot-air-balloon.svg
+* icon-prism-light.svg
+* icon-musical-note.svg
+* icon-martini-glass.svg
+* icon-vintage-telephone.svg
+* icon-ancient-scroll.svg
+* icon-spaceship.svg
+* icon-planet-earth.svg
+* icon-chess-rook.svg
