@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+    stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+    class="icon icon-helical-staircase">
+    <path d="M12 3v18"/>
+    <path d="M19 21l-7 -7 -7 7"/>
+    <path d="M2 14l7 -7 7 7"/>
+    <path d="M9 14V9a1 1 0 0 1 1 -1h3"/>
+    <path d="M16 6l2 -2"/>
+    <path d="M2 6l2 -2"/>
+</svg>

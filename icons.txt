@@ -3349,4 +3349,18 @@
 * icon-gemstone.svg
 * icon-scroll.svg
 * icon-mosaic.svg
-* icon-coralreef.svg
+* icon-coralreef.svg* icon-umbrella.svg
+* icon-satellite.svg
+* icon-cactus.svg
+* icon-alien.svg
+* icon-giraffe.svg
+* icon-skyscraper.svg
+* icon-popsicle.svg
+* icon-harmonica.svg
+* icon-cannon.svg
+* icon-cargo-ship.svg
+* icon-tipi.svg
+* icon-serving-tray.svg
+* icon-broomstick.svg
+* icon-flamingo.svg
+* icon-toucan.svg
