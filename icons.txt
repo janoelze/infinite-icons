@@ -4259,4 +4259,18 @@
 * icon-origami.svg
 * icon-jellyfish.svg
 * icon-nanobot.svg
-* icon-meteor.svg
+* icon-meteor.svg* icon-skyscraper.svg
+* icon-antiqueClock.svg
+* icon-bookShelf.svg
+* icon-musicScore.svg
+* icon-chessPiece.svg
+* icon-artistPalette.svg
+* icon-wineBottle.svg
+* icon-astronautHelmet.svg
+* icon-oldCamera.svg
+* icon-treasureMap.svg
+* icon-ancientScroll.svg
+* icon-nauticalCompass.svg
+* icon-prism.svg
+* icon-vintageCar.svg
+* icon-telescope.svg

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-data-analysis" viewBox="0 0 24 24"> 
+    <path d="M0 0h24v24H0z" fill="none"/>
+    <ellipse cx="12" cy="16" fill="#80cbc4" rx="5" ry="6"/> 
+    <path stroke="#80cbc4" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" d="M2 14.324V17a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-2.676A5.978 5.978 0 0 1 12 20a5.978 5.978 0 0 1-10-5.676zm5-7.618V4a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2v2.706a5.978 5.978 0 0 1 2 .588V4a2 2 0 0 0 -2-2h-2a2 2 0 0 0 -2 2v2.706a5.978 5.978 0 0 1 2 .588z"/> 
+    <circle cx="12" cy="12" r="3" fill="#80cbc4" stroke="#80cbc4" stroke-width="2"/>
+</svg>
