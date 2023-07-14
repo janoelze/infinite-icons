@@ -3937,4 +3937,18 @@
 * icon-music-note.svg
 * icon-aeroplane-flight.svg
 * icon-space-robot.svg
-* icon-dna-structure.svg
+* icon-dna-structure.svg* icon-nebula.svg
+* icon-constellation.svg
+* icon-pulsar.svg
+* icon-spaceship.svg
+* icon-orbit.svg
+* icon-blackhole.svg
+* icon-astrolabe.svg
+* icon-exoplanet.svg
+* icon-supernova.svg
+* icon-galaxy.svg
+* icon-observatory.svg
+* icon-comet.svg
+* icon-astronaut.svg
+* icon-meteor.svg
+* icon-telescope.svg
