@@ -2873,4 +2873,18 @@
 * icon-pyramid.svg
 * icon-geode.svg
 * icon-thermometer.svg
-* icon-obelisk.svg
+* icon-obelisk.svg* icon-rocket-launch.svg
+* icon-quill-writing.svg
+* icon-laboratory-flask.svg
+* icon-ancient-scroll.svg
+* icon-dragonfly-wing.svg
+* icon-planet-galaxy.svg
+* icon-chess-knight.svg
+* icon-nautical-compass.svg
+* icon-vintage-telephone.svg
+* icon-legal-gavel.svg
+* icon-jazz-saxophone.svg
+* icon-space-invader.svg
+* icon-retro-joystick.svg
+* icon-pizza-slice.svg
+* icon-steampunk-gear.svg
