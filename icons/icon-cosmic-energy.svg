@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-cosmic-energy" viewBox="0 0 24 24">
+   <path fill="none" stroke="currentColor" stroke-width="2" d="M12,2 Q14,6 12,10 Q14,14 12,18 Q14,22 12,22 Q10,22 11,18 Q10,14 11,10 Q10,6 12,2">
+      <animate repeatCount="indefinite" attributeName="d" dur="2s" 
+         values="
+         M12,2 Q14,6 12,10 Q14,14 12,18 Q14,22 12,22 Q10,22 11,18 Q10,14 11,10 Q10,6 12,2;
+         M12,2 Q16,6 14,10 Q16,14 14,18 Q16,22 12,22 Q8,22 9,18 Q8,14 9,10 Q8,6 12,2;
+         M12,2 Q14,6 12,10 Q14,14 12,18 Q14,22 12,22 Q10,22 11,18 Q10,14 11,10 Q10,6 12,2" />
+   </path>
+</svg>

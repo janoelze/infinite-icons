@@ -4189,4 +4189,18 @@
 * icon-lithography.svg
 * icon-mechatronics.svg
 * icon-nebula.svg
-* icon-opalescent.svg
+* icon-opalescent.svg* icon-rocket-launch.svg
+* icon-key-in-hand.svg
+* icon-wolf-howling.svg
+* icon-forest-fire.svg
+* icon-unicorn.svg
+* icon-telescope.svg
+* icon-octopus.svg
+* icon-viking-helmet.svg
+* icon-alien-invasion.svg
+* icon-hot-air-balloon.svg
+* icon-submarine.svg
+* icon-egyptian-pyramids.svg
+* icon-dragon.svg
+* icon-meteor-shower.svg
+* icon-magnet.svg
