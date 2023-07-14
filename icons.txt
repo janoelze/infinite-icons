@@ -2859,4 +2859,18 @@
 * icon-nanoTechnology.svg
 * icon-orchidFlower.svg
 * icon-privacyPolicy.svg
-* icon-unicycle.svg
+* icon-unicycle.svg* icon-lighthouse.svg
+* icon-rainbow.svg
+* icon-satellite.svg
+* icon-bioluminescence.svg
+* icon-constellation.svg
+* icon-origami.svg
+* icon-aurora.svg
+* icon-meteor.svg
+* icon-microscope.svg
+* icon-nebula.svg
+* icon-quasar.svg
+* icon-pyramid.svg
+* icon-geode.svg
+* icon-thermometer.svg
+* icon-obelisk.svg
