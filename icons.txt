@@ -2845,4 +2845,18 @@
 * icon-quicksand.svg
 * icon-escapologist.svg
 * icon-flamingo.svg
-* icon-waterfall.svg
+* icon-waterfall.svg* icon-cloudComputing.svg
+* icon-diversityTeam.svg
+* icon-electricCar.svg
+* icon-fairTrade.svg
+* icon-greenEnergy.svg
+* icon-hybridCloud.svg
+* icon-iceberg.svg
+* icon-jigsawPuzzle.svg
+* icon-kiwiBird.svg
+* icon-lumbarSupport.svg
+* icon-multiFactorAuthentication.svg
+* icon-nanoTechnology.svg
+* icon-orchidFlower.svg
+* icon-privacyPolicy.svg
+* icon-unicycle.svg
