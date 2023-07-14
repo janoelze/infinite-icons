@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-music-speaker">
+<path d="M0 0h24v24H0z" fill="none"/>
+<path d="M1 16v-5a4 4 0 0 1 4-4h2V3l6 6h6a4 4 0 0 1 4 4v5a4 4 0 0 1-4 4h-6l-6 6v-6H5a4 4 0 0 1-4-4zm7-2V6H6a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h2zm8 2h4a2 2 0 0 0 2-2v-3a2 2 0 0 0-2-2h-4v7z"/>
+</svg>

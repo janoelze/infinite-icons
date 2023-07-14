@@ -4231,4 +4231,18 @@
 * icon-xebec.svg
 * icon-dragonfly.svg
 * icon-jackal.svg
-* icon-custard_apple.svg
+* icon-custard_apple.svg* icon-data-transfer.svg
+* icon-VR-goggles.svg
+* icon-urban-farm.svg
+* icon-crypto-currency.svg
+* icon-motion-sensor.svg
+* icon-smart-grid.svg
+* icon-nanotech.svg
+* icon-space-shuttle.svg
+* icon-genome-editing.svg
+* icon-robotics.svg
+* icon-hologram.svg
+* icon-satellite.svg
+* icon-green-energy.svg
+* icon-drone.svg
+* icon-augmented-reality.svg
