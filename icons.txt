@@ -4077,4 +4077,18 @@
 * icon-quantum-computing.svg
 * icon-drone-delivery.svg
 * icon-renewable-energy.svg
-* icon-artificial-intelligence.svg
+* icon-artificial-intelligence.svg* icon-alien.svg
+* icon-chainsaw.svg
+* icon-cookie.svg
+* icon-dandelion.svg
+* icon-elevator.svg
+* icon-flamingo.svg
+* icon-guitar.svg
+* icon-helicopter.svg
+* icon-infinity.svg
+* icon-jack-o-lantern.svg
+* icon-kettlebell.svg
+* icon-locomotive.svg
+* icon-mantis.svg
+* icon-noodles.svg
+* icon-origami.svg
