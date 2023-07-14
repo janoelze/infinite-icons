@@ -3601,4 +3601,18 @@
 * icon-quasar.svg
 * icon-jackal.svg
 * icon-anemone.svg
-* icon-cipher.svg
+* icon-cipher.svg* icon-radar.svg
+* icon-quantum-computer.svg
+* icon-geothermal-energy.svg
+* icon-virtual-reality.svg
+* icon-nanotechnology.svg
+* icon-cryptocurrency.svg
+* icon-biomimicry.svg
+* icon-space-ship.svg
+* icon-urban-farming.svg
+* icon-fusion-energy.svg
+* icon-string-theory.svg
+* icon-medical-drone-delivery.svg
+* icon-perpetual-motion-machine.svg
+* icon-holo-deck.svg
+* icon-teleportation.svg
