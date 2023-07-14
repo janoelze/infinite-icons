@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-futuristiccar" viewBox="0 0 24 24">
+  <path d="M2,9h20v3h2v2h-2.02C20.98,16.09,18.91,19,14,19H2V9Z"/>
+  <circle cx="11" cy="17" r="2"/>
+  <circle cx="19" cy="17" r="2"/>
+  <rect x="3" y="11" width="16" height="3"/>
+</svg>

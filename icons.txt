@@ -2915,4 +2915,18 @@
 * icon-watch-pocket.svg
 * icon-polaroid-camera.svg
 * icon-space-satellite.svg
-* icon-weather-vane.svg
+* icon-weather-vane.svg* icon-satellite.svg
+* icon-chess-knight.svg
+* icon-volcano.svg
+* icon-microscope.svg
+* icon-ancient-ruins.svg
+* icon-beetle.svg
+* icon-snowflake.svg
+* icon-nautical-anchor.svg
+* icon-feather-quill.svg
+* icon-origami-bird.svg
+* icon-glowing-lantern.svg
+* icon-bamboo.svg
+* icon-ivy-leaf.svg
+* icon-hot-air-balloon.svg
+* icon-sonar.svg
