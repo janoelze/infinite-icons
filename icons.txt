@@ -4091,4 +4091,18 @@
 * icon-locomotive.svg
 * icon-mantis.svg
 * icon-noodles.svg
-* icon-origami.svg
+* icon-origami.svg* icon-vinylrecord.svg
+* icon-quillpen.svg
+* icon-sorcerer.svg
+* icon-autumnleaf.svg
+* icon-rockhammer.svg
+* icon-romanpillar.svg
+* icon-spacehelmet.svg
+* icon-origamibird.svg
+* icon-sextant.svg
+* icon-hangglider.svg
+* icon-gladiatorhelmet.svg
+* icon-mayanpyramid.svg
+* icon-sushimaki.svg
+* icon-stormcloud.svg
+* icon-quantumcomputer.svg
