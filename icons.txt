@@ -4483,4 +4483,18 @@
 * icon-higgs-boson.svg
 * icon-dark-matter.svg
 * icon-cosmic-ray.svg
-* icon-asteroid-impact.svg
+* icon-asteroid-impact.svg* icon-meteor-shower.svg
+* icon-antique-compass.svg
+* icon-quantum-computer.svg
+* icon-bonsai-tree.svg
+* icon-origami-crane.svg
+* icon-subatomic-particle.svg
+* icon-constellation-ursa.svg
+* icon-Alpaca-wool.svg
+* icon-holographic-display.svg
+* icon-solar-panel.svg
+* icon-lunar-rover.svg
+* icon-space-elevator.svg
+* icon-jupiter-storm.svg
+* icon-velociraptor.svg
+* icon-nebula-horsehead.svg
