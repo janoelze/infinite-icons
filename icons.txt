@@ -3979,4 +3979,18 @@
 * icon-tesseracts.svg
 * icon-polar-bear.svg
 * icon-frozen-lake.svg
-* icon-melting-candle.svg
+* icon-melting-candle.svg* icon-meteor-shower.svg
+* icon-goose.svg
+* icon-oak-leaf.svg
+* icon-compass-rose.svg
+* icon-sundial.svg
+* icon-barley.svg
+* icon-bonsai-tree.svg
+* icon-pyramid.svg
+* icon-lightbulb-invent.svg
+* icon-pottery-wheel.svg
+* icon-alien-ship.svg
+* icon-quill-ink.svg
+* icon-telescope-lens.svg
+* icon-nautical-knot.svg
+* icon-galaxy-spin.svg

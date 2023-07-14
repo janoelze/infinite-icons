@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-subwaytrain" viewBox="0 0 24 24">
+  <path d="M2 2v14h20V2H2zm2 12V4h16v10H4zm10-6H8V6h6v2z"/>
+  <circle cx="8" cy="14" r="2"/>
+  <circle cx="16" cy="14" r="2"/>
+</svg>
