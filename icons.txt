@@ -2999,4 +2999,18 @@
 * icon-sustainable-energy.svg
 * icon-metaverse.svg
 * icon-sublime.svg
-* icon-dark-matter.svg
+* icon-dark-matter.svg* icon-leaf.svg
+* icon-biometric.svg
+* icon-abacus.svg
+* icon-quill.svg
+* icon-fountain-pen.svg
+* icon-jigsaw-puzzle.svg
+* icon-treasure-chest.svg
+* icon-anvil.svg
+* icon-nautical-compass.svg
+* icon-gondola.svg
+* icon-totem-pole.svg
+* icon-crystal-ball.svg
+* icon-wind-chime.svg
+* icon-lobster.svg
+* icon-artichoke.svg

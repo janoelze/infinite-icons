@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-constellation-map">
+    <circle cx="12" cy="8" r="2" fill="none" stroke="currentColor" stroke-width="2"/>
+    <circle cx="6" cy="14" r="2" fill="none" stroke="currentColor" stroke-width="2"/>
+    <circle cx="18" cy="14" r="2" fill="none" stroke="currentColor" stroke-width="2"/>
+    <path  d="M 12 10 L 6 16" fill="none" stroke="currentColor" stroke-width="2"/>
+    <path  d="M 12 10 L 18 16" fill="none" stroke="currentColor" stroke-width="2"/>
+    <path  d="M 6 16 L 18 16" fill="none" stroke="currentColor" stroke-width="2"/>
+</svg>
