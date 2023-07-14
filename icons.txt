@@ -4315,4 +4315,18 @@
 * icon-mountain-ranges.svg
 * icon-satellite-dish.svg
 * icon-virtual-reality.svg
-* icon-green-energy.svg
+* icon-green-energy.svg* icon-solar-system.svg
+* icon-tectonic-plate.svg
+* icon-feather-quill.svg
+* icon-quantum-computer.svg
+* icon-ocean-depth.svg
+* icon-cybernetic-limb.svg
+* icon-papyrus-scroll.svg
+* icon-crypto-blockchain.svg
+* icon-pandoras-box.svg
+* icon-virtual-reality.svg
+* icon-alchemist-potion.svg
+* icon-galactic-cluster.svg
+* icon-seed-germination.svg
+* icon-neolithic-tool.svg
+* icon-antikythera-mechanism.svg
