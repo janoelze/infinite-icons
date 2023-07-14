@@ -3685,4 +3685,18 @@
 * icon-roman-helmet.svg
 * icon-atom-model.svg
 * icon-abacus.svg
-* icon-fossil.svg
+* icon-fossil.svg* icon-global-communication.svg
+* icon-magic-wand.svg
+* icon-space-rocket.svg
+* icon-robotic-arm.svg
+* icon-garden-rake.svg
+* icon-castle-turret.svg
+* icon-aurora-borealis.svg
+* icon-microchip-processor.svg
+* icon-octopus.svg
+* icon-quill-ink.svg
+* icon-tumbleweed.svg
+* icon-viking-helmet.svg
+* icon-steam-punk-goggles.svg
+* icon-bamboo.svg
+* icon-lunar-module.svg
