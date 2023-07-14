@@ -3013,4 +3013,18 @@
 * icon-crystal-ball.svg
 * icon-wind-chime.svg
 * icon-lobster.svg
-* icon-artichoke.svg
+* icon-artichoke.svg* icon-meteor.svg
+* icon-treehouse.svg
+* icon-dna-sequence.svg
+* icon-kaleidoscope.svg
+* icon-quicksand.svg
+* icon-skyscraper.svg
+* icon-rattlesnake.svg
+* icon-constellation.svg
+* icon-igloo.svg
+* icon-glacier.svg
+* icon-volcano.svg
+* icon-sandcastle.svg
+* icon-tumbleweed.svg
+* icon-raindrop.svg
+* icon-papyrus.svg

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-albatross">
+  <path d="M10 10 Q20 20 30 10 T50 10 T70 10 Q80 20 90 10 T110 10 T130 10" stroke="black" fill="transparent"/>
+  <circle cx="50" cy="70" r="40" fill="grey"/>
+  <circle cx="50" cy="70" r="10" fill="white"/>
+  <circle cx="50" cy="70" r="5" fill="black"/>
+  <path d="M12 76 Q15 80 20 76 T28 76" stroke="black" fill="transparent"/>
+</svg>
