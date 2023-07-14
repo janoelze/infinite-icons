@@ -2733,4 +2733,18 @@
 * icon-urban-rebellion.svg
 * icon-silicon-intelligence.svg
 * icon-hive-social.svg
+* icon-quantum-entanglement.svg* icon-globe-connect.svg
+* icon-meteor-shower.svg
+* icon-satellite-dish.svg
+* icon-alien-abduction.svg
+* icon-mountain-climb.svg
+* icon-quantum-computer.svg
+* icon-vr-headset.svg
+* icon-lava-lamp.svg
+* icon-space-elevator.svg
+* icon-river-rafting.svg
+* icon-underwater-cave.svg
+* icon-hologram-projection.svg
+* icon-exoplanet.svg
+* icon-blackhole.svg
 * icon-quantum-entanglement.svg

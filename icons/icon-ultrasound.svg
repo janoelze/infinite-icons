@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-ultrasound">
+  <rect x="0" y="0" width="50" height="50" fill="none" stroke="black" />
+  <circle cx="25" cy="25" r="20" fill="none" stroke="black" />
+  <line x1="25" y1="5" x2="25" y2="45" stroke="black" />
+  <line x1="5" y1="25" x2="45" y2="25" stroke="black" />
+</svg>
