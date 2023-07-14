@@ -4049,4 +4049,18 @@
 * icon-cargo-ship.svg
 * icon-oil-rig.svg
 * icon-nuclear-plant.svg
-* icon-hyperloop.svg
+* icon-hyperloop.svg* icon-asteroid.svg
+* icon-enzyme.svg
+* icon-origami.svg
+* icon-fossil.svg
+* icon-quantum.svg
+* icon-accordion.svg
+* icon-blender.svg
+* icon-meteor.svg
+* icon-spacestation.svg
+* icon-guillotine.svg
+* icon-transistor.svg
+* icon-vortex.svg
+* icon-arcade.svg
+* icon-nanobot.svg
+* icon-rhinoceros.svg
