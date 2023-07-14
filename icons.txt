@@ -4021,4 +4021,18 @@
 * icon-dna-helix.svg
 * icon-digital-globe.svg
 * icon-laboratory-flask.svg
-* icon-guitar-pick.svg
+* icon-guitar-pick.svg* icon-microscope.svg
+* icon-quantum.svg
+* icon-cybersecurity.svg
+* icon-kiwi.svg
+* icon-wheelbarrow.svg
+* icon-digitalnomad.svg
+* icon-argonaut.svg
+* icon-blender.svg
+* icon-papercut.svg
+* icon-bonsai-tree.svg
+* icon-chess-bishop.svg
+* icon-harpoon.svg
+* icon-butterchurn.svg
+* icon-abacus.svg
+* icon-amphora.svg
