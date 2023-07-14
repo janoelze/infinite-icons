@@ -1,0 +1,5 @@
+<svg class="icon icon-quill-inkpot" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"> 
+  <path d="M12 2L14.4 12.533L22 14.666L15.867 22L2 12Z" fill="#000"/>
+  <path d="M14.667 22H12.333" stroke="#000" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="12" cy="12" r="6.667" fill="none" stroke="#000" stroke-width="2"/>
+</svg>

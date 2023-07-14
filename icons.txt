@@ -3923,4 +3923,18 @@
 * icon-jupiter.svg
 * icon-satellite.svg
 * icon-asteroid.svg
-* icon-blackhole.svg
+* icon-blackhole.svg* icon-global-connection.svg
+* icon-chat-bubble.svg
+* icon-books-library.svg
+* icon-computer-code.svg
+* icon-brainstorming.svg
+* icon-rocket-launch.svg
+* icon-virtual-reality.svg
+* icon-film-reel.svg
+* icon-microphone-speaker.svg
+* icon-chemical-flask.svg
+* icon-paint-brush.svg
+* icon-music-note.svg
+* icon-aeroplane-flight.svg
+* icon-space-robot.svg
+* icon-dna-structure.svg
