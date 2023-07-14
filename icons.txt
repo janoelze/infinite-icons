@@ -3769,4 +3769,18 @@
 * icon-gears.svg
 * icon-cactus.svg
 * icon-telescope.svg
-* icon-ziggurat.svg
+* icon-ziggurat.svg* icon-globe-network.svg
+* icon-telescope-discovery.svg
+* icon-compass-navigation.svg
+* icon-inkwell-writing.svg
+* icon-flask-science.svg
+* icon-quill-historic.svg
+* icon-umbrella-weather.svg
+* icon-lotus-meditation.svg
+* icon-anchor-maritime.svg
+* icon-dumbbell-fitness.svg
+* icon-planetarium-astronomy.svg
+* icon-dice-gaming.svg
+* icon-pyramid-egypt.svg
+* icon-pagoda-asia.svg
+* icon-castle-medieval.svg
