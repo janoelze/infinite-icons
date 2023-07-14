@@ -3517,4 +3517,18 @@
 * icon-boot-print.svg
 * icon-origami-crane.svg
 * icon-alien-head.svg
-* icon-menhir.svg
+* icon-menhir.svg* icon-galaxy.svg
+* icon-blackhole.svg
+* icon-nebula.svg
+* icon-planetarium.svg
+* icon-star-cluster.svg
+* icon-supernova.svg
+* icon-constellation.svg
+* icon-space-shuttle.svg
+* icon-observatory.svg
+* icon-telescope.svg
+* icon-meteor.svg
+* icon-satellite.svg
+* icon-rocket-ship.svg
+* icon-quasar.svg
+* icon-pulsar.svg
