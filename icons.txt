@@ -3755,4 +3755,18 @@
 * icon-hobble.svg
 * icon-gauntlet.svg
 * icon-aurora-borealis.svg
-* icon-fossilized.svg
+* icon-fossilized.svg* icon-hedgehog.svg
+* icon-constellation.svg
+* icon-ticket-stub.svg
+* icon-polaroid.svg
+* icon-chess-pawn.svg
+* icon-beehive.svg
+* icon-peony.svg
+* icon-vinyl-record.svg
+* icon-hummingbird.svg
+* icon-croissant.svg
+* icon-waveform.svg
+* icon-gears.svg
+* icon-cactus.svg
+* icon-telescope.svg
+* icon-ziggurat.svg
