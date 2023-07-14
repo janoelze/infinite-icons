@@ -3377,4 +3377,18 @@
 * icon-fusion-energy.svg
 * icon-nanotechnology.svg
 * icon-wireless-power.svg
-* icon-space-travel.svg
+* icon-space-travel.svg* icon-turbine.svg
+* icon-quantum-computer.svg
+* icon-space-elevator.svg
+* icon-nanobot.svg
+* icon-meteor.svg
+* icon-fusion-reactor.svg
+* icon-nebula.svg
+* icon-antimatter.svg
+* icon-hyperloop.svg
+* icon-drone.svg
+* icon-asteroid.svg
+* icon-rocketship.svg
+* icon-telescope.svg
+* icon-hologram.svg
+* icon-robot.svg
