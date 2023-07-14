@@ -3237,4 +3237,18 @@
 * icon-biometricSecurity.svg
 * icon-autonomousVehicle.svg
 * icon-facialRecognition.svg
-* icon-3dPrinting.svg
+* icon-3dPrinting.svg* icon-wind-turbine.svg
+* icon-microbe.svg
+* icon-tectonic-plate.svg
+* icon-sand-timer.svg
+* icon-earthquake.svg
+* icon-telescope.svg
+* icon-quantum-computer.svg
+* icon-black-hole.svg
+* icon-nanobot.svg
+* icon-3d-printer.svg
+* icon-genome.svg
+* icon-neural-network.svg
+* icon-hologram.svg
+* icon-virtual-reality.svg
+* icon-asteroid.svg
