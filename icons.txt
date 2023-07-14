@@ -3741,4 +3741,18 @@
 * icon-microscopic-view.svg
 * icon-dna-sequence.svg
 * icon-solar-system.svg
-* icon-futuristic-city.svg
+* icon-futuristic-city.svg* icon-teleport.svg
+* icon-spellbook.svg
+* icon-conducting-baton.svg
+* icon-underwater-reef.svg
+* icon-phoenix-rising.svg
+* icon-quasar.svg
+* icon-nightowl.svg
+* icon-loveletter.svg
+* icon-pyramidi.svg
+* icon-kraken.svg
+* icon-paradox.svg
+* icon-hobble.svg
+* icon-gauntlet.svg
+* icon-aurora-borealis.svg
+* icon-fossilized.svg
