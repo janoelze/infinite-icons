@@ -4063,4 +4063,18 @@
 * icon-vortex.svg
 * icon-arcade.svg
 * icon-nanobot.svg
-* icon-rhinoceros.svg
+* icon-rhinoceros.svg* icon-global-communication.svg
+* icon-cloud-storage.svg
+* icon-digital-clock.svg
+* icon-music-speaker.svg
+* icon-biometric-scanner.svg
+* icon-encryption-key.svg
+* icon-3d-printer.svg
+* icon-location-pinning.svg
+* icon-virtual-reality.svg
+* icon-satellite.svg
+* icon-smart-glasses.svg
+* icon-quantum-computing.svg
+* icon-drone-delivery.svg
+* icon-renewable-energy.svg
+* icon-artificial-intelligence.svg

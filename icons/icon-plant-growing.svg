@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-plant-growing">
+  <path d="M12 1v2"></path>
+  <path d="M12 6l-4 4-4-4"></path>
+  <path d="M6 16v6"></path>
+  <path d="M6 22a4 4 0 0 0 4-4v-4"></path>
+  <path d="M14 22a4 4 0 0 0 4-4v-2a2 2 0 0 0-2-2h-8"></path>
+  <path d="M12 6l4-4 4 4"></path>
+  <path d="M18 16v4"></path>
+  <path d="M18 22a4 4 0 0 0 4-4v-4a2 2 0 0 0-2-2h8"></path>
+</svg>
