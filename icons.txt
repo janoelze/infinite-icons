@@ -2817,4 +2817,18 @@
 * icon-palomino.svg
 * icon-coral-reef.svg
 * icon-cannon.svg
-* icon-hieroglyph.svg
+* icon-hieroglyph.svg* icon-digicam.svg
+* icon-beer-mug.svg
+* icon-meteor.svg
+* icon-witch-hat.svg
+* icon-stethoscope.svg
+* icon-spyglass.svg
+* icon-moon-crescent.svg
+* icon-cactus.svg
+* icon-hot-air-balloon.svg
+* icon-sheriff-badge.svg
+* icon-roller-coaster.svg
+* icon-pine-tree.svg
+* icon-telescope.svg
+* icon-speedboat.svg
+* icon-fossil.svg
