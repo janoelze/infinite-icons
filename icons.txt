@@ -4119,4 +4119,18 @@
 * icon-geothermal-plant.svg
 * icon-vintage-compass.svg
 * icon-rocket-launch.svg
-* icon-holographic-display.svg
+* icon-holographic-display.svg* icon-compass-navigation.svg
+* icon-meteorology-cloud.svg
+* icon-pyramid-egypt.svg
+* icon-spaghetti-pasta.svg
+* icon-shark-marine.svg
+* icon-glacier-ice.svg
+* icon-quantum-physics.svg
+* icon-zeppelin-airship.svg
+* icon-mandala-art.svg
+* icon-abacus-math.svg
+* icon-raccoon-animal.svg
+* icon-arrow-quiver.svg
+* icon-locomotive-transport.svg
+* icon-gear-cogwheel.svg
+* icon-octopus-maritime.svg
