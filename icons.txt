@@ -3629,4 +3629,18 @@
 * icon-atom.svg
 * icon-volcano.svg
 * icon-compass.svg
-* icon-geyser.svg
+* icon-geyser.svg* icon-meteor-shower.svg
+* icon-quill-ink.svg
+* icon-ancient-column.svg
+* icon-prism-rainbow.svg
+* icon-polaroid-pictures.svg
+* icon-tesseract-cube.svg
+* icon-origami-crane.svg
+* icon-stethoscope.svg
+* icon-crystal-ball.svg
+* icon-periscope.svg
+* icon-nebula-cloud.svg
+* icon-quasar.svg
+* icon-steam-engine.svg
+* icon-lunar-rover.svg
+* icon-sonar-wave.svg
