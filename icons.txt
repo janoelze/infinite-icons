@@ -3307,4 +3307,18 @@
 * icon-silicon-chip.svg
 * icon-solar-panel.svg
 * icon-black-hole.svg
-* icon-quantum-computer.svg
+* icon-quantum-computer.svg* icon-spacecraft.svg
+* icon-antiqueclock.svg
+* icon-microscope.svg
+* icon-subwaytrain.svg
+* icon-coffeenug.svg
+* icon-beehive.svg
+* icon-bonsaitree.svg
+* icon-castle.svg
+* icon-windmill.svg
+* icon-geologicalhammer.svg
+* icon-telescope.svg
+* icon-ancientscroll.svg
+* icon-divingmask.svg
+* icon-rollercoaster.svg
+* icon-hotairballoon.svg
