@@ -3951,4 +3951,18 @@
 * icon-comet.svg
 * icon-astronaut.svg
 * icon-meteor.svg
-* icon-telescope.svg
+* icon-telescope.svg* icon-lab-flask.svg
+* icon-meteor-shower.svg
+* icon-geometric-hexagon.svg
+* icon-ancient-scroll.svg
+* icon-dragonfly.svg
+* icon-urban-landscape.svg
+* icon-explorer-helmet.svg
+* icon-magic-wand.svg
+* icon-rocket-launch.svg
+* icon-hyperspace.svg
+* icon-digital-circuit.svg
+* icon-alien-ship.svg
+* icon-arctic-wolf.svg
+* icon-constellation.svg
+* icon-gearwheel.svg
