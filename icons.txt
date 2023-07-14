@@ -2901,4 +2901,18 @@
 * icon-theatermask.svg
 * icon-magma.svg
 * icon-nebula.svg
-* icon-pharaoh.svg
+* icon-pharaoh.svg* icon-globe-stand.svg
+* icon-encrypted-lock.svg
+* icon-time-spiral.svg
+* icon-microscope-research.svg
+* icon-cogwheel-mechanism.svg
+* icon-typewriter-vintage.svg
+* icon-compass-adventure.svg
+* icon-feather-quill.svg
+* icon-reactor-nuclear.svg
+* icon-chains-link.svg
+* icon-origami-bird.svg
+* icon-watch-pocket.svg
+* icon-polaroid-camera.svg
+* icon-space-satellite.svg
+* icon-weather-vane.svg
