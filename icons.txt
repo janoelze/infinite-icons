@@ -2803,4 +2803,18 @@
 * icon-orbital-path.svg
 * icon-pentagonal.svg
 * icon-tree-ring.svg
-* icon-zodiac-wheel.svg
+* icon-zodiac-wheel.svg* icon-cutlery.svg
+* icon-constellation.svg
+* icon-papyrus.svg
+* icon-chess-knight.svg
+* icon-nuclear.svg
+* icon-quill.svg
+* icon-golem.svg
+* icon-albatross.svg
+* icon-gladiator.svg
+* icon-marionette.svg
+* icon-galaxy.svg
+* icon-palomino.svg
+* icon-coral-reef.svg
+* icon-cannon.svg
+* icon-hieroglyph.svg
