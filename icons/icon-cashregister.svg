@@ -1,0 +1,6 @@
+<svg class='icon icon-cashregister' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'>
+    <path d='M2,6H22A1,1,0,0,1,23,7v12a1,1,0,0,1-1,1H2a1,1,0,0,1-1-1V7A1,1,0,0,1,2,6ZM3,18H21V8H3Z'/>
+    <rect x='2' y='4' width='20' height='2' />
+    <rect x='6' y='10' width='4' height='8' />
+    <rect x='14' y='10' width='4' height='8' />
+</svg>

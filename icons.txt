@@ -3209,4 +3209,18 @@
 * icon-scorpion.svg
 * icon-donut.svg
 * icon-cactus.svg
-* icon-koala.svg
+* icon-koala.svg* icon-digital-watch.svg
+* icon-micro-sd-card.svg
+* icon-roller-skates.svg
+* icon-satellite-dish.svg
+* icon-toast-bread.svg
+* icon-hand-peace.svg
+* icon-electric-guitar.svg
+* icon-geometric-compass.svg
+* icon-pressure-cooker.svg
+* icon-magnolia-flower.svg
+* icon-cruise-ship.svg
+* icon-scuba-diving.svg
+* icon-mt-rushmore.svg
+* icon-screenplay-script.svg
+* icon-ringed-planet.svg
