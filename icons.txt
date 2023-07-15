@@ -4987,4 +4987,18 @@
 * icon-voxel.svg
 * icon-zeppelin.svg
 * icon-abyss.svg
-* icon-blizzard.svg
+* icon-blizzard.svg* icon-mailbox-opened.svg
+* icon-constellation.svg
+* icon-telescope.svg
+* icon-suitcase-rolling.svg
+* icon-coffee-cup-steaming.svg
+* icon-lightbulb-on.svg
+* icon-paperclip-bent.svg
+* icon-butterfly.svg
+* icon-old-quill.svg
+* icon-feather-duster.svg
+* icon-iceberg.svg
+* icon-eye-closed.svg
+* icon-chess-knight.svg
+* icon-space-shuttle.svg
+* icon-music-note-triplet.svg
