@@ -4511,4 +4511,18 @@
 * icon-obelisk.svg
 * icon-periscope.svg
 * icon-amphora.svg
-* icon-tarot.svg
+* icon-tarot.svg* icon-radar.svg
+* icon-satellite.svg
+* icon-synchronisation.svg
+* icon-prism.svg
+* icon-nebula.svg
+* icon-vortex.svg
+* icon-quasar.svg
+* icon-quantum.svg
+* icon-pulse.svg
+* icon-plasma.svg
+* icon-manifold.svg
+* icon-galaxy.svg
+* icon-fractal.svg
+* icon-eclipse.svg
+* icon-cosmos.svg
