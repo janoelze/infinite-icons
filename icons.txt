@@ -4833,4 +4833,18 @@
 * icon-obelisk.svg
 * icon-periscope.svg
 * icon-quartz.svg
-* icon-zephyr.svg
+* icon-zephyr.svg* icon-quantum-computing.svg
+* icon-green-energy.svg
+* icon-smart-city.svg
+* icon-biotech.svg
+* icon-drone-transport.svg
+* icon-data-privacy.svg
+* icon-robotic-surgery.svg
+* icon-virtual-reality.svg
+* icon-self-driving-car.svg
+* icon-3D-printing.svg
+* icon-underwater-exploration.svg
+* icon-augmented-reality.svg
+* icon-space-tourism.svg
+* icon-genome-editing.svg
+* icon-wearable-tech.svg

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-sea-urchin" viewBox="0 0 24 24">
+    <circle cx="12" cy="12" r="6" fill="#000"/>
+    <path d="M12 6l-2 -4 -2 4h4Z" fill="#000"/>
+    <path d="M12 18l-2 4 -2 -4h4Z" fill="#000"/>
+    <path d="M6 12l-4 2 4 2v-4Z" fill="#000"/>
+    <path d="M18 12l4 2 -4 2v-4Z" fill="#000"/>
+</svg>
