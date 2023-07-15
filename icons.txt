@@ -4805,4 +4805,18 @@
 * icon-kaleidoscope.svg
 * icon-hypnotic.svg
 * icon-orrery.svg
-* icon-geodesic.svg
+* icon-geodesic.svg* icon-octahedron.svg
+* icon-glacier.svg
+* icon-scalene-triangle.svg
+* icon-ancient-scroll.svg
+* icon-tesla-coil.svg
+* icon-paint-smear.svg
+* icon-yellow-dwarf-star.svg
+* icon-popcorn-kernel.svg
+* icon-digital-kaleidoscope.svg
+* icon-research-lab.svg
+* icon-pyramids-of-giza.svg
+* icon-cephalopod.svg
+* icon-interrobang.svg
+* icon-crop-circle.svg
+* icon-entropy.svg

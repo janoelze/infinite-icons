@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-dodecahedron">
+  <polygon points="8.66,0 17.32,0 21.66,5 13,10 4.33,5"/>
+  <polygon points="8.66,15 17.32,15 21.66,20 13,25 4.33,20"/>
+  <polygon points="0,5 8.66,10 8.66,20 0,15"/>
+  <polygon points="26.32,5 17.66,10 17.66,20 26.32,15"/>
+  <polygon points="8.66,30 17.32,30 21.66,35 13,40 4.33,35"/>
+  <polygon points="0,35 8.66,40 8.66,50 0,45"/>
+  <polygon points="26.32,35 17.66,40 17.66,50 26.32,45"/>
+  <polygon points="8.66,60 17.32,60 21.66,65 13,70 4.33,65"/>
+  <polygon points="26.32,75 17.66,70 17.66,80 26.32,85"/>
+  <polygon points="0,75 8.66,80 8.66,90 0,85"/>
+</svg>
