@@ -6275,4 +6275,18 @@
 * icon-abstract-fractal-design.svg
 * icon-fossil-ammonite.svg
 * icon-medieval-goblet.svg
-* icon-lightning-in-cloud.svg
+* icon-lightning-in-cloud.svg* icon-springbok.svg
+* icon-mooncake.svg
+* icon-kombucha.svg
+* icon-quill.svg
+* icon-origami.svg
+* icon-brainstorm.svg
+* icon-galaxy.svg
+* icon-tesseract.svg
+* icon-escaperoom.svg
+* icon-converse.svg
+* icon-kaleidoscope.svg
+* icon-metronome.svg
+* icon-churros.svg
+* icon-kintsugi.svg
+* icon-sundial.svg

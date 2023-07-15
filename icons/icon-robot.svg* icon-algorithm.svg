@@ -1,0 +1,4 @@
+<svg fill="#000000" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" class="icon icon-robot.svg icon-algorithm">
+    <path d="M10,15H20V35H10ZM30,15H40V35H30Z"/>
+    <path d="M10,40h30v10H10z"/>
+</svg>
