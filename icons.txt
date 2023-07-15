@@ -5071,4 +5071,18 @@
 * icon-quasar.svg
 * icon-rosaceae.svg
 * icon-tesseract.svg
-* icon-zeppelin.svg
+* icon-zeppelin.svg* icon-underwater-cave.svg
+* icon-sand-timer.svg
+* icon-pineapple.svg
+* icon-phoenix.svg
+* icon-nebula.svg
+* icon-mountain-climber.svg
+* icon-lightning-bolt.svg
+* icon-jungle.svg
+* icon-ice-cube.svg
+* icon-hot-air-balloon.svg
+* icon-grizzly-bear.svg
+* icon-fire-intensive.svg
+* icon-dna.svg
+* icon-cactus.svg
+* icon-arrow-curved.svg
