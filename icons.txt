@@ -5043,4 +5043,18 @@
 * icon-yacht.svg
 * icon-croissant.svg
 * icon-hedgehog.svg
-* icon-volcano.svg
+* icon-volcano.svg* icon-rocket-launch.svg
+* icon-forest-path.svg
+* icon-floating-balloon.svg
+* icon-ancient-archive.svg
+* icon-moonlit-umbrella.svg
+* icon-coil-spring.svg
+* icon-kaleidoscope-patterns.svg
+* icon-chemical-concoction.svg
+* icon-digital-cipher.svg
+* icon-silent-fountain.svg
+* icon-urban-graffiti.svg
+* icon-lava-flow.svg
+* icon-virtual-reality.svg
+* icon-holographic-projector.svg
+* icon-magnet-pull.svg
