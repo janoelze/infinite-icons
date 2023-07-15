@@ -4875,4 +4875,18 @@
 * icon-lighthouse.svg
 * icon-telescope.svg
 * icon-oasis.svg
-* icon-hot-air-balloon.svg
+* icon-hot-air-balloon.svg* icon-flamingo.svg
+* icon-telescope.svg
+* icon-lightbulb-dimmed.svg
+* icon-peanut.svg
+* icon-microphone-muted.svg
+* icon-train-tracks.svg
+* icon-oasis.svg
+* icon-bridge.svg
+* icon-satellite-dish.svg
+* icon-snowflake.fxml
+* icon-rocket-ship.svg
+* icon-king-crown.svg
+* icon-chemistry-flask.svg
+* icon-chronometer.svg
+* icon-theater-masks.svg
