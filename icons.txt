@@ -5365,4 +5365,18 @@
 * icon-solar-panel.svg
 * icon-bionic-arm.svg
 * icon-galactic-cluster.svg
-* icon-black-hole.svg
+* icon-black-hole.svg* icon-holographic-data.svg
+* icon-alien-communication.svg
+* icon-quantum-computing.svg
+* icon-future-cityscape.svg
+* icon-eco-awareness.svg
+* icon-virtual-reality-goggles.svg
+* icon-crypto-block.svg
+* icon-drone-delivery.svg
+* icon-self-driving-car.svg
+* icon-smart-home.svg
+* icon-augmented-reality.svg
+* icon-nanotech.svg
+* icon-artificial-intelligence.svg
+* icon-galactic-navigation.svg
+* icon-biometric-authentication.svg

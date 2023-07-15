@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-hexagonal-molecule">
+  <polygon points="12 2 2 7 2 17 12 22 22 17 22 7 12 2"/>
+  <circle cx="12" cy="12" r="3"/>
+  <circle cx="7" cy="7" r="3"/>
+  <circle cx="17" cy="7" r="3"/>
+  <circle cx="7" cy="17" r="3"/>
+  <circle cx="17" cy="17" r="3"/>
+</svg>
