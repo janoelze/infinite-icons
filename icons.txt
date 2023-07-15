@@ -5225,4 +5225,18 @@
 * icon-stellar.svg
 * icon-threshold.svg
 * icon-vertex.svg
-* icon-zenith.svg
+* icon-zenith.svg* icon-galaxy.svg
+* icon-torchlight.svg
+* icon-ancient-scroll.svg
+* icon-bamboo.svg
+* icon-crystal-ball.svg
+* icon-dragonfly.svg
+* icon-grim-reaper.svg
+* icon-hemisphere.svg
+* icon-iguana.svg
+* icon-jacuzzi.svg
+* icon-kaleidoscope.svg
+* icon-lyre.svg
+* icon-meteor-shower.svg
+* icon-necromancer.svg
+* icon-obelisk.svg
