@@ -5323,4 +5323,18 @@
 * icon-wormhole.svg
 * icon-hyperspeed.svg
 * icon-exoplanet.svg
-* icon-dnaHelix.svg
+* icon-dnaHelix.svg* icon-quantum-computing.svg
+* icon-ufo.svg
+* icon-alien-head.svg
+* icon-virtual-reality.svg
+* icon-sundial.svg
+* icon-hologram.svg
+* icon-sasquatch.svg
+* icon-nebula.svg
+* icon-time-travel.svg
+* icon-black-hole.svg
+* icon-clairvoyance.svg
+* icon-hyperloop.svg
+* icon-crypto-art.svg
+* icon-moon-colony.svg
+* icon-satellite-network.svg

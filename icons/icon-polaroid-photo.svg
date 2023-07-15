@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-polaroid-photo">
+  <rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect>
+  <path d="M6 8.5 L18 8.5"></path>
+  <path d="M6 13 L18 13"></path>
+  <path d="M6 17.5 L18 17.5"></path>
+</svg>
