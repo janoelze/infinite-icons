@@ -6037,4 +6037,18 @@
 * icon-mushroom.svg
 * icon-dandelion.svg
 * icon-harpoon.svg
-* icon-cutlass.svg
+* icon-cutlass.svg* icon-megaphone.svg
+* icon-flowchart.svg
+* icon-featherpen.svg
+* icon-biometrics.svg
+* icon-sickle-moon.svg
+* icon-perspective-cube.svg
+* icon-lantern.svg
+* icon-mandala.svg
+* icon-pawn-chess.svg
+* icon-spyglass.svg
+* icon-drumstick.svg
+* icon-cloud-fog.svg
+* icon-origami-bird.svg
+* icon-spaghetti.svg
+* icon-brick-wall.svg

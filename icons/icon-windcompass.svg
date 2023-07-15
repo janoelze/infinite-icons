@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-windcompass">
+  <circle cx="12" cy="12" r="10"></circle>
+  <polygon points="12,2 15,12 12,22 9,12 12,2"></polygon>
+  <line x1="12" y1="2" x2="12" y2="22"></line>
+  <line x1="2" y1="12" x2="22" y2="12"></line>
+</svg>
