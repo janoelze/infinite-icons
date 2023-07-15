@@ -5631,4 +5631,18 @@
 * icon-lunar-eclipse.svg
 * icon-mono-no-aware.svg
 * icon-nebula.svg
-* icon-opalescent.svg
+* icon-opalescent.svg* icon-compass.svg
+* icon-thermometer.svg
+* icon-satellite.svg
+* icon-brain.svg
+* icon-nuclear.svg
+* icon-caduceus.svg
+* icon-telescope.svg
+* icon-dna.svg
+* icon-rocket.svg
+* icon-geode.svg
+* icon-petridish.svg
+* icon-atom.svg
+* icon-galaxy.svg
+* icon-meteor.svg
+* icon-radar.svg
