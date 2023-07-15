@@ -5309,4 +5309,18 @@
 * icon-artichoke.svg
 * icon-skyscraper.svg
 * icon-toucan.svg
-* icon-microfilm.svg
+* icon-microfilm.svg* icon-digitallock.svg
+* icon-quantumcomputer.svg
+* icon-telescope.svg
+* icon-satellite.svg
+* icon-triptoMars.svg
+* icon-droidrobot.svg
+* icon-prism.svg
+* icon-nuclear.svg
+* icon-stringtheory.svg
+* icon-hologram.svg
+* icon-artificialintelliegence.svg
+* icon-wormhole.svg
+* icon-hyperspeed.svg
+* icon-exoplanet.svg
+* icon-dnaHelix.svg
