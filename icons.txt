@@ -6163,4 +6163,18 @@
 * icon-mezuzah.svg
 * icon-oracle.svg
 * icon-python.svg
-* icon-tesseract.svg
+* icon-tesseract.svg* icon-rainbow.svg
+* icon-helicopter.svg
+* icon-stethoscope.svg
+* icon-pear.svg
+* icon-easel.svg
+* icon-tarot.svg
+* icon-vine.svg
+* icon-anemometer.svg
+* icon-snowflake.svg
+* icon-sushi.svg
+* icon-kaleidoscope.svg
+* icon-octopus.svg
+* icon-jackhammer.svg
+* icon-ouroboros.svg
+* icon-quill.svg

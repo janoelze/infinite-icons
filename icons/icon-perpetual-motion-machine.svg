@@ -1,0 +1,13 @@
+<svg class="icon icon-perpetual-motion-machine" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <circle class="cls-1" cx="12" cy="12" r="10" />
+  <polyline class="cls-2" points="12 2 12 12 14 14" />
+  <circle class="cls-3" cx="18" cy="18" r="1" />
+  <path class="cls-4" d="M18 22s3-2 3-6" />
+  <path class="cls-4" d="M18 22s-3-2-3-6" />
+  <circle class="cls-3" cx="12" cy="22" r="1" />
+  <path class="cls-4" d="M12 22s3-2 3-6" />
+  <path class="cls-4" d="M12 22s-3-2-3-6" />
+  <circle class="cls-3" cx="6" cy="18" r="1" />
+  <path class="cls-4" d="M6 22s3-2 3-6" />
+  <path class="cls-4" d="M6 22s-3-2-3-6" />
+</svg>
