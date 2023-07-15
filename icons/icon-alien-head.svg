@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-alien-head">
+    <circle cx="50" cy="50" r="40" stroke="green" stroke-width="4" fill="black"/>
+    <ellipse cx="40" cy="50" rx="5" ry="10" stroke="green" fill="white"/>
+    <ellipse cx="60" cy="50" rx="5" ry="10" stroke="green" fill="white"/>
+    <path d="M 30 70 Q 50 90, 70 70" stroke="green" fill="transparent"/>
+</svg>

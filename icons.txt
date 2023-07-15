@@ -4651,4 +4651,18 @@
 * icon-wind-turbine.svg
 * icon-self-driving-car.svg
 * icon-vaccine-development.svg
-* icon-artificial-intelligence.svg
+* icon-artificial-intelligence.svg* icon-globe-network.svg
+* icon-speech-bubble-communication.svg
+* icon-chart-presentation.svg
+* icon-bowling-sport.svg
+* icon-pencil-writing.svg
+* icon-shipping-delivery.svg
+* icon-cloud-weather.svg
+* icon-okt-sign-in.svg
+* icon-puzzle-thinking.svg
+* icon-diamond-jewelry.svg
+* icon-paintbrush-art.svg
+* icon-pin-location.svg
+* icon-thumb-up-feedback.svg
+* icon-umbrella-rain.svg
+* icon-happy-smile.svg
