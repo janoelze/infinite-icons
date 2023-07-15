@@ -4581,4 +4581,18 @@
 * icon-hermit-crab.svg
 * icon-bonsai-tree.svg
 * icon-iceberg.svg
-* icon-satellite.svg
+* icon-satellite.svg* icon-sandglass.svg
+* icon-quasar.svg
+* icon-albatross.svg
+* icon-codex.svg
+* icon-papyrus.svg
+* icon-oracle.svg
+* icon-locomotive.svg
+* icon-halberd.svg
+* icon-flight.svg
+* icon-palanquin.svg
+* icon-obelisk.svg
+* icon-nomad.svg
+* icon-maximus.svg
+* icon-kaleidoscope.svg
+* icon-juggernaut.svg
