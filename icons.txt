@@ -5897,4 +5897,18 @@
 * icon-solar-panel.svg
 * icon-hybrid-car.svg
 * icon-drone-delivery.svg
-* icon-quantum-computing.svg
+* icon-quantum-computing.svg* icon-meridian.svg
+* icon-stardust.svg
+* icon-raindrop.svg
+* icon-locus.svg
+* icon-sprocket.svg
+* icon-ember.svg
+* icon-verve.svg
+* icon-cipher.svg
+* icon-helix.svg
+* icon-cosmos.svg
+* icon-apex.svg
+* icon-aegis.svg
+* icon-zenith.svg
+* icon-nexus.svg
+* icon-prism.svg
