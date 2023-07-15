@@ -5659,4 +5659,18 @@
 * icon-astralquicksand.svg
 * icon-circuitcloud.svg
 * icon-galaxyfootprint.svg
-* icon-neonheartbeat.svg
+* icon-neonheartbeat.svg* icon-turtle.svg
+* icon-pinwheel.svg
+* icon-galaxy.svg
+* icon-honeycomb.svg
+* icon-jigsaw.svg
+* icon-labyrinth.svg
+* icon-quasar.svg
+* icon-nugget.svg
+* icon-kaleidoscope.svg
+* icon-obelisk.svg
+* icon-pendant.svg
+* icon-marionette.svg
+* icon-goblet.svg
+* icon-papyrus.svg
+* icon-oracle.svg
