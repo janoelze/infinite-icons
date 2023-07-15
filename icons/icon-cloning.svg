@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-cloning" viewBox="0 0 24 24">
+  <path d="M0 0h24v24H0z" fill="none"/>
+  <rect x="8" y="8" width="12" height="12" rx="2"/>
+  <path d="M16 2h5a1 1 0 0 1 1 1v5m-1-4v4h-4a4 4 0 0 0-4 4v4h-4a1 1 0 0 1-1-1v-5a1 1 0 0 1 1-1h5V8a2 2 0 0 1 2-2z"/>
+</svg>

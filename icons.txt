@@ -5001,4 +5001,18 @@
 * icon-eye-closed.svg
 * icon-chess-knight.svg
 * icon-space-shuttle.svg
-* icon-music-note-triplet.svg
+* icon-music-note-triplet.svg* icon-digitalwatch.svg
+* icon-typewriter.svg
+* icon-telescope.svg
+* icon-ancientruins.svg
+* icon-windturbine.svg
+* icon-circuitboard.svg
+* icon-blackhole.svg
+* icon-graphene.svg
+* icon-nanobot.svg
+* icon-quill.svg
+* icon-hotairballoon.svg
+* icon-sherlock.svg
+* icon-treasuremap.svg
+* icon-dnastrand.svg
+* icon-organoid.svg
