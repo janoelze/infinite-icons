@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-genetic-engineering.svg icon-shipwheel" viewBox="0 0 24 24">
+  <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"/>
+  <path d="M0 0h24v24H0z" fill="none"/>
+  <path d="M11 14h2v2h-2zm-1-1V7h2v8l2.5 1.5L15 17l-3.5-2-3.5 2-1-1.5L9 14zm7-.43v2c1.14-.37 2-1.37 2-2.57 0-1.2-.86-2.2-2-2.57v2c.53 0 1 .45 1 1s-.45 1-1 1z"/>
+</svg>

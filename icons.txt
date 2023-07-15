@@ -5561,4 +5561,18 @@
 * icon-satellite.svg
 * icon-necktie.svg
 * icon-uploadCloud.svg
-* icon-diatom.svg
+* icon-diatom.svg* icon-lightbulb-off.svg
+* icon-beaker-experiment.svg
+* icon-falling-leaf.svg
+* icon-hammer-nail.svg
+* icon-hand-ladder.svg
+* icon-crescent-moon-stars.svg
+* icon-footprint-sand.svg
+* icon-umbrella-rain.svg
+* icon-bicycle-pedals.svg
+* icon-hotair-balloon.svg
+* icon-binoculars-distance.svg
+* icon-flask-bubbles.svg
+* icon-planet-ring.svg
+* icon-tornado.svg
+* icon-trophy-stars.svg
