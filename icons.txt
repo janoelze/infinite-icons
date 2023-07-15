@@ -5015,4 +5015,18 @@
 * icon-sherlock.svg
 * icon-treasuremap.svg
 * icon-dnastrand.svg
-* icon-organoid.svg
+* icon-organoid.svg* icon-raincloud.svg
+* icon-vinyl-record.svg
+* icon-rocket-ship.svg
+* icon-lightbulb-on.svg
+* icon-lightbulb-off.svg
+* icon-unicycle.svg
+* icon-bearded-person.svg
+* icon-hot-air-balloon.svg
+* icon-origami-crane.svg
+* icon-lightning-bolt.svg
+* icon-runway-model.svg
+* icon-turntable.svg
+* icon-martini-glass.svg
+* icon-jellyfish.svg
+* icon-dragonfly.svg
