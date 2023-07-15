@@ -5939,4 +5939,18 @@
 * icon-surfing-wave.svg
 * icon-paint-splatter.svg
 * icon-asian-lantern.svg
-* icon-artificial-intelligence.svg
+* icon-artificial-intelligence.svg* icon-rocket-launch.svg
+* icon-galaxy.svg
+* icon-lightning-bolt.svg
+* icon-quantum-computer.svg
+* icon-alien.svg
+* icon-asteroid.svg
+* icon-planet-rings.svg
+* icon-black-hole.svg
+* icon-telescope.svg
+* icon-space-station.svg
+* icon-satellite.svg
+* icon-star-cluster.svg
+* icon-glowing-nebula.svg
+* icon-meteor-shower.svg
+* icon-orbit-path.svg
