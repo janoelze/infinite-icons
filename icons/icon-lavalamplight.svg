@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" 
+    class="icon icon-lavalamplight">
+    <circle cx="10" cy="10" r="5" stroke="black" stroke-width="2" fill="red"/>
+    <rect x="5" y="15" width="10" height="20" stroke="black" stroke-width="2" fill="purple"/>
+</svg>

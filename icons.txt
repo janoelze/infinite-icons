@@ -4945,4 +4945,18 @@
 * icon-solar-energy.svg
 * icon-unmanned-vehicle.svg
 * icon-virtual-reality.svg
-* icon-waste-management.svg
+* icon-waste-management.svg* icon-orbit.svg
+* icon-beaker.svg
+* icon-tempus.svg
+* icon-fenestra.svg
+* icon-sanguis.svg
+* icon-terra.svg
+* icon-cantus.svg
+* icon-frutex.svg
+* icon-pergascript.svg
+* icon-haruspex.svg
+* icon-clavis.svg
+* icon-ventus.svg
+* icon-pontem.svg
+* icon-sparteum.svg
+* icon-lux.svg
