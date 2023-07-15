@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-unicorn.svg* icon-infinity-loop" viewBox="0 0 24 24">
+    <path d="M0 0h24v24H0z" fill="none"/>
+    <path d="M6 12c-4 0 -4 4 -6 4l6-2c0 3 2 4 4 4v5h4v-5a6 6 0 1 0 -8 -1l2 4l2 -8l-2 -4l-2 2z"/>
+    <path d="M18 12c4 0 4 4 6 4l-6 -2c0 3 -2 4 -4 4v5h-4v-5a6 6 0 1 1 8 1l-2 -4l2 -8l2 4l2 -2z"/>
+</svg>

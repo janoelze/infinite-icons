@@ -4595,4 +4595,18 @@
 * icon-nomad.svg
 * icon-maximus.svg
 * icon-kaleidoscope.svg
-* icon-juggernaut.svg
+* icon-juggernaut.svg* icon-petition.svg
+* icon-testtube.svg
+* icon-biometrics.svg
+* icon-aeroplane.svg
+* icon-cactus.svg
+* icon-fireextinguisher.svg
+* icon-satellite.svg
+* icon-volcano.svg
+* icon-sherlockholmes.svg
+* icon-teleport.svg
+* icon-nanobot.svg
+* icon-hyperspace.svg
+* icon-moonscape.svg
+* icon-parachute.svg
+* icon-genie.svg
