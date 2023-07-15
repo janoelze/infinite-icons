@@ -4819,4 +4819,18 @@
 * icon-cephalopod.svg
 * icon-interrobang.svg
 * icon-crop-circle.svg
-* icon-entropy.svg
+* icon-entropy.svg* icon-flamingo.svg
+* icon-hologram.svg
+* icon-wheat.svg
+* icon-origami.svg
+* icon-constellation.svg
+* icon-sundial.svg
+* icon-traintracks.svg
+* icon-jigsaw.svg
+* icon-albatross.svg
+* icon-binoculars.svg
+* icon-kaleidoscope.svg
+* icon-obelisk.svg
+* icon-periscope.svg
+* icon-quartz.svg
+* icon-zephyr.svg
