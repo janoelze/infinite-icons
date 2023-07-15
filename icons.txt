@@ -4735,4 +4735,18 @@
 * icon-ai-brain.svg
 * icon-3d-printing.svg
 * icon-nuclear-reactor.svg
-* icon-genetic-editing.svg
+* icon-genetic-editing.svg* icon-quantum-computing.svg
+* icon-virtual-reality-goggles.svg
+* icon-dna-sequence.svg
+* icon-drone-delivery.svg
+* icon-artificial-intelligence.svg
+* icon-cloud-storage.svg
+* icon-hybrid-vehicle.svg
+* icon-biochip.svg
+* icon-smart-city.svg
+* icon-robotic-arm.svg
+* icon-3d-printing.svg
+* icon-holographic-display.svg
+* icon-wearable-tech.svg
+* icon-genetic-engineering.svg
+* icon-renewable-energy.svg

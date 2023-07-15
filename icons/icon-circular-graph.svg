@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-circular-graph">
+  <circle cx="12" cy="12" r="10" stroke="currentColor" stroke-width="2" fill="none" />
+  <path d="M12 2 A 10 10 0 0 1 22 12" stroke="currentColor" stroke-width="2" fill="none" />
+</svg>
