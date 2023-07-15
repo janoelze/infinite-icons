@@ -4567,4 +4567,18 @@
 * icon-neural-network.svg
 * icon-exoplanet.svg
 * icon-data-analysis.svg
-* icon-hologram.svg
+* icon-hologram.svg* icon-origami.svg
+* icon-chemical-flask.svg
+* icon-astro-helmet.svg
+* icon-fossil.svg
+* icon-vintage-camera.svg
+* icon-cactus.svg
+* icon-greek-column.svg
+* icon-weather-vane.svg
+* icon-dinosaur.svg
+* icon-mayan-calendar.svg
+* icon-hiker.svg
+* icon-hermit-crab.svg
+* icon-bonsai-tree.svg
+* icon-iceberg.svg
+* icon-satellite.svg
