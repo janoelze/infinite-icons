@@ -4553,4 +4553,18 @@
 * icon-satellitedish.svg
 * icon-igloo.svg
 * icon-lighthouse.svg
-* icon-waterwheel.svg
+* icon-waterwheel.svg* icon-quantum-computing.svg
+* icon-artificial-intelligence.svg
+* icon-virtual-reality.svg
+* icon-cyber-security.svg
+* icon-space-exploration.svg
+* icon-genetic-engineering.svg
+* icon-brainwave.svg
+* icon-blockchain.svg
+* icon-renewable-energy.svg
+* icon-lab-rat.svg
+* icon-atomic.svg
+* icon-neural-network.svg
+* icon-exoplanet.svg
+* icon-data-analysis.svg
+* icon-hologram.svg
