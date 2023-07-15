@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-castle-medieval.svg icon-quantum-computer">
+  <g fill="none" stroke="currentColor" stroke-width="2">
+    <path d="M10 40 v-20 h10 v20M50 40 v-20 h10 v20"></path>
+    <path d="M15 20 v-10 h10 v10M55 20 v-10 h10 v10"></path>
+    <path d="M20 10 v-5 h10 v5"></path>
+    <rect x="0" y="40" width="70" height="5"></rect>
+    <path d="M25 45 v10 h20 v-10M25 50 h20"></path>
+    <path d="M5 45 v5 h60 v-5"></path>
+    <circle cx="35" cy="80" r="20" fill="currentColor"></circle>
+    <path d="M30 60 v10 h10 v-10"></path>
+  </g>
+</svg>

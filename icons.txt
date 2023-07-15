@@ -4637,4 +4637,18 @@
 * icon-screaming-lightbulb.svg
 * icon-intertwined-vines.svg
 * icon-electric-eyeball.svg
-* icon-crumbled-paper.svg
+* icon-crumbled-paper.svg* icon-dna-sequence.svg
+* icon-fossil-fuel.svg
+* icon-hologram.svg
+* icon-satellite.svg
+* icon-virtual-reality.svg
+* icon-quantum-computer.svg
+* icon-genetic-engineering.svg
+* icon-cryptocurrency.svg
+* icon-solar-panel.svg
+* icon-space-station.svg
+* icon-climate-change.svg
+* icon-wind-turbine.svg
+* icon-self-driving-car.svg
+* icon-vaccine-development.svg
+* icon-artificial-intelligence.svg
