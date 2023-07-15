@@ -6009,4 +6009,18 @@
 * icon-octopus.svg
 * icon-graduation-cap.svg
 * icon-digital-clock.svg
-* icon-astronaut-helmet.svg
+* icon-astronaut-helmet.svg* icon-thermometer.svg
+* icon-atom.svg
+* icon-constellation.svg
+* icon-telescope.svg
+* icon-volcano.svg
+* icon-dna.svg
+* icon-alien.svg
+* icon-galaxy.svg
+* icon-fossil.svg
+* icon-lightbulb-innovate.svg
+* icon-rocket.svg
+* icon-magnet.svg
+* icon-binoculars.svg
+* icon-meteor.svg
+* icon-planet.svg
