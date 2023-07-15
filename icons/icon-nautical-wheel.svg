@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-nautical-wheel">
+  <circle cx="12" cy="12" r="11" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <line x1="12" y1="2" x2="12" y2="22" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <line x1="2" y1="12" x2="22" y2="12" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <line x1="16.97056274847714" y1="16.97056274847714" x2="7.029437251522861" y2="7.029437251522861" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <line x1="16.97056274847714" y1="7.029437251522861" x2="7.029437251522861" y2="16.97056274847714" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+</svg>

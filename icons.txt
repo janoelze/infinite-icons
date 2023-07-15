@@ -5169,4 +5169,18 @@
 * icon-nanotechnology.svg
 * icon-space-exploration.svg
 * icon-data-analytics.svg
-* icon-robotics.svg
+* icon-robotics.svg* icon-meteor.svg
+* icon-astronaut.svg
+* icon-magician-hat.svg
+* icon-globe-stand.svg
+* icon-alien.svg
+* icon-jellyfish.svg
+* icon-arctic-fox.svg
+* icon-hedgehog.svg
+* icon-nomad-tent.svg
+* icon-cactus.svg
+* icon-poncho.svg
+* icon-locomotive.svg
+* icon-kimono.svg
+* icon-hot-air-balloon.svg
+* icon-space-shuttle.svg
