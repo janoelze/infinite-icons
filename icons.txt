@@ -5771,4 +5771,18 @@
 * icon-quasar.svg
 * icon-blackhole.svg
 * icon-pulsar.svg
-* icon-cube.svg
+* icon-cube.svg* icon-dolphin.svg
+* icon-windmill.svg
+* icon-treasure-chest.svg
+* icon-satellite.svg
+* icon-quill.svg
+* icon-cactus.svg
+* icon-igloo.svg
+* icon-black-hole.svg
+* icon-unicorn.svg
+* icon-dna.svg
+* icon-jellyfish.svg
+* icon-theater-mask.svg
+* icon-parachute.svg
+* icon-guillotine.svg
+* icon-alien.svg
