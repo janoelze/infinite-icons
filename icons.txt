@@ -5085,4 +5085,18 @@
 * icon-fire-intensive.svg
 * icon-dna.svg
 * icon-cactus.svg
-* icon-arrow-curved.svg
+* icon-arrow-curved.svg* icon-flight-attendant.svg
+* icon-palm-tree.svg
+* icon-space-rocket.svg
+* icon-wolf.svg
+* icon-microscope.svg
+* icon-tornado.svg
+* icon-hang-gliding.svg
+* icon-vampire.svg
+* icon-black-hole.svg
+* icon-time-travel.svg
+* icon-ribbon.svg
+* icon-snowflake.svg
+* icon-oyster.svg
+* icon-candy-cane.svg
+* icon-windmill.svg

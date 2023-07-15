@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-ancient-pyramids" viewBox="0 0 24 24">
+  <path d="M12 2L2 22h20L12 2zm0 5.66L6.6 20h10.8L12 7.66zM4 22v2h16v-2H4z"/>
+</svg>
+This SVG creates an icon representing ancient pyramids. The viewBox attribute provides the aspect ratio and coordinate system to preserve when scaling the graphic.
+The 'path' element provides the coordinates to create the shapes of the pyramids and the horizontal line at the bottom. The "d" attribute in the 'path' element contains instructions for drawing the paths.
