@@ -4539,4 +4539,18 @@
 * icon-3d-printer.svg
 * icon-smart-glasses.svg
 * icon-quantum-computer.svg
-* icon-cryptocurrency.svg
+* icon-cryptocurrency.svg* icon-icecream.svg
+* icon-rollercoaster.svg
+* icon-astronaut.svg
+* icon-skyscraper.svg
+* icon-hikingboot.svg
+* icon-gorilla.svg
+* icon-dartboard.svg
+* icon-compassrose.svg
+* icon-pterodactyl.svg
+* icon-thunderstorm.svg
+* icon-deeppot.svg
+* icon-satellitedish.svg
+* icon-igloo.svg
+* icon-lighthouse.svg
+* icon-waterwheel.svg
