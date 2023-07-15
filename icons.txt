@@ -5715,4 +5715,18 @@
 * icon-laundry-basket.svg
 * icon-sushi-roll.svg
 * icon-origami-bird.svg
-* icon-goldfish-bowl.svg
+* icon-goldfish-bowl.svg* icon-teleportation.svg
+* icon-molecular-structure.svg
+* icon-tree-roots.svg
+* icon-hot-air-balloon.svg
+* icon-constellation.svg
+* icon-geysers.svg
+* icon-hologram.svg
+* icon-galaxy.svg
+* icon-black-hole.svg
+* icon-artificial-intelligence.svg
+* icon-submarine.svg
+* icon-telescope.svg
+* icon-lightning-bolt.svg
+* icon-meteor.svg
+* icon-magic-wand.svg

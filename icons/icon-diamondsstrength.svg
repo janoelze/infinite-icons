@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-diamondsstrength" viewBox="0 0 24 24">
+    <path d="M22,11.07V12h-2v7a1,1,0,0,1-1,1H5a1,1,0,0,1-1-1V12H2v-.93a.44.44,0,0,1,.25-.41L11,2.71a1,1,0,0,1,1.5,0l8.75,7.95A.44.44,0,0,1,22,11.07Z">
+    </path>
+    <path d="M13,10h-2V8a1,1,0,0,1,2,0Z"></path>
+    <path d="M9,20h6a1,1,0,0,0,0-2H9a1,1,0,0,0,0,2Z"></path>
+</svg>
