@@ -5911,4 +5911,18 @@
 * icon-aegis.svg
 * icon-zenith.svg
 * icon-nexus.svg
-* icon-prism.svg
+* icon-prism.svg* icon-treasure-chest.svg
+* icon-spaghetti.svg
+* icon-hiking-boot.svg
+* icon-candy-cane.svg
+* icon-rocket-ship.svg
+* icon-dinosaur.svg
+* icon-retro-telephone.svg
+* icon-disco-ball.svg
+* icon-draft-beer.svg
+* icon-sushi-roll.svg
+* icon-guitar-pick.svg
+* icon-old-quill.svg
+* icon-chemistry-flask.svg
+* icon-digital-clock.svg
+* icon-vintage-compass.svg
