@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-quantumcomputing">
+    <g>
+        <circle cx="12" cy="12" r="4" />
+        <path d="M12 1a11 11 0 00-11 11h22A11 11 0 0012 1z" />
+        <path d="M1 12v2h2v-2H1zm20 0v2h2v-2h-2z"/>
+        <path d="M4.93 4.93l1.41 1.41-1.41-1.41zm12.73 12.73l1.41 1.41-1.41-1.41z"/>
+        <path d="M2 12h2a10 10 0 0120 0h2A12 12 0 002 12z"/>
+    </g>
+</svg>

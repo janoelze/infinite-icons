@@ -5785,4 +5785,18 @@
 * icon-theater-mask.svg
 * icon-parachute.svg
 * icon-guillotine.svg
-* icon-alien.svg
+* icon-alien.svg* icon-abacus.svg
+* icon-quill.svg
+* icon-vinyl.svg
+* icon-treasure-map.svg
+* icon-hot-air-balloon.svg
+* icon-magnifying-glass.svg
+* icon-atom.svg
+* icon-thermometer.svg
+* icon-pancake.svg
+* icon-cocktail.svg
+* icon-meteor.svg
+* icon-windmill.svg
+* icon-microscope.svg
+* icon-ice-cream.svg
+* icon-snorkel.svg
