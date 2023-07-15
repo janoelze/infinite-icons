@@ -6051,4 +6051,18 @@
 * icon-cloud-fog.svg
 * icon-origami-bird.svg
 * icon-spaghetti.svg
-* icon-brick-wall.svg
+* icon-brick-wall.svg* icon-fingerprint.svg
+* icon-seedling.svg
+* icon-rocketship.svg
+* icon-sonicwave.svg
+* icon-hologram.svg
+* icon-scrolling.svg
+* icon-starcluster.svg
+* icon-quantum.svg
+* icon-dna.svg
+* icon-rift.svg
+* icon-graffiti.svg
+* icon-blackhole.svg
+* icon-chameleon.svg
+* icon-nebula.svg
+* icon-aurora.svg
