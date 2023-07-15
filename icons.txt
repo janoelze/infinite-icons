@@ -5757,4 +5757,18 @@
 * icon-waste-management.svg
 * icon-smart-city.svg
 * icon-fintech-investments.svg
-* icon-green-architecture.svg
+* icon-green-architecture.svg* icon-orbit.svg
+* icon-vortex.svg
+* icon-dna.svg
+* icon-papyrus.svg
+* icon-quill.svg
+* icon-nebula.svg
+* icon-abacus.svg
+* icon-transistor.svg
+* icon-telescope.svg
+* icon-robot-arm.svg
+* icon-eclipse.svg
+* icon-quasar.svg
+* icon-blackhole.svg
+* icon-pulsar.svg
+* icon-cube.svg
