@@ -5337,4 +5337,18 @@
 * icon-hyperloop.svg
 * icon-crypto-art.svg
 * icon-moon-colony.svg
-* icon-satellite-network.svg
+* icon-satellite-network.svg* icon-raincloud.svg
+* icon-sunrise.svg
+* icon-hotairballoon.svg
+* icon-cappuccino.svg
+* icon-origami.svg
+* icon-quill.svg
+* icon-castle.svg
+* icon-constellation.svg
+* icon-cactus.svg
+* icon-globe.svg
+* icon-sushi.svg
+* icon-kiwi.svg
+* icon-bonsai.svg
+* icon-blackhole.svg
+* icon-satellite.svg
