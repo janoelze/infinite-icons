@@ -5841,4 +5841,18 @@
 * icon-renewableenergy.svg
 * icon-CRISPR.svg
 * icon-bioluminescence.svg
-* icon-deeplearning.svg
+* icon-deeplearning.svg* icon-spacecraft.svg
+* icon-magnifying-glass-with-brain.svg
+* icon-weather-balloon.svg
+* icon-jellyfish.svg
+* icon-forest-fire.svg
+* icon-santa-claus-head.svg
+* icon-moon-rabbit.svg
+* icon-torn-paper.svg
+* icon-skeleton-key.svg
+* icon-cracked-egg.svg
+* icon-whale-tail.svg
+* icon-teapot.svg
+* icon-pyramid-eye.svg
+* icon-volcanic-eruption.svg
+* icon-gear-cloud.svg
