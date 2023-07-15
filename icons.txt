@@ -6303,4 +6303,18 @@
 * icon-kaleidoscope.svg
 * icon-quill.svg
 * icon-ginkgo.svg
-* icon-oracle.svg
+* icon-oracle.svg* icon-compassRose.svg
+* icon-plasmaBall.svg
+* icon-origamiCrane.svg
+* icon-liquidDroplet.svg
+* icon-abstractKaleidoscope.svg
+* icon-neonSign.svg
+* icon-orbitalRing.svg
+* icon-circuitBoard.svg
+* icon-spaceElevator.svg
+* icon-quantumComputer.svg
+* icon-digitalPaintbrush.svg
+* icon-stellarNebula.svg
+* icon-radioTelescope.svg
+* icon-pyramidEye.svg
+* icon-cryptoKey.svg
