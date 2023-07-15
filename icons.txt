@@ -5477,4 +5477,18 @@
 * icon-obelisk.svg
 * icon-papyrus.svg
 * icon-arboretum.svg
-* icon-ouroboros.svg
+* icon-ouroboros.svg* icon-analytic-dashboard.svg
+* icon-global-connectivity.svg
+* icon-virtual-reality.svg
+* icon-cloud-storage.svg
+* icon-3d-printing.svg
+* icon-voice-assistant.svg
+* icon-solar-energy.svg
+* icon-smart-city.svg
+* icon-artificial-intelligence.svg
+* icon-remote-work.svg
+* icon-drone-delivery.svg
+* icon-digital-wallet.svg
+* icon-hologram.svg
+* icon-smart-farming.svg
+* icon-cryptocurrency.svg

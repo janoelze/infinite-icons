@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-polaroid-camera" viewBox="0 0 24 24">
+  <path d="M0 0h24v24H0z" fill="none"/>
+  <path d="M5 6h14a1 1 0 0 1 1 1v3h1v6h-16V7a1 1 0 0 1 1-1zm3.5 5a4.5 4.5 0 0 0 9 0 4.5 4.5 0 0 0-9 0z"/>
+  <path d="M9 13h1.5v1H9z"/>
+</svg>
