@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-velocipede.svg icon-dragonfly">
+    <g id="Layer_1">
+        <path d="M50,125 Q80,115 120,130 T200,135 Q240,145, 260,130 T320,130 Q360,135, 400,130 T480,125" stroke="black" fill="transparent"/><!-- part representing the velocipede -->
+        <path d="M250,10 Q260,40 220,80 Q260,90, 300,80 Q340,40 350,10" stroke="black" fill="transparent"/><!-- part representing the dragonfly body -->
+        <path d="M220,80 Q250,120, 200,130 Q150,120, 180,80 Z" fill="lightblue"/><!-- part representing the dragonfly wing -->
+        <path d="M300,80 Q330,120, 280,130 Q250,120, 280,80 Z" fill="lightblue"/><!-- part representing the dragonfly wing -->
+    </g>
+</svg>

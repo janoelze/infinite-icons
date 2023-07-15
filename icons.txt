@@ -5239,4 +5239,18 @@
 * icon-lyre.svg
 * icon-meteor-shower.svg
 * icon-necromancer.svg
-* icon-obelisk.svg
+* icon-obelisk.svg* icon-digital-cloud.svg
+* icon-smart-watch.svg
+* icon-quantum-computer.svg
+* icon-dna-structure.svg
+* icon-space-rocket.svg
+* icon-alien-life.svg
+* icon-neural-network.svg
+* icon-virtual-reality.svg
+* icon-data-encryption.svg
+* icon-sonic-wave.svg
+* icon-holographic-display.svg
+* icon-microwave-oven.svg
+* icon-wireless-charger.svg
+* icon-drone-delivery.svg
+* icon-biochip.svg
