@@ -6289,4 +6289,18 @@
 * icon-metronome.svg
 * icon-churros.svg
 * icon-kintsugi.svg
+* icon-sundial.svg* icon-galaxy.svg
+* icon-dove.svg
+* icon-scroll.svg
+* icon-compassrose.svg
+* icon-parthenon.svg
+* icon-alchemylab.svg
 * icon-sundial.svg
+* icon-totem.svg
+* icon-fossil.svg
+* icon-castle.svg
+* icon-lotus.svg
+* icon-kaleidoscope.svg
+* icon-quill.svg
+* icon-ginkgo.svg
+* icon-oracle.svg
