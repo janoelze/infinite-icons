@@ -4889,4 +4889,18 @@
 * icon-king-crown.svg
 * icon-chemistry-flask.svg
 * icon-chronometer.svg
-* icon-theater-masks.svg
+* icon-theater-masks.svg* icon-drip-irrigation.svg
+* icon-digital-currency.svg
+* icon-polaroid-camera.svg
+* icon-retro-telephone.svg
+* icon-underwater-cave.svg
+* icon-wildlife-conservation.svg
+* icon-virtual-reality.svg
+* icon-quantum-computing.svg
+* icon-space-elevator.svg
+* icon-desert-oasis.svg
+* icon-ancient-pyramids.svg
+* icon-subatomic-particles.svg
+* icon-geothermal-energy.svg
+* icon-barbed-wire.svg
+* icon-dna-helix.svg
