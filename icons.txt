@@ -5645,4 +5645,18 @@
 * icon-atom.svg
 * icon-galaxy.svg
 * icon-meteor.svg
-* icon-radar.svg
+* icon-radar.svg* icon-digitalalchemy.svg
+* icon-invisiblequill.svg
+* icon-etherealflame.svg
+* icon-timelesscompass.svg
+* icon-abstractwindow.svg
+* icon-smokyphantom.svg
+* icon-lunarkey.svg
+* icon-electricsyrup.svg
+* icon-pixeldreams.svg
+* icon-harmonicwave.svg
+* icon-quantummachine.svg
+* icon-astralquicksand.svg
+* icon-circuitcloud.svg
+* icon-galaxyfootprint.svg
+* icon-neonheartbeat.svg
