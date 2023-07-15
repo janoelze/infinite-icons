@@ -6135,4 +6135,18 @@
 * icon-hyperspace-travel.svg
 * icon-kinetic-sculpture.svg
 * icon-ancient-totem.svg
-* icon-ethereal-phantom.svg
+* icon-ethereal-phantom.svg* icon-quantum-computer.svg
+* icon-digital-cipher.svg
+* icon-hologram-projection.svg
+* icon-fusions-reactor.svg
+* icon-dna-sequence.svg
+* icon-smart-glasses.svg
+* icon-virtual-reality.svg
+* icon-3d-printer.svg
+* icon-solar-panel.svg
+* icon-robotic-arm.svg
+* icon-jetpack.svg
+* icon-hoverboard.svg
+* icon-drones-delivery.svg
+* icon-brain-implant.svg
+* icon-self-driving-car.svg
