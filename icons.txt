@@ -5519,4 +5519,18 @@
 * icon-archery-target.svg
 * icon-giant-squid.svg
 * icon-maple-leaf.svg
-* icon-carbon-atom.svg
+* icon-carbon-atom.svg* icon-meteor-shower.svg
+* icon-revolving-door.svg
+* icon-galaxy.svg
+* icon-lab-microscope.svg
+* icon-sailing-ship.svg
+* icon-volcano.svg
+* icon-nocturnal-bat.svg
+* icon-atomic-submarine.svg
+* icon-stethoscope.svg
+* icon-nuclear-plant.svg
+* icon-anemometer.svg
+* icon-fossil.svg
+* icon-satellite-dish.svg
+* icon-x-ray.svg
+* icon-thermometer-snowflake.svg
