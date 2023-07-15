@@ -5729,4 +5729,18 @@
 * icon-telescope.svg
 * icon-lightning-bolt.svg
 * icon-meteor.svg
-* icon-magic-wand.svg
+* icon-magic-wand.svg* icon-meteor-shower.svg
+* icon-quantum-computer.svg
+* icon-neon-sign.svg
+* icon-origami-bird.svg
+* icon-sand-timer.svg
+* icon-matchstick.svg
+* icon-periscope.svg
+* icon-hologram.svg
+* icon-geometric-pattern.svg
+* icon-photon.svg
+* icon-teleporter.svg
+* icon-beam-balance.svg
+* icon-time-travel.svg
+* icon-antimatter.svg
+* icon-zero-gravity.svg
