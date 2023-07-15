@@ -4721,4 +4721,18 @@
 * icon-quill-ink.svg
 * icon-origami-crane.svg
 * icon-galaxy.svg
-* icon-hieroglyph.svg
+* icon-hieroglyph.svg* icon-globe-rotation.svg
+* icon-fingerprint-scan.svg
+* icon-quantum-computer.svg
+* icon-dna-structure.svg
+* icon-rocket-launch.svg
+* icon-microscope-view.svg
+* icon-submarine-deep.svg
+* icon-satellite-communication.svg
+* icon-robotic-arm.svg
+* icon-astronaut-helmet.svg
+* icon-telescope-stargazing.svg
+* icon-ai-brain.svg
+* icon-3d-printing.svg
+* icon-nuclear-reactor.svg
+* icon-genetic-editing.svg

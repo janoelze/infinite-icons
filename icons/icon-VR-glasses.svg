@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-VR-glasses">
+  <rect x="2" y="10" rx="2" ry="2" width="20" height="10" />
+  <ellipse cx="8" cy="15" rx="4" ry="5" />
+  <ellipse cx="16" cy="15" rx="4" ry="5" />
+  <rect x="2" y="7" rx="2" ry="2" width="20" height="3" />
+</svg>
