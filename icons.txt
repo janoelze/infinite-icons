@@ -5393,4 +5393,18 @@
 * icon-nuclear-symbol.svg
 * icon-brain-computer-interface.svg
 * icon-dna-double-helix.svg
-* icon-solar-panel.svg
+* icon-solar-panel.svg* icon-sandglass.svg
+* icon-lunarphase.svg
+* icon-zodiacsign.svg
+* icon-umbrella-rain.svg
+* icon-leaftwig.svg
+* icon-birdflapping.svg
+* icon-cyberfuturistic.svg
+* icon-statueofliberty.svg
+* icon-3dprinting.svg
+* icon-vase-antique.svg
+* icon-dragonfly.svg
+* icon-origami-bird.svg
+* icon-beecomb.svg
+* icon-bioluminescent.svg
+* icon-chameleon.svg
