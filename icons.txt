@@ -4623,4 +4623,18 @@
 * icon-zeppelin.svg
 * icon-mousetrap.svg
 * icon-rocketship.svg
-* icon-camel.svg
+* icon-camel.svg* icon-globe-wireframe.svg
+* icon-pulsing-heart.svg
+* icon-dripping-paintbrush.svg
+* icon-swirling-galaxy.svg
+* icon-crackling-fire.svg
+* icon-rooted-tree.svg
+* icon-falling-feather.svg
+* icon-frosty-snowflake.svg
+* icon-melting-clock.svg
+* icon-encased-jewel.svg
+* icon-locked-treasure-chest.svg
+* icon-screaming-lightbulb.svg
+* icon-intertwined-vines.svg
+* icon-electric-eyeball.svg
+* icon-crumbled-paper.svg
