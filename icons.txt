@@ -5127,4 +5127,18 @@
 * icon-meteor-crater.svg
 * icon-radiation-symbol.svg
 * icon-kaleidoscope.svg
-* icon-sasquatch-silhouette.svg
+* icon-sasquatch-silhouette.svg* icon-dna-sequence.svg
+* icon-meteor-shower.svg
+* icon-quasar.svg
+* icon-crystal-structure.svg
+* icon-galaxy.svg
+* icon-supernova.svg
+* icon-space-probe.svg
+* icon-black-hole.svg
+* icon-asteroid.svg
+* icon-constellation.svg
+* icon-nebula.svg
+* icon-alien.svg
+* icon-satellite.svg
+* icon-exoplanet.svg
+* icon-telescope.svg
