@@ -5743,4 +5743,18 @@
 * icon-beam-balance.svg
 * icon-time-travel.svg
 * icon-antimatter.svg
-* icon-zero-gravity.svg
+* icon-zero-gravity.svg* icon-matte-horoscope.svg
+* icon-digital-calendar.svg
+* icon-quantum-computing.svg
+* icon-cloud-data-sharing.svg
+* icon-sustainable-energy.svg
+* icon-deep-learning.svg
+* icon-bioinformatics.svg
+* icon-vegan-cuisine.svg
+* icon-space-tourism.svg
+* icon-drones-delivery.svg
+* icon-virtual-reality.svg
+* icon-waste-management.svg
+* icon-smart-city.svg
+* icon-fintech-investments.svg
+* icon-green-architecture.svg
