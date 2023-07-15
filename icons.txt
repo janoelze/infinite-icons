@@ -5183,4 +5183,18 @@
 * icon-locomotive.svg
 * icon-kimono.svg
 * icon-hot-air-balloon.svg
-* icon-space-shuttle.svg
+* icon-space-shuttle.svg* icon-arrow-diagonal.svg
+* icon-briefcase-with-document.svg
+* icon-calendar-flip.svg
+* icon-diamond-ring.svg
+* icon-earphones-bluetooth.svg
+* icon-face-smiling.svg
+* icon-globe-with-locations.svg
+* icon-hamburger-menu.svg
+* icon-indicator-led.svg
+* icon-jigsaw-piece.svg
+* icon-keypad-touch.svg
+* icon-laptop-with-code.svg
+* icon-microphone-off.svg
+* icon-notebook-drawing.svg
+* icon-owl-night.svg
