@@ -5267,4 +5267,18 @@
 * icon-cactus.svg
 * icon-donut.svg
 * icon-scuba-mask.svg
-* icon-gingerbread-man.svg
+* icon-gingerbread-man.svg* icon-galaxy.svg
+* icon-papyrus.svg
+* icon-hieroglyph.svg
+* icon-caravel.svg
+* icon-yeti.svg
+* icon-vortex.svg
+* icon-nanobot.svg
+* icon-oracle.svg
+* icon-spacesuit.svg
+* icon-quasar.svg
+* icon-nebula.svg
+* icon-chupacabra.svg
+* icon-cyberspace.svg
+* icon-volcano.svg
+* icon-obelisk.svg
