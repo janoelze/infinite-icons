@@ -5295,4 +5295,18 @@
 * icon-ginkgo-leaf.svg
 * icon-moon-phase.svg
 * icon-origami-bird.svg
-* icon-starry-night.svg
+* icon-starry-night.svg* icon-galaxy.svg
+* icon-abacus.svg
+* icon-origami.svg
+* icon-kaleidoscope.svg
+* icon-archaeology.svg
+* icon-quasar.svg
+* icon-stethoscope.svg
+* icon-meteor.svg
+* icon-jackhammer.svg
+* icon-diving-bell.svg
+* icon-marshmallow.svg
+* icon-artichoke.svg
+* icon-skyscraper.svg
+* icon-toucan.svg
+* icon-microfilm.svg
