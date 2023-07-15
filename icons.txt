@@ -5449,4 +5449,18 @@
 * icon-aurora.svg
 * icon-radiolarian.svg
 * icon-singularity.svg
-* icon-fractal.svg
+* icon-fractal.svg* icon-donut.svg
+* icon-raccoon.svg
+* icon-geyser.svg
+* icon-quill.svg
+* icon-cassette.svg
+* icon-binoculars.svg
+* icon-yacht.svg
+* icon-hotairballoon.svg
+* icon-toucan.svg
+* icon-hamburger.svg
+* icon-igloo.svg
+* icon-beaker.svg
+* icon-zipper.svg
+* icon-jellyfish.svg
+* icon-lightbulb.svg
