@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-orion-constellation">
+  <circle cx="12" cy="5" r="1"/>
+  <circle cx="8" cy="9" r="1"/>
+  <circle cx="16" cy="9" r="1"/>
+  <circle cx="10" cy="13" r="1"/>
+  <circle cx="14" cy="13" r="1"/>
+  <circle cx="7" cy="17" r="1"/>
+  <circle cx="17" cy="17" r="1"/>
+  <path d="M12 6 L8 10"/>
+  <path d="M12 6 L16 10"/>
+  <path d="M8 10 L10 12"/>
+  <path d="M16 10 L14 12"/>
+  <path d="M10 12 L14 12"/>
+  <path d="M10 12 L7 18"/>
+  <path d="M14 12 L17 18"/>
+</svg>

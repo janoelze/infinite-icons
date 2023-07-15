@@ -5827,4 +5827,18 @@
 * icon-wind-turbine.svg
 * icon-neural-network.svg
 * icon-drone-delivery.svg
-* icon-virtual-reality.svg
+* icon-virtual-reality.svg* icon-forestfire.svg
+* icon-videocall.svg
+* icon-healthcare-worker.svg
+* icon-cyclone.svg
+* icon-JavaScript.svg
+* icon-financialbot.svg
+* icon-climatechange.svg
+* icon-selfdrivingcar.svg
+* icon-neuralnetwork.svg
+* icon-energysaving.svg
+* icon-VRheadset.svg
+* icon-renewableenergy.svg
+* icon-CRISPR.svg
+* icon-bioluminescence.svg
+* icon-deeplearning.svg
