@@ -5953,4 +5953,18 @@
 * icon-star-cluster.svg
 * icon-glowing-nebula.svg
 * icon-meteor-shower.svg
-* icon-orbit-path.svg
+* icon-orbit-path.svg* icon-spacecraft.svg
+* icon-typewriter.svg
+* icon-quill.svg
+* icon-papyrus.svg
+* icon-abacus.svg
+* icon-microscope.svg
+* icon-vinyl.svg
+* icon-bonsai.svg
+* icon-mayan-calendar.svg
+* icon-skein.svg
+* icon-tower-bridge.svg
+* icon-meteor.svg
+* icon-geode.svg
+* icon-constellation.svg
+* icon-viking-helmet.svg
