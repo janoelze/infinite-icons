@@ -5379,4 +5379,18 @@
 * icon-nanotech.svg
 * icon-artificial-intelligence.svg
 * icon-galactic-navigation.svg
-* icon-biometric-authentication.svg
+* icon-biometric-authentication.svg* icon-data-cloud.svg
+* icon-robot-hand.svg
+* icon-quantum-computer.svg
+* icon-coding-brackets.svg
+* icon-astronaut-helmet.svg
+* icon-3D-printer.svg
+* icon-VR-goggles.svg
+* icon-fingerprint-scan.svg
+* icon-blockchain-chain.svg
+* icon-satellite-dish.svg
+* icon-rocket-launch.svg
+* icon-nuclear-symbol.svg
+* icon-brain-computer-interface.svg
+* icon-dna-double-helix.svg
+* icon-solar-panel.svg
