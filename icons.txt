@@ -5463,4 +5463,18 @@
 * icon-beaker.svg
 * icon-zipper.svg
 * icon-jellyfish.svg
-* icon-lightbulb.svg
+* icon-lightbulb.svg* icon-teleporter.svg
+* icon-chessboard.svg
+* icon-pirate.svg
+* icon-temperature-gauge.svg 
+* icon-sundial.svg
+* icon-capacitor.svg
+* icon-quill.svg
+* icon-quicksand.svg
+* icon-abyss.svg
+* icon-infrared.svg
+* icon-platypus.svg
+* icon-obelisk.svg
+* icon-papyrus.svg
+* icon-arboretum.svg
+* icon-ouroboros.svg
