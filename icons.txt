@@ -4847,4 +4847,18 @@
 * icon-augmented-reality.svg
 * icon-space-tourism.svg
 * icon-genome-editing.svg
-* icon-wearable-tech.svg
+* icon-wearable-tech.svg* icon-microscope.svg
+* icon-biometric.svg
+* icon-allergy.svg
+* icon-aeroplane.svg
+* icon-alchemy.svg
+* icon-amphora.svg
+* icon-anti-gravity.svg
+* icon-arrowhead.svg
+* icon-asteroid.svg
+* icon-atm-card.svg
+* icon-atomic-slit.svg
+* icon-audio-description.svg
+* icon-award.svg
+* icon-baby-carriage.svg
+* icon-bacon.svg
