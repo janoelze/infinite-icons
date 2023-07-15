@@ -6205,4 +6205,18 @@
 * icon-obelisk.svg
 * icon-minotaur.svg
 * icon-sonar.svg
-* icon-acupuncture.svg
+* icon-acupuncture.svg* icon-rocket-launch.svg
+* icon-tsunami-wave.svg
+* icon-dna-strand.svg
+* icon-desert-camel.svg
+* icon-aliens-spacecraft.svg
+* icon-mayan-calendar.svg
+* icon-meteor-impact.svg
+* icon-arctic-wolf.svg
+* icon-bamboo-forest.svg
+* icon-king-tut-mask.svg
+* icon-pyramid-giza.svg
+* icon-mars-rover.svg
+* icon-polar-bear-cub.svg
+* icon-tectonic-plates.svg
+* icon-steel-mill.svg
