@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-supercluster">
+  <circle cx="12" cy="12" r="3" />
+  <circle cx="19" cy="7" r="3" />
+  <circle cx="19" cy="17" r="3" />
+  <circle cx="5" cy="7" r="3" />
+  <circle cx="5" cy="17" r="3" />
+  <line x1="11" y1="12" x2="8" y2="7" />
+  <line x1="11" y1="12" x2="8" y2="17" />
+  <line x1="13" y1="12" x2="16" y2="7" />
+  <line x1="13" y1="12" x2="16" y2="17" />
+</svg>

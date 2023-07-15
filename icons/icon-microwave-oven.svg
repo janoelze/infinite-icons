@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" class="icon icon-microwave-oven">
+  <path stroke="currentColor" stroke-width="2" d="M3 7h18v13H3z"/>
+  <path stroke="currentColor" stroke-width="2" d="M6 20h12"/>
+  <path stroke="currentColor" stroke-width="2" d="M6 4h3"/>
+  <path stroke="currentColor" stroke-width="2" d="M14 4h4"/>
+  <rect x="4" y="10" width="6" height="6" fill="currentColor" />
+  <rect x="14" y="10" width="6" height="6" fill="currentColor" />
+</svg>

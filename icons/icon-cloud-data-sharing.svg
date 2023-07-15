@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-cloud-data-sharing">
+  <path 
+    d="M22.5,11.5A6.5,6.5,0,0,0,13.7,9.2,7.91,7.91,0,0,0,3,7,5.5,5.5,0,0,0,1.5,12a5.63,5.63,0,0,0,5,5.5h10a4.5,4.5,0,0,0,5.9-4.3A4.37,4.37,0,0,0,22.5,11.5Z"
+    fill="#7ecf5c"/>
+  <path 
+    d="M11,14h8m-4,-4v8" 
+    stroke="#ffffff"
+    stroke-width="2"
+    stroke-linecap="round"
+    stroke-linejoin="round"/>
+</svg>

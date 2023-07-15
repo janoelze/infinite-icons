@@ -6121,4 +6121,18 @@
 * icon-obelisk.svg
 * icon-maze.svg
 * icon-platypus.svg
-* icon-cloak.svg
+* icon-cloak.svg* icon-globe-wireframe.svg
+* icon-abstract-kaleidoscope.svg
+* icon-technical-blueprint.svg
+* icon-steampunk-gear.svg
+* icon-nebula-cloud.svg
+* icon-crystal-formation.svg
+* icon-quantum-circuit.svg
+* icon-holographic-data.svg
+* icon-bioluminescent-fungus.svg
+* icon-psychedelic-aura.svg
+* icon-origami-crane.svg
+* icon-hyperspace-travel.svg
+* icon-kinetic-sculpture.svg
+* icon-ancient-totem.svg
+* icon-ethereal-phantom.svg
