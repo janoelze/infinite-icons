@@ -6107,4 +6107,18 @@
 * icon-planetarium.svg
 * icon-steampunk-gear.svg
 * icon-sea-urchin.svg
-* icon-guillotine.svg
+* icon-guillotine.svg* icon-teleport.svg
+* icon-raindrop.svg
+* icon-phoenix.svg
+* icon-comet.svg
+* icon-cactus.svg
+* icon-jigsaw.svg
+* icon-temple.svg
+* icon-blackhole.svg
+* icon-harp.svg
+* icon-origami.svg
+* icon-abacus.svg
+* icon-obelisk.svg
+* icon-maze.svg
+* icon-platypus.svg
+* icon-cloak.svg
