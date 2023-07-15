@@ -4917,4 +4917,18 @@
 * icon-tyrannosaurus-rex.svg
 * icon-pyramid.svg
 * icon-hurricane.svg
-* icon-glacier.svg
+* icon-glacier.svg* icon-skyscraper.svg
+* icon-cactus.svg
+* icon-hanglamp.svg
+* icon-origami.svg
+* icon-cerulean-palette.svg
+* icon-postal-carrier.svg
+* icon-quill-scroll.svg
+* icon-raccoon.svg
+* icon-raspberry-pi.svg
+* icon-shaman-drums.svg
+* icon-telescope.svg
+* icon-unicycle.svg
+* icon-vortex.svg
+* icon-wagon-wheel.svg
+* icon-xylophone.svg
