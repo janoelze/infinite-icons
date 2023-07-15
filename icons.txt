@@ -5197,4 +5197,18 @@
 * icon-laptop-with-code.svg
 * icon-microphone-off.svg
 * icon-notebook-drawing.svg
-* icon-owl-night.svg
+* icon-owl-night.svg* icon-dancing-flamingo.svg
+* icon-surf-wave.svg
+* icon-magic-lamp.svg
+* icon-space-rocket.svg
+* icon-mountain-snow.svg
+* icon-ancient-pyramid.svg
+* icon-hyperloop.svg
+* icon-laser-gun.svg
+* icon-ninja-star.svg
+* icon-cybernetic-eye.svg
+* icon-floating-island.svg
+* icon-fossil-dinosaur.svg
+* icon-flying-car.svg
+* icon-telescope.svg
+* icon-digital-cube.svg
