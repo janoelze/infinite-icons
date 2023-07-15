@@ -4931,4 +4931,18 @@
 * icon-unicycle.svg
 * icon-vortex.svg
 * icon-wagon-wheel.svg
-* icon-xylophone.svg
+* icon-xylophone.svg* icon-data-processing.svg
+* icon-global-connection.svg
+* icon-security-key.svg
+* icon-cloud-technology.svg
+* icon-environment-analytics.svg
+* icon-network-architecture.svg
+* icon-holographic-display.svg
+* icon-motion-sensor.svg
+* icon-nano-technology.svg
+* icon-progressive-enhancement.svg
+* icon-quantum-computing.svg
+* icon-solar-energy.svg
+* icon-unmanned-vehicle.svg
+* icon-virtual-reality.svg
+* icon-waste-management.svg
