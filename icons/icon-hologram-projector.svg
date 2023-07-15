@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" class="icon icon-hologram-projector">
+  <path d="M12 3v10M18 13H6m1 5h10a2 2 0 0 0 2-2v-2m-14 2v-2a2 2 0 0 1 2-2h6a2 2 0 0 1 2 2v2">
+  </path>
+  <circle cx="12" cy="3" r="1">
+  </circle>
+  <circle cx="18" cy="13" r="1">
+  </circle>
+  <circle cx="6" cy="13" r="1">
+  </circle>
+</svg>

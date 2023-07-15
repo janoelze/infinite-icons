@@ -5701,4 +5701,18 @@
 * icon-argonaut-shell.svg
 * icon-dandelion-wind.svg
 * icon-phoenix-rebirth.svg
-* icon-shadow-puppet.svg
+* icon-shadow-puppet.svg* icon-bonsai-tree.svg
+* icon-space-rocket.svg
+* icon-hot-air-balloon.svg
+* icon-vinyl-record.svg
+* icon-tea-cup.svg
+* icon-ice-cream-cone.svg
+* icon-traffic-light.svg
+* icon-roller-skating-shoe.svg
+* icon-paint-palette.svg
+* icon-fortune-cookie.svg
+* icon-circus-tent.svg
+* icon-laundry-basket.svg
+* icon-sushi-roll.svg
+* icon-origami-bird.svg
+* icon-goldfish-bowl.svg
