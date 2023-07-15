@@ -4693,4 +4693,18 @@
 * icon-genome-edit.svg
 * icon-exoplanet.svg
 * icon-virtual-reality.svg
-* icon-antimatter-fuel.svg
+* icon-antimatter-fuel.svg* icon-microscope.svg
+* icon-oasis.svg
+* icon-lighthouse.svg
+* icon-slalom.svg
+* icon-oracle.svg
+* icon-raven.svg
+* icon-renaissance.svg
+* icon-phoenix.svg
+* icon-turbine.svg
+* icon-gauntlet.svg
+* icon-vortex.svg
+* icon-quantum.svg
+* icon-zodiac.svg
+* icon-lynx.svg
+* icon-obelisk.svg
