@@ -5687,4 +5687,18 @@
 * icon-ancient-scroll.svg
 * icon-musical-harp.svg
 * icon-viking-helmet.svg
-* icon-compass-rose.svg
+* icon-compass-rose.svg* icon-chronometer.svg
+* icon-lightbulb-idea.svg
+* icon-lighthouse-navigation.svg
+* icon-compass-destination.svg
+* icon-palm-tree-vacation.svg
+* icon-auklet-bird.svg
+* icon-telescope-observation.svg
+* icon-planetarium-galaxy.svg
+* icon-honeycomb-beehive.svg
+* icon-fountain-pen-author.svg
+* icon-ancient-codex-book.svg
+* icon-argonaut-shell.svg
+* icon-dandelion-wind.svg
+* icon-phoenix-rebirth.svg
+* icon-shadow-puppet.svg
