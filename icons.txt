@@ -5799,4 +5799,18 @@
 * icon-windmill.svg
 * icon-microscope.svg
 * icon-ice-cream.svg
-* icon-snorkel.svg
+* icon-snorkel.svg* icon-cybersecurity.svg
+* icon-hotsauce.svg
+* icon-abacus.svg
+* icon-joystick.svg
+* icon-beehive.svg
+* icon-grimreaper.svg
+* icon-cannibal.svg
+* icon-marsrover.svg
+* icon-obelisk.svg
+* icon-progressbar.svg
+* icon-raven.svg
+* icon-raincoat.svg
+* icon-ufo.svg
+* icon-quantum-computer.svg
+* icon-statue-of-liberty.svg
