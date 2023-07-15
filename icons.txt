@@ -5603,4 +5603,18 @@
 * icon-video-conference.svg
 * icon-mobile-apps.svg
 * icon-sustainability.svg
-* icon-3d-printing.svg
+* icon-3d-printing.svg* icon-digital-globe.svg
+* icon-ancient-scroll.svg
+* icon-solar-system.svg
+* icon-vintage-telephone.svg
+* icon-quantum-computer.svg
+* icon-mayan-calendar.svg
+* icon-antique-compass.svg
+* icon-telescope.svg
+* icon-3d-printer.svg
+* icon-alien.svg
+* icon-galaxy.svg
+* icon-meteor.svg
+* icon-fossil.svg
+* icon-dna-structure.svg
+* icon-robot.svg
