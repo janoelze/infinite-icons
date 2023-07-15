@@ -5925,4 +5925,18 @@
 * icon-old-quill.svg
 * icon-chemistry-flask.svg
 * icon-digital-clock.svg
+* icon-vintage-compass.svg* icon-meteor-shower.svg
+* icon-desert-camel.svg 
+* icon-glass-hour.svg 
+* icon-tropical-parrot.svg
+* icon-galactic-rocket.svg
+* icon-fortune-crystal-ball.svg
+* icon-earthquake.svg
+* icon-wolf-moon.svg
+* icon-feather-quill.svg
 * icon-vintage-compass.svg
+* icon-ancient-sphinx.svg
+* icon-surfing-wave.svg
+* icon-paint-splatter.svg
+* icon-asian-lantern.svg
+* icon-artificial-intelligence.svg
