@@ -5589,4 +5589,18 @@
 * icon-figurative-language.svg
 * icon-comedy-tragedy-mask.svg
 * icon-ocean-wave.svg
-* icon-circuit-board.svg
+* icon-circuit-board.svg* icon-global-network.svg
+* icon-digital-handshake.svg
+* icon-encrypted-lock.svg
+* icon-voice-recognition.svg
+* icon-social-cause.svg
+* icon-virtual-reality.svg
+* icon-quantum-computing.svg
+* icon-journey-map.svg
+* icon-data-visualization.svg
+* icon-green-energy.svg
+* icon-minimal-design.svg
+* icon-video-conference.svg
+* icon-mobile-apps.svg
+* icon-sustainability.svg
+* icon-3d-printing.svg
