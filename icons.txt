@@ -5407,4 +5407,18 @@
 * icon-origami-bird.svg
 * icon-beecomb.svg
 * icon-bioluminescent.svg
-* icon-chameleon.svg
+* icon-chameleon.svg* icon-clocktower.svg
+* icon-spacehelmet.svg
+* icon-mountainpeak.svg
+* icon-octopus.svg
+* icon-windmill.svg
+* icon-telescope.svg
+* icon-featherquill.svg
+* icon-paintpalette.svg
+* icon-wheatstalk.svg
+* icon-barnacle.svg
+* icon-volcano.svg
+* icon-harmonica.svg
+* icon-stonehenge.svg
+* icon-geysir.svg
+* icon-velociraptor.svg
