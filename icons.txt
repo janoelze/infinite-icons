@@ -5575,4 +5575,18 @@
 * icon-flask-bubbles.svg
 * icon-planet-ring.svg
 * icon-tornado.svg
-* icon-trophy-stars.svg
+* icon-trophy-stars.svg* icon-fingerprint-scan.svg
+* icon-rain-cloud.svg
+* icon-magnifying-glass.svg
+* icon-owl-night.svg
+* icon-moon-crater.svg
+* icon-plant-vase.svg
+* icon-satellite-dish.svg
+* icon-sushi-roll.svg
+* icon-champagne-toast.svg
+* icon-desert-camel.svg
+* icon-calligraphy-quill.svg
+* icon-figurative-language.svg
+* icon-comedy-tragedy-mask.svg
+* icon-ocean-wave.svg
+* icon-circuit-board.svg
