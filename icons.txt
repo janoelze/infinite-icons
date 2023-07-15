@@ -4959,4 +4959,18 @@
 * icon-ventus.svg
 * icon-pontem.svg
 * icon-sparteum.svg
-* icon-lux.svg
+* icon-lux.svg* icon-flashlight.svg
+* icon-dumbbell.svg
+* icon-pawprint.svg
+* icon-microscope.svg
+* icon-constellation.svg
+* icon-waterfall.svg
+* icon-pill.svg
+* icon-pyramid.svg
+* icon-paintbrush.svg
+* icon-hologram.svg
+* icon-snake.svg
+* icon-dna.svg
+* icon-programming.svg
+* icon-spacecraft.svg
+* icon-archery.svg
