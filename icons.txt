@@ -5967,4 +5967,18 @@
 * icon-meteor.svg
 * icon-geode.svg
 * icon-constellation.svg
-* icon-viking-helmet.svg
+* icon-viking-helmet.svg* icon-globe-rotation.svg
+* icon-falling-star.svg
+* icon-fingerprint-recognition.svg
+* icon-graphic-tablet.svg
+* icon-satellite-dish.svg
+* icon-hexagonal-grid.svg
+* icon-abstract-eye.svg
+* icon-digital-wand.svg
+* icon-stylized-bicycle.svg
+* icon-moon-phases.svg
+* icon-wind-rose.svg
+* icon-rainbow-spectrum.svg
+* icon-quantum-computer.svg
+* icon-dna-double-helix.svg
+* icon-coral-reef.svg
