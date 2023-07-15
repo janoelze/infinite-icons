@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-renaissance">
+    <path d="M0 0h24v24H0z" fill="none" />
+    <path d="M9.555 12.168L12 15l2.445-2.832A5.978 5.978 0 0012 13a5.978 5.978 0 00-2.445-.832zm1.934-.66a4 4 0 114.022 0l1.8-2.09a6 6 0 10-7.622 0l1.8 2.09z" />
+    <circle cx="12" cy="12" r="9" />
+    <path d="M2 12h2m-1-1v2a9 9 0 0116 0v-2h2" />
+</svg>

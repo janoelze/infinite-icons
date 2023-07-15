@@ -6233,4 +6233,18 @@
 * icon-pineapple-glasses.svg
 * icon-sushi-roller.svg
 * icon-octopus-laptop.svg
-* icon-dino-egg.svg
+* icon-dino-egg.svg* icon-dragonfly.svg
+* icon-quicksand.svg
+* icon-albatross.svg
+* icon-tesseract.svg
+* icon-icicle.svg
+* icon-narwhal.svg
+* icon-meridian.svg
+* icon-bookend.svg
+* icon-obelisk.svg
+* icon-phoenix.svg
+* icon-lichen.svg
+* icon-minotaur.svg
+* icon-oryx.svg
+* icon-papyrus.svg
+* icon-quince.svg

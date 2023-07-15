@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-mystic-portal">
+    <circle cx="12" cy="12" r="10" style="fill:none;stroke-width:2;stroke:currentColor"/>
+    <circle cx="12" cy="12" r="6" style="fill:currentColor"/>
+    <path d="M12 2v2M12 22v-2M2 12h2M22 12h-2" style="fill:none;stroke-width:2;stroke:currentColor"/>
+    <path d="M4.93 4.93l1.41 1.41M19.07 19.07l-1.41 1.41M4.93 19.07l1.41 1.41M19.07 4.93l-1.41 1.41" style="fill:none;stroke-width:2;stroke:currentColor"/>
+</svg>
