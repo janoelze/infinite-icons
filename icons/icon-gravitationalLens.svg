@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-gravitationalLens">
+  <circle cx="12" cy="12" r="10" stroke="black" stroke-width="2" fill="none" />
+  <ellipse cx="12" cy="12" rx="5" ry="10" style="fill:white;stroke:black;stroke-width:2" />
+  <ellipse cx="12" cy="12" rx="8" ry="4" style="fill:white;stroke:black;stroke-width:2" />
+</svg>

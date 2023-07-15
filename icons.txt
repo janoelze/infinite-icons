@@ -4763,4 +4763,18 @@
 * icon-ParticleAccelerator.svg
 * icon-VirtualAssistant.svg
 * icon-NeuralNetwork.svg
-* icon-Cybersecurity.svg
+* icon-Cybersecurity.svg* icon-compass-rose.svg
+* icon-squid.svg
+* icon-quasar.svg
+* icon-antelope.svg
+* icon-trilobite.svg
+* icon-nectarine.svg
+* icon-tau.svg
+* icon-sudoku.svg
+* icon-pendulum.svg
+* icon-diglyph.svg
+* icon-porpoise.svg
+* icon-cormorant.svg
+* icon-xyz-axis.svg
+* icon-kabbalah-tree.svg
+* icon-obelisk.svg
