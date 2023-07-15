@@ -4525,4 +4525,18 @@
 * icon-galaxy.svg
 * icon-fractal.svg
 * icon-eclipse.svg
-* icon-cosmos.svg
+* icon-cosmos.svg* icon-global-network.svg
+* icon-virtual-reality.svg
+* icon-wind-turbine.svg
+* icon-dna-sequence.svg
+* icon-space-rocket.svg
+* icon-hologram-projection.svg
+* icon-sustainable-energy.svg
+* icon-graffiti-spraycan.svg
+* icon-urban-farm.svg
+* icon-paperless-office.svg
+* icon-virtual-conference.svg
+* icon-3d-printer.svg
+* icon-smart-glasses.svg
+* icon-quantum-computer.svg
+* icon-cryptocurrency.svg
