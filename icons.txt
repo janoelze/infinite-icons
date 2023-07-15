@@ -5617,4 +5617,18 @@
 * icon-meteor.svg
 * icon-fossil.svg
 * icon-dna-structure.svg
-* icon-robot.svg
+* icon-robot.svg* icon-algorithm.svg
+* icon-broccoli.svg
+* icon-calibration.svg
+* icon-dilophosaurus.svg
+* icon-echolocation.svg
+* icon-flux-capacitor.svg
+* icon-globular-cluster.svg
+* icon-hieroglyphics.svg
+* icon-improbability-drive.svg
+* icon-juxtaposition.svg
+* icon-knotted-rope.svg
+* icon-lunar-eclipse.svg
+* icon-mono-no-aware.svg
+* icon-nebula.svg
+* icon-opalescent.svg
