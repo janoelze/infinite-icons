@@ -4749,4 +4749,18 @@
 * icon-holographic-display.svg
 * icon-wearable-tech.svg
 * icon-genetic-engineering.svg
-* icon-renewable-energy.svg
+* icon-renewable-energy.svg* icon-QuantumComputing.svg
+* icon-VirtualRealityHeadset.svg
+* icon-AutomationRobot.svg
+* icon-Blockchain.svg
+* icon-Satellite.svg
+* icon-Biofuel.svg
+* icon-GeneticEngineering.svg
+* icon-Nanotechnology.svg
+* icon-Exoskeleton.svg
+* icon-3dPrinting.svg
+* icon-RenewableEnergy.svg
+* icon-ParticleAccelerator.svg
+* icon-VirtualAssistant.svg
+* icon-NeuralNetwork.svg
+* icon-Cybersecurity.svg
