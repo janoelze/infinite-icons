@@ -1,0 +1,6 @@
+<svg version="1.1" id="icon-abstractwindow" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24" xml:space="preserve" class="icon icon-abstractwindow">
+    <style type="text/css">
+    	.icon-abstractwindow{fill:#000000;}
+    </style>
+    <path d="M4,4h16c1.1,0,2,0.9,2,2v12c0,1.1-0.9,2-2,2H4c-1.1,0-2-0.9-2-2V6C2,4.9,2.9,4,4,4z M10,10V7h4v3h3v4h-3v3h-4v-3 H7v-4H10z"/>
+</svg>

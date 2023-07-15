@@ -5869,4 +5869,18 @@
 * icon-cloud-lightning.svg
 * icon-rock-climbing.svg
 * icon-solar-panel.svg
-* icon-futuristic-car.svg
+* icon-futuristic-car.svg* icon-pressure-cooker.svg
+* icon-kiwi-bird.svg
+* icon-roman-helmet.svg
+* icon-coral-reef.svg
+* icon-origami-bird.svg
+* icon-gooseberry.svg
+* icon-quill-pen.svg
+* icon-sand-clock.svg
+* icon-barometer.svg
+* icon-mayan-pyramid.svg
+* icon-binary-code.svg
+* icon-alien-head.svg
+* icon-vintage-telephone.svg
+* icon-pinwheel.svg
+* icon-oak-leaf.svg

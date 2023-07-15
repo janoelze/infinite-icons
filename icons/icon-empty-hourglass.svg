@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-empty-hourglass">
+  <path d="M0 0h24v24H0z" fill="none"/>
+  <path d="M6 2v2a7 7 0 0 0 1 4c.554.894 1.434 1.724 2.45 2.5H8v1h8v-1h-.45a6.963 6.963 0 0 0 2.45-2.5 7 7 0 0 0 1-4V2H6zm12 16v2h-12v-2a7 7 0 0 0 1-4c.554-.894 1.434-1.724 2.45-2.5H8v-1h8v1h-.45a6.963 6.963 0 0 0 2.45 2.5 7 7 0 0 0 1 4z"></path>
+</svg>
