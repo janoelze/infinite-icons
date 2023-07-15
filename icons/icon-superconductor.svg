@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-superconductor">
+  <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="transparent" />
+  <rect x="25" y="25" width="50" height="50" fill="none" stroke="black" stroke-width="3" />
+  <line x1="25" y1="50" x2="75" y2="50" stroke="black" stroke-width="3" />
+</svg>

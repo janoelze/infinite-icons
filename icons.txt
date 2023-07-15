@@ -4903,4 +4903,18 @@
 * icon-subatomic-particles.svg
 * icon-geothermal-energy.svg
 * icon-barbed-wire.svg
-* icon-dna-helix.svg
+* icon-dna-helix.svg* icon-space-rocket.svg
+* icon-chili-pepper.svg
+* icon-ocean-wave.svg
+* icon-mountain-peak.svg
+* icon-vintage-clock.svg
+* icon-bamboo.svg
+* icon-coffee-bean.svg
+* icon-flying-kite.svg
+* icon-lotus-flower.svg
+* icon-octopus.svg
+* icon-igloo.svg
+* icon-tyrannosaurus-rex.svg
+* icon-pyramid.svg
+* icon-hurricane.svg
+* icon-glacier.svg
