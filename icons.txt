@@ -4973,4 +4973,18 @@
 * icon-dna.svg
 * icon-programming.svg
 * icon-spacecraft.svg
-* icon-archery.svg
+* icon-archery.svg* icon-teleport.svg
+* icon-dewdrop.svg
+* icon-keystone.svg
+* icon-vortex.svg
+* icon-mojito.svg
+* icon-pharaoh.svg
+* icon-quasar.svg
+* icon-rhapsody.svg
+* icon-sentry.svg
+* icon-tesseract.svg
+* icon-umbrella.svg
+* icon-voxel.svg
+* icon-zeppelin.svg
+* icon-abyss.svg
+* icon-blizzard.svg
