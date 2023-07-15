@@ -5505,4 +5505,18 @@
 * icon-astronomy.svg
 * icon-unicycle.svg
 * icon-rhinoceros.svg
-* icon-polaroid.svg
+* icon-polaroid.svg* icon-satellite-dish.svg
+* icon-butterfly-net.svg
+* icon-ancient-scroll.svg
+* icon-sherlock-hat.svg
+* icon-rocket-launch.svg
+* icon-abacus.svg
+* icon-gold-mine.svg
+* icon-hiking-boot.svg
+* icon-flying-saucer.svg
+* icon-feather-quill.svg
+* icon-fossil.svg
+* icon-archery-target.svg
+* icon-giant-squid.svg
+* icon-maple-leaf.svg
+* icon-carbon-atom.svg
