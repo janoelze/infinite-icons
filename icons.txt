@@ -5155,4 +5155,18 @@
 * icon-escalator.svg
 * icon-pocketwatch.svg
 * icon-caliper.svg
-* icon-goblet.svg
+* icon-goblet.svg* icon-electricity.svg
+* icon-creativity.svg
+* icon-encryption.svg
+* icon-biotechnology.svg
+* icon-quantum-computing.svg
+* icon-virtual-reality.svg
+* icon-augmented-reality.svg
+* icon-cloud-computing.svg
+* icon-artificial-intelligence.svg
+* icon-machine-learning.svg
+* icon-cyber-security.svg
+* icon-nanotechnology.svg
+* icon-space-exploration.svg
+* icon-data-analytics.svg
+* icon-robotics.svg
