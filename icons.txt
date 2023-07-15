@@ -5995,4 +5995,18 @@
 * icon-neonlight.svg
 * icon-alchemistlab.svg
 * icon-lunarrover.svg
-* icon-porcelainvase.svg
+* icon-porcelainvase.svg* icon-global-network.svg
+* icon-puzzle-piece.svg
+* icon-mountain-peak.svg
+* icon-color-wheel.svg
+* icon-cyber-security.svg
+* icon-loudspeaker.svg
+* icon-tree-leaf.svg
+* icon-virtual-reality.svg
+* icon-data-server.svg
+* icon-racing-flag.svg
+* icon-paintbrush.svg
+* icon-octopus.svg
+* icon-graduation-cap.svg
+* icon-digital-clock.svg
+* icon-astronaut-helmet.svg

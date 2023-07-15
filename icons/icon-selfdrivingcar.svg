@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-selfdrivingcar" viewBox="0 0 24 24">
+    <path d="M0 0h24v24H0z" fill="none"/>
+    <circle cx="7.5" cy="17" r="2" fill="#262626"/>
+    <circle cx="16.5" cy="17" r="2" fill="#262626"/>
+    <path d="M22 10h-20c-1.055 0-1.918.82-2 1.85v5.45l1.154 1.154c.35.35.808.546 1.346.546h1.5v-4h18v4h1.5c.538 0 1.045-.353 1.346-.654l.654-.654v-5.792c0-1.032-.792-1.85-2-1.85zm-4 4h-14v-1h14v1z"/>
+</svg>
