@@ -6191,4 +6191,18 @@
 * icon-wind-turbine.svg
 * icon-holographic-projection.svg
 * icon-futuristic-car.svg
-* icon-space-station.svg
+* icon-space-station.svg* icon-spacecraft.svg
+* icon-alchemy.svg
+* icon-graffiti.svg
+* icon-geothermal.svg
+* icon-dinosaur.svg
+* icon-quasar.svg
+* icon-origami.svg
+* icon-papyrus.svg
+* icon-metronome.svg
+* icon-bonsai.svg
+* icon-totem.svg
+* icon-obelisk.svg
+* icon-minotaur.svg
+* icon-sonar.svg
+* icon-acupuncture.svg
