@@ -5547,4 +5547,18 @@
 * icon-hammock.svg
 * icon-feather-duster.svg
 * icon-spellbook.svg
-* icon-binoculars.svg
+* icon-binoculars.svg* icon-digitalClock.svg
+* icon-newsfeed.svg
+* icon-virtualReality.svg
+* icon-microscope.svg
+* icon-shell.svg
+* icon-planets.svg
+* icon-bigData.svg
+* icon-flask.svg
+* icon-quantumComputing.svg
+* icon-blackhole.svg
+* icon-graphene.svg
+* icon-satellite.svg
+* icon-necktie.svg
+* icon-uploadCloud.svg
+* icon-diatom.svg
