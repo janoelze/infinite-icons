@@ -5029,4 +5029,18 @@
 * icon-turntable.svg
 * icon-martini-glass.svg
 * icon-jellyfish.svg
-* icon-dragonfly.svg
+* icon-dragonfly.svg* icon-fingerprint.svg
+* icon-unicycle.svg
+* icon-gecko.svg
+* icon-pendulum.svg
+* icon-sandcastle.svg
+* icon-meteor.svg
+* icon-saxophone.svg
+* icon-thimble.svg
+* icon-sunflower.svg
+* icon-kaleidoscope.svg
+* icon-corkscrew.svg
+* icon-yacht.svg
+* icon-croissant.svg
+* icon-hedgehog.svg
+* icon-volcano.svg
