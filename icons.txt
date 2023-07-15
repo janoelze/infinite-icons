@@ -5099,4 +5099,18 @@
 * icon-snowflake.svg
 * icon-oyster.svg
 * icon-candy-cane.svg
-* icon-windmill.svg
+* icon-windmill.svg* icon-witchhat.svg
+* icon-running-man.svg
+* icon-lunar-module.svg
+* icon-spoon-fork.svg
+* icon-waving-flag.svg
+* icon-nesting-dolls.svg
+* icon-chopsticks.svg
+* icon-skateboard.svg
+* icon-drumset.svg
+* icon-coliseum.svg
+* icon-floating-lantern.svg
+* icon-galactic-empire.svg
+* icon-velociraptor.svg
+* icon-rising-phoenix.svg
+* icon-cherry-blossom.svg
