@@ -6079,4 +6079,18 @@
 * icon-chemistry-flask.svg
 * icon-nuclear-bomb.svg
 * icon-bamboo-stick.svg
-* icon-steampunk-gears.svg
+* icon-steampunk-gears.svg* icon-abyss.svg
+* icon-echo.svg
+* icon-lantern.svg
+* icon-windmill.svg
+* icon-oblivion.svg
+* icon-oasis.svg
+* icon-matrix.svg
+* icon-galaxy.svg
+* icon-tundra.svg
+* icon-scepter.svg
+* icon-pyramid.svg
+* icon-mariner.svg
+* icon-timepiece.svg
+* icon-phantom.svg
+* icon-chronicle.svg
