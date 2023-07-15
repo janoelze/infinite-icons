@@ -4609,4 +4609,18 @@
 * icon-hyperspace.svg
 * icon-moonscape.svg
 * icon-parachute.svg
-* icon-genie.svg
+* icon-genie.svg* icon-octagon.svg
+* icon-parachute.svg
+* icon-abacus.svg
+* icon-quicksand.svg
+* icon-meteor.svg
+* icon-dungeon.svg
+* icon-hurricane.svg
+* icon-comet.svg
+* icon-nest.svg
+* icon-trigger.svg
+* icon-magnet.svg
+* icon-zeppelin.svg
+* icon-mousetrap.svg
+* icon-rocketship.svg
+* icon-camel.svg
