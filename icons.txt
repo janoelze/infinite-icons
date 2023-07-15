@@ -5351,4 +5351,18 @@
 * icon-kiwi.svg
 * icon-bonsai.svg
 * icon-blackhole.svg
-* icon-satellite.svg
+* icon-satellite.svg* icon-polygon.svg
+* icon-ripple-effect.svg
+* icon-thermal-energy.svg
+* icon-molecular-structure.svg
+* icon-quantum-computer.svg
+* icon-gravitational-wave.svg
+* icon-time-dilation.svg
+* icon-topographic-map.svg
+* icon-mechanical-gear.svg
+* icon-handwritten-letter.svg
+* icon-fossil-fuel.svg
+* icon-solar-panel.svg
+* icon-bionic-arm.svg
+* icon-galactic-cluster.svg
+* icon-black-hole.svg
