@@ -4679,4 +4679,18 @@
 * icon-snake-charmer.svg
 * icon-noisy-neighbor.svg
 * icon-nuclear-energy.svg
-* icon-past-life-regression.svg
+* icon-past-life-regression.svg* icon-quantum-computer.svg
+* icon-alien-life-form.svg
+* icon-encrypted-message.svg
+* icon-space-nebula.svg
+* icon-time-travel.svg
+* icon-nanobot.svg
+* icon-black-hole.svg
+* icon-hyperloop-transport.svg
+* icon-dna-sequencing.svg
+* icon-artificial-intelligence.svg
+* icon-quantum-entanglement.svg
+* icon-genome-edit.svg
+* icon-exoplanet.svg
+* icon-virtual-reality.svg
+* icon-antimatter-fuel.svg
