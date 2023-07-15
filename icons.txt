@@ -4665,4 +4665,18 @@
 * icon-pin-location.svg
 * icon-thumb-up-feedback.svg
 * icon-umbrella-rain.svg
-* icon-happy-smile.svg
+* icon-happy-smile.svg* icon-calendar-inverse.svg
+* icon-charging-station.svg
+* icon-global-warming.svg
+* icon-code-merge.svg
+* icon-electricity.svg
+* icon-bird-watching.svg
+* icon-meteor-shower.svg
+* icon-fingerprint-recognition.svg
+* icon-broken-chain.svg
+* icon-handshake-solution.svg
+* icon-encrypted-mail.svg
+* icon-snake-charmer.svg
+* icon-noisy-neighbor.svg
+* icon-nuclear-energy.svg
+* icon-past-life-regression.svg
