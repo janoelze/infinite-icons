@@ -5883,4 +5883,18 @@
 * icon-alien-head.svg
 * icon-vintage-telephone.svg
 * icon-pinwheel.svg
-* icon-oak-leaf.svg
+* icon-oak-leaf.svg* icon-globe-network.svg
+* icon-ticket-booking.svg
+* icon-cloud-backup.svg
+* icon-biometric-fingerprint.svg
+* icon-code-encryption.svg
+* icon-virtual-reality.svg
+* icon-gear-cog.svg
+* icon-microchip-processor.svg
+* icon-file-transfer.svg
+* icon-smart-home.svg
+* icon-wind-turbine.svg
+* icon-solar-panel.svg
+* icon-hybrid-car.svg
+* icon-drone-delivery.svg
+* icon-quantum-computing.svg
