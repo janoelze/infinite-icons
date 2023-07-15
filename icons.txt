@@ -5057,4 +5057,18 @@
 * icon-lava-flow.svg
 * icon-virtual-reality.svg
 * icon-holographic-projector.svg
-* icon-magnet-pull.svg
+* icon-magnet-pull.svg* icon-globetrotter.svg
+* icon-timecapsule.svg
+* icon-octagonal-prism.svg
+* icon-albatross.svg
+* icon-exoplanet.svg
+* icon-teleport.svg
+* icon-cognition.svg
+* icon-dragonfly.svg
+* icon-moonscape.svg
+* icon-mystic-portal.svg
+* icon-pyramid-gizar.svg
+* icon-quasar.svg
+* icon-rosaceae.svg
+* icon-tesseract.svg
+* icon-zeppelin.svg
