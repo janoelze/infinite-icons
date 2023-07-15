@@ -6065,4 +6065,18 @@
 * icon-blackhole.svg
 * icon-chameleon.svg
 * icon-nebula.svg
-* icon-aurora.svg
+* icon-aurora.svg* icon-archive-box.svg
+* icon-planet-globe.svg
+* icon-music-note.svg
+* icon-diamond-gem.svg
+* icon-tornado-swirl.svg
+* icon-vintage-phone.svg
+* icon-cactus-plant.svg
+* icon-rocket-ship.svg
+* icon-mountain-summit.svg
+* icon-modern-art.svg
+* icon-oriental-fan.svg
+* icon-chemistry-flask.svg
+* icon-nuclear-bomb.svg
+* icon-bamboo-stick.svg
+* icon-steampunk-gears.svg
