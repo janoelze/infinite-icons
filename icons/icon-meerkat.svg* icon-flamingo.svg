@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-meerkat.svg icon-flamingo">
+    <path d="M10 20C14.4183 20 18 16.4183 18 12C18 7.58172 14.4183 4 10 4C5.58172 4 2 7.58172 2 12C2 16.4183 5.58172 20 10 20Z" fill="none" stroke="currentColor" stroke-width="2"></path>
+    <path d="M10 13V11" stroke="currentColor" stroke-width="2"></path>
+    <path d="M10 17V15" stroke="currentColor" stroke-width="2"></path>
+</svg>

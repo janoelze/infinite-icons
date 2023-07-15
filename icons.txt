@@ -5211,4 +5211,18 @@
 * icon-fossil-dinosaur.svg
 * icon-flying-car.svg
 * icon-telescope.svg
-* icon-digital-cube.svg
+* icon-digital-cube.svg* icon-catalyst.svg
+* icon-entanglement.svg
+* icon-nexus.svg
+* icon-epoch.svg
+* icon-abyss.svg
+* icon-bifurcation.svg
+* icon-maelstrom.svg
+* icon-orion.svg
+* icon-horizon.svg
+* icon-pandemonium.svg
+* icon-quasar.svg
+* icon-stellar.svg
+* icon-threshold.svg
+* icon-vertex.svg
+* icon-zenith.svg
