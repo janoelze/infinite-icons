@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-telescope-stargazing" viewBox="0 0 24 24">
+    <path fill="none" stroke="currentColor" stroke-width="2" d="M13 1L10 4L10.5 5M4 15L7 18L21 18L24 21L21 22L7 22L4 19L1 15L4 12L7 15Z" />
+    <path fill="none" stroke="currentColor" stroke-width="2" d="M7 18L4 15L7 12L10 15L21 15L24 18" />
+    <circle cx="8" cy="8" r="3" stroke="currentColor" stroke-width="2" fill="none"/>
+    <path fill="none" stroke="currentColor" stroke-width="2" d="M2 2L5 5M6 6L9 9M10 10L13 13M14 14L17 17" />
+</svg>

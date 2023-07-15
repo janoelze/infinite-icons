@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-trophy-award" viewBox="0 0 24 24">
+  <path fill="none" d="M0 0h24v24H0z"/>
+  <path fill="currentcolor" d="M2 4a2 2 0 0 1 2-2h6.758a2 2 0 0 1 1.414.586l.828.828a2 2 0 0 0 1.414.586H18a2 2 0 0 1 2 2v2a2 2 0 0 1-2 2h-1a1 1 0 0 0-1 1v1.05a7.015 7.015 0 0 0-3-1.228V9a1 1 0 0 0-1-1H8a1 1 0 0 0-1 1v1.05a7.015 7.015 0 0 0-3 1.228V9a1 1 0 0 0-1-1H4a2 2 0 0 1-2-2V4zm2 14a4 4 0 0 0 4-4H4v4zm14 0h4a4 4 0 0 0-4-4v4zm-1.341-6a6 6 0 0 1-9.318 0h9.318z"/>
+</svg>
