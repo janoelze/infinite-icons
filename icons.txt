@@ -6177,4 +6177,18 @@
 * icon-octopus.svg
 * icon-jackhammer.svg
 * icon-ouroboros.svg
-* icon-quill.svg
+* icon-quill.svg* icon-digital-key.svg
+* icon-virtual-reality-goggles.svg
+* icon-astronaut-helmet.svg
+* icon-quantum-computer.svg
+* icon-molecular-structure.svg
+* icon-teleportation-device.svg
+* icon-animal-dna.svg
+* icon-science-atom.svg
+* icon-artificial-intelligence.svg
+* icon-recycling-robot.svg
+* icon-solar-panel.svg
+* icon-wind-turbine.svg
+* icon-holographic-projection.svg
+* icon-futuristic-car.svg
+* icon-space-station.svg
