@@ -4497,4 +4497,18 @@
 * icon-space-elevator.svg
 * icon-jupiter-storm.svg
 * icon-velociraptor.svg
-* icon-nebula-horsehead.svg
+* icon-nebula-horsehead.svg* icon-cyclone.svg
+* icon-lantern.svg
+* icon-oath.svg
+* icon-sundial.svg
+* icon-rainforest.svg
+* icon-origami.svg
+* icon-gargoyle.svg
+* icon-timecapsule.svg
+* icon-electron.svg
+* icon-vortex.svg
+* icon-croissant.svg
+* icon-obelisk.svg
+* icon-periscope.svg
+* icon-amphora.svg
+* icon-tarot.svg
