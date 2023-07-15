@@ -6261,4 +6261,18 @@
 * icon-paint-splatter.svg
 * icon-dinosaur-skeleton.svg
 * icon-star-cluster.svg
-* icon-crystal-ball.svg
+* icon-crystal-ball.svg* icon-gears-interaction.svg
+* icon-organic-chemistry.svg
+* icon-jigsaw-puzzle-piece.svg
+* icon-3d-printing.svg
+* icon-astronaut-helmet.svg
+* icon-antenna-signal.svg
+* icon-ancient-scroll.svg
+* icon-quill-nib.svg
+* icon-contemporary-sculpture.svg
+* icon-hydroelectric-dam.svg
+* icon-mathematical-protractor.svg
+* icon-abstract-fractal-design.svg
+* icon-fossil-ammonite.svg
+* icon-medieval-goblet.svg
+* icon-lightning-in-cloud.svg
