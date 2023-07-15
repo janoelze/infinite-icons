@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-audio-book" viewBox="0 0 24 24">
+  <path d="M2 2h20v20H2z"></path>
+  <path d="M5 3h14v3H5zM5 8h14v3H5zM5 13h14v3H5zM5 18h14v3H5z"></path>
+  <circle cx="17" cy="12" r="3"></circle>
+</svg>

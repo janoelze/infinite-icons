@@ -5533,4 +5533,18 @@
 * icon-fossil.svg
 * icon-satellite-dish.svg
 * icon-x-ray.svg
-* icon-thermometer-snowflake.svg
+* icon-thermometer-snowflake.svg* icon-space-shuttle.svg
+* icon-microscope.svg
+* icon-sundial.svg
+* icon-abacus.svg
+* icon-oyster.svg
+* icon-quill-ink.svg
+* icon-crystal-ball.svg
+* icon-excavation.svg
+* icon-potion-bottle.svg
+* icon-stork-baby.svg
+* icon-unicycle.svg
+* icon-hammock.svg
+* icon-feather-duster.svg
+* icon-spellbook.svg
+* icon-binoculars.svg
