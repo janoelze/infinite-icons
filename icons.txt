@@ -4777,4 +4777,18 @@
 * icon-cormorant.svg
 * icon-xyz-axis.svg
 * icon-kabbalah-tree.svg
-* icon-obelisk.svg
+* icon-obelisk.svg* icon-dragonfly.svg
+* icon-alien.svg
+* icon-geyser.svg
+* icon-quicksand.svg
+* icon-treasure-map.svg
+* icon-astronaut.svg
+* icon-glacier.svg
+* icon-tumbleweed.svg
+* icon-antelope.svg
+* icon-canyon.svg
+* icon-nebula.svg
+* icon-submarine.svg
+* icon-meteor.svg
+* icon-lighthouse.svg
+* icon-pharaoh.svg

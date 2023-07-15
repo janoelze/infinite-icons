@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-happy-smile.svg icon-calendar-inverse">
+  <path d="M0 0h24v24H0V0z"/>
+  <path d="M7,11H17C17,12.1 16.1,13 15,13H9C7.9,13 7,12.1 7,11Z"/>
+  <path d="M19,3H18V1H16V3H8V1H6V3H5C3,4 3,5 5,7V19C5,21 7,21 7,19H19C21,19 21,17 19,17V5C19,3 21,3 19,3ZM19,17H5V7H19V17Z"/>
+</svg>
