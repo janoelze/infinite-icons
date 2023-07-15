@@ -6093,4 +6093,18 @@
 * icon-mariner.svg
 * icon-timepiece.svg
 * icon-phantom.svg
-* icon-chronicle.svg
+* icon-chronicle.svg* icon-satellite.svg
+* icon-petrol-pump.svg
+* icon-broken-chain.svg
+* icon-ice-cream.svg
+* icon-theatre-mask.svg
+* icon-antenna.svg
+* icon-grim-reaper.svg
+* icon-renaissance-art.svg
+* icon-cargo-ship.svg
+* icon-jackhammer.svg
+* icon-bungee-jump.svg
+* icon-planetarium.svg
+* icon-steampunk-gear.svg
+* icon-sea-urchin.svg
+* icon-guillotine.svg

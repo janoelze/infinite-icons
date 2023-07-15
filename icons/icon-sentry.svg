@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-sentry">
+    <circle cx="12" cy="12" r="10" style="fill:none;stroke:black" />
+    <line x1="12" y1="2" x2="12" y2="22" style="stroke:black" />
+    <line x1="2" y1="12" x2="22" y2="12" style="stroke:black" />
+</svg>
