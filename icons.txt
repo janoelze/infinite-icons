@@ -5435,4 +5435,18 @@
 * icon-food-truck.svg
 * icon-kite-surfing.svg
 * icon-eco-tourism.svg
-* icon-homestead.svg
+* icon-homestead.svg* icon-nanobot.svg
+* icon-quasar.svg
+* icon-seedling.svg
+* icon-waveform.svg
+* icon-geode.svg
+* icon-vortex.svg
+* icon-nebula.svg
+* icon-hologram.svg
+* icon-ouroboros.svg
+* icon-cypher.svg
+* icon-plasmaball.svg
+* icon-aurora.svg
+* icon-radiolarian.svg
+* icon-singularity.svg
+* icon-fractal.svg

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" class="icon icon-open-suitcase.svg icon-dna-strand">
+  <path d="M0 0h48v48H0z" fill="none"/>
+  <path d="M20 20h8v8h-8z" fill="none"/>
+  <path d="M16 16h16v16H16z" fill="none"/>
+  <path d="M12 12h24v24H12z" fill="none"/>
+  <path d="M16 4h16v4H16zM12 44h24v4H12z"/>
+  <path d="M4 16h40v16H4z"/>
+  <path d="M8 0h32v4H8zM4 44h40v4H4z"/>
+
+  <path d="M24 16C14.1 16 6 24.1 6 34s8.1 18 18 18 18-8.1 18-18S33.9 16 24 16zM9.17 34C10.4 25.9 17.3 20 24 20s13.6 5.9 14.83 14H9.17zM24 48C17.3 48 11.4 42.1 9.17 34h29.67C36.6 42.1 30.7 48 24 48zM24 16c6.6 0 13.6 5.9 14.83 14H9.17C10.4 21.9 17.3 16 24 16z" fill="none"/>
+  <path d="M24 16c6.6 0 13.6 5.9 14.83 14H9.17C10.4 21.9 17.3 16 24 16z"/>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-timecapsule.svg* icon-basketballhoop">
+  <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="transparent" />
+  <line x1="50" y1="50" x2="50" y2="90" style="stroke:rgb(255,0,0);stroke-width:2" />
+  <rect x="45" y="90" width="10" height="10" style="fill:rgb(0,0,255);stroke-width:0;stroke:rgb(0,0,0)" />
+</svg>
