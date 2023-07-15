@@ -5113,4 +5113,18 @@
 * icon-galactic-empire.svg
 * icon-velociraptor.svg
 * icon-rising-phoenix.svg
-* icon-cherry-blossom.svg
+* icon-cherry-blossom.svg* icon-ship-wheel.svg
+* icon-atmosphere.svg
+* icon-ancient-scroll.svg
+* icon-chemistry-flask.svg
+* icon-galactic-cluster.svg
+* icon-dandelion-seed.svg
+* icon-ninja-star.svg
+* icon-stone-henge.svg
+* icon-mermaid-tail.svg
+* icon-yeti-footprint.svg
+* icon-pharaoh-mask.svg
+* icon-meteor-crater.svg
+* icon-radiation-symbol.svg
+* icon-kaleidoscope.svg
+* icon-sasquatch-silhouette.svg
