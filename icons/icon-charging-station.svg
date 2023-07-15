@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-charging-station">
+    <path d="M6,12h12v8H6Zm2,6h8V14H8Z"/>
+    <polygon points="16 8 16 12 13 9 16 8"/>
+    <polygon points="8 8 8 12 11 9 8 8"/>
+    <path d="M12,6V2H6V22h6V18"/>
+    <rect x="10" y="0" width="4" height="2"/>
+</svg>

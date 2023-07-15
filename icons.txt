@@ -6023,4 +6023,18 @@
 * icon-magnet.svg
 * icon-binoculars.svg
 * icon-meteor.svg
-* icon-planet.svg
+* icon-planet.svg* icon-satellite.svg
+* icon-octopus.svg
+* icon-quasar.svg
+* icon-nanobot.svg
+* icon-antimatter.svg
+* icon-platypus.svg
+* icon-hologram.svg
+* icon-lobster.svg
+* icon-blackhole.svg
+* icon-dodo.svg
+* icon-lighthouse.svg
+* icon-mushroom.svg
+* icon-dandelion.svg
+* icon-harpoon.svg
+* icon-cutlass.svg

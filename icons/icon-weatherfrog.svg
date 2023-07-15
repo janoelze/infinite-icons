@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-weatherfrog">
+   <circle cx="50" cy="50" r="45" stroke="green" stroke-width="4" fill="yellow" />
+   <circle cx="40" cy="40" r="10" stroke="green" stroke-width="4" fill="white" />
+   <circle cx="60" cy="40" r="10" stroke="green" stroke-width="4" fill="white" />
+   <path d="M50 50 Q60 60 70 50" stroke="green" stroke-width="4" fill="transparent" />
+</svg>
