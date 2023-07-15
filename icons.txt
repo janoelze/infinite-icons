@@ -5673,4 +5673,18 @@
 * icon-marionette.svg
 * icon-goblet.svg
 * icon-papyrus.svg
-* icon-oracle.svg
+* icon-oracle.svg* icon-rotating-globe.svg
+* icon-ascending-staircase.svg
+* icon-diamond-ring.svg
+* icon-open-book.svg
+* icon-rainy-cloud.svg
+* icon-sand-timer.svg
+* icon-hexagonal-grid.svg
+* icon-waving-flag.svg
+* icon-steel-armour.svg
+* icon-lightning-bolt.svg
+* icon-vine-plant.svg
+* icon-ancient-scroll.svg
+* icon-musical-harp.svg
+* icon-viking-helmet.svg
+* icon-compass-rose.svg
