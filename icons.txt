@@ -5813,4 +5813,18 @@
 * icon-raincoat.svg
 * icon-ufo.svg
 * icon-quantum-computer.svg
-* icon-statue-of-liberty.svg
+* icon-statue-of-liberty.svg* icon-global-connection.svg
+* icon-abstract-art.svg
+* icon-quantum-computing.svg
+* icon-robotic-arm.svg
+* icon-space-rocket.svg
+* icon-astronaut-helmet.svg
+* icon-holographic-display.svg
+* icon-genetic-code.svg
+* icon-molecule-structure.svg
+* icon-hybrid-vehicle.svg
+* icon-solar-panel.svg
+* icon-wind-turbine.svg
+* icon-neural-network.svg
+* icon-drone-delivery.svg
+* icon-virtual-reality.svg
