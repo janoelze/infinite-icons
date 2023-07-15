@@ -4707,4 +4707,18 @@
 * icon-quantum.svg
 * icon-zodiac.svg
 * icon-lynx.svg
+* icon-obelisk.svg* icon-papyrus-scroll.svg
+* icon-sunflower.svg
+* icon-firefly.svg
+* icon-meteor-shower.svg
+* icon-dna-strand.svg
+* icon-magnet.svg
+* icon-trebuchet.svg
+* icon-pinecone.svg
+* icon-marmoset.svg
+* icon-abacus.svg
 * icon-obelisk.svg
+* icon-quill-ink.svg
+* icon-origami-crane.svg
+* icon-galaxy.svg
+* icon-hieroglyph.svg
