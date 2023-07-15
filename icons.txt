@@ -6219,4 +6219,18 @@
 * icon-mars-rover.svg
 * icon-polar-bear-cub.svg
 * icon-tectonic-plates.svg
-* icon-steel-mill.svg
+* icon-steel-mill.svg* icon-paperclip-lightbulb.svg
+* icon-diamond-sparkle.svg
+* icon-unicorn-rainbow.svg
+* icon-fire-waterdrop.svg
+* icon-planet-gears.svg
+* icon-rocket-book.svg
+* icon-hologram.svg
+* icon-chameleon-eye.svg
+* icon-robot-hand.svg
+* icon-cactus-balloon.svg
+* icon-treasure-map.svg
+* icon-pineapple-glasses.svg
+* icon-sushi-roller.svg
+* icon-octopus-laptop.svg
+* icon-dino-egg.svg
