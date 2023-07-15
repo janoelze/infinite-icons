@@ -6247,4 +6247,18 @@
 * icon-minotaur.svg
 * icon-oryx.svg
 * icon-papyrus.svg
-* icon-quince.svg
+* icon-quince.svg* icon-digital-watch.svg
+* icon-vintage-radio.svg
+* icon-ancient-scroll.svg
+* icon-roller-skate.svg
+* icon-alien-ship.svg
+* icon-tropical-bird.svg
+* icon-hand-puppet.svg
+* icon-pinwheel.svg
+* icon-detective-magnifier.svg
+* icon-robot-arm.svg
+* icon-origami-crane.svg
+* icon-paint-splatter.svg
+* icon-dinosaur-skeleton.svg
+* icon-star-cluster.svg
+* icon-crystal-ball.svg
