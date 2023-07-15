@@ -4861,4 +4861,18 @@
 * icon-audio-description.svg
 * icon-award.svg
 * icon-baby-carriage.svg
-* icon-bacon.svg
+* icon-bacon.svg* icon-dolphin.svg
+* icon-moonscape.svg
+* icon-microscope.svg
+* icon-jellyfish.svg
+* icon-sandcastle.svg
+* icon-antique-clock.svg
+* icon-binoculars.svg
+* icon-chess-horse.svg
+* icon-carnival-mask.svg
+* icon-constellation.svg
+* icon-firefly.svg
+* icon-lighthouse.svg
+* icon-telescope.svg
+* icon-oasis.svg
+* icon-hot-air-balloon.svg
