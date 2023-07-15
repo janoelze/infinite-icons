@@ -5981,4 +5981,18 @@
 * icon-rainbow-spectrum.svg
 * icon-quantum-computer.svg
 * icon-dna-double-helix.svg
-* icon-coral-reef.svg
+* icon-coral-reef.svg* icon-letterbox.svg
+* icon-digitalclock.svg
+* icon-weatherfrog.svg
+* icon-nebulizer.svg
+* icon-sommelier.svg
+* icon-pythagoras.svg
+* icon-rootcrop.svg
+* icon-sushiplatter.svg
+* icon-crossfit.svg
+* icon-tajmahal.svg
+* icon-blackmamba.svg
+* icon-neonlight.svg
+* icon-alchemistlab.svg
+* icon-lunarrover.svg
+* icon-porcelainvase.svg
