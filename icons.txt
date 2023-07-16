@@ -7143,4 +7143,18 @@
 * icon-dna-helix.svg
 * icon-nebula.svg
 * icon-fossil.svg
-* icon-dove-peace.svg
+* icon-dove-peace.svg* icon-satellite.svg
+* icon-telescope.svg
+* icon-windmill.svg
+* icon-backpack.svg
+* icon-snorkel.svg
+* icon-skyscraper.svg
+* icon-blender.svg
+* icon-binoculars.svg
+* icon-microscope.svg
+* icon-lighthouse.svg
+* icon-joystick.svg
+* icon-compass.svg
+* icon-hot-air-balloon.svg
+* icon-anchor.svg
+* icon-suicide-booth.svg
