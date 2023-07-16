@@ -6835,4 +6835,18 @@
 * icon-magic-portal.svg
 * icon-genie-lamp.svg
 * icon-tesla-coil.svg
-* icon-digital-mind.svg
+* icon-digital-mind.svg* icon-globe-network.svg
+* icon-umbrella-rain.svg
+* icon-cactus-desert.svg
+* icon-rocket-launch.svg
+* icon-paper-plane.svg
+* icon-lightbulb-idea.svg
+* icon-honeycomb-bee.svg
+* icon-dna-structure.svg
+* icon-jigsaw-puzzle.svg
+* icon-lightning-bolt.svg
+* icon-gear-machinery.svg
+* icon-quill-ink.svg
+* icon-bamboo-forest.svg
+* icon-treasure-chest.svg
+* icon-wooden-ship.svg

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-time-dilation">
+    <circle cx="12" cy="12" r="10" fill="none" stroke="currentColor"></circle>
+    <line x1="12" y1="6" x2="12" y2="12"></line>
+    <polyline points="12 12 16 12 14 15" fill="none" stroke="currentColor"></polyline>
+    <path d="M14.033,16.5A4.5,4.5,0,0,1,9.5,12V9.5" fill="none" stroke="currentColor"></path>
+</svg>
