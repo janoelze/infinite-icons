@@ -6485,4 +6485,18 @@
 * icon-dna-sequence.svg
 * icon-4d-hypercube.svg
 * icon-galactic-spiral.svg
-* icon-time-machine.svg
+* icon-time-machine.svg* icon-data-packet.svg
+* icon-cyber-security.svg
+* icon-digital-encryption.svg
+* icon-virtual-reality.svg
+* icon-augmented-reality.svg
+* icon-machine-learning.svg
+* icon-bitcoin-mining.svg
+* icon-social-network.svg
+* icon-cloud-storage.svg
+* icon-artificial-intelligence.svg
+* icon-drone-delivery.svg
+* icon-smart-city.svg
+* icon-internet-of-things.svg
+* icon-blockchain-technology.svg
+* icon-quantum-computing.svg
