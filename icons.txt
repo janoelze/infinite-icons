@@ -6919,4 +6919,18 @@
 * icon-abyss.svg
 * icon-checkered-flag.svg
 * icon-emerald.svg
-* icon-papaya.svg
+* icon-papaya.svg* icon-rocketship.svg
+* icon-jigsaw-puzzle.svg
+* icon-microscope.svg
+* icon-rolling-pin.svg
+* icon-windmill.svg
+* icon-crystal-ball.svg
+* icon-treasure-chest.svg
+* icon-fireworks.svg
+* icon-anvil.svg
+* icon-escalator.svg
+* icon-umbrella.svg
+* icon-globe.svg
+* icon-telescope.svg
+* icon-feather-quill.svg
+* icon-honeycomb.svg
