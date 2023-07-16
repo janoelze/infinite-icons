@@ -7129,4 +7129,18 @@
 * icon-pebble.svg
 * icon-windmill.svg
 * icon-trebleclef.svg
-* icon-coral.svg
+* icon-coral.svg* icon-rocket-launch.svg
+* icon-rainforest.svg
+* icon-crystal-ball.svg
+* icon-honeycomb.svg
+* icon-quill-ink.svg
+* icon-dreamcatcher.svg
+* icon-cactus.svg
+* icon-tumbleweed.svg
+* icon-moon-craters.svg
+* icon-polar-bear.svg
+* icon-archaeologist-hat.svg
+* icon-dna-helix.svg
+* icon-nebula.svg
+* icon-fossil.svg
+* icon-dove-peace.svg
