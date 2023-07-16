@@ -7353,4 +7353,18 @@
 * icon-star-formation.svg
 * icon-planet-exploration.svg
 * icon-meteor-shower.svg
-* icon-space-time-distortion.svg
+* icon-space-time-distortion.svg* icon-3D-glasses.svg
+* icon-anchor.svg
+* icon-astrology-signs.svg
+* icon-beaker.svg
+* icon-cactus.svg
+* icon-dinosaur.svg
+* icon-kaleidoscope.svg
+* icon-origami.svg
+* icon-paint-splatter.svg
+* icon-quill.svg
+* icon-rabbit.svg
+* icon-seahorse.svg
+* icon-typewriter.svg
+* icon-unicorn.svg
+* icon-xylophone.svg
