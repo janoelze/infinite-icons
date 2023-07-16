@@ -8081,4 +8081,18 @@
 * icon-sketchbook.svg
 * icon-ouroboros.svg
 * icon-quantum-computer.svg
-* icon-fossil.svg
+* icon-fossil.svg* icon-compass-rose.svg
+* icon-aura.svg
+* icon-apocalypse.svg
+* icon-squid.svg
+* icon-tesseract.svg
+* icon-digital-key.svg
+* icon-dna-structure.svg
+* icon-whisper.svg
+* icon-crystall-ball.svg
+* icon-singing-bird.svg
+* icon-sunken-ship.svg
+* icon-star-cluster.svg
+* icon-space-jellyfish.svg
+* icon-mysterious-forest.svg
+* icon-hidden-treasure.svg
