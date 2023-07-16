@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-aqueduct.svg icon-algorithm">
+    <!-- Aqueduct Element -->
+    <path d="M10 30 Q 20 20 30 30 T 50 30 T 70 30 T 90 30 V 70 H 10 Z" fill="#a4a4a4" />
+
+    <!-- Algorithm Element -->
+    <rect x="110" y="30" width="20" height="20" fill="#a4a4a4" />
+    <rect x="140" y="30" width="20" height="20" fill="#a4a4a4" />
+    <path d="M 130 50 V 70 H 120 V 90 H 150 V 70 Z" fill="#a4a4a4" />
+</svg>

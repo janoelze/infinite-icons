@@ -7059,4 +7059,18 @@
 * icon-artificial-intelligence.svg
 * icon-internet-of-things.svg
 * icon-programming.svg
-* icon-web-development.svg
+* icon-web-development.svg* icon-orion-constellation.svg
+* icon-bamboo-grove.svg
+* icon-alien-abduction.svg
+* icon-meteor-shower.svg
+* icon-quantum-computer.svg
+* icon-ghost-town.svg
+* icon-black-rose.svg
+* icon-ancient-scroll.svg
+* icon-dragonfly.svg
+* icon-amphora.svg
+* icon-haunted-house.svg
+* icon-codex.svg
+* icon-hyperspace.svg
+* icon-mayan-pyramid.svg
+* icon-mermaid.svg
