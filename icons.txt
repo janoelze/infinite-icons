@@ -6639,4 +6639,18 @@
 * icon-autonomous-vehicle.svg
 * icon-voice-command.svg
 * icon-augmented-reality.svg
-* icon-data-privacy.svg
+* icon-data-privacy.svg* icon-underwater.svg
+* icon-mountaintop.svg
+* icon-skyscraper.svg
+* icon-tardis.svg
+* icon-rollercoaster.svg
+* icon-microscope.svg
+* icon-construction.svg
+* icon-festival.svg
+* icon-oasis.svg
+* icon-kaleidoscope.svg
+* icon-archery.svg
+* icon-quill.svg
+* icon-obelisk.svg
+* icon-dragonfruit.svg
+* icon-endofday.svg
