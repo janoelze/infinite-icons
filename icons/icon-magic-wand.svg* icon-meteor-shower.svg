@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-magic-wand.svg icon-meteor-shower">
+  <path d="M0 0h24v24H0z" fill="none"/>
+  <circle cx="12" cy="6" r="4" />
+  <path d="M4 22a8 8 0 1 1 16 0" />
+  <path d="M4 22h16m-8-2v2" />
+  <path d="M9 12l-2-2l-2 2m8 0l2-2l2 2m1 5h-14" />
+  <path d="M12 12v6" />
+</svg>

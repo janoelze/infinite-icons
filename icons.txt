@@ -7759,4 +7759,18 @@
 * icon-thermalgeyser.svg
 * icon-nuclearreactor.svg
 * icon-mineralcrystal.svg
-* icon-auroraborealis.svg
+* icon-auroraborealis.svg* icon-abyss.svg
+* icon-dune.svg
+* icon-lighthouse.svg
+* icon-galaxy.svg
+* icon-meteorite.svg
+* icon-dragonfly.svg
+* icon-obelisk.svg
+* icon-sheriff.svg
+* icon-phantom.svg
+* icon-sphinx.svg
+* icon-tesseract.svg
+* icon-quill.svg
+* icon-raven.svg
+* icon-odyssey.svg
+* icon-mirage.svg
