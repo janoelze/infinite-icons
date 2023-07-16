@@ -7521,4 +7521,18 @@
 * icon-cybersecurity-lock.svg
 * icon-smart-glasses.svg
 * icon-lunar-rover.svg
-* icon-future-city.svg
+* icon-future-city.svg* icon-quill-ink.svg
+* icon-globe-grid.svg
+* icon-compass-rose.svg
+* icon-astronaut-helmet.svg
+* icon-lightbulb-filament.svg
+* icon-paint-brush.svg
+* icon-chess-knight.svg
+* icon-dove-olive.svg
+* icon-tornado-cyclone.svg
+* icon-ivy-leaf.svg
+* icon-helium-balloon.svg
+* icon-ship-anchor.svg
+* icon-dna-helix.svg
+* icon-gold-nugget.svg
+* icon-telescope-view.svg
