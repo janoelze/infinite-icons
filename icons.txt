@@ -6933,4 +6933,18 @@
 * icon-globe.svg
 * icon-telescope.svg
 * icon-feather-quill.svg
-* icon-honeycomb.svg
+* icon-honeycomb.svg* icon-cloudsync.svg
+* icon-batterycharging.svg
+* icon-flightmode.svg
+* icon-waterdrop.svg
+* icon-forestfire.svg
+* icon-rocketlaunch.svg
+* icon-mountainpeak.svg
+* icon-snake.svg
+* icon-scubadiving.svg
+* icon-digitalworld.svg
+* icon-navigationcompass.svg
+* icon-fastfood.svg
+* icon-seismographic.svg
+* icon-tropicalstorm.svg
+* icon-rosetta-stone.svg
