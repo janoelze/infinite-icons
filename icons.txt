@@ -7185,4 +7185,18 @@
 * icon-sundial.svg
 * icon-galaxy.svg
 * icon-nebula.svg
-* icon-dna.svg
+* icon-dna.svg* icon-watercolor-palette.svg
+* icon-abacus.svg
+* icon-dna-structure.svg
+* icon-geyser.svg
+* icon-open-book.svg
+* icon-pyramid.svg
+* icon-lunar-module.svg
+* icon-hot-air-balloon.svg
+* icon-tesseract.svg
+* icon-diploma-scroll.svg
+* icon-quill-pen.svg
+* icon-hammock.svg
+* icon-matryoshka-doll.svg
+* icon-roller-coaster.svg
+* icon-locomotive.svg
