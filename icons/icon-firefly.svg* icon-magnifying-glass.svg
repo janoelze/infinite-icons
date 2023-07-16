@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-firefly icon-magnifying-glass">
+    <!-- Firefly -->
+    <circle class="firefly" cx="12" cy="12" r="10" stroke="black" stroke-width="1" fill="white" />
+    <circle class="firefly-glow" cx="12" cy="12" r="5" stroke="yellow" stroke-width="1" fill="yellow" />
+    
+    <!-- Magnifying glass -->
+    <circle class="glass" cx="70" cy="70" r="50" stroke="black" stroke-width="4" fill="none" />
+    <line class="handle" x1="100" y1="100" x2="130" y2="130" stroke="black" stroke-width="4"/>
+</svg>

@@ -7451,4 +7451,18 @@
 * icon-fusion-reactor.svg
 * icon-mars-rover.svg
 * icon-neutron-star.svg
-* icon-quantum-tunnel.svg
+* icon-quantum-tunnel.svg* icon-aeroplane-wing.svg
+* icon-bulb-glowing.svg
+* icon-octagonal-clock.svg
+* icon-lunar-moon.svg
+* icon-cash-register.svg
+* icon-antique-telescope.svg
+* icon-mermaid-tail.svg
+* icon-infinity-loop.svg
+* icon-vintage-tram.svg
+* icon-origami-bird.svg
+* icon-ribbon-knot.svg
+* icon-queen-crown.svg
+* icon-origami-boat.svg
+* icon-roaring-lion.svg
+* icon-sunflower.svg
