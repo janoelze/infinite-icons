@@ -6527,4 +6527,18 @@
 * icon-vegan-diet.svg
 * icon-ancient-pyramid.svg
 * icon-wise-owl.svg
-* icon-electric-car.svg
+* icon-electric-car.svg* icon-global-network.svg
+* icon-interactive-tutorial.svg
+* icon-blockchain-transfer.svg
+* icon-chatbot-assistant.svg
+* icon-laboratory-research.svg
+* icon-cloud-processing.svg
+* icon-virtual-reality.svg
+* icon-fingerprint-scanner.svg
+* icon-quantum-computing.svg
+* icon-cyber-security.svg
+* icon-digital-twin.svg
+* icon-future-mobility.svg
+* icon-autonomous-delivery.svg
+* icon-cognitive-technology.svg
+* icon-genome-editing.svg
