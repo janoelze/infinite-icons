@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-waterwheel icon-quantum-computing" viewBox="0 0 24 24">
+    <path fill="none" stroke="currentColor" stroke-width="2" d="M12,19.865c4.802-1.514,8-6.326,8-11.865h-6v3.728c-2.018-0.542-4.201-0.84-6.5-0.84-0.661,0-1.299,0.029-1.926,0.081c0.627,4.542,3.822,8.353,8.626,9.896Z">
+    </path>
+    <circle cx="12" cy="8" r="4">
+    </circle>
+    <line x1="12" y1="22" x2="12" y2="8">
+    </line>
+    <path fill="none" stroke="currentColor" stroke-width="2" d="M22,22h-2c0-1.104-0.354-2.113-0.904-3H2.904c0,1.746,0.591,3.341,1.596,4.646C5.841,21.196,7.848,22,10,22h12Z">
+    </path>
+</svg>

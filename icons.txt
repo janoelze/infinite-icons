@@ -7983,4 +7983,18 @@
 * icon-alienlifeform.svg
 * icon-forgottencipher.svg
 * icon-digitalalchemy.svg
-* icon-timecapsule.svg
+* icon-timecapsule.svg* icon-digitalclock.svg
+* icon-photosynthesis.svg
+* icon-lunarphase.svg
+* icon-thermodynamics.svg
+* icon-quantumphysics.svg
+* icon-nanotechnology.svg
+* icon-biotechnology.svg
+* icon-woodpecker.svg
+* icon-vacuumbag.svg
+* icon-cancerouscell.svg
+* icon-antiqueclock.svg
+* icon-oceanacidification.svg
+* icon-kineticenergy.svg
+* icon-astronautglove.svg
+* icon-digitalcompass.svg
