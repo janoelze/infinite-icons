@@ -7241,4 +7241,18 @@
 * icon-3d-printing.svg
 * icon-ux-ui-design.svg
 * icon-data-privacy.svg
-* icon-augmented-reality.svg
+* icon-augmented-reality.svg* icon-cloudy-night.svg
+* icon-thunderbolt.svg
+* icon-crystal-ball.svg
+* icon-quantum-computer.svg
+* icon-chess-queen.svg
+* icon-space-rocket.svg
+* icon-invisible.svg
+* icon-time-travel.svg
+* icon-nanobot.svg
+* icon-underwater-cave.svg
+* icon-abstract-art.svg
+* icon-nebula.svg
+* icon-black-hole.svg
+* icon-constellation.svg
+* icon-alien.svg
