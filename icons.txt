@@ -6569,4 +6569,18 @@
 * icon-artificial-intelligence.svg
 * icon-nanotechnology.svg
 * icon-cloud-computing.svg
-* icon-blockchain-technology.svg
+* icon-blockchain-technology.svg* icon-gears-adjustments.svg
+* icon-balance-scale.svg
+* icon-eco-battery.svg
+* icon-space-shuttle.svg
+* icon-origami-bird.svg
+* icon-glowing-bulb.svg
+* icon-chrome-dinosaur.svg
+* icon-telescope-view.svg
+* icon-clockwork-robot.svg
+* icon-scroll-quill.svg
+* icon-galactic-cluster.svg
+* icon-musical-dna.svg
+* icon-fish-bowl.svg
+* icon-encrypted-lock.svg
+* icon-time-sandglass.svg

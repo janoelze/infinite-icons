@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-forest-fire">
+  <path fill="none" stroke="currentColor" stroke-width="2" d="M2 22h20v-2H2v2zM12 2v13m-6 5v2m8-2v3m6-3v2M20 9a16 16 0 00-16 0L12 22l4-7m6.22-3.21A16 16 0 0012 2v13m0-13a16 16 0 012 14m2-14a16 16 0 014 12"></path>
+  <circle fill="red" stroke="none" cx="12" cy="14" r="4"></circle>
+</svg>
