@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-aliens-encounter">
+  <circle cx="12" cy="4" r="4" fill="#000"/>
+  <circle cx="20" cy="4" r="4" fill="#000"/>
+  <path d="M6 18c-1.1 0-2-.9-2-2v-2c0-1.1.9-2 2-2h12c1.1 0 2 .9 2 2v2c0 1.1-.9 2-2 2H6z" fill="#000"/>
+  <path d="M8 15h2v2H8v-2zm8 0h2v2h-2v-2z" fill="#fff"/>
+  <path d="M0 12v3h24v-3H0zm0 5h24v2H0v-2z" fill="#000"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-cryptocurrencywallet" viewBox="0 0 24 24">
+    <path d="M3 3h18v18H3z"/>
+    <path d="M6 6h12v12H6z"/>
+    <circle cx="9" cy="12" r="2"/>
+    <circle cx="15" cy="12" r="2"/>
+</svg>

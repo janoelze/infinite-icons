@@ -8067,4 +8067,18 @@
 * icon-guillotine.svg
 * icon-hieroglyph.svg
 * icon-rapier.svg
-* icon-yeti.svg
+* icon-yeti.svg* icon-sand-clock.svg
+* icon-digital-artboard.svg
+* icon-virtual-reality-glasses.svg
+* icon-astrology-compass.svg
+* icon-beaker-test.svg
+* icon-origami-bird.svg
+* icon-chess-horse.svg
+* icon-caffeine-molecule.svg
+* icon-quill-ink.svg
+* icon-satellite-dish.svg
+* icon-yoga-mat.svg
+* icon-sketchbook.svg
+* icon-ouroboros.svg
+* icon-quantum-computer.svg
+* icon-fossil.svg
