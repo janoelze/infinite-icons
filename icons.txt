@@ -6387,4 +6387,18 @@
 * icon-robot-head.svg
 * icon-meteor.svg
 * icon-tropical-fish.svg
-* icon-feather-quill.svg
+* icon-feather-quill.svg* icon-summer-umbrella.svg
+* icon-winter-snowflake.svg
+* icon-space-astronaut.svg
+* icon-music-guitar.svg
+* icon-sports-football.svg
+* icon-nature-beehive.svg
+* icon-travel-passport.svg
+* icon-space-rocket.svg
+* icon-medical-syringe.svg
+* icon-food-hamburger.svg
+* icon-animal-elephant.svg
+* icon-fashion-handbag.svg
+* icon-vehicle-bicycle.svg
+* icon-office-laptop.svg
+* icon-science-microscope.svg

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-electric-eyeball">
+    <circle cx="12" cy="12" r="8" stroke="black" stroke-width="2" fill="white"/> 
+    <circle cx="12" cy="12" r="3" fill="black"/>
+    <path d="M12 4 L14 1 L10 1 Z" fill="yellow"/>
+    <path d="M12 20 L14 23 L10 23 Z" fill="yellow"/>
+    <path d="M4 12 L2 14 L2 10 Z" fill="yellow"/>
+    <path d="M20 12 L22 14 L22 10 Z" fill="yellow"/>
+</svg>
