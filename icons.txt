@@ -6989,4 +6989,18 @@
 * icon-quantum-computer.svg
 * icon-climate-change.svg
 * icon-organic-farming.svg
-* icon-3d-printing.svg
+* icon-3d-printing.svg* icon-mountain-peak.svg
+* icon-quantum-computer.svg
+* icon-bonsai-tree.svg
+* icon-ice-cream-sundae.svg
+* icon-comet.svg
+* icon-spaghetti.svg
+* icon-stethoscope.svg
+* icon-dna-double-helix.svg
+* icon-wind-farm.svg
+* icon-telescope.svg 
+* icon-smoke-alarm.svg
+* icon-paint-brush.svg
+* icon-nuclear-plant.svg
+* icon-jazz-saxophone.svg
+* icon-galaxy.svg

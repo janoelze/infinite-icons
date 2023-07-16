@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-prismaticSpectrum" viewBox="0 0 32 32">
+    <rect x="1" y="1" width="5" height="30" fill="#FF0000"/> <!-- Red -->
+    <rect x="6" y="1" width="5" height="30" fill="#FF7F00"/> <!-- Orange -->
+    <rect x="11" y="1" width="5" height="30" fill="#FFFF00"/> <!-- Yellow -->
+    <rect x="16" y="1" width="5" height="30" fill="#00FF00"/> <!-- Green -->
+    <rect x="21" y="1" width="5" height="30" fill="#0000FF"/> <!-- Blue -->
+    <rect x="26" y="1" width="5" height="30" fill="#4B0082"/> <!-- Indigo -->
+    <rect x="31" y="1" width="5" height="30" fill="#8B00FF"/> <!-- Violet -->
+</svg>
