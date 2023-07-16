@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="icon icon-platypus-australia" viewBox="0 0 24 24">
+  <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8 0-1.85.63-3.55 1.69-4.9L12 22l6.31-6.9C19.37 10.45 20 12.15 20 14c0 4.41-3.59 8-8 8zm0-14c-2.21 0-4 1.79-4 4a4.002 4.002 0 006.84 2.77l1.42-1.42C14.99 9.59 16 8.39 16 7c0-2.21-1.79-4-4-4z"></path>
+  <path d="M22,7a10,10 0 1,0 -0.001,20.001A10,10 0 0,0 22,7z"></path>
+  <path d="M2,12a10,10 0 1,1 20,0a10,10 0 1,1 -20,0"></path>
+</svg>

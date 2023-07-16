@@ -7017,4 +7017,18 @@
 * icon-cryonics.svg
 * icon-fusionEnergy.svg
 * icon-teleportation.svg
-* icon-artificialSuperintelligence.svg
+* icon-artificialSuperintelligence.svg* icon-biometric-identification.svg
+* icon-artificial-intelligence.svg
+* icon-augmented-reality.svg
+* icon-quantum-computing.svg
+* icon-nanotechnology.svg
+* icon-digital-currency.svg
+* icon-big-data-analytics.svg
+* icon-distant-learning.svg
+* icon-clean-energy.svg
+* icon-dna-editing.svg
+* icon-autonomous-vehicles.svg
+* icon-smart-cities.svg
+* icon-internet-of-things.svg
+* icon-cybersecurity.svg
+* icon-climate-change.svg
