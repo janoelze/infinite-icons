@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-gene-editing" viewBox="0 0 24 24">
+    <path d="M2 12v10h20V12H2zm20-2V2H2v8h20z"/>
+    <path d="M14.17 10.5H9.83v3h4.34v-3zm-8.17 2.5a1 1 0 000 2h3a1 1 0 000-2H6zM20 10h-3a1 1 0 000 2h3a1 1 0 000-2z"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M12 20a8 8 0 100-16 8 8 0 000 16zm0-2a6 6 0 100-12 6 6 0 000 12z"/>
+</svg>

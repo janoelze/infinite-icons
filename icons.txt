@@ -7633,4 +7633,18 @@
 * icon-tiki.svg
 * icon-papyrus.svg
 * icon-sarcophagus.svg
-* icon-scroll.svg
+* icon-scroll.svg* icon-globe-network.svg
+* icon-brainstorm.svg
+* icon-lightbulb-idea.svg
+* icon-rocket-launch.svg
+* icon-digital-key.svg
+* icon-mail-open.svg
+* icon-voice-command.svg
+* icon-handshake-deal.svg
+* icon-microscope-search.svg
+* icon-astronaut-space.svg
+* icon-traffic-light.svg
+* icon-magnifying-glass-plus.svg
+* icon-graduation-cap.svg
+* icon-windmill-energy.svg
+* icon-anchor-sea.svg
