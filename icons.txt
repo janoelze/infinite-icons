@@ -7731,4 +7731,18 @@
 * icon-football-helmet.svg
 * icon-tacos.svg
 * icon-periscope.svg
-* icon-toucan.svg
+* icon-toucan.svg* icon-photosynthesis.svg
+* icon-spacestation.svg
+* icon-quill-ink.svg
+* icon-vinyl-record.svg
+* icon-meteor-shower.svg
+* icon-orbital-path.svg
+* icon-rorschach-test.svg
+* icon-sphinx.svg
+* icon-codex.svg
+* icon-obelisk.svg
+* icon-nanotech.svg
+* icon-quantum-computer.svg
+* icon-photon.svg
+* icon-djinn-lamp.svg
+* icon-mayan-calendar.svg

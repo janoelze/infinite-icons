@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-microscopic-organism">
+    <circle cx="50" cy="50" r="50" fill="none" stroke="black"/>
+    <circle cx="50" cy="50" r="30" fill="none" stroke="black"/>
+    <circle cx="50" cy="50" r="10" fill="black"/>
+</svg>
