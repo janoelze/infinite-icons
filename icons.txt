@@ -7157,4 +7157,18 @@
 * icon-compass.svg
 * icon-hot-air-balloon.svg
 * icon-anchor.svg
-* icon-suicide-booth.svg
+* icon-suicide-booth.svg* icon-satellite.svg
+* icon-digital-clock.svg
+* icon-origami.svg
+* icon-quantum-computer.svg
+* icon-cryptocurrency.svg
+* icon-time-machine.svg
+* icon-microscope.svg
+* icon-inkwell.svg
+* icon-surveillance-camera.svg
+* icon-biohazard.svg
+* icon-radar.svg
+* icon-space-elevator.svg
+* icon-sundial.svg
+* icon-musical-note.svg
+* icon-binary-code.svg
