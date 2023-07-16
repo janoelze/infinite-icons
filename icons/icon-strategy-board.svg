@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-strategy-board">
+    <path d="M2,4H22A1,1,0,0,1,23,5V19a1,1,0,0,1-1,1H2A1,1,0,0,1,1,19V5A1,1,0,0,1,2,4ZM3,6V18H21V6Z"/>
+    <circle cx="12" cy="12" r="1.5"/>
+    <circle cx="7" cy="9" r="1.5"/>
+    <circle cx="17" cy="9" r="1.5"/>
+    <circle cx="7" cy="15" r="1.5"/>
+    <circle cx="17" cy="15" r="1.5"/>
+</svg>
