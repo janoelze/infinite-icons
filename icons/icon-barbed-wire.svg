@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-barbed-wire">
+  <path d="M0 0h24v24H0z" fill="none"/>
+  <path d="M11 18H4a1 1 0 0 1-1-1v-4a1 1 0 0 1 1-1h7m2 0h7a1 1 0 0 1 1 1v4a1 1 0 0 1-1 1h-7m-2 0V7h2v11" />
+  <path d="M8 8l-2-2m0 4l2-2m3-1h2v7h-2m3 0h2v7h-2" />
+  <path d="M16 8l-2-2m0 4l2-2m-7 5h2v1h-2m-3 0h2v1h-2m6 0h2v1h-2m-3 0h2v1h-2m0-8h2v1h-2m9 7h2v1h-2m-3 0h2v1h-2m-6 0h2v1h-2" />
+</svg>

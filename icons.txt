@@ -7031,4 +7031,18 @@
 * icon-smart-cities.svg
 * icon-internet-of-things.svg
 * icon-cybersecurity.svg
-* icon-climate-change.svg
+* icon-climate-change.svg* icon-virtual-reality.svg
+* icon-biometric-scan.svg
+* icon-plant-growth.svg
+* icon-nanotechnology.svg
+* icon-astronomy.svg
+* icon-cloud-computing.svg
+* icon-wildlife.svg
+* icon-renewable-energy.svg
+* icon-geothermal-power.svg
+* icon-hologram.svg
+* icon-machine-learning.svg
+* icon-fusion-reactor.svg
+* icon-genetic-engineering.svg
+* icon-quantum-computing.svg
+* icon-space-travel.svg
