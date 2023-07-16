@@ -7297,4 +7297,18 @@
 * icon-sundial.svg
 * icon-treehouse.svg
 * icon-unicorn.svg
-* icon-volcano.svg
+* icon-volcano.svg* icon-space-shuttle.svg
+* icon-digital-camera.svg
+* icon-retro-telephone.svg
+* icon-monocle.svg
+* icon-thunderstorm.svg
+* icon-cupcake.svg
+* icon-magic-wand.svg
+* icon-maracas.svg
+* icon-globe-stand.svg
+* icon-bamboo.svg
+* icon-sparrow.svg
+* icon-chocolate-bar.svg
+* icon-treasure-chest.svg
+* icon-briefcase-handcuffs.svg
+* icon-surfboard.svg
