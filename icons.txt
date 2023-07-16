@@ -6961,4 +6961,18 @@
 * icon-mobile-apps.svg
 * icon-quantum-computing.svg
 * icon-blockchain.svg
-* icon-data-analytics.svg
+* icon-data-analytics.svg* icon-compass-navigation.svg
+* icon-dandelion-wishes.svg
+* icon-hologram-projection.svg
+* icon-phoenix-rebirth.svg
+* icon-steampunk-gears.svg
+* icon-radioactive-isotope.svg
+* icon-graffiti-spraycan.svg
+* icon-pulsar-star.svg
+* icon-infinity-mobius.svg
+* icon-quill-inkwell.svg
+* icon-abacus-calculations.svg
+* icon-platypus-unique.svg
+* icon-origami-transformation.svg
+* icon-tesseract-dimensional.svg
+* icon-crystal-structure.svg
