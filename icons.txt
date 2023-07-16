@@ -6317,4 +6317,18 @@
 * icon-stellarNebula.svg
 * icon-radioTelescope.svg
 * icon-pyramidEye.svg
-* icon-cryptoKey.svg
+* icon-cryptoKey.svg* icon-comet.svg
+* icon-waveform.svg
+* icon-quasar.svg
+* icon-pebbles.svg
+* icon-bioluminescence.svg
+* icon-spacetime.svg
+* icon-asterism.svg
+* icon-colony.svg
+* icon-tundra.svg
+* icon-vortex.svg
+* icon-dendrite.svg
+* icon-geode.svg
+* icon-obsidian.svg
+* icon-helix.svg
+* icon-magma.svg
