@@ -7535,4 +7535,18 @@
 * icon-ship-anchor.svg
 * icon-dna-helix.svg
 * icon-gold-nugget.svg
-* icon-telescope-view.svg
+* icon-telescope-view.svg* icon-multimedia.svg
+* icon-analytics.svg
+* icon-cloudnetwork.svg
+* icon-cryptography.svg
+* icon-virtualreality.svg
+* icon-3dprinting.svg
+* icon-robotics.svg
+* icon-drones.svg
+* icon-augmentedreality.svg
+* icon-nanotech.svg
+* icon-cybersecurity.svg
+* icon-internetofthings.svg
+* icon-blockchain.svg
+* icon-artificialintelligence.svg
+* icon-quantumcomputing.svg
