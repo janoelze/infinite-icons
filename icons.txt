@@ -6443,4 +6443,18 @@
 * icon-ocean-wave.svg
 * icon-falling-star.svg
 * icon-galaxy-whirl.svg
-* icon-ancient-scroll.svg
+* icon-ancient-scroll.svg* icon-ancient-scroll.svg
+* icon-alchemy-potion.svg
+* icon-galactic-gateway.svg
+* icon-frost-crystal.svg
+* icon-quantum-lock.svg
+* icon-cybernetic-eye.svg
+* icon-vortex-anomaly.svg
+* icon-mystic-compass.svg
+* icon-spectral-lantern.svg
+* icon-aztec-pyramid.svg
+* icon-tesseract-cube.svg
+* icon-solar-flare.svg
+* icon-photon-cannon.svg
+* icon-time-dilation.svg
+* icon-plasma-turbine.svg
