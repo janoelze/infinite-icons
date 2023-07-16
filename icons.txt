@@ -6723,4 +6723,18 @@
 * icon-periscope.svg
 * icon-tesseract.svg
 * icon-lunar-eclipse.svg
-* icon-wind-chime.svg
+* icon-wind-chime.svg* icon-quantum-computing.svg
+* icon-eco-vehicle.svg
+* icon-healing-crystal.svg
+* icon-virtual-reality.svg
+* icon-solar-panel.svg
+* icon-space-rocket.svg
+* icon-microchip.svg
+* icon-artificial-intelligence.svg
+* icon-holographic-display.svg
+* icon-dna-strand.svg
+* icon-bionic-arm.svg
+* icon-virtual-assistant.svg
+* icon-3d-printer.svg
+* icon-underwater-drone.svg
+* icon-exoplanet.svg
