@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-broken-mirror" viewBox="0 0 24 24">
+    <path d="M15 2v2h2v2h2v2h2v2h2v2h2v2h2v2h2v2h2z"/>
+    <path d="M2 2h2v2h2v2h2v2h2v2h2v2h12v-2h-12v-2h12v-2h-12v-2h12v-2h-12v-2h12v-2h-12v-2h12v-2h-12v-2z"/>
+    <path d="M10 12h2v2h-2v-2z"/>
+    <path d="M12 14h2v2h-2v-2z"/>
+    <path d="M14 16h2v2h-2v-2z"/>
+    <path d="M10 10h2v2h2v2h-4v-4z"/>
+</svg>

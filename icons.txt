@@ -7717,4 +7717,18 @@
 * icon-telescope.svg
 * icon-nanobot.svg
 * icon-augmented-reality.svg
-* icon-drone-delivery.svg
+* icon-drone-delivery.svg* icon-satellite-dish.svg
+* icon-abacus.svg
+* icon-triceratops.svg
+* icon-quill-ink.svg
+* icon-steering-wheel.svg
+* icon-pirate-ship.svg
+* icon-saxophone.svg
+* icon-origami.svg
+* icon-rainbow.svg
+* icon-windmill.svg
+* icon-venus.svg
+* icon-football-helmet.svg
+* icon-tacos.svg
+* icon-periscope.svg
+* icon-toucan.svg
