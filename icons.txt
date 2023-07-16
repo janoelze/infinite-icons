@@ -8039,4 +8039,18 @@
 * icon-crystalball.svg
 * icon-barometer.svg
 * icon-waterwheel.svg
-* icon-spellbook.svg
+* icon-spellbook.svg* icon-globetrotter.svg
+* icon-cryptography.svg
+* icon-alien.svg
+* icon-android.svg
+* icon-quantum.svg
+* icon-cloning.svg
+* icon-dna.svg
+* icon-caffeine.svg
+* icon-teleportation.svg
+* icon-meatball.svg
+* icon-plasma-ball.svg
+* icon-jedi.svg
+* icon-phoenix.svg
+* icon-lochness.svg
+* icon-yeti.svg
