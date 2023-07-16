@@ -7507,4 +7507,18 @@
 * icon-space-shuttle.svg
 * icon-tesseract.svg
 * icon-lightning-in-bottle.svg
-* icon-hot-air-balloon.svg
+* icon-hot-air-balloon.svg* icon-global-network.svg
+* icon-digital-keyboard.svg
+* icon-space-module.svg
+* icon-quantum-net.svg
+* icon-eco-leaf.svg
+* icon-molecule-structure.svg
+* icon-hologram-projection.svg
+* icon-nano-tech.svg
+* icon-brain-interface.svg
+* icon-artificial-intelligence.svg
+* icon-dna-helix.svg
+* icon-cybersecurity-lock.svg
+* icon-smart-glasses.svg
+* icon-lunar-rover.svg
+* icon-future-city.svg
