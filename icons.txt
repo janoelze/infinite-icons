@@ -6597,4 +6597,18 @@
 * icon-orbit.svg
 * icon-gluon.svg
 * icon-neutrino.svg
-* icon-hybrid-cloud.svg
+* icon-hybrid-cloud.svg* icon-galaxy.svg
+* icon-lightbulb-dim.svg
+* icon-ship-in-bottle.svg
+* icon-phoenix.svg
+* icon-quantum-computer.svg
+* icon-volcano-dormant.svg
+* icon-pharaoh.svg
+* icon-abyss.svg
+* icon-tardis.svg
+* icon-quill-ink.svg
+* icon-cogwheel-rusty.svg
+* icon-artemis-bow.svg
+* icon-wormhole.svg
+* icon-spaghetti-junction.svg
+* icon-dna-double-helix.svg
