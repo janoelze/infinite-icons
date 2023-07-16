@@ -6331,4 +6331,18 @@
 * icon-geode.svg
 * icon-obsidian.svg
 * icon-helix.svg
-* icon-magma.svg
+* icon-magma.svg* icon-satellite.svg
+* icon-pinecone.svg
+* icon-kiwi.svg
+* icon-thermometer-cold.svg
+* icon-microchip.svg
+* icon-quantum-computer.svg
+* icon-molten-metal.svg
+* icon-space-helmet.svg
+* icon-footprint-dinosaur.svg
+* icon-crystal-ball.svg
+* icon-watering-can.svg
+* icon-wind-turbine.svg
+* icon-sandcastle.svg
+* icon-seismograph.svg
+* icon-antique-compass.svg
