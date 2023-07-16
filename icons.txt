@@ -7577,4 +7577,18 @@
 * icon-exoplanet.svg
 * icon-electric-car.svg
 * icon-virtual-consciousness.svg
-* icon-ai-overlord.svg
+* icon-ai-overlord.svg* icon-teleport.svg
+* icon-hologram.svg
+* icon-blackhole.svg
+* icon-asteroid.svg
+* icon-oasis.svg
+* icon-jellyfish.svg
+* icon-citadel.svg
+* icon-quasar.svg
+* icon-sudoku.svg
+* icon-puppeteer.svg
+* icon-snakeroot.svg
+* icon-whistleblower.svg
+* icon-djinn.svg
+* icon-oracle.svg
+* icon-merman.svg

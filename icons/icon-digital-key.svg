@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-digital-key" viewBox="0 0 24 24">
+  <path d="M12 9V6a3 3 0 0 0-6 0v3a4 4 0 0 0 8 0v-1h-2v1a2 2 0 0 1-4 0V6a1 1 0 0 1 2 0v3h2z"/>
+  <path d="M8 15a4 4 0 1 0 0-8 4 4 0 0 0 0 8zm0-6a2 2 0 1 1 0 4 2 2 0 0 1 0-4z"/>
+  <path d="M15 20h-1v-2h1a1 1 0 0 1 1 1v1a1 1 0 0 1-1 1z"/>
+</svg>
