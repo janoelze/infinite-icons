@@ -7857,4 +7857,18 @@
 * icon-labyrinth.svg
 * icon-meadow.svg
 * icon-nebula.svg
-* icon-orca.svg
+* icon-orca.svg* icon-meteor.svg
+* icon-donut.svg
+* icon-magicwand.svg
+* icon-briefcase.svg
+* icon-magnifyingglass.svg
+* icon-anchor.svg
+* icon-lightbulb.svg
+* icon-compass.svg
+* icon-cactus.svg
+* icon-puzzlepiece.svg
+* icon-octopus.svg
+* icon-castle.svg
+* icon-potion.svg
+* icon-origami.svg
+* icon-torch.svg

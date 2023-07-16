@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-color-wheel" viewBox="0 0 24 24">
+    <circle cx="12" cy="12" r="10" stroke="black" stroke-width="1" fill="white" />
+    <path fill="red" d="M12 12 v-10a10 10 0 0 1 0 20z" />
+    <path fill="yellow" d="M12 12 l8.66 -5a10 10 0 0 1 -8.66 15z" />
+    <path fill="blue" d="M12 12 l-8.66 5a10 10 0 0 1 8.66 -15z" />
+</svg>
