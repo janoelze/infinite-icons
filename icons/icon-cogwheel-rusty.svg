@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-cogwheel-rusty">
+  <path d="M50 40L40 38V28L50 26L60 28V38L50 40Z" fill="#8B4513"/>
+  <circle cx="50" cy="33" r="7" stroke="#8B4513" stroke-width="2" fill="#8B4513"/>
+  <path d="M82 21L77 14L70 16L58 14L53 7H44L39 14L27 15L21 9L16 16L7 18L7 27L16 29L21 36L27 30L39 32L44 39H53L58 32L70 34L77 41L82 34L92 32V23L82 21Z" fill="#8B4513"/>
+</svg>

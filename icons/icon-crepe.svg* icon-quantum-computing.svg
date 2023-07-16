@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-crepe.svg icon-quantum-computing">
+  <path fill="none" d="M0 0h24v24H0z"/>
+  <path d="M5 8h14a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V9a1 1 0 0 1 1-1zm1 2v4h12v-4H6zm2 3h2v2H8v-2zm5 0h2v2h-2v-2z"/>
+  <path d="M12 2a6 6 0 0 0-2 .967V2a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v.967A6 6 0 1 0 12 2z"/>
+</svg>

@@ -6709,4 +6709,18 @@
 * icon-hiddenportal.svg
 * icon-resonance.svg
 * icon-crownjewel.svg
-* icon-wheeloffortune.svg
+* icon-wheeloffortune.svg* icon-galaxy.svg
+* icon-quill.svg
+* icon-chesspiece.svg
+* icon-nuclear.svg
+* icon-goblet.svg
+* icon-treasure-map.svg
+* icon-drum-set.svg
+* icon-alchemy.svg
+* icon-abacus.svg
+* icon-bioluminescence.svg
+* icon-lichen.svg
+* icon-periscope.svg
+* icon-tesseract.svg
+* icon-lunar-eclipse.svg
+* icon-wind-chime.svg
