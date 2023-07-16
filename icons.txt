@@ -6821,4 +6821,18 @@
 * icon-vintage-typewriter.svg
 * icon-tropical-coral.svg
 * icon-aurora-borealis.svg
-* icon-elizabethan-ruff.svg
+* icon-elizabethan-ruff.svg* icon-globe-network.svg
+* icon-alien-ship.svg
+* icon-enchanted-forest.svg
+* icon-genome-sequence.svg
+* icon-lightning-bolt.svg
+* icon-secret-door.svg
+* icon-meteor-shower.svg
+* icon-quantum-computer.svg
+* icon-spirit-animal.svg
+* icon-underwater-cave.svg
+* icon-cosmic-dust.svg
+* icon-magic-portal.svg
+* icon-genie-lamp.svg
+* icon-tesla-coil.svg
+* icon-digital-mind.svg
