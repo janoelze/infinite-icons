@@ -8011,4 +8011,18 @@
 * icon-biometrics.svg
 * icon-microservices.svg
 * icon-web-development.svg
-* icon-big-data.svg
+* icon-big-data.svg* icon-compass-rose.svg
+* icon-quadcopter.svg
+* icon-chameleon.svg
+* icon-periscope.svg
+* icon-hieroglyph.svg
+* icon-vinyl-record.svg
+* icon-origami-bird.svg
+* icon-bonsai-tree.svg
+* icon-dodecahedron.svg
+* icon-galaxy.svg
+* icon-quill-ink.svg
+* icon-sitar.svg
+* icon-antique-lantern.svg
+* icon-obelisk.svg
+* icon-pharaoh-mask.svg
