@@ -6667,4 +6667,18 @@
 * icon-abacus.svg
 * icon-crystal-ball.svg
 * icon-alchemy.svg
-* icon-scroll.svg
+* icon-scroll.svg* icon-typewriter.svg
+* icon-astronaut-helmet.svg
+* icon-crossbow.svg
+* icon-vinyl-record.svg
+* icon-octopus.svg
+* icon-kaleidoscope.svg
+* icon-zipper.svg
+* icon-animal-paw.svg
+* icon-watering-can.svg
+* icon-martini-glass.svg
+* icon-dumpster.svg
+* icon-movie-clapperboard.svg
+* icon-snowflake.svg
+* icon-matchstick.svg
+* icon-crepe.svg
