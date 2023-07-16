@@ -7073,4 +7073,18 @@
 * icon-codex.svg
 * icon-hyperspace.svg
 * icon-mayan-pyramid.svg
-* icon-mermaid.svg
+* icon-mermaid.svg* icon-aurora.svg
+* icon-spacecraft.svg
+* icon-meteor-shower.svg
+* icon-tectonic-plates.svg
+* icon-comet.svg
+* icon-honeycomb.svg
+* icon-nebula.svg
+* icon-atomic.svg
+* icon-teleportation.svg
+* icon-quantum-computer.svg
+* icon-levitation.svg
+* icon-gravitational-waves.svg
+* icon-dark-matter.svg
+* icon-space-time-continuum.svg
+* icon-galactic-core.svg
