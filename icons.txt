@@ -7479,4 +7479,18 @@
 * icon-machine-learning.svg
 * icon-e-commerce.svg
 * icon-progressive-web-app.svg
-* icon-multifactor-authentication.svg
+* icon-multifactor-authentication.svg* icon-virtual-reality.svg
+* icon-astrology.svg
+* icon-ancient-scroll.svg
+* icon-antique-compass.svg
+* icon-quantum-computer.svg
+* icon-beaker.svg
+* icon-abacus.svg
+* icon-retro-joystick.svg
+* icon-galaxy.svg
+* icon-microscope.svg
+* icon-urban-planning.svg
+* icon-blacksmith-forge.svg
+* icon-cyber-security.svg
+* icon-teleport.svg
+* icon-haunted-house.svg
