@@ -7605,4 +7605,18 @@
 * icon-microscope-advanced.svg
 * icon-solar-panels.svg
 * icon-biometric-authentication.svg
-* icon-smart-city.svg
+* icon-smart-city.svg* icon-globe-network.svg
+* icon-microscope-research.svg
+* icon-cloud-computing.svg
+* icon-robot-ai.svg
+* icon-moon-night.svg
+* icon-rocket-space.svg
+* icon-anchor-marine.svg
+* icon-feather-write.svg
+* icon-chess-strategy.svg
+* icon-hot-air-balloon.svg
+* icon-atom-science.svg
+* icon-dumbbell-fitness.svg
+* icon-cactus-desert.svg
+* icon-diamond-luxury.svg
+* icon-owl-wisdom.svg
