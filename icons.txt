@@ -6373,4 +6373,18 @@
 * icon-fallen-leaf.svg
 * icon-origami-crane.svg
 * icon-ancient-scroll.svg
-* icon-firefly.svg
+* icon-firefly.svg* icon-magnifying-glass.svg
+* icon-lightning-bolt.svg
+* icon-cycling.svg
+* icon-spilled-ink.svg
+* icon-running-man.svg
+* icon-origami-bird.svg
+* icon-hammer-anvil.svg
+* icon-rainy-cloud.svg
+* icon-glowing-gem.svg
+* icon-lighthouse.svg
+* icon-forest-fire.svg
+* icon-robot-head.svg
+* icon-meteor.svg
+* icon-tropical-fish.svg
+* icon-feather-quill.svg
