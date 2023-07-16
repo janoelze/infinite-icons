@@ -7871,4 +7871,18 @@
 * icon-castle.svg
 * icon-potion.svg
 * icon-origami.svg
-* icon-torch.svg
+* icon-torch.svg* icon-quantum-computer.svg
+* icon-exoplanet.svg
+* icon-geode.svg
+* icon-levitation.svg
+* icon-alien.svg
+* icon-plasma-ball.svg
+* icon-hologram.svg
+* icon-metamaterial.svg
+* icon-neural-link.svg
+* icon-fusion-reactor.svg
+* icon-genome-editing.svg
+* icon-nano-technology.svg
+* icon-solar-sail.svg
+* icon-teleportation.svg
+* icon-dark-matter.svg
