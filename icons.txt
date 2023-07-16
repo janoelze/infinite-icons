@@ -7087,4 +7087,18 @@
 * icon-gravitational-waves.svg
 * icon-dark-matter.svg
 * icon-space-time-continuum.svg
-* icon-galactic-core.svg
+* icon-galactic-core.svg* icon-global-network.svg
+* icon-recycled-paper.svg
+* icon-3d-printing.svg
+* icon-fractal-pattern.svg
+* icon-hologram-display.svg
+* icon-online-auction.svg
+* icon-quantum-computer.svg
+* icon-virtual-reality-headset.svg
+* icon-abacus.svg
+* icon-cargo-ship.svg
+* icon-infrared-sensor.svg
+* icon-paperless-office.svg
+* icon-solar-panel.svg
+* icon-thermal-energy-storage.svg
+* icon-wind-turbine.svg
