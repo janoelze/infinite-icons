@@ -6415,4 +6415,18 @@
 * icon-fallen-leaf.svg
 * icon-pirate-flag.svg
 * icon-rainbow.svg
-* icon-snowflake.svg
+* icon-snowflake.svg* icon-lemonade.svg
+* icon-ancient-ruins.svg
+* icon-digital-world.svg
+* icon-space-ship.svg
+* icon-mystery-box.svg
+* icon-quantum-computer.svg
+* icon-dreamcatcher.svg
+* icon-deep-sea.svg
+* icon-alien.svg
+* icon-rainbow-bridge.svg
+* icon-deja-vu.svg
+* icon-enchanted-forest.svg
+* icon-tesseract.svg
+* icon-galaxy-cluster.svg
+* icon-parallel-universe.svg
