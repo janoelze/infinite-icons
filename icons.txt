@@ -7381,4 +7381,18 @@
 * icon-zeppelin.svg
 * icon-jigsaw.svg
 * icon-opal.svg
-* icon-quasar.svg
+* icon-quasar.svg* icon-digital-paintbrush.svg
+* icon-astrological-signs.svg
+* icon-chameleon.svg
+* icon-thermal-energy.svg
+* icon-strategy-board.svg
+* icon-dna-helix.svg
+* icon-dim-sum.svg
+* icon-scuba-diving.svg
+* icon-luchador-mask.svg
+* icon-table-tennis.svg
+* icon-fairy-tale-castle.svg
+* icon-electric-guitar.svg
+* icon-beekeeper-hat.svg
+* icon-botanical-garden.svg
+* icon-glacier.svg

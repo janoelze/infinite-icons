@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-gear-cloud.svg icon-digitalpaintbrush">
+    <path fill="none" d="M0 0h24v24H0z"/>
+    <path d="M0 0l0 0H24V24H0z"/>
+    <path d="M5 22a8 8 0 1 1 16 0h-2a6 6 0 1 0-12 0h-2zm12-11V9a5.978 5.978 0 0 0-.603-2.44l1.272-1.272A5 5 0 0 0 19 3h2V1h-2a7 7 0 0 0-6 3.117A7 7 0 0 0 5 1H3v2h2a5 5 0 0 0 1.438 3.58l-1.271 1.27A5.978 5.978 0 0 0 5 9v2l3 4-3 4h4l3-4 6 4h4l-3-4z"></path>
+</svg>
