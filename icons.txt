@@ -8109,4 +8109,18 @@
 * icon-nebula.svg
 * icon-octopus.svg
 * icon-tesseract.svg
-* icon-yoyo.svg
+* icon-yoyo.svg* icon-cryptocurrency.svg
+* icon-organic.svg
+* icon-virtual-reality.svg
+* icon-biometrics.svg
+* icon-gene-editing.svg
+* icon-artificial-intelligence.svg
+* icon-quantum-computing.svg
+* icon-renewable-energy.svg
+* icon-smart-home.svg
+* icon-interstellar-travel.svg
+* icon-legal-aid.svg
+* icon-github.svg
+* icon-nanotechnology.svg
+* icon-climate-change.svg
+* icon-immunology.svg
