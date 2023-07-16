@@ -7941,4 +7941,18 @@
 * icon-black-hole.svg
 * icon-mermaid-tail.svg
 * icon-cybernetic-implant.svg
-* icon-magic-wand.svg
+* icon-magic-wand.svg* icon-digitalcompass.svg
+* icon-globalinterlink.svg
+* icon-codefork.svg
+* icon-infinityloop.svg
+* icon-cybersecurityshield.svg
+* icon-rocketpropulsion.svg
+* icon-cloudsyncronization.svg
+* icon-datarouter.svg
+* icon-quantumcircuit.svg
+* icon-cryptocurrencywallet.svg
+* icon-neuralnetwork.svg
+* icon-dronedelivery.svg
+* icon-databreach.svg
+* icon-vrheadset.svg
+* icon-airobot.svg
