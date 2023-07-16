@@ -6877,4 +6877,18 @@
 * icon-vortex.svg
 * icon-spider-web.svg
 * icon-infrared.svg
-* icon-iceberg.svg
+* icon-iceberg.svg* icon-feather-writing.svg
+* icon-agenda-planner.svg
+* icon-coffee-cup.svg
+* icon-vintage-telescope.svg
+* icon-abstract-gear.svg
+* icon-ladder-climbing.svg
+* icon-origami-bird.svg
+* icon-aurora-borealis.svg
+* icon-iceberg-reveal.svg
+* icon-meerkat-alert.svg
+* icon-firefly-jar.svg
+* icon-sunflower-bloom.svg
+* icon-ink-droplet.svg
+* icon-pinwheel-spin.svg
+* icon-unicorn-magic.svg
