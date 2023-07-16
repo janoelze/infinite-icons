@@ -6429,4 +6429,18 @@
 * icon-enchanted-forest.svg
 * icon-tesseract.svg
 * icon-galaxy-cluster.svg
-* icon-parallel-universe.svg
+* icon-parallel-universe.svg* icon-rocket-launch.svg
+* icon-lantern-glow.svg
+* icon-graffiti-spray.svg
+* icon-dove-freedom.svg
+* icon-comet.svg
+* icon-cyborg-eye.svg
+* icon-castle-tower.svg
+* icon-aliens-encounter.svg
+* icon-dragon-fire.svg
+* icon-hourglass-end.svg
+* icon-quantum-teleport.svg
+* icon-ocean-wave.svg
+* icon-falling-star.svg
+* icon-galaxy-whirl.svg
+* icon-ancient-scroll.svg
