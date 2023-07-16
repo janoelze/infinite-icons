@@ -7325,4 +7325,18 @@
 * icon-glyph.svg
 * icon-codex.svg
 * icon-obelisk.svg
-* icon-reliquary.svg
+* icon-reliquary.svg* icon-flux-capacitor.svg
+* icon-gravitational-wave.svg
+* icon-quantum-entanglement.svg
+* icon-string-theory.svg
+* icon-dark-matter.svg
+* icon-event-horizon.svg
+* icon-schrodingers-cat.svg
+* icon-wormhole.svg
+* icon-multiverse.svg
+* icon-cosmic-microwave-background.svg
+* icon-higgs-boson.svg
+* icon-black-hole.svg
+* icon-big-bang.svg
+* icon-dark-energy.svg
+* icon-quantum-computer.svg
