@@ -7437,4 +7437,18 @@
 * icon-coding.svg
 * icon-food-bowl.svg
 * icon-polaroid.svg
-* icon-3D-printing.svg
+* icon-3D-printing.svg* icon-orbit-satellite.svg
+* icon-quantum-computer.svg
+* icon-meteor.svg
+* icon-dna-sequence.svg
+* icon-alien-face.svg
+* icon-space-glove.svg
+* icon-galaxy-cluster.svg
+* icon-black-hole.svg
+* icon-exoplanet.svg
+* icon-hubble-telescope.svg
+* icon-astronaut-helmet.svg
+* icon-fusion-reactor.svg
+* icon-mars-rover.svg
+* icon-neutron-star.svg
+* icon-quantum-tunnel.svg

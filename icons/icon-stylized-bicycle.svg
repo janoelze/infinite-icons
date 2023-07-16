@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-stylized-bicycle" viewBox="0 0 50 50">
+  <circle cx="15" cy="33" r="12" />
+  <circle cx="35" cy="33" r="12" />
+  <polygon points="15,33 27,33 22,22 33,22" />
+  <path d="M22,22 c0,0 -10,0 -7,-10" />
+  <path d="M27,33 c0,0 8,2, 8,-10" />
+</svg>
