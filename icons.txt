@@ -7045,4 +7045,18 @@
 * icon-fusion-reactor.svg
 * icon-genetic-engineering.svg
 * icon-quantum-computing.svg
-* icon-space-travel.svg
+* icon-space-travel.svg* icon-global-network.svg
+* icon-data-analytics.svg
+* icon-cyber-security.svg
+* icon-augmented-reality.svg
+* icon-cloud-computing.svg
+* icon-digital-marketing.svg
+* icon-e-commerce.svg
+* icon-mobile-apps.svg
+* icon-social-media.svg
+* icon-virtual-reality.svg
+* icon-video-streaming.svg
+* icon-artificial-intelligence.svg
+* icon-internet-of-things.svg
+* icon-programming.svg
+* icon-web-development.svg
