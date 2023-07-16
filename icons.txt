@@ -6625,4 +6625,18 @@
 * icon-eclipse.svg
 * icon-bermudatriangle.svg
 * icon-aurora.svg
-* icon-archimedes.svg
+* icon-archimedes.svg* icon-multimedia.svg
+* icon-analytic-graph.svg
+* icon-network-cloud.svg
+* icon-critical-error.svg
+* icon-interactive-form.svg
+* icon-enhanced-security.svg
+* icon-fast-forward.svg
+* icon-spherical-globe.svg
+* icon-satellite-communication.svg
+* icon-quantum-computing.svg
+* icon-digital-twin.svg
+* icon-autonomous-vehicle.svg
+* icon-voice-command.svg
+* icon-augmented-reality.svg
+* icon-data-privacy.svg
