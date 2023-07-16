@@ -7689,4 +7689,18 @@
 * icon-cactus.svg
 * icon-photon.svg
 * icon-shark-tooth.svg
-* icon-blackhole.svg
+* icon-blackhole.svg* icon-rocket-launch.svg
+* icon-satellite-dish.svg
+* icon-virtual-reality.svg
+* icon-genome.svg
+* icon-lichen.svg
+* icon-black-hole.svg
+* icon-coral-reef.svg
+* icon-alien-lifeform.svg
+* icon-antimatter.svg
+* icon-digital-twin.svg
+* icon-lunar-module.svg
+* icon-solar-system.svg
+* icon-drone.svg
+* icon-neural-network.svg
+* icon-space-station.svg
