@@ -7003,4 +7003,18 @@
 * icon-paint-brush.svg
 * icon-nuclear-plant.svg
 * icon-jazz-saxophone.svg
-* icon-galaxy.svg
+* icon-galaxy.svg* icon-graphene.svg
+* icon-quantumComputer.svg
+* icon-blackHole.svg
+* icon-spacetimeCurvature.svg
+* icon-antimatter.svg
+* icon-genomeEditing.svg
+* icon-singularity.svg
+* icon-exoplanet.svg
+* icon-nanoBot.svg
+* icon-augmentedReality.svg
+* icon-solarSail.svg
+* icon-cryonics.svg
+* icon-fusionEnergy.svg
+* icon-teleportation.svg
+* icon-artificialSuperintelligence.svg
