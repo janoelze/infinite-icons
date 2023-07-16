@@ -7269,4 +7269,18 @@
 * icon-libertystatue.svg
 * icon-flamingo.svg
 * icon-digitalwatch.svg
-* icon-gumballmachine.svg
+* icon-gumballmachine.svg* icon-astrology-chart.svg
+* icon-vintage-key.svg
+* icon-quill-ink.svg
+* icon-photonics.svg
+* icon-theater-mask.svg
+* icon-dodecahedron.svg
+* icon-tesla-coil.svg
+* icon-ancient-amphora.svg
+* icon-digital-vr-goggle.svg
+* icon-gender-fluid.svg
+* icon-cornucopia.svg
+* icon-fallen-leaf.svg
+* icon-ouroboros.svg
+* icon-levitation.svg
+* icon-mandala-design.svg

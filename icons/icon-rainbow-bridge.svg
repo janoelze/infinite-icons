@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-rainbow-bridge">
+    <path d="M12 4a2 2 0 00-2 2v1h4V6a2 2 0 00-2-2z"/>
+    <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M22 12H2m5-6H2m17 0h-2"/>
+    <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M2 12v10h20V12zM12 22v-4m0-6v-2"/>
+    <circle cx="12" cy="12" r="10" stroke="currentColor" stroke-width="2" fill="none"/>
+</svg>
