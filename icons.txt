@@ -7549,4 +7549,18 @@
 * icon-internetofthings.svg
 * icon-blockchain.svg
 * icon-artificialintelligence.svg
-* icon-quantumcomputing.svg
+* icon-quantumcomputing.svg* icon-solar-system.svg
+* icon-origami-bird.svg
+* icon-sand-timer.svg
+* icon-quill-ink.svg
+* icon-python-snake.svg
+* icon-vacuum-cleaner.svg
+* icon-alchemic-flask.svg
+* icon-shogi-piece.svg
+* icon-ancient-scroll.svg
+* icon-wind-turbine.svg
+* icon-oyster-pearl.svg
+* icon-helicopter-blades.svg
+* icon-jellyfish.svg
+* icon-vintage-telephone.svg
+* icon-robot-arm.svg
