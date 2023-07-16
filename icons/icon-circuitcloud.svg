@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-circuitcloud">
+  <rect class="circuit" x="10" y="10" width="80" height="80" rx="10" ry="10" style="fill:none;stroke:black;stroke-width:3" />
+  <circle class="cloud" cx="50" cy="50" r="35" style="fill:none;stroke:black;stroke-width:3" />
+  <path class="wires" d="M 20 20 H 80 M 20 90 H 80 M 50 10 V 90" style="fill:none;stroke:black;stroke-width:1" />
+  <circle class="nodes" cx="50" cy="30" r="3" style="fill:black" />
+  <circle class="nodes" cx="50" cy="70" r="3" style="fill:black" />
+  <circle class="nodes" cx="50" cy="50" r="3" style="fill:black" />
+</svg>

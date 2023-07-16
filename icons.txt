@@ -6345,4 +6345,18 @@
 * icon-wind-turbine.svg
 * icon-sandcastle.svg
 * icon-seismograph.svg
-* icon-antique-compass.svg
+* icon-antique-compass.svg* icon-turbocharger.svg
+* icon-treasure-map.svg
+* icon-chameleon.svg
+* icon-nuclear-reactor.svg
+* icon-space-elevator.svg
+* icon-magic-wand.svg
+* icon-alien-abduction.svg
+* icon-quantum-computer.svg
+* icon-ancient-scroll.svg
+* icon-time-machine.svg
+* icon-dna-helix.svg
+* icon-black-hole.svg
+* icon-cyborg.svg
+* icon-transmutation-circle.svg
+* icon-levitating-pyramid.svg
