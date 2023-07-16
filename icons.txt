@@ -7745,4 +7745,18 @@
 * icon-quantum-computer.svg
 * icon-photon.svg
 * icon-djinn-lamp.svg
-* icon-mayan-calendar.svg
+* icon-mayan-calendar.svg* icon-shipwheel.svg
+* icon-lightningcloud.svg
+* icon-bamboo.svg
+* icon-microchip.svg
+* icon-origami.svg
+* icon-jellyfish.svg
+* icon-saturn.svg
+* icon-meteorswarm.svg
+* icon-beehive.svg
+* icon-turbinewind.svg
+* icon-coralreef.svg
+* icon-thermalgeyser.svg
+* icon-nuclearreactor.svg
+* icon-mineralcrystal.svg
+* icon-auroraborealis.svg
