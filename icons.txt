@@ -7787,4 +7787,18 @@
 * icon-kimono.svg
 * icon-handmirror.svg
 * icon-fountainpen.svg
-* icon-artichoke.svg
+* icon-artichoke.svg* icon-quantum-computing.svg
+* icon-digital-twin.svg
+* icon-galactic-navigation.svg
+* icon-spatial-augmentation.svg
+* icon-neural-network.svg
+* icon-quantum-entanglement.svg
+* icon-hyperloop.svg
+* icon-crispr.svg
+* icon-multi-dimension.svg
+* icon-ai-decision-making.svg
+* icon-brain-computer-interface.svg
+* icon-nanotech.svg
+* icon-virtual-reality-dive.svg
+* icon-brainwave-analysis.svg
+* icon-cybernetic-avatar.svg
