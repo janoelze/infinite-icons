@@ -7101,4 +7101,18 @@
 * icon-paperless-office.svg
 * icon-solar-panel.svg
 * icon-thermal-energy-storage.svg
-* icon-wind-turbine.svg
+* icon-wind-turbine.svg* icon-cloudburst.svg
+* icon-windmill.svg
+* icon-acorn.svg
+* icon-quetzal.svg
+* icon-locomotive.svg
+* icon-catseye.svg
+* icon-quasar.svg
+* icon-tesseract.svg
+* icon-rhombus.svg
+* icon-sundial.svg
+* icon-labyrinth.svg
+* icon-plimsoll.svg
+* icon-cuttlefish.svg
+* icon-gibbous.svg
+* icon-thunderhead.svg
