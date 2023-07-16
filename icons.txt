@@ -6807,4 +6807,18 @@
 * icon-space-shuttle.svg
 * icon-quantum-computing.svg
 * icon-solar-energy.svg
-* icon-brainstorming.svg
+* icon-brainstorming.svg* icon-gardening-tools.svg
+* icon-cosmic-galaxy.svg
+* icon-arctic-fox.svg
+* icon-vinyl-record.svg
+* icon-oriental-teapot.svg
+* icon-origami-bird.svg
+* icon-molecular-structure.svg
+* icon-mayan-calendar.svg
+* icon-quantum-computer.svg
+* icon-sourdough-bread.svg
+* icon-linguistics-book.svg
+* icon-vintage-typewriter.svg
+* icon-tropical-coral.svg
+* icon-aurora-borealis.svg
+* icon-elizabethan-ruff.svg
