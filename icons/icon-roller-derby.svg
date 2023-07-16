@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-roller-derby">
+  <path d="M10 20C14.4183 20 18 16.4183 18 12C18 7.58172 14.4183 4 10 4C5.58172 4 2 7.58172 2 12C2 16.4183 5.58172 20 10 20Z" fill="none" stroke="currentColor" stroke-width="2"/>
+  <path d="M10 10H12" stroke="currentColor" stroke-width="2"/>
+  <path d="M18.364 18.364C19.8787 16.8494 21 14.9497 21 12.8995C21 10.8493 19.8787 8.94961 18.364 7.43495" stroke="currentColor" stroke-width="2"/>
+  <path d="M6.3432 6.34315C7.85788 4.82847 9.75776 3.70711 11.808 3.70711C13.8582 3.70711 15.7581 4.82847 17.2728 6.34315" stroke="currentColor" stroke-width="2"/>
+</svg>

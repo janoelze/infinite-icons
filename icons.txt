@@ -7773,4 +7773,18 @@
 * icon-quill.svg
 * icon-raven.svg
 * icon-odyssey.svg
-* icon-mirage.svg
+* icon-mirage.svg* icon-pinwheel.svg
+* icon-quill.svg
+* icon-hotairballoon.svg
+* icon-tumbleweed.svg
+* icon-metronome.svg
+* icon-easel.svg
+* icon-marionette.svg
+* icon-kaleidoscope.svg
+* icon-compassrose.svg
+* icon-sextant.svg
+* icon-totempole.svg
+* icon-kimono.svg
+* icon-handmirror.svg
+* icon-fountainpen.svg
+* icon-artichoke.svg
