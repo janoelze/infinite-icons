@@ -7955,4 +7955,18 @@
 * icon-dronedelivery.svg
 * icon-databreach.svg
 * icon-vrheadset.svg
-* icon-airobot.svg
+* icon-airobot.svg* icon-quantum-computer.svg
+* icon-virtual-reality-headset.svg
+* icon-biohazard.svg
+* icon-roller-coaster.svg
+* icon-submarine.svg
+* icon-galaxy.svg
+* icon-black-hole.svg
+* icon-aurora-borealis.svg
+* icon-volcano-eruption.svg
+* icon-tornado.svg
+* icon-archaeology-dig.svg
+* icon-coral-reef.svg
+* icon-space-elevator.svg
+* icon-alien.svg
+* icon-dna-sequence.svg
