@@ -7171,4 +7171,18 @@
 * icon-space-elevator.svg
 * icon-sundial.svg
 * icon-musical-note.svg
-* icon-binary-code.svg
+* icon-binary-code.svg* icon-origami.svg
+* icon-quantumcomputing.svg
+* icon-virtualrealityheadset.svg
+* icon-aerialdrone.svg
+* icon-anthropology.svg
+* icon-planetarium.svg
+* icon-braille.svg
+* icon-semaphore.svg
+* icon-enigma.svg
+* icon-metamorphosis.svg
+* icon-constellation.svg
+* icon-sundial.svg
+* icon-galaxy.svg
+* icon-nebula.svg
+* icon-dna.svg
