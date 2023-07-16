@@ -6611,4 +6611,18 @@
 * icon-artemis-bow.svg
 * icon-wormhole.svg
 * icon-spaghetti-junction.svg
-* icon-dna-double-helix.svg
+* icon-dna-double-helix.svg* icon-dinosaur.svg
+* icon-spacestation.svg
+* icon-cyclone.svg
+* icon-thesaurus.svg
+* icon-quasar.svg
+* icon-papyrus.svg
+* icon-ziggurat.svg
+* icon-timecapsule.svg
+* icon-obelisk.svg
+* icon-metronome.svg
+* icon-javelin.svg
+* icon-eclipse.svg
+* icon-bermudatriangle.svg
+* icon-aurora.svg
+* icon-archimedes.svg

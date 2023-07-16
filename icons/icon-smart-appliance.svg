@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-smart-appliance">
+    <path d="M3,6H21A1,1,0,0,1,22,7V16a1,1,0,0,1-1,1H3a1,1,0,0,1-1-1V7A1,1,0,0,1,3,6Z"></path>
+    <circle cx="8" cy="11" r="1"></circle>
+    <circle cx="8" cy="14" r="1"></circle>
+    <path d="M21,3H3A1,1,0,0,0,2,4V6H22V4A1,1,0,0,0,21,3Z"></path>
+    <path d="M21,17H2V21a1,1,0,0,0,1,1H21a1,1,0,0,0,1-1V17Z"></path>
+</svg>
