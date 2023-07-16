@@ -7311,4 +7311,18 @@
 * icon-chocolate-bar.svg
 * icon-treasure-chest.svg
 * icon-briefcase-handcuffs.svg
-* icon-surfboard.svg
+* icon-surfboard.svg* icon-octahedron.svg
+* icon-quasar.svg
+* icon-kaleidoscope.svg
+* icon-hops.svg
+* icon-chameleon.svg
+* icon-crucible.svg
+* icon-harpsichord.svg
+* icon-vortex.svg
+* icon-lunarmodule.svg
+* icon-tesseract.svg
+* icon-tangleroot.svg
+* icon-glyph.svg
+* icon-codex.svg
+* icon-obelisk.svg
+* icon-reliquary.svg
