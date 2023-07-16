@@ -6891,4 +6891,18 @@
 * icon-sunflower-bloom.svg
 * icon-ink-droplet.svg
 * icon-pinwheel-spin.svg
-* icon-unicorn-magic.svg
+* icon-unicorn-magic.svg* icon-hikingBoot.svg
+* icon-chamomileTea.svg
+* icon-heliumBalloon.svg
+* icon-spaceSatellite.svg
+* icon-quantumComputing.svg
+* icon-videoGameController.svg
+* icon-bottledMessage.svg
+* icon-vinylRecord.svg
+* icon-mapleLeaf.svg
+* icon-tamagotchiPet.svg
+* icon-prismaticSpectrum.svg
+* icon-ancientPyramids.svg
+* icon-galaxyCluster.svg
+* icon-microbialLife.svg
+* icon-digitalEncryption.svg

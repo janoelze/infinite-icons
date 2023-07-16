@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-drumset">
+  <circle cx="6" cy="18" r="2" />
+  <circle cx="18" cy="18" r="2" />
+  <path d="M6 22h15v-2h-15c-1.1 0-1.99-.9-1.99-2l-.01-8 $.01-4c0-1.1.89-2 2-2h4v2h2v-2h4v2h2v-2h2c1.1 0 2 .9 2 2v2"/>
+  <circle cx="12" cy="14" r="3" />
+  <path d="M8 8h2v2h-2zM14 8h2v2h-2z"/>
+</svg>

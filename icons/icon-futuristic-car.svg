@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-futuristic-car">
+    <path d="M3.5 15.5h-2v1h2v-1zm5 0h-2v1h2v-1zm10 0h-2v1h2v-1zm5 0h-2v1h2v-1z"></path>
+    <path d="M22 10h-20c-1.1 0-2 .9-2 2v3h2v-2h1v2h2v-2h1v2h2v-2h1v2h2v-2h1v2h2v-2h1v2h2v-2h1v2h2v-3c0-1.1.9-2 2-2z"></path>
+    <path d="M22 6h-20c-1.1 0-2 .9-2 2v2h24v-2c0-1.1-.9-2-2-2z"></path>
+</svg>
