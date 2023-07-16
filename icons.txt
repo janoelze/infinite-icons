@@ -7199,4 +7199,18 @@
 * icon-hammock.svg
 * icon-matryoshka-doll.svg
 * icon-roller-coaster.svg
-* icon-locomotive.svg
+* icon-locomotive.svg* icon-alchemic-lab.svg
+* icon-antique-compass.svg
+* icon-astronaut-helmet.svg
+* icon-beaker-flask.svg
+* icon-crypto-digging.svg
+* icon-droid-robot.svg
+* icon-einstein-equation.svg
+* icon-fantom-ship.svg
+* icon-glyph-cipher.svg
+* icon-hive-mind.svg
+* icon-quantum-computer.svg
+* icon-telepathic-wave.svg
+* icon-tesla-coil.svg
+* icon-time-vortex.svg
+* icon-wormhole-travel.svg
