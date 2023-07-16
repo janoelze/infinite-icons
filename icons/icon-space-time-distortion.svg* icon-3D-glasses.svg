@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-space-time-distortion-svg icon-3D-glasses">
+  <circle cx="50" cy="50" r="45" stroke="black" fill="transparent" stroke-width="3"/>
+  <path d="M 30 60 A 20 20 0 1 1 70 60 A 20 20 0 1 1 30 60" fill="none" stroke="red"/>
+  <path d="M 30 60 A 20 20 0 0 1 70 60" fill="none" stroke="blue"/>
+</svg>
+As coding engines aren't suitable for keeping track of visualization, it's recommended to place the code into HTML file or SVG viewer in order to see the actual image.

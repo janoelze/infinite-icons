@@ -8095,4 +8095,18 @@
 * icon-star-cluster.svg
 * icon-space-jellyfish.svg
 * icon-mysterious-forest.svg
-* icon-hidden-treasure.svg
+* icon-hidden-treasure.svg* icon-umbrella.svg
+* icon-kaleidoscope.svg
+* icon-dumbbell.svg
+* icon-hot-air-balloon.svg
+* icon-compass.svg
+* icon-origami.svg
+* icon-hologram.svg
+* icon-raindrop.svg
+* icon-forest.svg
+* icon-hamster-wheel.svg
+* icon-fossil.svg
+* icon-nebula.svg
+* icon-octopus.svg
+* icon-tesseract.svg
+* icon-yoyo.svg
