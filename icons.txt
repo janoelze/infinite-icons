@@ -7619,4 +7619,18 @@
 * icon-dumbbell-fitness.svg
 * icon-cactus-desert.svg
 * icon-diamond-luxury.svg
-* icon-owl-wisdom.svg
+* icon-owl-wisdom.svg* icon-dungeons.svg
+* icon-compassrose.svg
+* icon-galaxy.svg
+* icon-quill.svg
+* icon-spellbook.svg
+* icon-medallion.svg
+* icon-amphora.svg
+* icon-pyramid.svg
+* icon-obelisk.svg
+* icon-codex.svg
+* icon-abacus.svg
+* icon-tiki.svg
+* icon-papyrus.svg
+* icon-sarcophagus.svg
+* icon-scroll.svg
