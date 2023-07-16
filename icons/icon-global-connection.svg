@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-global-connection">
+  <circle cx="12" cy="12" r="10" class="primary-fill" />
+  <line x1="2" y1="12" x2="22" y2="12" class="secondary-fill" />
+  <path d="M12 22V2" class="secondary-fill" />
+  <path d="M22 12L2 2l20 20" class="secondary-stroke" />
+</svg>

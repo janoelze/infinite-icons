@@ -6583,4 +6583,18 @@
 * icon-musical-dna.svg
 * icon-fish-bowl.svg
 * icon-encrypted-lock.svg
-* icon-time-sandglass.svg
+* icon-time-sandglass.svg* icon-quantum-computer.svg
+* icon-nanobot.svg
+* icon-lunar-module.svg
+* icon-deep-learning.svg
+* icon-exoplanet.svg
+* icon-photon.svg
+* icon-cryptography.svg
+* icon-biosphere.svg
+* icon-vortex.svg
+* icon-photonics.svg
+* icon-nebula.svg
+* icon-orbit.svg
+* icon-gluon.svg
+* icon-neutrino.svg
+* icon-hybrid-cloud.svg
