@@ -7255,4 +7255,18 @@
 * icon-nebula.svg
 * icon-black-hole.svg
 * icon-constellation.svg
-* icon-alien.svg
+* icon-alien.svg* icon-musicnote.svg
+* icon-cloudcomputing.svg
+* icon-globalnetwork.svg
+* icon-rocketlaunch.svg
+* icon-coffeecup.svg
+* icon-magicwand.svg
+* icon-microscope.svg
+* icon-vintagetrunk.svg
+* icon-origamibird.svg
+* icon-spacehelmet.svg
+* icon-barbell.svg
+* icon-libertystatue.svg
+* icon-flamingo.svg
+* icon-digitalwatch.svg
+* icon-gumballmachine.svg

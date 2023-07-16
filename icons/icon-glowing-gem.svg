@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-glowing-gem" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 2L2 7l10 15 10-15-10-5z"></path>
+  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 2v20"></path>
+  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M2 7l10 5 10-5"></path>
+  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M2 7l10 5-10-5z"></path>
+  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 2l10 5-10-5z"></path>
+</svg>
