@@ -6947,4 +6947,18 @@
 * icon-fastfood.svg
 * icon-seismographic.svg
 * icon-tropicalstorm.svg
-* icon-rosetta-stone.svg
+* icon-rosetta-stone.svg* icon-cloud-computing.svg
+* icon-alarm-clock.svg
+* icon-global-network.svg
+* icon-data-security.svg
+* icon-digital-currency.svg
+* icon-virtual-reality.svg
+* icon-geo-targeting.svg
+* icon-bio-tech.svg
+* icon-neural-network.svg
+* icon-augmented-reality.svg
+* icon-predictive-analytics.svg
+* icon-mobile-apps.svg
+* icon-quantum-computing.svg
+* icon-blockchain.svg
+* icon-data-analytics.svg

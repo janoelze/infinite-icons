@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-botanical-houseplant">
+  <path fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round" d="M2,19H22H2ZM6,19V3C6,2.447,6.447,2,7,2H17C17.553,2,18,2.447,18,3V19H6ZM9,14C9,16.209,10.791,18,13,18C15.209,18,17,16.209,17,14V9C17,6.791,15.209,5,13,5C10.791,5,9,6.791,9,9V14Z"></path>
+  <path fill="black" d="M13,22C13,22,11,20,11,18H15C15,20,13,22,13,22Z"></path>
+</svg>
