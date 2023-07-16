@@ -7661,4 +7661,18 @@
 * icon-drone-delivery.svg
 * icon-3d-printing.svg
 * icon-volcanic-activity.svg
-* icon-genome-editing.svg
+* icon-genome-editing.svg* icon-galaxy.svg
+* icon-quantum-computer.svg
+* icon-genome.svg
+* icon-hologram.svg
+* icon-virtual-reality.svg
+* icon-pandemic-virus.svg
+* icon-drone.svg
+* icon-self-driving-car.svg
+* icon-biohazard.svg
+* icon-nuclear.svg
+* icon-tesla-coil.svg
+* icon-music-synthesizer.svg
+* icon-skateboard.svg
+* icon-microscope.svg
+* icon-telescope.svg

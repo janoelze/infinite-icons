@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-locomotive.svg icon-alchemic-lab">
+  <path d="M0 0h24v24H0z" fill="none"/>
+  <path d="M3 16V6a1 1 0 0 1 1-1h1V4a1 1 0 0 1 1-1h6l1.586 3H22a1 1 0 0 1 1 1v5h1v2h-8v-2h3V7h-6l-2-4H4v2h13v4h-2a1 1 0 0 0-1 1H8a3.978 3.978 0 0 0-2 1H4a2 2 0 1 0 0 4h4V16H3zm13-.5l1.086.326a1 1 0 0 1 .682 1.2l-.516 3.112a4.992 4.992 0 0 0-1.902-.272h3.004z"/>
+</svg>
