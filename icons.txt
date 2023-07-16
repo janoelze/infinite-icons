@@ -6863,4 +6863,18 @@
 * icon-orion-constellation.svg
 * icon-sacred-geometry.svg
 * icon-alien-lifeform.svg
-* icon-time-capsule.svg
+* icon-time-capsule.svg* icon-global-connection.svg
+* icon-digital-clock.svg
+* icon-microchip.svg
+* icon-satellite-dish.svg
+* icon-virtual-reality.svg
+* icon-weather-forecast.svg
+* icon-diode.svg
+* icon-electric-bike.svg
+* icon-recycle-bin.svg
+* icon-earthquake.svg
+* icon-radish.svg
+* icon-vortex.svg
+* icon-spider-web.svg
+* icon-infrared.svg
+* icon-iceberg.svg
