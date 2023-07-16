@@ -7927,4 +7927,18 @@
 * icon-sand-hourglass.svg
 * icon-telegraph.svg
 * icon-weather-vane.svg 
-* icon-wax-seal.svg
+* icon-wax-seal.svg* icon-diamond-heist.svg
+* icon-quantum-computer.svg
+* icon-pirate-parrot.svg
+* icon-rainbow-bagel.svg
+* icon-saturn-rings.svg
+* icon-rorschach-test.svg
+* icon-alien-abduction.svg
+* icon-nanobot.svg
+* icon-flying-carpet.svg
+* icon-dna-helix.svg
+* icon-galactic-empire.svg
+* icon-black-hole.svg
+* icon-mermaid-tail.svg
+* icon-cybernetic-implant.svg
+* icon-magic-wand.svg

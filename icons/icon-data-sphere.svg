@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-data-sphere">
+  <circle cx="12" cy="12" r="8" fill="none" stroke="currentColor" stroke-width="2" />
+  <path fill="none" stroke="currentColor" stroke-width="2" d="M12 4a8 8 0 018 8 8.09 8.09 0 01-8 8 8 8 0 01-8-8 8 8 0 018-8z" />
+  <path fill="none" stroke="currentColor" stroke-width="2" d="M2 12h20M12 2v20" />
+  <circle cx="12" cy="12" r="3" fill="currentColor" />
+</svg>

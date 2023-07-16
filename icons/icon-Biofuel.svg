@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-Biofuel" viewBox="0 0 24 24">
+    <path d="M0 0h24v24H0z" fill="none"/>
+    <path d="M2 2h20v20H2V2z"/>
+    <path d="M12 12v8h2v-8h-2z"/>
+    <path d="M6 12h12v2H6v-2z"/>
+    <path d="M8 16h8v2H8v-2z"/>
+    <circle cx="12" cy="6" r="4"/>
+</svg>
