@@ -6401,4 +6401,18 @@
 * icon-fashion-handbag.svg
 * icon-vehicle-bicycle.svg
 * icon-office-laptop.svg
-* icon-science-microscope.svg
+* icon-science-microscope.svg* icon-asteroid.svg
+* icon-chili-pepper.svg
+* icon-skyscraper.svg
+* icon-sunflower.svg
+* icon-treasure-chest.svg
+* icon-mermaid.svg
+* icon-cannon.svg
+* icon-sand-clock.svg
+* icon-octopus.svg
+* icon-pumpkin.svg
+* icon-chem-lab.svg
+* icon-fallen-leaf.svg
+* icon-pirate-flag.svg
+* icon-rainbow.svg
+* icon-snowflake.svg

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-ripple-effect" viewBox="0 0 24 24">
+  <circle class="cls-1" cx="12" cy="12" r="10"/>
+  <animate attributeName="r" begin="0s" dur="1s" values="0;24" repeatCount="indefinite"/>
+  <animate attributeName="opacity" begin="0s" dur="1s" values="1;0" repeatCount="indefinite"/>
+  <circle class="cls-1" cx="12" cy="12" r="10"/>
+  <animate attributeName="r" begin="0s" dur="2s" values="0;24" repeatCount="indefinite" />
+  <animate attributeName="opacity" begin="0s" dur="2s" values="1;0" repeatCount="indefinite" />
+</svg>
