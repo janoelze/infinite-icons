@@ -7227,4 +7227,18 @@
 * icon-robot-automation.svg
 * icon-beer-mug.svg
 * icon-graduation-cap.svg
-* icon-wine-glasses.svg
+* icon-wine-glasses.svg* icon-architectural-plan.svg
+* icon-cyber-security.svg
+* icon-wind-turbine.svg
+* icon-quantum-teleportation.svg
+* icon-genetic-dna.svg
+* icon-virtual-reality.svg
+* icon-eco-consciousness.svg
+* icon-innovation-lightbulb.svg
+* icon-smart-city.svg
+* icon-crystal-structure.svg
+* icon-cryptocurrency-blockchain.svg
+* icon-3d-printing.svg
+* icon-ux-ui-design.svg
+* icon-data-privacy.svg
+* icon-augmented-reality.svg
