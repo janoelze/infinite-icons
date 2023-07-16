@@ -6541,4 +6541,18 @@
 * icon-future-mobility.svg
 * icon-autonomous-delivery.svg
 * icon-cognitive-technology.svg
-* icon-genome-editing.svg
+* icon-genome-editing.svg* icon-global-network.svg
+* icon-digital-clock.svg
+* icon-secured-padlock.svg
+* icon-planet-earth.svg
+* icon-virtual-reality.svg
+* icon-energy-saving.svg
+* icon-biometric-scan.svg
+* icon-eco-friendly.svg
+* icon-hologram.svg
+* icon-nanotechnology.svg
+* icon-smart-appliance.svg
+* icon-cyberspace.svg
+* icon-blockchain.svg
+* icon-quantum-computing.svg
+* icon-drone-delivery.svg
