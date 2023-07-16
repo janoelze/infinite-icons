@@ -6849,4 +6849,18 @@
 * icon-quill-ink.svg
 * icon-bamboo-forest.svg
 * icon-treasure-chest.svg
-* icon-wooden-ship.svg
+* icon-wooden-ship.svg* icon-dna-sequence.svg
+* icon-zen-circle.svg
+* icon-lunar-module.svg
+* icon-chameleon.svg
+* icon-space-time-continuum.svg
+* icon-script-scroll.svg
+* icon-cybernetic-eye.svg
+* icon-temple-ruins.svg
+* icon-quantum-computer.svg
+* icon-black-hole.svg
+* icon-mayan-calendar.svg
+* icon-orion-constellation.svg
+* icon-sacred-geometry.svg
+* icon-alien-lifeform.svg
+* icon-time-capsule.svg

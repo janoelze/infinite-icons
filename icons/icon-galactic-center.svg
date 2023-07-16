@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-galactic-center">
+    <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="white" />
+    <line x1="50" y1="50" x2="70" y2="50" style="stroke:rgb(0,0,0);stroke-width:2" />
+    <line x1="50" y1="50" x2="50" y2="70" style="stroke:rgb(0,0,0);stroke-width:2" />
+    <path d="M 50 50 Q 75 25 100 50" stroke="black" fill="transparent" />
+</svg>
