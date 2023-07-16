@@ -6653,4 +6653,18 @@
 * icon-quill.svg
 * icon-obelisk.svg
 * icon-dragonfruit.svg
-* icon-endofday.svg
+* icon-endofday.svg* icon-flame.svg
+* icon-seashell.svg
+* icon-stethoscope.svg
+* icon-gavel.svg
+* icon-anvil.svg
+* icon-quill.svg
+* icon-comet.svg
+* icon-sundial.svg
+* icon-hieroglyph.svg
+* icon-totem.svg
+* icon-kaleidoscope.svg
+* icon-abacus.svg
+* icon-crystal-ball.svg
+* icon-alchemy.svg
+* icon-scroll.svg
