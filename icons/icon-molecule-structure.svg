@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-molecule-structure">
+    <circle cx="12" cy="12" r="3" fill="currentColor" />
+    <circle cx="19.5" cy="4.5" r="3" fill="currentColor" />
+    <circle cx="4.5" cy="19.5" r="3" fill="currentColor" />
+    <circle cx="19.5" cy="19.5" r="3" fill="currentColor" />
+    <line x1="12" y1="15" x2="12" y2="9" stroke="currentColor" stroke-width="2.5" />
+    <line x1="12" y1="12" x2="7.5" y2="17" stroke="currentColor" stroke-width="2.5" />
+    <line x1="12" y1="12" x2="17.5" y2="17" stroke="currentColor" stroke-width="2.5" />
+    <line x1="16.5" y1="6" x2="12" y2="9" stroke="currentColor" stroke-width="2.5" />
+</svg>

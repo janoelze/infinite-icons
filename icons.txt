@@ -7969,4 +7969,18 @@
 * icon-coral-reef.svg
 * icon-space-elevator.svg
 * icon-alien.svg
-* icon-dna-sequence.svg
+* icon-dna-sequence.svg* icon-obscureplanet.svg
+* icon-steampunkgoggles.svg
+* icon-hallowedtome.svg
+* icon-enchantedquill.svg
+* icon-ancientruin.svg
+* icon-lostcomet.svg
+* icon-vaporrainbow.svg
+* icon-cypherkey.svg
+* icon-virtualrealityheadset.svg
+* icon-phoenixfeather.svg
+* icon-crystalball.svg
+* icon-alienlifeform.svg
+* icon-forgottencipher.svg
+* icon-digitalalchemy.svg
+* icon-timecapsule.svg
