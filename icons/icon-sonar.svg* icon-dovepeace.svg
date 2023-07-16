@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-sonar.svg icon-dovepeace">
+  <circle class="icon-sonar" cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="transparent" />
+  <path class="icon-dovepeace" d="M10 10 Q20 20, 30 10 T50 10" stroke="black" fill="transparent" />
+</svg>

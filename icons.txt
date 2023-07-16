@@ -6471,4 +6471,18 @@
 * icon-extraterrestrial.svg
 * icon-quantumleap.svg
 * icon-galacticcore.svg
-* icon-timecapsule.svg
+* icon-timecapsule.svg* icon-meteor-shower.svg
+* icon-alchemical-lab.svg
+* icon-meditating-monk.svg
+* icon-exoplanet.svg
+* icon-quantum-computer.svg
+* icon-ancient-tome.svg
+* icon-mystic-compass.svg
+* icon-cybernetic-arm.svg
+* icon-virtual-reality-goggles.svg
+* icon-lunar-module.svg
+* icon-stone-henge.svg
+* icon-dna-sequence.svg
+* icon-4d-hypercube.svg
+* icon-galactic-spiral.svg
+* icon-time-machine.svg
