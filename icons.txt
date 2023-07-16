@@ -6457,4 +6457,18 @@
 * icon-solar-flare.svg
 * icon-photon-cannon.svg
 * icon-time-dilation.svg
-* icon-plasma-turbine.svg
+* icon-plasma-turbine.svg* icon-heliumballoon.svg
+* icon-quantumcomputer.svg
+* icon-cybernetichand.svg
+* icon-liquidnitrogen.svg
+* icon-blackhole.svg
+* icon-ancientscroll.svg
+* icon-spacecraft.svg
+* icon-pandorasbox.svg
+* icon-civilization.svg
+* icon-nanobot.svg
+* icon-meteorite.svg
+* icon-extraterrestrial.svg
+* icon-quantumleap.svg
+* icon-galacticcore.svg
+* icon-timecapsule.svg
