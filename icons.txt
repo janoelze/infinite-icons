@@ -7843,4 +7843,18 @@
 * icon-big-data.svg
 * icon-drone-delivery.svg
 * icon-social-media-campaign.svg
-* icon-augmented-reality.svg
+* icon-augmented-reality.svg* icon-antenna.svg
+* icon-atom.svg
+* icon-cattail.svg
+* icon-dove.svg
+* icon-entomology.svg
+* icon-foghorn.svg
+* icon-geode.svg
+* icon-hail.svg
+* icon-ichthyology.svg
+* icon-jackal.svg
+* icon-kaleidoscope.svg
+* icon-labyrinth.svg
+* icon-meadow.svg
+* icon-nebula.svg
+* icon-orca.svg
