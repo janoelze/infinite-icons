@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-polar-bear-cub" viewBox="0 0 24 24">
+  <path fill="none" stroke="currentColor" stroke-width="2" d="M12 4C12 4 5 4 4 6C3 8 6 9 6 9C6 9 4 12 6 13C8 14 12 13 12 13C12 13 16 14 18 13C20 12 18 9 18 9C18 9 21 8 20 6C19 4 12 4 12 4Z"></path>
+  <circle cx="9" cy="9" r="1"></circle>
+  <circle cx="15" cy="9" r="1"></circle>
+  <path d="M11,10 v2 a2,2 0 0 0 2,2 h0 a2,2 0 0 0 2,-2 v-2"></path>
+  <path d="M6,14 m1,0 h2 a1,1 0 0 0 1,1"></path>
+  <path d="M15,14 h2 a1,1 0 0 1 1,1"></path>
+</svg>

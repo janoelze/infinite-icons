@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-compass-destination">
+    <circle cx="12" cy="12" r="10" class="outer-circle"/>
+    <line x1="12" y1="12" x2="12" y2="2" class="north-arrow"/>
+    <line x1="12" y1="12" x2="2" y2="12" class="west-arrow"/>
+    <line x1="12" y1="12" x2="22" y2="12" class="east-arrow"/>
+    <line x1="12" y1="12" x2="12" y2="22" class="south-arrow"/>
+    <circle cx="12" cy="12" r="2" class="center-dot"/>
+</svg>

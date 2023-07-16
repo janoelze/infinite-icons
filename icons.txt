@@ -7339,4 +7339,18 @@
 * icon-black-hole.svg
 * icon-big-bang.svg
 * icon-dark-energy.svg
+* icon-quantum-computer.svg* icon-subatomic-particles.svg
 * icon-quantum-computer.svg
+* icon-galaxy-cluster.svg
+* icon-nebula.svg
+* icon-black-hole.svg
+* icon-entanglement.svg
+* icon-superposition.svg
+* icon-quasar.svg
+* icon-magnetic-field.svg
+* icon-higgs-boson.svg
+* icon-nuclear-fusion.svg
+* icon-star-formation.svg
+* icon-planet-exploration.svg
+* icon-meteor-shower.svg
+* icon-space-time-distortion.svg
