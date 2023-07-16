@@ -7395,4 +7395,18 @@
 * icon-electric-guitar.svg
 * icon-beekeeper-hat.svg
 * icon-botanical-garden.svg
-* icon-glacier.svg
+* icon-glacier.svg* icon-microscope.svg
+* icon-alien.svg
+* icon-abacus.svg
+* icon-dna.svg
+* icon-nanobot.svg
+* icon-quantum-computer.svg
+* icon-exoplanet.svg
+* icon-satellite.svg
+* icon-blackhole.svg
+* icon-petridish.svg
+* icon-fusion-reactor.svg
+* icon-cyber-brain.svg
+* icon-spaceelevator.svg
+* icon-hologram.svg
+* icon-lunar-rover.svg
