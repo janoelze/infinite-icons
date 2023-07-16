@@ -7367,4 +7367,18 @@
 * icon-seahorse.svg
 * icon-typewriter.svg
 * icon-unicorn.svg
-* icon-xylophone.svg
+* icon-xylophone.svg* icon-meteor.svg
+* icon-firefly.svg
+* icon-kaleidoscope.svg
+* icon-origami.svg
+* icon-quill.svg
+* icon-obelisk.svg
+* icon-theremin.svg
+* icon-fractal.svg
+* icon-ouroboros.svg
+* icon-albatross.svg
+* icon-saguaro.svg
+* icon-zeppelin.svg
+* icon-jigsaw.svg
+* icon-opal.svg
+* icon-quasar.svg
