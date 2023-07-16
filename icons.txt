@@ -6779,4 +6779,18 @@
 * icon-oilrig.svg
 * icon-velociraptor.svg
 * icon-cuckooclock.svg
-* icon-aqueduct.svg
+* icon-aqueduct.svg* icon-algorithm.svg
+* icon-biometrics.svg
+* icon-cloud-computing.svg
+* icon-cryptography.svg
+* icon-databank.svg
+* icon-encryption.svg
+* icon-hologram.svg
+* icon-mainframe.svg
+* icon-motherboard.svg
+* icon-motion-sensor.svg
+* icon-quantum-computing.svg
+* icon-rocket.svg
+* icon-satellite.svg
+* icon-space-station.svg
+* icon-virtual-reality.svg

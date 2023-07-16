@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-mousetrap">
+    <rect x="10%" y="35%" width="50%" height="20%" stroke="black" fill="none" />
+    <circle cx="30%" cy="45%" r="10%" fill="black" stroke="none"/>
+    <line x1="30%" y1="45%" x2="30%" y2="55%" stroke="black"/>
+    <path d="M30%,55% Q40%,65%,50%,55%" fill="none" stroke="black"/>
+</svg>
