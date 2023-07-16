@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-financialbot" viewBox="0 0 24 24">
+  <path d="M12,2C9.243,2,7,4.243,7,7s2.243,5,5,5s5-2.243,5-5S14.757,2,12,2z"/>
+  <path d="M12,14c-3.859,0-7,2.691-7,6v1h14v-1C19,16.691,15.859,14,12,14z"/>
+  <path d="M9,17v1h6v-1H9z"/>
+  <path d="M8,7H5V5h3V7z"/>
+  <path d="M19,7h-3V5h3V7z"/>
+  <path d="M4,9v3h3v-1H6V9H4z"/>
+  <path d="M20,9v3h-3v-1h2V9H20z"/>
+</svg>

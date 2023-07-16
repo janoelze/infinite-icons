@@ -6905,4 +6905,18 @@
 * icon-ancientPyramids.svg
 * icon-galaxyCluster.svg
 * icon-microbialLife.svg
-* icon-digitalEncryption.svg
+* icon-digitalEncryption.svg* icon-microchip.svg
+* icon-satellite.svg
+* icon-parachute.svg
+* icon-octopus.svg
+* icon-snowflake.svg
+* icon-rocket-launch.svg
+* icon-mushroom.svg
+* icon-kaleidoscope.svg
+* icon-amphora.svg
+* icon-origami-bird.svg
+* icon-ghost.svg
+* icon-abyss.svg
+* icon-checkered-flag.svg
+* icon-emerald.svg
+* icon-papaya.svg
