@@ -7409,4 +7409,18 @@
 * icon-cyber-brain.svg
 * icon-spaceelevator.svg
 * icon-hologram.svg
-* icon-lunar-rover.svg
+* icon-lunar-rover.svg* icon-oak-tree.svg
+* icon-origami-bird.svg
+* icon-vintage-compass.svg
+* icon-robotic-arm.svg
+* icon-crystal-ball.svg
+* icon-alien-head.svg
+* icon-submarine.svg
+* icon-dna-helix.svg
+* icon-neon-sign.svg
+* icon-meteor.svg
+* icon-old-quill.svg
+* icon-geometric-diamond.svg
+* icon-cloudy-moon.svg
+* icon-time-sandglass.svg
+* icon-phoenix-bird.svg
