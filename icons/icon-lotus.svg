@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-lotus">
+  <path d="M14,14 Q12.5,13 10,13 Q7.5,13 6,14 Q2.5,16 2.5,20 Q2.5,24 6,26 Q7.5,27 10,27 Q12.5,27 14,26 Q17.5,24 17.5,20 Q17.5,16 14,14Z" fill="none" stroke="currentColor"></path>
+  <path d="M10,10 Q10.5,9 10.5,8 Q10,7 10,6 Q10,4 12,4 Q14,4 14,6 Q14,7 13.5,8 Q13.5,9 13,10 Q12.5,11 10,11 Q7.5,11 7,10 Q7.5,9 7.5,8 Q7,7 7,6 Q7,4 9,4 Q11,4 11,6 Q11,7 10.5,8 Q10.5,9 10,10Z" fill="currentColor"></path>
+</svg>

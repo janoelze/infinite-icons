@@ -6793,4 +6793,18 @@
 * icon-rocket.svg
 * icon-satellite.svg
 * icon-space-station.svg
+* icon-virtual-reality.svg* icon-global-network.svg
+* icon-rainbow-bridge.svg
+* icon-digital-watchdog.svg
+* icon-earthquake-resistance.svg
+* icon-future-city.svg
+* icon-artificial-intelligence.svg
+* icon-eco-friendly.svg
+* icon-multi-language.svg
 * icon-virtual-reality.svg
+* icon-iron-fist.svg
+* icon-speed-of-light.svg
+* icon-space-shuttle.svg
+* icon-quantum-computing.svg
+* icon-solar-energy.svg
+* icon-brainstorming.svg
