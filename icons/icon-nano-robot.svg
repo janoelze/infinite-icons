@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-nano-robot" viewBox="0 0 24 24">
+    <path d="M13 8V3L4 14H7V8z" fill="#000"/>
+    <path d="M6 16L13 8 4 23h7V16z" fill="#000"/>
+    <path d="M18 16l-9 6 9-14v8z" fill="#000"/>
+    <path d="M12 23v-6l9-15H12v8z" fill="#000"/>
+    <path d="M24 0H0v24h24V0z" fill="none"/>
+</svg>

@@ -6737,4 +6737,18 @@
 * icon-virtual-assistant.svg
 * icon-3d-printer.svg
 * icon-underwater-drone.svg
-* icon-exoplanet.svg
+* icon-exoplanet.svg* icon-phoenix.svg
+* icon-nebula.svg
+* icon-quasar.svg
+* icon-blackhole.svg
+* icon-plasma.svg
+* icon-constellation.svg
+* icon-supernova.svg
+* icon-hypergiant.svg
+* icon-quark.svg
+* icon-white-dwarf.svg
+* icon-pulsar.svg
+* icon-magnetar.svg
+* icon-neutron-star.svg
+* icon-red-giant.svg
+* icon-galaxy-cluster.svg
