@@ -7591,4 +7591,18 @@
 * icon-whistleblower.svg
 * icon-djinn.svg
 * icon-oracle.svg
-* icon-merman.svg
+* icon-merman.svg* icon-data-cloud.svg
+* icon-quantum-computing.svg
+* icon-space-satellite.svg
+* icon-virtual-reality.svg
+* icon-dna-structure.svg
+* icon-neural-network.svg
+* icon-quantum-entanglement.svg
+* icon-plasma-ball.svg
+* icon-book-audiobook.svg
+* icon-flask-bubbling.svg
+* icon-lab-beaker.svg
+* icon-microscope-advanced.svg
+* icon-solar-panels.svg
+* icon-biometric-authentication.svg
+* icon-smart-city.svg
