@@ -6681,4 +6681,18 @@
 * icon-movie-clapperboard.svg
 * icon-snowflake.svg
 * icon-matchstick.svg
-* icon-crepe.svg
+* icon-crepe.svg* icon-quantum-computing.svg
+* icon-cryptocurrency-wallet.svg
+* icon-geothermal-energy.svg
+* icon-smart-glasses.svg
+* icon-digital-art.svg
+* icon-biometric-scan.svg
+* icon-genetic-editing.svg
+* icon-3d-printing.svg
+* icon-virtual-economy.svg
+* icon-nanotechnology.svg
+* icon-cybernetics.svg
+* icon-holography.svg
+* icon-artificial-intelligence.svg
+* icon-augmented-reality.svg
+* icon-digital-nomad.svg
