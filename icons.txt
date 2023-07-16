@@ -7213,4 +7213,18 @@
 * icon-telepathic-wave.svg
 * icon-tesla-coil.svg
 * icon-time-vortex.svg
-* icon-wormhole-travel.svg
+* icon-wormhole-travel.svg* icon-search-magnifier.svg
+* icon-chat-bubble.svg
+* icon-rocket-launch.svg
+* icon-umbrella-rain.svg
+* icon-music-note.svg
+* icon-shopping-basket.svg
+* icon-world-globe.svg
+* icon-thumbs-up-approve.svg
+* icon-tree-forest.svg
+* icon-cloud-weather.svg
+* icon-heart-love.svg
+* icon-robot-automation.svg
+* icon-beer-mug.svg
+* icon-graduation-cap.svg
+* icon-wine-glasses.svg

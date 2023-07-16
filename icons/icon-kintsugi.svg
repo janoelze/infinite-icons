@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-kintsugi">
+    <path d="M2,12 L22,12" stroke="#ffd700" stroke-width="2" fill="none"/>
+    <circle cx="12" cy="12" r="10" stroke="black" stroke-width="2" fill="none"/>
+    <path d="M7,7 L17,17" stroke="#ffd700" stroke-width="2" fill="none"/>
+    <path d="M17,7 L7,17" stroke="#ffd700" stroke-width="2" fill="none"/>
+</svg>
