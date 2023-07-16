@@ -7563,4 +7563,18 @@
 * icon-helicopter-blades.svg
 * icon-jellyfish.svg
 * icon-vintage-telephone.svg
-* icon-robot-arm.svg
+* icon-robot-arm.svg* icon-quantum-computing.svg
+* icon-biometric-data.svg
+* icon-space-rocket.svg
+* icon-genetic-engineering.svg
+* icon-black-hole.svg
+* icon-quantum-entanglement.svg
+* icon-nanotechnology.svg
+* icon-virtual-reality.svg
+* icon-advanced-robotics.svg
+* icon-gravitational-waves.svg
+* icon-cybernetic-eye.svg
+* icon-exoplanet.svg
+* icon-electric-car.svg
+* icon-virtual-consciousness.svg
+* icon-ai-overlord.svg
