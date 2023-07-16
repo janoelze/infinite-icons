@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-virtual-conference">
+    <path d="M3 6h18a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1z" fill="none" stroke="currentColor" stroke-width="2"></path>
+    <circle cx="7" cy="10" r="3" fill="none" stroke="currentColor" stroke-width="2"></circle>
+    <circle cx="17" cy="10" r="3" fill="none" stroke="currentColor" stroke-width="2"></circle>
+</svg>

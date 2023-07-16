@@ -8025,4 +8025,18 @@
 * icon-sitar.svg
 * icon-antique-lantern.svg
 * icon-obelisk.svg
-* icon-pharaoh-mask.svg
+* icon-pharaoh-mask.svg* icon-firefly.svg
+* icon-chainsaw.svg
+* icon-rockingchair.svg
+* icon-tire.svg
+* icon-compassrose.svg
+* icon-ivy.svg
+* icon-telescope.svg
+* icon-beehive.svg
+* icon-cannon.svg
+* icon-iguana.svg
+* icon-quill.svg
+* icon-crystalball.svg
+* icon-barometer.svg
+* icon-waterwheel.svg
+* icon-spellbook.svg
