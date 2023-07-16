@@ -7997,4 +7997,18 @@
 * icon-oceanacidification.svg
 * icon-kineticenergy.svg
 * icon-astronautglove.svg
-* icon-digitalcompass.svg
+* icon-digitalcompass.svg* icon-global-comm.svg
+* icon-digital-key.svg
+* icon-energy-saving.svg
+* icon-cloud-connection.svg
+* icon-virtual-reality.svg
+* icon-cryptocurrency.svg
+* icon-data-analysis.svg
+* icon-ai-assistant.svg
+* icon-quantum-computing.svg
+* icon-cyber-security.svg
+* icon-smart-home.svg
+* icon-biometrics.svg
+* icon-microservices.svg
+* icon-web-development.svg
+* icon-big-data.svg
