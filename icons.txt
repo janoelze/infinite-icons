@@ -7465,4 +7465,18 @@
 * icon-queen-crown.svg
 * icon-origami-boat.svg
 * icon-roaring-lion.svg
-* icon-sunflower.svg
+* icon-sunflower.svg* icon-global-connection.svg
+* icon-eco-friendly.svg
+* icon-time-management.svg
+* icon-artificial-intelligence.svg
+* icon-virtual-reality.svg
+* icon-astronomy.svg
+* icon-enterprise-resource-planning.svg
+* icon-database-encryption.svg
+* icon-cloud-computing.svg
+* icon-finger-print-authentication.svg
+* icon-recycling.svg
+* icon-machine-learning.svg
+* icon-e-commerce.svg
+* icon-progressive-web-app.svg
+* icon-multifactor-authentication.svg
