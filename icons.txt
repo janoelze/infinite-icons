@@ -6513,4 +6513,18 @@
 * icon-tesseract.svg
 * icon-pendulum.svg
 * icon-mosaic.svg
-* icon-octahedron.svg
+* icon-octahedron.svg* icon-digital-keyboard.svg
+* icon-charging-station.svg
+* icon-rocket-launch.svg
+* icon-space-satellite.svg
+* icon-tornado-warning.svg
+* icon-scuba-diving.svg
+* icon-mountain-climbing.svg
+* icon-quantum-computing.svg
+* icon-biometric-scanner.svg
+* icon-roller-derby.svg
+* icon-solar-panel.svg
+* icon-vegan-diet.svg
+* icon-ancient-pyramid.svg
+* icon-wise-owl.svg
+* icon-electric-car.svg
