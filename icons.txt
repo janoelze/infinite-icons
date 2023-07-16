@@ -7899,4 +7899,18 @@
 * icon-molecularBiology.svg
 * icon-quantumComputing.svg
 * icon-statisticalAnalysis.svg
-* icon-cryptography.svg
+* icon-cryptography.svg* icon-dna-strand.svg
+* icon-satellite-dish.svg
+* icon-hologram.svg
+* icon-neutron.svg
+* icon-asteroid.svg
+* icon-telescope.svg
+* icon-extra-terrestrial.svg
+* icon-space-shuttle.svg
+* icon-quantum-computer.svg
+* icon-drone.svg
+* icon-hydrogen-atom.svg
+* icon-nuclear-reactor.svg
+* icon-fusion-reactor.svg
+* icon-lunar-module.svg
+* icon-rocket-fuel.svg
