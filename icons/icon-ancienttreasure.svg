@@ -1,0 +1,11 @@
+<svg version="1.1" id="icon-ancienttreasure" class="icon icon-ancienttreasure"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink" 
+viewBox="0 0 32 32" 
+xml:space="preserve">
+<path d="M27,0H5C2.8,0,1,2.2,1,5v22c0,2.8,2.2,5,4,5h22c1.7,0,3-0.6,4-2V5C32,2.2,29.8,0,27,0z M30,27
+c-1.7,2-4,3-7,3H9c-3,0-5.5-1-7-3V5c0-2.2,2.5-4,5-4h16c2.5,0,4,1.8,4,4V27z"/>
+<path d="M16,4c-6.6,0-12,5.4-12,12s5.4,12,12,12s12-5.4,12-12S22.6,4,16,4z M16,26c-5.5,0-10-4.5-10-10
+s4.5-10,10-10s10,4.5,10,10S21.5,26,16,26z"/>
+<path d="M20,10H12v1h8V10z M20,14H12v1h8V14z M20,18H12v1h8V18z"/>
+</svg>

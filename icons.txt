@@ -6695,4 +6695,18 @@
 * icon-holography.svg
 * icon-artificial-intelligence.svg
 * icon-augmented-reality.svg
-* icon-digital-nomad.svg
+* icon-digital-nomad.svg* icon-angelinvestor.svg
+* icon-megaphone.svg
+* icon-moondreamer.svg
+* icon-doublehelix.svg
+* icon-trappedknot.svg
+* icon-transformationalchange.svg
+* icon-cacophony.svg
+* icon-quantumphysics.svg
+* icon-windcatcher.svg
+* icon-watchtower.svg
+* icon-ancienttreasure.svg
+* icon-hiddenportal.svg
+* icon-resonance.svg
+* icon-crownjewel.svg
+* icon-wheeloffortune.svg
