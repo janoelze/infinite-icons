@@ -6765,4 +6765,18 @@
 * icon-astronaut-helmet.svg
 * icon-nebula.svg
 * icon-teleportation.svg
-* icon-solar-sail.svg
+* icon-solar-sail.svg* icon-pineapple.svg
+* icon-featherquill.svg
+* icon-compassrose.svg
+* icon-jigsawpiece.svg
+* icon-climbinggear.svg
+* icon-satellite.svg
+* icon-blooddrop.svg
+* icon-eyeglasses.svg
+* icon-ivyleaf.svg
+* icon-tiretracks.svg
+* icon-champagneflute.svg
+* icon-oilrig.svg
+* icon-velociraptor.svg
+* icon-cuckooclock.svg
+* icon-aqueduct.svg
