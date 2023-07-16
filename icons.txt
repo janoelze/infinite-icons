@@ -7703,4 +7703,18 @@
 * icon-solar-system.svg
 * icon-drone.svg
 * icon-neural-network.svg
-* icon-space-station.svg
+* icon-space-station.svg* icon-digital-key.svg
+* icon-quantum-computer.svg
+* icon-ar-goggles.svg
+* icon-smart-watch.svg
+* icon-ebook-reader.svg
+* icon-3d-printer.svg
+* icon-satellite-dish.svg
+* icon-hyperloop.svg
+* icon-mars-rover.svg
+* icon-self-driving-car.svg
+* icon-celestial-map.svg
+* icon-telescope.svg
+* icon-nanobot.svg
+* icon-augmented-reality.svg
+* icon-drone-delivery.svg
