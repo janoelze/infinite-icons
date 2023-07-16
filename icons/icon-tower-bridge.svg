@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tower-bridge">
+  <path d="M6 9v-6h-2v6"></path>
+  <path d="M20 9v-6h-2v6"></path>
+  <path d="M22 9h-20"></path>
+  <path d="M2 22h20v-13h-20z"></path>
+  <path d="M2 16.5h20"></path>
+  <path d="M2 14h20"></path>
+  <path d="M6 22v-13"></path>
+  <path d="M18 22v-13"></path>
+</svg>

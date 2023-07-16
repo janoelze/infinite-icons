@@ -6499,4 +6499,18 @@
 * icon-smart-city.svg
 * icon-internet-of-things.svg
 * icon-blockchain-technology.svg
-* icon-quantum-computing.svg
+* icon-quantum-computing.svg* icon-gearshift.svg
+* icon-nebula.svg
+* icon-periscope.svg
+* icon-windmill.svg
+* icon-compassrose.svg
+* icon-quill.svg
+* icon-ivy.svg
+* icon-cogs.svg
+* icon-hexagon.svg
+* icon-jigsaw.svg
+* icon-spiral.svg
+* icon-tesseract.svg
+* icon-pendulum.svg
+* icon-mosaic.svg
+* icon-octahedron.svg
