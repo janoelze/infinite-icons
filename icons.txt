@@ -7801,4 +7801,18 @@
 * icon-nanotech.svg
 * icon-virtual-reality-dive.svg
 * icon-brainwave-analysis.svg
-* icon-cybernetic-avatar.svg
+* icon-cybernetic-avatar.svg* icon-digitalkey.svg
+* icon-troubleshooting.svg
+* icon-cryptoexchange.svg
+* icon-liquidstorage.svg
+* icon-bootprint.svg
+* icon-splitflapdisplay.svg
+* icon-fissionreactor.svg
+* icon-nanotech.svg
+* icon-radiowavelength.svg
+* icon-centrifuge.svg
+* icon-quantumcomputer.svg
+* icon-pulsejet.svg
+* icon-pyramidalneuron.svg
+* icon-regolith.svg
+* icon-superconductor.svg
