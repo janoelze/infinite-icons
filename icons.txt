@@ -7913,4 +7913,18 @@
 * icon-nuclear-reactor.svg
 * icon-fusion-reactor.svg
 * icon-lunar-module.svg
-* icon-rocket-fuel.svg
+* icon-rocket-fuel.svg* icon-compass-rose.svg
+* icon-abacus.svg
+* icon-prescription-bottle.svg
+* icon-morse-code.svg
+* icon-papyrus-scroll.svg
+* icon-perpetual-calendar.svg
+* icon-ship-anchor.svg
+* icon-mantel-clock.svg
+* icon-gramophone.svg
+* icon-dutch-windmill.svg
+* icon-matryoshka-doll.svg
+* icon-sand-hourglass.svg
+* icon-telegraph.svg
+* icon-weather-vane.svg 
+* icon-wax-seal.svg
