@@ -7493,4 +7493,18 @@
 * icon-blacksmith-forge.svg
 * icon-cyber-security.svg
 * icon-teleport.svg
-* icon-haunted-house.svg
+* icon-haunted-house.svg* icon-teleport.svg
+* icon-quantum-computer.svg
+* icon-astronaut-helmet.svg
+* icon-abstract-art.svg
+* icon-parachute.svg
+* icon-octopus.svg
+* icon-piano-keys.svg
+* icon-robot-arm.svg
+* icon-deep-sea-diver.svg
+* icon-ancient-scroll.svg
+* icon-dna-strand.svg
+* icon-space-shuttle.svg
+* icon-tesseract.svg
+* icon-lightning-in-bottle.svg
+* icon-hot-air-balloon.svg
