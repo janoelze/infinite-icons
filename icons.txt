@@ -6555,4 +6555,18 @@
 * icon-cyberspace.svg
 * icon-blockchain.svg
 * icon-quantum-computing.svg
-* icon-drone-delivery.svg
+* icon-drone-delivery.svg* icon-data-analytics.svg
+* icon-3d-printing.svg
+* icon-smart-home.svg
+* icon-virtual-reality.svg
+* icon-fingerprint-security.svg
+* icon-quantum-computing.svg
+* icon-drone-technology.svg
+* icon-virtual-assistant.svg
+* icon-electric-vehicle.svg
+* icon-sustainable-energy.svg
+* icon-gene-editing.svg
+* icon-artificial-intelligence.svg
+* icon-nanotechnology.svg
+* icon-cloud-computing.svg
+* icon-blockchain-technology.svg
