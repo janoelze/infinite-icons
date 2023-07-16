@@ -8053,4 +8053,18 @@
 * icon-jedi.svg
 * icon-phoenix.svg
 * icon-lochness.svg
+* icon-yeti.svg* icon-earthquake.svg
+* icon-meteor.svg
+* icon-diploma.svg
+* icon-fortune-cookie.svg
+* icon-peacock.svg
+* icon-pirate.svg
+* icon-joker.svg
+* icon-sphinx.svg
+* icon-obelisk.svg
+* icon-quicksand.svg
+* icon-nebula.svg
+* icon-guillotine.svg
+* icon-hieroglyph.svg
+* icon-rapier.svg
 * icon-yeti.svg
