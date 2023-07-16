@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" class="icon icon-trilobite">
+  <path d="M10 10C10 5.58 13.58 2 18 2H32C36.42 2 40 5.58 40 10V40C40 44.42 36.42 48 32 48H18C13.58 48 10 44.42 10 40V10Z" fill="transparent" stroke="currentColor" stroke-width="2"></path>
+  <circle cx="25" cy="20" r="8" fill="currentColor"></circle>
+  <circle cx="16" cy="20" r="4" fill="currentColor"></circle>
+  <circle cx="34" cy="20" r="4" fill="currentColor"></circle>
+  <path d="M25 28C29.42 28 33 24.42 33 20H17C17 24.42 20.58 28 25 28Z" fill="currentColor"></path>
+</svg>

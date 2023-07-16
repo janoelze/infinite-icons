@@ -7829,4 +7829,18 @@
 * icon-currency-exchange.svg
 * icon-plug-connection.svg
 * icon-film-reel.svg
-* icon-shopping-cart.svg
+* icon-shopping-cart.svg* icon-global-network.svg
+* icon-cloud-upload.svg
+* icon-data-protection.svg
+* icon-mobile-apps.svg
+* icon-web-optimization.svg
+* icon-digital-marketing.svg
+* icon-virtual-reality.svg
+* icon-smart-tech.svg
+* icon-ai-robot.svg
+* icon-3d-printing.svg
+* icon-cyber-security.svg
+* icon-big-data.svg
+* icon-drone-delivery.svg
+* icon-social-media-campaign.svg
+* icon-augmented-reality.svg
