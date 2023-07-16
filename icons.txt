@@ -7423,4 +7423,18 @@
 * icon-geometric-diamond.svg
 * icon-cloudy-moon.svg
 * icon-time-sandglass.svg
-* icon-phoenix-bird.svg
+* icon-phoenix-bird.svg* icon-global-communication.svg
+* icon-VR-goggles.svg
+* icon-plant-growth.svg
+* icon-space-rocket.svg
+* icon-music-wave.svg
+* icon-quantum-computer.svg
+* icon-biohazard.svg
+* icon-artificial-intelligence.svg
+* icon-nuclear-energy.svg
+* icon-fitness.svg
+* icon-cosmos.svg
+* icon-coding.svg
+* icon-food-bowl.svg
+* icon-polaroid.svg
+* icon-3D-printing.svg

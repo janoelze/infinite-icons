@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-astrological-signs">
+    <!--Icon layout goes here-->
+    <circle cx="20" cy="20" r="10" stroke="black" stroke-width="2"/>
+    <path d="M20 15 v10 h10" stroke="black" stroke-width="2" fill="transparent"/>
+    <circle cx="70" cy="40" r="15" stroke="black" stroke-width="2"/>
+    <circle cx="70" cy="40" r="5" stroke="black" stroke-width="2" fill="black"/>
+    <path d="M70 25 v30 h20" stroke="black" stroke-width="2" fill="transparent"/>
+    <path d="M110 20 m-10 10 a10 10 0 1 0 20 0 a10 10 0 1 0 -20 0" stroke="black" stroke-width="2" fill="transparent"/>
+    <path d="M120 20 v20 h20" stroke="black" stroke-width="2" fill="transparent"/>
+</svg>
