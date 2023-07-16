@@ -7283,4 +7283,18 @@
 * icon-fallen-leaf.svg
 * icon-ouroboros.svg
 * icon-levitation.svg
-* icon-mandala-design.svg
+* icon-mandala-design.svg* icon-aquarium.svg
+* icon-cobweb.svg
+* icon-graffiti.svg
+* icon-hot-air-balloon.svg
+* icon-igloo.svg
+* icon-magnolia.svg
+* icon-nebula.svg
+* icon-opossum.svg
+* icon-pearl.svg
+* icon-quill.svg
+* icon-rocking-horse.svg
+* icon-sundial.svg
+* icon-treehouse.svg
+* icon-unicorn.svg
+* icon-volcano.svg
