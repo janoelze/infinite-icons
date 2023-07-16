@@ -7885,4 +7885,18 @@
 * icon-nano-technology.svg
 * icon-solar-sail.svg
 * icon-teleportation.svg
-* icon-dark-matter.svg
+* icon-dark-matter.svg* icon-meteorology.svg
+* icon-geology.svg
+* icon-quantumPhysics.svg
+* icon-bioengineering.svg
+* icon-astronomy.svg
+* icon-nanotechnology.svg
+* icon-dataScience.svg
+* icon-evolution.svg
+* icon-thermodynamics.svg
+* icon-pharmacology.svg
+* icon-electromagnetism.svg
+* icon-molecularBiology.svg
+* icon-quantumComputing.svg
+* icon-statisticalAnalysis.svg
+* icon-cryptography.svg

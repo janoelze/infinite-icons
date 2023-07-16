@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-mirage.svg icon-pinwheel" viewBox="0 0 32 32">
+  <g>
+    <polygon points="16,0 20,16 32,16 20,16 16,32 16,16 0,16 16,16" fill="#000000"/>
+    <polygon points="16,6 18,16 24,16 18,16 16,22 16,16 8,16 16,16" fill="#FFFFFF"/>
+  </g>
+</svg>
