@@ -7647,4 +7647,18 @@
 * icon-magnifying-glass-plus.svg
 * icon-graduation-cap.svg
 * icon-windmill-energy.svg
-* icon-anchor-sea.svg
+* icon-anchor-sea.svg* icon-cloud-upload.svg
+* icon-virtual-reality.svg
+* icon-quantum-computer.svg
+* icon-nanotechnology.svg
+* icon-fuzzy-logic.svg
+* icon-hologram-projector.svg
+* icon-wifi-signal.svg
+* icon-time-lapse.svg
+* icon-facial-recognition.svg
+* icon-space-rocket.svg
+* icon-self-driving-car.svg
+* icon-drone-delivery.svg
+* icon-3d-printing.svg
+* icon-volcanic-activity.svg
+* icon-genome-editing.svg
