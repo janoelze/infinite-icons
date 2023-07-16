@@ -7815,4 +7815,18 @@
 * icon-pulsejet.svg
 * icon-pyramidalneuron.svg
 * icon-regolith.svg
-* icon-superconductor.svg
+* icon-superconductor.svg* icon-globe-network.svg
+* icon-mobile-sync.svg
+* icon-bookmark-tag.svg
+* icon-cloud-storage.svg
+* icon-user-profile.svg
+* icon-mail-inbox.svg
+* icon-voice-command.svg
+* icon-graph-analytics.svg
+* icon-folder-secure.svg
+* icon-location-pin.svg
+* icon-music-note.svg
+* icon-currency-exchange.svg
+* icon-plug-connection.svg
+* icon-film-reel.svg
+* icon-shopping-cart.svg
