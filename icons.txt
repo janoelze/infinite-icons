@@ -6975,4 +6975,18 @@
 * icon-platypus-unique.svg
 * icon-origami-transformation.svg
 * icon-tesseract-dimensional.svg
-* icon-crystal-structure.svg
+* icon-crystal-structure.svg* icon-digital-artboard.svg
+* icon-freelance-laptop.svg
+* icon-vegan-food.svg
+* icon-hybrid-car.svg
+* icon-electronic-book.svg
+* icon-espresso-machine.svg
+* icon-eco-friendly.svg
+* icon-speech-bubble.svg
+* icon-privacy-shield.svg
+* icon-crypto-currency.svg
+* icon-nano-technology.svg
+* icon-quantum-computer.svg
+* icon-climate-change.svg
+* icon-organic-farming.svg
+* icon-3d-printing.svg

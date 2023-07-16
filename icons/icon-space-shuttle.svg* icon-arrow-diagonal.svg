@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-space-shuttle.svg icon-arrow-diagonal" viewBox="0 0 24 24">
+  <path d="M0 0h24v24H0z" fill="none"/>
+  <path d="M18 14v-4a3 3 0 0 0-3-3H6l3-4 6 6H9v2h7a1 1 0 0 1 2 0z"/>
+  <path d="M20 22H12a3.999 3.999 0 0 1 -4 -4v-3.385l1.643 1.643a1.5 1.5 0 0 0 2.121 .45L12 15l2.236 1.708a1.5 1.5 0 0 0 2.121 -.45L20 14.615"/>
+</svg>
