@@ -6751,4 +6751,18 @@
 * icon-magnetar.svg
 * icon-neutron-star.svg
 * icon-red-giant.svg
-* icon-galaxy-cluster.svg
+* icon-galaxy-cluster.svg* icon-satellite-dish.svg
+* icon-floating-island.svg
+* icon-origami-bird.svg
+* icon-quantum-computer.svg
+* icon-bioluminescent-plant.svg
+* icon-falling-star.svg
+* icon-anti-gravity.svg
+* icon-thunderstorm-cloud.svg
+* icon-urban-farm.svg
+* icon-space-elevator.svg
+* icon-vortex.svg
+* icon-astronaut-helmet.svg
+* icon-nebula.svg
+* icon-teleportation.svg
+* icon-solar-sail.svg
