@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-radiolarian" viewBox="0 0 24 24">
+  <circle cx="12" cy="12" r="10" stroke="currentColor" stroke-width="1"/>
+  <path fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"
+    d="M12 7 Q 14 9 12 11 Q 14 13 12 15 Q 10 13 12 11 Q 10 9 12 7Z M12 17 Q 14 19 12 21 M12 3 Q 10 5 12 7 M7 12 Q 9 10 11 12 Q 9 14 7 12Z M17 12 Q 15 10 13 12 Q 15 14 17 12Z"/>
+</svg>

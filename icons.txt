@@ -8459,4 +8459,18 @@
 * icon-alientech.svg
 * icon-rocketfuel.svg
 * icon-hyperspace.svg
-* icon-andromedagalaxy.svg
+* icon-andromedagalaxy.svg* icon-quantum-computer.svg
+* icon-electric-scooter.svg
+* icon-planet-neptune.svg
+* icon-feather-quill.svg
+* icon-papyrus-scroll.svg
+* icon-espresso-machine.svg
+* icon-binary-code.svg
+* icon-unicorn.svg
+* icon-big-dipper.svg
+* icon-astronaut-helmet.svg
+* icon-tomahawk.svg
+* icon-bamboo.svg
+* icon-genome.svg
+* icon-galaxy-cluster.svg
+* icon-atomic-structure.svg
