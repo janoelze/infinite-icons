@@ -8739,4 +8739,18 @@
 * icon-aurora-borealis.svg
 * icon-phantom-mask.svg
 * icon-magic-lamp.svg
-* icon-dripping-paint.svg
+* icon-dripping-paint.svg* icon-research-lab.svg
+* icon-space-shuttle.svg
+* icon-mountain-peak.svg
+* icon-ancient-ruins.svg
+* icon-woolly-mammoth.svg
+* icon-quantum-computer.svg
+* icon-jazz-trumpet.svg
+* icon-stethoscope.svg
+* icon-hot-air-balloon.svg
+* icon-samurai-sword.svg
+* icon-chess-pawn.svg
+* icon-solar-panel.svg
+* icon-spaghetti-bolognese.svg
+* icon-greenhouse.svg
+* icon-volcanic-eruption.svg
