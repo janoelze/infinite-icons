@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-grimoire">
+  <path d="M2 3h20v18H2z" fill="none" stroke="currentColor" stroke-width="2"/>
+  <path d="M2 5h20" fill="none" stroke="currentColor" stroke-width="2"/>
+  <path d="M2 7h20" fill="none" stroke="currentColor" stroke-width="2"/>
+  <path d="M2 9h20" fill="none" stroke="currentColor" stroke-width="2"/>
+  <path d="M2 11h20" fill="none" stroke="currentColor" stroke-width="2"/>
+  <path d="M2 13h20" fill="none" stroke="currentColor" stroke-width="2"/>
+  <path d="M2 15h20" fill="none" stroke="currentColor" stroke-width="2"/>
+  <path d="M2 17h20" fill="none" stroke="currentColor" stroke-width="2"/>
+  <path d="M2 19h20" fill="none" stroke="currentColor" stroke-width="2"/>
+  <path d="M2 21h20" fill="none" stroke="currentColor" stroke-width="2"/>
+  <path d="M6 3v18M18 3v18" fill="none" stroke="currentColor" stroke-width="2"/>
+</svg>

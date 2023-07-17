@@ -8319,4 +8319,18 @@
 * icon-geyser.svg
 * icon-bamboo.svg
 * icon-guillotine.svg
-* icon-quill.svg
+* icon-quill.svg* icon-digital-paintbrush.svg
+* icon-data-server.svg
+* icon-lightbulb-idea.svg
+* icon-eco-greenleaf.svg
+* icon-global-communication.svg
+* icon-infrared-thermometer.svg
+* icon-quantum-computer.svg
+* icon-alien-lifeform.svg
+* icon-dark-matter.svg
+* icon-acoustic-guitar.svg
+* icon-ancient-pyramid.svg
+* icon-coral-reef.svg
+* icon-digital-cipher.svg
+* icon-astronaut-helmet.svg
+* icon-guillotine.svg
