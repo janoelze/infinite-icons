@@ -8389,4 +8389,18 @@
 * icon-penguin-iceberg.svg
 * icon-magnifying-glass-book.svg
 * icon-parachute-jump.svg
-* icon-telescope-starry-night.svg
+* icon-telescope-starry-night.svg* icon-global-collaboration.svg
+* icon-cloud-backup.svg
+* icon-dynamic-algorithm.svg
+* icon-data-encryption.svg
+* icon-virtual-reality.svg
+* icon-augmented-reality.svg
+* icon-social-influence.svg
+* icon-mind-map.svg
+* icon-smart-ai.svg
+* icon-biohack.svg
+* icon-interactive-design.svg
+* icon-geotargeting.svg
+* icon-financial-graph.svg
+* icon-multi-factor-authentication.svg
+* icon-quantum-computing.svg
