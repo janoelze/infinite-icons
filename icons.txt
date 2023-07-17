@@ -8151,4 +8151,18 @@
 * icon-3dprinting.svg
 * icon-neuralnetwork.svg
 * icon-drones.svg
-* icon-globeconnect.svg
+* icon-globeconnect.svg* icon-globe-network.svg
+* icon-robotics.svg
+* icon-quantum-computing.svg
+* icon-hologram.svg
+* icon-nanotechnology.svg
+* icon-spacetravel.svg
+* icon-cybersecurity.svg
+* icon-digital-twin.svg
+* icon-future-city.svg
+* icon-hybrid-reality.svg
+* icon-bio-engineering.svg
+* icon-photonics.svg
+* icon-green-energy.svg
+* icon-brain-interface.svg
+* icon-deep-learning.svg

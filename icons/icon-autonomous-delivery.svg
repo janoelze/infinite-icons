@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-autonomous-delivery">
+  <path d="M3 13h13v-2H3v2z"/>
+  <path d="M5 9h9V8H5v1z"/>
+  <path d="M3 6h13V3H3v3z"/>
+  <circle cx="7.5" cy="17.5" r="2.5"/>
+  <circle cx="17.5" cy="17.5" r="2.5"/>
+  <path d="M1 24h22v-2H1v2z"/>
+  <path d="M15 14h8v-2h-8v2z"/>
+  <path d="M15 10h8V8h-8v1z"/>
+  <path d="M15 6h8V3h-8v3z"/>
+</svg>
