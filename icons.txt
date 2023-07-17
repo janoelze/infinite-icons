@@ -8221,4 +8221,18 @@
 * icon-alien.svg
 * icon-rocking-horse.svg
 * icon-hang-glider.svg
-* icon-compass.svg
+* icon-compass.svg* icon-amoeba.svg
+* icon-blackhole.svg
+* icon-cypher.svg
+* icon-diplomat.svg
+* icon-ellipsis.svg
+* icon-figment.svg
+* icon-gossamer.svg
+* icon-halcyon.svg
+* icon-inception.svg
+* icon-juxtapose.svg
+* icon-kaleidoscope.svg
+* icon-labyrinth.svg
+* icon-maelstrom.svg
+* icon-nexus.svg
+* icon-oscillate.svg

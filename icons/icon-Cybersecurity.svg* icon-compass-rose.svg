@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-Cybersecurity.svg* icon-compass-rose">
+    <path fill="none" stroke="currentColor" stroke-width="2" d="M12,2A10,10,0,0,1,22,12,10,10,0,0,1,12,22,10,10,0,0,1,2,12,10,10,0,0,1,12,2Z">
+    </path>
+    <polygon fill="none" stroke="currentColor" points="15.54 8.46 16 12 12 16 8 12 8.46 8.46 12 8">
+    </polygon>
+    <line x1="12" y1="2" x2="12" y2="4"></line>
+    <line x1="12" y1="20" x2="12" y2="22"></line>
+    <line x1="20.36" y1="3.64" x2="22" y2="5.28"></line>
+    <line x1="2" y1="18.36" x2="3.64" y2="20"></line>
+    <line x1="3.64" y1="3.64" x2="5.28" y2="2"></line>
+    <line x1="18.36" y1="20.36" x2="20" y2="22"></line>
+</svg>
