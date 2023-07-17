@@ -8375,4 +8375,18 @@
 * icon-safarihat.svg
 * icon-mailbox.svg
 * icon-rollercoat.svg
-* icon-crystalsphere.svg
+* icon-crystalsphere.svg* icon-globe-network.svg
+* icon-digital-watch.svg
+* icon-wind-turbine.svg
+* icon-potted-plant.svg
+* icon-hourglass-end.svg
+* icon-jigsaw-piece.svg
+* icon-graduation-cap.svg
+* icon-sailboat-sunset.svg
+* icon-thermometer-snow.svg
+* icon-rolling-dice.svg
+* icon-vintage-telephone.svg
+* icon-penguin-iceberg.svg
+* icon-magnifying-glass-book.svg
+* icon-parachute-jump.svg
+* icon-telescope-starry-night.svg
