@@ -8277,4 +8277,18 @@
 * icon-umbrella.svg
 * icon-diamond.svg
 * icon-anchor.svg
-* icon-castle.svg
+* icon-castle.svg* icon-abyss.svg
+* icon-crystal-ball.svg
+* icon-dragonfly.svg
+* icon-fossil.svg
+* icon-grim-reaper.svg
+* icon-harpsichord.svg
+* icon-interstellar.svg
+* icon-jigsaw.svg
+* icon-kaleidoscope.svg
+* icon-meteorite.svg
+* icon-narwhal.svg
+* icon-opossum.svg
+* icon-plexus.svg
+* icon-quasar.svg
+* icon-rococo.svg

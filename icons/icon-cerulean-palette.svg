@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-cerulean-palette">
+  <circle cx="50" cy="50" r="40" fill="cerulean" />
+  <rect x="30" y="30" width="15" height="15" fill="white" />
+  <rect x="50" y="30" width="15" height="15" fill="yellow" />
+  <rect x="70" y="30" width="15" height="15" fill="green" />
+  <rect x="40" y="50" width="15" height="15" fill="blue" />
+  <rect x="60" y="50" width="15" height="15" fill="red" />
+</svg>
