@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-haunted-house">
+  <path d="M12 2L2 11h3v9h4v-6h4v6h4v-9h3z"></path>
+  <circle cx="9" cy="14" r="1"></circle>
+  <circle cx="15" cy="14" r="1"></circle>
+  <path d="M5 10.5L7.5 9 10 10.5"></path>
+  <path d="M14 10.5L16.5 9 19 10.5"></path>
+</svg>

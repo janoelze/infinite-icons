@@ -8207,4 +8207,18 @@
 * icon-plasma.svg
 * icon-cosmos.svg
 * icon-wormhole.svg
-* icon-spacesuit.svg
+* icon-spacesuit.svg* icon-flamingo.svg
+* icon-constellation.svg
+* icon-scuba-diving.svg
+* icon-sandcastle.svg
+* icon-hot-air-balloon.svg
+* icon-cherry-blossom.svg
+* icon-cactus.svg
+* icon-vinyl-record.svg
+* icon-picnic-basket.svg
+* icon-golden-gate.svg
+* icon-hamburger.svg
+* icon-alien.svg
+* icon-rocking-horse.svg
+* icon-hang-glider.svg
+* icon-compass.svg
