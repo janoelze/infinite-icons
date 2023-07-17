@@ -8669,4 +8669,18 @@
 * icon-cactus.svg
 * icon-concert-ticket.svg
 * icon-polaroid.svg
-* icon-rainbow.svg
+* icon-rainbow.svg* icon-lantern.svg
+* icon-compass.svg
+* icon-quill.svg
+* icon-abacus.svg
+* icon-telescope.svg
+* icon-hourglass.svg
+* icon-marshmallow.svg
+* icon-dumbbell.svg
+* icon-periscope.svg
+* icon-raccoon.svg
+* icon-flask.svg
+* icon-enigma.svg
+* icon-kaleidoscope.svg
+* icon-igloo.svg
+* icon-cactus.svg
