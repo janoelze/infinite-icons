@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-transmutation-circle">
+    <circle cx="12" cy="12" r="10" class="outer-circle" fill="none" stroke="currentColor"/>
+    <path class="inner-detail" fill="none" stroke="currentColor" d="M6 12h1.8m3.2 0h1.8m3.2 0h1.8M12 6v1.8m0 3.2v1.8m0 3.2v1.8"/>
+    <circle cx="12" cy="12" r="1.5" class="central-circle" fill="currentColor"/>
+</svg>

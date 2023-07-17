@@ -8193,4 +8193,18 @@
 * icon-wind-turbine.svg
 * icon-comet.svg
 * icon-top-hat.svg
-* icon-parasol.svg
+* icon-parasol.svg* icon-meteor.svg
+* icon-galaxy.svg
+* icon-teleport.svg
+* icon-quantum.svg
+* icon-nanobot.svg
+* icon-spectroscope.svg
+* icon-aurora.svg
+* icon-pulsar.svg
+* icon-paradox.svg
+* icon-anomaly.svg
+* icon-nebula.svg
+* icon-plasma.svg
+* icon-cosmos.svg
+* icon-wormhole.svg
+* icon-spacesuit.svg
