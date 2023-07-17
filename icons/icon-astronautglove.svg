@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-astronautglove">
+    <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"></path>
+    <path d="M14 8h-4v2h4V8zm2-2h-2v1h2V6zM10 6H8v1h2V6zM7 9H6v1h1V9zm-2 3H4v1h1v-1zm1-2H4v1h2v-1zm3 2H7v1h2v-1zm2 0h-2v1h2v-1z"></path>
+</svg>

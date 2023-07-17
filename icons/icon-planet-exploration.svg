@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-planet-exploration" viewBox="0 0 24 24">
+  <circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="2" />
+  <circle cx="7" cy="7" r="1" fill="currentColor" />
+  <path d="M15 9a3 3 0 0 0 -2 -2.83" fill="none" stroke="currentColor" stroke-width="2" />
+  <path d="M19.6 5a9 9 0 0 0 -3.6 16.13" fill="none" stroke="currentColor" stroke-width="2" />
+  <path d="M2 14.5v.5a2 2 0 0 0 2 2h6" fill="none" stroke="currentColor" stroke-width="2" />
+  <path d="M6 14a2 2 0 0 0 2 -2v-3a2 2 0 0 0 -2 -2" fill="none" stroke="currentColor" stroke-width="2" />
+  <path d="M10 14a2 2 0 0 0 2 -2v-3a2 2 0 0 0 -2 -2" fill="none" stroke="currentColor" stroke-width="2" />
+</svg>

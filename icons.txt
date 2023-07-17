@@ -8347,4 +8347,18 @@
 * icon-cocktail-mixer.svg
 * icon-rock-climbing.svg
 * icon-archery-target.svg
-* icon-satellite-dish.svg
+* icon-satellite-dish.svg* icon-data-cloud.svg
+* icon-future-gear.svg
+* icon-magic-box.svg
+* icon-quantum-key.svg
+* icon-alien-tech.svg
+* icon-voice-waveform.svg
+* icon-broadcast-tower.svg
+* icon-music-spectrum.svg
+* icon-urbanology.svg
+* icon-polaroid-stack.svg
+* icon-time-infinity.svg
+* icon-galaxy-network.svg
+* icon-molecular-structure.svg
+* icon-audio-cassette.svg
+* icon-dreamcatcher.svg
