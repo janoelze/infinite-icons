@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" class="icon icon-moon-phases">
+  <circle class="new-moon" cx="10" cy="25" r="5" fill="#000000"/>
+  <path class="waxing-crescent" d="M20,20 a10,10 0 1,0 0,15 a5,5 0 1,1 0,-15" fill="#000000"/>
+  <circle class="first-quarter" cx="30" cy="25" r="5" fill="#000000"/>
+  <path class="waxing-gibbous" d="M42,20 a10,10 0 1,0 0,15 a5,5 0 1,1 0,-15" fill="#000000"/>
+</svg>

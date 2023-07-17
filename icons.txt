@@ -8683,4 +8683,18 @@
 * icon-enigma.svg
 * icon-kaleidoscope.svg
 * icon-igloo.svg
-* icon-cactus.svg
+* icon-cactus.svg* icon-nanotechnology.svg
+* icon-artificial-intelligence.svg
+* icon-smart-city.svg
+* icon-hologram.svg
+* icon-quantum-computing.svg
+* icon-seo-optimization.svg
+* icon-digital-currency.svg
+* icon-virtual-reality.svg
+* icon-facial-recognition.svg
+* icon-cryptocurrency.svg
+* icon-data-mining.svg
+* icon-cloud-storage.svg
+* icon-cyber-security.svg
+* icon-genetic-engineering.svg
+* icon-space-exploration.svg

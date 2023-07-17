@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-energysaving" viewBox="0 0 24 24">
+    <path d="M12 2L6 18h12z"/>
+    <line x1="12" y1="2" x2="12" y2="18"/>
+    <path d="M12 22H6v-2h6v2z"/>
+</svg>

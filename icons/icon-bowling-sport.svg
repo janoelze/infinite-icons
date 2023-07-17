@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-bowling-sport">
+  <path d="M12,2A5,5,0,0,1,17,7V9A5,5,0,0,1,7,9V7A5,5,0,0,1,12,2Z"></path>
+  <path d="M12,9a7,7,0,0,0-7,7,1,1,0,0,0,1,1H18a1,1,0,0,0,1-1A7,7,0,0,0,12,9Z"></path>
+  <circle cx="8.5" cy="14" r="1.5"></circle>
+  <circle cx="13.5" cy="14" r="1.5"></circle>
+  <circle cx="12" cy="20" r="1"></circle>
+</svg>
