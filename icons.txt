@@ -8263,4 +8263,18 @@
 * icon-bonsai.svg
 * icon-stringtheory.svg
 * icon-waterbear.svg
-* icon-nebula.svg
+* icon-nebula.svg* icon-paperplane.svg
+* icon-chemistry-flask.svg
+* icon-honeycomb.svg
+* icon-compass.svg
+* icon-lightbulb.svg
+* icon-magnifying-glass.svg
+* icon-hot-air-balloon.svg
+* icon-rocket.svg
+* icon-globe.svg
+* icon-lighthouse.svg
+* icon-snail.svg
+* icon-umbrella.svg
+* icon-diamond.svg
+* icon-anchor.svg
+* icon-castle.svg

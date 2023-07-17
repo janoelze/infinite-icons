@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-orbit-path.svg* icon-spacecraft">
+    <circle cx="50%" cy="50%" r="40%" stroke="black" stroke-width="2" fill="none" />
+    <polygon points="50,10 40,40 50,35 60,40" fill="black" />
+</svg>
