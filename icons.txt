@@ -8249,4 +8249,18 @@
 * icon-accordion.svg
 * icon-cuckoo-clock.svg
 * icon-beehive.svg
+* icon-origami.svg* icon-torchlight.svg
+* icon-atom.svg
+* icon-aquarium.svg
+* icon-cactus.svg
 * icon-origami.svg
+* icon-photon.svg
+* icon-meteorite.svg
+* icon-galactic.svg
+* icon-hologram.svg
+* icon-lattice.svg
+* icon-quasar.svg
+* icon-bonsai.svg
+* icon-stringtheory.svg
+* icon-waterbear.svg
+* icon-nebula.svg
