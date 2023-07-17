@@ -8571,4 +8571,18 @@
 * icon-neon-flamingo.svg
 * icon-lantern.svg
 * icon-integral-calculus.svg
-* icon-origami-crane.svg
+* icon-origami-crane.svg* icon-mars-rover.svg
+* icon-quantum-computer.svg
+* icon-cyborg-hand.svg
+* icon-satellite-communication.svg
+* icon-digital-currency.svg
+* icon-fusion-reactor.svg
+* icon-nanotech.svg
+* icon-jetpack.svg
+* icon-genetic-engineering.svg
+* icon-virtual-reality-console.svg
+* icon-artificial-intelligence.svg
+* icon-submarine-drone.svg
+* icon-space-elevator.svg
+* icon-hoverboard.svg
+* icon-cybernetic-eye.svg
