@@ -8403,4 +8403,18 @@
 * icon-geotargeting.svg
 * icon-financial-graph.svg
 * icon-multi-factor-authentication.svg
-* icon-quantum-computing.svg
+* icon-quantum-computing.svg* icon-galaxy.svg
+* icon-lantern.svg
+* icon-platypus.svg
+* icon-quill.svg
+* icon-umbrella.svg
+* icon-jigsaw.svg
+* icon-origami.svg
+* icon-canoe.svg
+* icon-octopus.svg
+* icon-binoculars.svg
+* icon-frisbee.svg
+* icon-rhinoceros.svg
+* icon-dynamite.svg
+* icon-chopsticks.svg
+* icon-nomad.svg
