@@ -8725,4 +8725,18 @@
 * icon-galaxy.svg
 * icon-sushi.svg
 * icon-sommelier.svg
-* icon-pterodactyl.svg
+* icon-pterodactyl.svg* icon-planet-globe.svg
+* icon-dandelion-wind.svg
+* icon-origami-crane.svg
+* icon-honey-bee.svg
+* icon-meteor-shower.svg
+* icon-puzzle-piece.svg
+* icon-nautilus-shell.svg
+* icon-bioluminescent-jellyfish.svg
+* icon-cracked-egg.svg
+* icon-cosmic-dust.svg
+* icon-fiery-phoenix.svg
+* icon-aurora-borealis.svg
+* icon-phantom-mask.svg
+* icon-magic-lamp.svg
+* icon-dripping-paint.svg
