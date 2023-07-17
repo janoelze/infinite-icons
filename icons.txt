@@ -8837,4 +8837,18 @@
 * icon-graphene-sheet.svg
 * icon-jellyfish-swim.svg
 * icon-stained-glass.svg
-* icon-space-elevator.svg
+* icon-space-elevator.svg* icon-pancake.svg
+* icon-alien.svg
+* icon-origami.svg
+* icon-physics.svg
+* icon-mushroom.svg
+* icon-hot-air-balloon.svg
+* icon-swamp.svg
+* icon-narwhal.svg
+* icon-quasar.svg
+* icon-monolith.svg
+* icon-exoplanet.svg
+* icon-gingerbread-man.svg
+* icon-dungeon.svg
+* icon-meteor-shower.svg
+* icon-papyrus.svg
