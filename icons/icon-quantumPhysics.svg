@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-quantumPhysics">
+  <circle cx="50%" cy="50%" r="45%" stroke="black" fill="transparent" stroke-width="10"/>
+  <rect x="25%" y="45%" width="50%" height="10%" stroke="black" fill="transparent" stroke-width="10"/>
+  <line x1="50%" y1="45%" x2="50%" y2="55%" stroke="black" stroke-width="10"/>
+</svg>

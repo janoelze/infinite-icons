@@ -8585,4 +8585,18 @@
 * icon-submarine-drone.svg
 * icon-space-elevator.svg
 * icon-hoverboard.svg
-* icon-cybernetic-eye.svg
+* icon-cybernetic-eye.svg* icon-data-analysis.svg
+* icon-eco-friendly.svg
+* icon-global-connection.svg
+* icon-innovation-technology.svg
+* icon-multi-cultural.svg
+* icon-online-education.svg
+* icon-peer-review.svg
+* icon-quality-assurance.svg
+* icon-remote-work.svg
+* icon-social-awareness.svg
+* icon-startup-launch.svg
+* icon-virtual-reality.svg
+* icon-eco-transport.svg
+* icon-sustainable-energy.svg
+* icon-digital-nomad.svg
