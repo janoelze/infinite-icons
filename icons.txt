@@ -8543,4 +8543,18 @@
 * icon-cryptocurrency.svg
 * icon-cybersecurity-shield.svg
 * icon-sustainable-energy.svg
-* icon-online-gaming.svg
+* icon-online-gaming.svg* icon-teleportation.svg
+* icon-treehouse.svg
+* icon-loveseat.svg
+* icon-hotairballoon.svg
+* icon-tumbleweed.svg
+* icon-bonsai.svg
+* icon-divingbell.svg
+* icon-papyrus.svg
+* icon-vinylrecord.svg
+* icon-woodenchurn.svg
+* icon-sundial.svg
+* icon-lantern.svg
+* icon-steampunkgoggles.svg
+* icon-guerdon.svg
+* icon-albatross.svg
