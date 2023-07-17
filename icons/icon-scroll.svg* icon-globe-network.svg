@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-scroll-svg icon-globe-network">
-    <circle class="icon-globe" cx="12" cy="12" r="10" stroke="black" stroke-width="1" fill="none" />
-    <rect class="icon-scroll" x="10" y="22" rx="2" ry="2" width="8" height="4" stroke="black" stroke-width="1" fill="none" />
-    <path class="icon-network" d="M12 2 Q14 10 12 18 Q8 20 6 12 Q8 4 12 2" stroke="black" fill="none" />
-</svg>

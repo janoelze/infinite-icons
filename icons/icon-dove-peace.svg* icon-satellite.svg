@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-dove-peace.svg icon-satellite" viewBox="0 0 24 24">
-    <path fill="none" stroke="currentColor" stroke-width="2" d="M12 22 C12 22 17 16 17 11.1 17 6 13 2 7.5 2 4 2 1 5 1 8.5 1 10 2 11 3 11"/>
-    <path fill="currentColor" d="M2 11l1-1l-1-1l1-1l2 2l-2 2l-1-1zm2-2l2-2l-2-2l2-2l3 3l-3 3l-2-2zm3-3l3-3l-3-3l3-3l4 4l-4 4l-3-3zm4-4l4-4l-4-4l4-4l5 5l-5 5l-4-4l-4-4"/>
-    <path fill="none" stroke="currentColor" stroke-width="2" d="M12 22 C12 22 17 16 17 11.1 17 6 13 2 7.5 2 4 2 1 5 1 8.5 1 10 2 11 3 11"/>
-    <path fill="currentColor" d="M8 11h2v2H8v-2zm4-4h2v2h-2v-2zm-8 0h2v2H4v2H2v-2h2v-2zm4 8h2v2h-2v-2zm4-8h2v2h-2v-2zm4 0h2v2h-2v-2zm0 8h2v2h-2v-2z"/>
-</svg>

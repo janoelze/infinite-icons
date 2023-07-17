@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-temples.svg icon-sands-of-time">
-  <!-- temples -->
-  <path d="M25,50 h150 v150 h-150 Z"/>
-  <path d="M175,50 h150 v150 h-150 Z"/>
-  <!-- sands-of-time, symbolized by an hourglass -->
-  <path d="M100,100 Q125,125 150,100 T200,100"/>
-  <path d="M125,125 Q100,150 125,175 T150,200"/>
-</svg>

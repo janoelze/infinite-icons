@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-venusflytrap.svg icon-solar-system">
-  <!-- Venus flytrap representation -->
-  <path fill="#000" d="M10 20 Q10 30 20 30 Q30 30 30 20 Q30 10 20 10 Q10 10 10 20" />
-  
-  <!-- Solar system representation -->
-  <circle cx="60" cy="20" r="10" stroke="#000" stroke-width="1" fill="#fff" />
-  <circle cx="80" cy="20" r="7" stroke="#000" stroke-width="1" fill="#fff" />
-  <circle cx="100" cy="20" r="5" stroke="#000" stroke-width="1" fill="#fff" />
-</svg>

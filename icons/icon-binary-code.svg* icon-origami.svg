@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-binary-code icon-origami">
-    <path d="M0 0h24v24H0z" fill="none"/>
-    <path d="M16 4l4 4-4 4-4-4 4-4zM8 16l-4-4 4-4 4 4-4 4z"/>
-    <path d="M12 6v12" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>

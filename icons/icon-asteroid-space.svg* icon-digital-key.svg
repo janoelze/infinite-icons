@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" class="icon icon-asteroid-space.svg icon-digital-key">
-<circle cx="50" cy="50" r="50" fill="gray"/>
-<polygon points="35,50 65,50 50,20" fill="black"/>
-<line x1="35" y1="50" x2="50" y2="65"/>
-<line x1="65" y1="50" x2="50" y2="65"/>
-<rect x="40" y="75" width="20" height="10" fill="blue"/>
-<line x1="40" y1="75" x2="60" y2="75" stroke="lightblue"/>
-</svg>

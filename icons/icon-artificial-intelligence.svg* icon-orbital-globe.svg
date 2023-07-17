@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-artificial-intelligence.svg icon-orbital-globe">
-    <circle cx="12" cy="12" r="10" stroke="black" stroke-width="2" fill="none"/>
-    <path d="M2,12 A20,20 0 0,1 22,12 A20,20 0 0,1 2,12" stroke="black" fill="none"/>
-    <path d="M12,2 A20,20 0 0,1 12,22 A20,20 0 0,1 12,2" stroke="black" fill="none"/>
-</svg>

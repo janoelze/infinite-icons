@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-virtualreality icon-quantum-computing" viewBox="0 0 24 24">
-    <path d="M0 0h24v24H0z" fill="none"/>
-    <path d="M17 12H7m-3 0a9 9 0 1118 0"/>
-    <circle cx="12" cy="12" r="3"/>
-    <circle cx="12" cy="12" r="5" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>

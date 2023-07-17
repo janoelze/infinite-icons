@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-menhir.svg* icon-galaxy">
-  <path d="M12 2L2 7l10 5 10-5-10-5z"></path>
-  <path d="M2 7v10l10 5 10-5V7"></path>
-  <path d="M2 17l10 5 10-5"></path>
-  <path d="M12 2v20V2z"></path>
-</svg>

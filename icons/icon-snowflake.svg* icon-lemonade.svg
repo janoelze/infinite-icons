@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-snowflake.svg icon-lemonade">
-  <!-- Snowflake part of the icon -->
-  <path d="M50 2.5L57.5 20L77.5 20L62.5 32.5L70 50L50 37.5L30 50L37.5 32.5L22.5 20L42.5 20L50 2.5Z"/>
-
-  <!-- Lemonade part of the icon -->
-  <path d="M87.5,70C80,70,75,75,75,82.5C75,90,80,95,87.5,95C95,95,100,90,100,82.5C100,75,95,70,87.5,70Z M87.5,92.5C85,92.5,82.5,90,82.5,87.5C82.5,85,85,82.5,87.5,82.5C90,82.5,92.5,85,92.5,87.5C92.5,90,90,92.5,87.5,92.5Z"></path>
-  <path d="M75,70V50H60V65H25V70H60 V85H75V70Z"/>
-</svg>

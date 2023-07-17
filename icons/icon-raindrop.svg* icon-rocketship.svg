@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-raindrop icon-rocketship">
-  <!-- Raindrop Shape -->
-  <path d="M50 25 Q56 35 50 50 Q44 35 50 25" fill="none" stroke="black"/>
-  <!-- Rocketship Shape -->
-  <path d="M30 75 Q50 50 70 75 L50 90 L30 75" fill="none" stroke="black"/>
-</svg>

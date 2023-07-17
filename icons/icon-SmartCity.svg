@@ -1,3 +1,10 @@
-<svg class="icon icon-SmartCity" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-  <path d="M12 2C6.48 2 2 6.48 2 12c0 1.33.26 2.61.74 3.77.1.24.26.47.45.68L12 22l8.8-5.55c.2-.2.36-.44.46-.68.48-1.16.74-2.44.74-3.77 0-5.52-4.48-10-10-10zm-1 14h-2v-2h2v2zm0-4h-2V7h2v5zm6 4h-2v-2h2v2zm0-4h-2V7h2v5z"/>
+<svg class="icon icon-smartcity" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+    <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"/>
+    <path d="M0 0h24v24H0z" fill="none"/>
+    <path d="M10 10h4v4h-4z"/>
+    <path d="M14 14h4v4h-4z"/>
+    <path d="M10 14h4v4h-4z"/>
+    <path d="M6 10h4v4H6z"/>
+    <path d="M14 10h4v4h-4z"/>
+    <path d="M6 14h4v4H6z"/>
 </svg>

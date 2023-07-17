@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-radar-svg icon-helicopter">
-    <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="transparent" />
-    <line x1="50" y1="50" x2="70" y2="30" stroke="black" stroke-width="2"/>
-    <circle cx="70" cy="30" r="5" stroke="black" stroke-width="2" fill="transparent" />
-    <path d="M60 70 Q70 80 80 70" stroke="black" fill="transparent" />
-</svg>

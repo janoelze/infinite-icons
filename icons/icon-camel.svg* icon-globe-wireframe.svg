@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-camel.svg* icon-globe-wireframe" width="50" height="50" viewBox="0 0 50 50">
-  <circle cx="25" cy="25" r="20" stroke="black" stroke-width="2" fill="none" />
-  <path d="M5 25 Q25 5 45 25 Q25 45 5 25" stroke="black" stroke-width="2" fill="none" />
-  <path d="M25 5 Q45 25 25 45 Q5 25 25 5" stroke="black" stroke-width="2" fill="none" />
-  <path d="M12.5 37.5 Q25 20 37.5 37.5" stroke="black" stroke-width="2" fill="none" />
-  <path d="M37.5 12.5 Q25 30 12.5 12.5" stroke="black" stroke-width="2" fill="none" />
-  <path d="M30 15 Q35 20 30 30 Q25 35 20 30 Q15 25 20 15 Q25 10 30 15" stroke="gold" stroke-width="2" fill="gold" />
-</svg>

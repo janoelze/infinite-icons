@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-quantum-computer.svg* icon-spacecraft" viewBox="0 0 32 32">
- <circle cx="16" cy="16" r="4" fill="#fff"/>
- <path d="M16 4a6 6 0 0 0-6 6v8a6 6 0 0 0 6 6 6 6 0 0 0 6-6v-8a6 6 0 0 0-6-6zm0 8a2 2 0 1 1 0 4 2 2 0 0 1 0-4zm-6-4a2 2 0 0 1 2-2 2 2 0 0 1 2 2v8a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-8zm10 0a2 2 0 0 1 2-2 2 2 0 0 1 2 2v8a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-8z" fill="#fff"/>
- <path d="M4 24v4h24v-4H4zm2 2v-1h4v1H6zm18 0h-4v-1h4v1zm-2-14h-4V5h-4v7H8v4h15v-4h-1z" fill="#fff"/>
-</svg>

@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-lighthouse.svg icon-magnifying-glass" viewBox="0 0 24 24">
-  <path fill="none" stroke="currentColor" stroke-width="2" d="M12 13a2 2 0 100-4 2 2 0 000 4zm0 0a2 2 0 100-4 2 2 0 000 4zm-7-2a9 9 0 1118 0a9 9 0 01-18 0zm2 9l1-1v-3a3 3 0 00-1-2.354V20zm12 0V16.646a3 3 0 00-1 2.354v3l1 1z"></path>
-  <path fill="none" stroke="currentColor" stroke-width="2" d="m14 15 2-2m0 4v2"></path>
-  <path fill="none" stroke="currentColor" stroke-width="2" d="m10 15 2 2m-2-2v2"></path>
-  <path fill="none" stroke="currentColor" stroke-width="2" d="M4 4v1l1 1"></path>
-  <path fill="none" stroke="currentColor" stroke-width="2" d="m6 4 1 1"></path>
-  <path fill="none" stroke="currentColor" stroke-width="2" d="M20 20v-3a2 2 0 00-2-2h-4"></path>
-</svg>

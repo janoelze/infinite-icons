@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-tesseract.svg icon-rainbow">
-   <path d="M0 0h24v24H0z" fill="none"/>
-   <path d="M12 2l2.09 4.745 5.127.744-3.704 3.593 .875 5.161-4.648-2.512-4.647 2.512 .874-5.16-3.705-3.593 5.128-.744z" style="fill:var(--icon-tesseract-svg-color, currentColor);"/>
-   <path d="M12 12a2 2 0 11-2-2 2 2 0 012 2z" style="fill:var(--icon-rainbow-color, currentColor);"/>
-</svg>

@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-gearwheel.svg icon-porcupine" viewBox="0 0 24 24">
-  <!-- Gearwheel part of the icon -->
-  <path d="M12 12L16 16L12 16ZM4 12H12V20H4V12ZM12 4V12H20V4H12Z" />
-  <!-- Porcupine part of the icon -->
-  <path d="M8 8L9 9L8 10L7 9L8 8ZM12 8L13 9L12 10L11 9L12 8ZM16 8L17 9L16 10L15 9L16 8ZM14 12L15 13L14 14L13 13L14 12ZM10 12L11 13L10 14L9 13L10 12Z" />
-</svg>

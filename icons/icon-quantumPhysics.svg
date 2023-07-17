@@ -1,5 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-quantumPhysics">
-  <circle cx="50%" cy="50%" r="45%" stroke="black" fill="transparent" stroke-width="10"/>
-  <rect x="25%" y="45%" width="50%" height="10%" stroke="black" fill="transparent" stroke-width="10"/>
-  <line x1="50%" y1="45%" x2="50%" y2="55%" stroke="black" stroke-width="10"/>
+<svg version="1.1" id="icon-quantumphysics" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve" class="icon icon-quantumphysics">
+	<path d="M64,2C30.353,2,4,28.353,4,62s26.353,60,60,60s60-26.353,60-60S97.647,2,64,2z M64,110c-26.51,0-48-21.49-48-48
+		s21.49-48,48-48s48,21.49,48,48S90.51,110,64,110z"/>
+	<path d="M92.707,55.293l-11,11l-1.414-1.414l10.293-10.293l-10.293-10.293l1.414-1.414l11,11C93.098,54.51,92.902,55.098,92.707,55.293
+		z"/>
+	<path d="M35.293,66.707l1.414,1.414l-10.293,10.293l10.293,10.293l-1.414,1.414l-11-11C34.902,73.49,35.098,72.902,35.293,66.707z"/>
+	<path d="M73.395,29.111l1.79,1.047l-8.486,14.722l-1.395-0.813c-1.394-0.813-1.943-2.672-1.231-4.164L73.395,29.111z"/>
+	<path d="M54.605,98.889l-1.79-1.047l8.486-14.722l1.395,0.813c1.394,0.812,1.943,2.671,1.231,4.164L54.605,98.889z"/>
 </svg>

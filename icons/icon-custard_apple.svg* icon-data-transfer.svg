@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50" class="icon icon-custard_apple.svg icon-data-transfer">
-   <circle cx="25" cy="25" r="20" fill="#c1c1c1"/>
-   <path fill="#7c7c7c" d="M25,15a10,10 0 1,0 10,10A10,10 0 0,0 25,15zM15,25A10,10 0 1,1 25,35A10,10 0 0,1 15,25z"/>
-   <polygon points="20,30 25,35 30,30" fill="#7c7c7c"/>
-   <polygon points="30,20 25,15 20,20" fill="#7c7c7c"/>
-</svg>

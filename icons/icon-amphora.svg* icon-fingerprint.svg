@@ -1,5 +1,0 @@
-<svg width="50" height="50" xmlns="http://www.w3.org/2000/svg" class="icon icon-amphora.svg icon-fingerprint">
-    <circle cx="25" cy="25" r="20" stroke="black" stroke-width="2" fill="none" />
-    <path id="amphora" d="M25 10 v10 q10 10, 0 20 v10 h-20 v-10 q-10 -10, 0 -20 v-10" stroke="black" fill="none" />
-    <path id="fingerprint" d="M25 35 q-5 -10, -15 -15 q10 0, 15 -15 q5 10, 15 15 q-10 0, -15 15" stroke="black" fill="none" />
-</svg>

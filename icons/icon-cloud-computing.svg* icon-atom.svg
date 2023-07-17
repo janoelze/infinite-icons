@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-cloud-computing icon-atom">
-    <!-- Cloud computing part -->
-    <path d="M20 17.02H6c-1.1 0-1.99-.9-1.99-2.03l-.01-8c0-1.1.89-2 1.98-2h11.79c.72 0 1.38.38 1.73 1.02l3.11 5.48c.61 1.09-.23 2.52-1.52 2.52z"/>
-    <!-- Atom part -->
-    <circle cx="12" cy="12" r="8"/>
-    <line x1="16.24" y1="7.76" x2="7.76" y2="16.24" stroke-linecap="round"/>
-    <line x1="16.24" y1="16.24" x2="7.76" y2="7.76" stroke-linecap="round"/>
-</svg>

@@ -53,7 +53,7 @@ def get_missing_icon():
             icon_filenames.append(icon_filename)
     icon_filenames = random.sample(icon_filenames, len(icon_filenames))
     for icon_filename in icon_filenames:
-        if not os.path.exists(f"icons/{icon_filename}"):
+        if not os.path.exists(f"icons/{icon_filename}") and not "*" in icon_filename:
             return icon_filename
 
 def generate_icons(amount):

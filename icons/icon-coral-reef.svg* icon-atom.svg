@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-coral-reef.svg icon-atom" viewBox="0 0 24 24">
-<g>
-    <circle cx="12" cy="12" r="4"></circle>
-    <ellipse cx="12" cy="12" rx="9" ry="4"></ellipse>
-    <ellipse cx="12" cy="12" rx="4" ry="9"></ellipse>
-    <path d="M12 2C 16.9685 2 21 7.5817 21 14C21 20.4183 16.9685 26 12 26C7.0315 26 3 20.4183 3 14C3 7.5817 7.0315 2 12 2Z" opacity="0.5"></path>
-</g>
-</svg>

@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" class="icon icon-alien.svg* icon-space-ship">
-  <path d="M10,20 Q20,10 30,20 L30,30 Q20,35 10,30 Z" /> 
-  <circle cx="20" cy="20" r="5" /> 
-  <circle cx="30" cy="20" r="5" />  
-  <path d="M20,30 Q25,35 30,30" /> 
-</svg>
