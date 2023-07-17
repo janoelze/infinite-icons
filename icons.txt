@@ -8165,4 +8165,18 @@
 * icon-photonics.svg
 * icon-green-energy.svg
 * icon-brain-interface.svg
-* icon-deep-learning.svg
+* icon-deep-learning.svg* icon-quantum-computer.svg
+* icon-optical-fiber.svg
+* icon-dna-helix.svg
+* icon-galactic-globe.svg
+* icon-cyber-security.svg
+* icon-3D-printing.svg
+* icon-quantum-entanglement.svg
+* icon-bioinformatics.svg
+* icon-virtual-reality.svg
+* icon-wearable-tech.svg
+* icon-augmented-reality.svg
+* icon-cryptocurrency.svg
+* icon-smart-home.svg
+* icon-iot-devices.svg
+* icon-ai-robot.svg
