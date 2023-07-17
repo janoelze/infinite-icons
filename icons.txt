@@ -8361,4 +8361,18 @@
 * icon-galaxy-network.svg
 * icon-molecular-structure.svg
 * icon-audio-cassette.svg
-* icon-dreamcatcher.svg
+* icon-dreamcatcher.svg* icon-compassrose.svg
+* icon-origamibird.svg
+* icon-paperclip.svg
+* icon-abacus.svg
+* icon-quillink.svg
+* icon-scrolledparchment.svg
+* icon-microscope.svg
+* icon-vinylrecord.svg
+* icon-fishingrod.svg
+* icon-cannon.svg
+* icon-peacockfeather.svg
+* icon-safarihat.svg
+* icon-mailbox.svg
+* icon-rollercoat.svg
+* icon-crystalsphere.svg
