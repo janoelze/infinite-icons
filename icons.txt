@@ -8445,4 +8445,18 @@
 * icon-magic-wand.svg
 * icon-palm-tree.svg
 * icon-tropical-bird.svg
-* icon-steam-engine.svg
+* icon-steam-engine.svg* icon-jellyfish.svg
+* icon-unicorn.svg
+* icon-antigravity.svg
+* icon-blackhole.svg
+* icon-rainbowbridge.svg
+* icon-meteorshower.svg
+* icon-cybercowboy.svg
+* icon-quantumcomputer.svg
+* icon-spacesuit.svg
+* icon-teleportation.svg
+* icon-zodiacsigns.svg
+* icon-alientech.svg
+* icon-rocketfuel.svg
+* icon-hyperspace.svg
+* icon-andromedagalaxy.svg

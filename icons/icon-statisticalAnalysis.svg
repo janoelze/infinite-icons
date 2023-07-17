@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-statisticalAnalysis">
+  <polyline points="3 3 7 9 13 15 21 3" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></polyline>
+  <path d="M22 18v2a4 4 0 0 1 -4 4h-4a4 4 0 0 1 -4 -4v-2" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path>
+  <circle cx="12" cy="7" r="4" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></circle>
+</svg>
