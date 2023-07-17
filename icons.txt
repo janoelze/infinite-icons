@@ -8851,4 +8851,18 @@
 * icon-gingerbread-man.svg
 * icon-dungeon.svg
 * icon-meteor-shower.svg
-* icon-papyrus.svg
+* icon-papyrus.svg* icon-alchemy-bottle.svg
+* icon-beaver-dice.svg
+* icon-camel-cart.svg
+* icon-dragonfly-globe.svg
+* icon-eel-microphone.svg
+* icon-falcon-lantern.svg
+* icon-giraffe-server.svg
+* icon-hedgehog-calendar.svg
+* icon-iguana-archive.svg
+* icon-jellyfish-satellite.svg
+* icon-kangaroo-pencil.svg
+* icon-lemur-router.svg
+* icon-meerkat-hammer.svg
+* icon-numbat-binoculars.svg
+* icon-orangutan-magnifier.svg
