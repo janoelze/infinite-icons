@@ -8795,4 +8795,18 @@
 * icon-velociraptor.svg
 * icon-rare-fungus.svg
 * icon-tectonic-plate.svg
-* icon-solar-flare.svg
+* icon-solar-flare.svg* icon-surveillance-camera.svg
+* icon-biohazard.svg
+* icon-nuclear-facility.svg
+* icon-satellite-dish.svg
+* icon-space-rocket.svg
+* icon-time-machine.svg
+* icon-underground-mine.svg
+* icon-oil-rig.svg
+* icon-sea-turtle.svg
+* icon-comet.svg
+* icon-superhero.svg
+* icon-space-elevator.svg
+* icon-alien-creature.svg
+* icon-robotic-arm.svg
+* icon-quantum-computer.svg
