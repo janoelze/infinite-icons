@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-fluorescent">
+  <path d="M15.5,14h-7l2-7H6L4,8V4A2,2,0,0,1,6,2h12a2,2,0,0,1,2,2V8l-2,1H12.5Z"></path>
+  <path d="M9,22H7V20h10v2h-2v-4a3,3,0,0,0-6,0Z"></path>
+  <rect x="11" y="6" width="2" height="2"></rect>
+</svg>

@@ -8473,4 +8473,18 @@
 * icon-bamboo.svg
 * icon-genome.svg
 * icon-galaxy-cluster.svg
-* icon-atomic-structure.svg
+* icon-atomic-structure.svg* icon-globus.svg
+* icon-lifering.svg
+* icon-microscope.svg
+* icon-satellite.svg
+* icon-treasuremap.svg
+* icon-papyrus.svg
+* icon-quill.svg
+* icon-goblet.svg
+* icon-steampunkgoggles.svg
+* icon-ancientruins.svg
+* icon-lantern.svg
+* icon-compassrose.svg
+* icon-piratehook.svg
+* icon-astronaut.svg
+* icon-castlesentry.svg
