@@ -8781,4 +8781,18 @@
 * icon-climate-change.svg
 * icon-urbanization.svg
 * icon-blockchain-technology.svg
-* icon-digital-art.svg
+* icon-digital-art.svg* icon-antenna.svg
+* icon-papyrus-scroll.svg
+* icon-angular-nose.svg
+* icon-constellation.svg
+* icon-meridian-sphere.svg
+* icon-dodecahedron.svg
+* icon-windy-desert.svg
+* icon-geyser-eruption.svg
+* icon-nanobot.svg
+* icon-kimono-hanger.svg
+* icon-origami-crane.svg
+* icon-velociraptor.svg
+* icon-rare-fungus.svg
+* icon-tectonic-plate.svg
+* icon-solar-flare.svg
