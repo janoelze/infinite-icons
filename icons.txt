@@ -8515,4 +8515,18 @@
 * icon-caduceus.svg
 * icon-quill-ink.svg
 * icon-octopus.svg
-* icon-phoenix-bird.svg
+* icon-phoenix-bird.svg* icon-abyss.svg
+* icon-blizzard.svg
+* icon-cygnus.svg
+* icon-delta.svg
+* icon-epsilon.svg
+* icon-frostbite.svg
+* icon-gorgon.svg
+* icon-horizon.svg
+* icon-iris.svg
+* icon-juggernaut.svg
+* icon-kraken.svg
+* icon-leviathan.svg
+* icon-maelstrom.svg
+* icon-nimbus.svg
+* icon-oracle.svg
