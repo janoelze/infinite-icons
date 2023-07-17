@@ -8529,4 +8529,18 @@
 * icon-leviathan.svg
 * icon-maelstrom.svg
 * icon-nimbus.svg
-* icon-oracle.svg
+* icon-oracle.svg* icon-global-network.svg
+* icon-quantitative-analysis.svg
+* icon-digital-nomad.svg
+* icon-eco-conscious.svg
+* icon-virtual-reality.svg
+* icon-urban-skyscraper.svg
+* icon-wearable-tech.svg
+* icon-augmented-reality.svg
+* icon-podcasting-microphone.svg
+* icon-genomic-data.svg
+* icon-holographic-display.svg
+* icon-cryptocurrency.svg
+* icon-cybersecurity-shield.svg
+* icon-sustainable-energy.svg
+* icon-online-gaming.svg
