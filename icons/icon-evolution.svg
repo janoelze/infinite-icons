@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-evolution">
+	<path d="M10 2C11.6569 2 13 3.34315 13 5C13 6.65685 11.6569 8 10 8C8.34315 8 7 6.65685 7 5C7 3.34315 8.34315 2 10 2Z" fill="currentColor" />
+	<path d="M35 12C36.6569 12 38 13.3431 38 15C38 16.6569 36.6569 18 35 18C33.3431 18 32 16.6569 32 15C32 13.3431 33.3431 12 35 12Z" fill="currentColor" />
+	<path d="M10 30C11.6569 30 13 31.3431 13 33C13 34.6569 11.6569 36 10 36C8.34315 36 7 34.6569 7 33C7 31.3431 8.34315 30 10 30Z" fill="currentColor" />
+	<path d="M22 10C23.6569 10 25 11.3431 25 13C25 14.6569 23.6569 16 22 16C20.3431 16 19 14.6569 19 13C19 11.3431 20.3431 10 22 10Z" fill="currentColor" />
+	<path d="M22 30C23.6569 30 25 31.3431 25 33C25 34.6569 23.6569 36 22 36C20.3431 36 19 34.6569 19 33C19 31.3431 20.3431 30 22 30Z" fill="currentColor" />
+	<line x1="13" y1="33" x2="19" y2="33" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="bevel" />
+	<line x1="25" y1="33" x2="32" y2="33" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="bevel" />
+	<line x1="10" y1="6" x2="22" y2="12" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="bevel" />
+	<line x1="22" y1="16" x2="10" y2="32" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="bevel" />
+	<line x1="35" y1="15" x2="25" y2="33" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="bevel" />
+</svg>

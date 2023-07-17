@@ -8179,4 +8179,18 @@
 * icon-cryptocurrency.svg
 * icon-smart-home.svg
 * icon-iot-devices.svg
-* icon-ai-robot.svg
+* icon-ai-robot.svg* icon-rainbow.svg
+* icon-blender.svg
+* icon-anchor.svg
+* icon-palm-tree.svg
+* icon-graffiti-spray-can.svg
+* icon-sandcastle.svg
+* icon-rocking-horse.svg
+* icon-volcano.svg
+* icon-fossil.svg
+* icon-sushi-roll.svg
+* icon-origami-bird.svg
+* icon-wind-turbine.svg
+* icon-comet.svg
+* icon-top-hat.svg
+* icon-parasol.svg
