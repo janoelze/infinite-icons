@@ -8501,4 +8501,18 @@
 * icon-wolf-howl.svg
 * icon-witch-hat.svg
 * icon-honeycomb.svg
-* icon-cactus.svg
+* icon-cactus.svg* icon-globe-network.svg
+* icon-alien-creature.svg
+* icon-raindrop.svg
+* icon-acoustic-guitar.svg
+* icon-volcano-eruption.svg
+* icon-kaleidoscope.svg
+* icon-blender.svg
+* icon-urban-skyline.svg
+* icon-origami-bird.svg
+* icon-archery-target.svg
+* icon-maze.svg
+* icon-caduceus.svg
+* icon-quill-ink.svg
+* icon-octopus.svg
+* icon-phoenix-bird.svg
