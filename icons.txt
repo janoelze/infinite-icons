@@ -8123,4 +8123,18 @@
 * icon-github.svg
 * icon-nanotechnology.svg
 * icon-climate-change.svg
-* icon-immunology.svg
+* icon-immunology.svg* icon-fortunecookie.svg
+* icon-ahoy.svg
+* icon-ouroboros.svg
+* icon-windmill.svg
+* icon-featherquill.svg
+* icon-heptagon.svg
+* icon-ekgline.svg
+* icon-dnastrand.svg
+* icon-galaxy.svg
+* icon-phoenix.svg
+* icon-holocube.svg
+* icon-mythicalbeast.svg
+* icon-fluxcapacitor.svg
+* icon-virtualreality.svg
+* icon-nanobot.svg
