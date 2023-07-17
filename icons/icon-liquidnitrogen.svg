@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-liquidnitrogen">
+  <g>
+    <path d="M10,2 L30,2 Q35,2 35,7 L35,25 Q35,30 30,30 L10,30 Q5,30 5,25 L5,7 Q5,2 10,2 z"/>
+    <circle cx="22.5" cy="22.5" r="5"/>
+    <path d="M23,15 l-6,0 l3,-6 z"/>
+  </g>
+</svg>

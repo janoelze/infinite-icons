@@ -8235,4 +8235,18 @@
 * icon-labyrinth.svg
 * icon-maelstrom.svg
 * icon-nexus.svg
-* icon-oscillate.svg
+* icon-oscillate.svg* icon-weather-vane.svg
+* icon-telescope.svg
+* icon-fossil.svg
+* icon-mushroom.svg
+* icon-sandcastle.svg
+* icon-ice-cream-cone.svg
+* icon-cactus.svg
+* icon-gondola.svg
+* icon-snail.svg
+* icon-hedgehog.svg
+* icon-pineapple.svg
+* icon-accordion.svg
+* icon-cuckoo-clock.svg
+* icon-beehive.svg
+* icon-origami.svg
