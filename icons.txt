@@ -8487,4 +8487,18 @@
 * icon-compassrose.svg
 * icon-piratehook.svg
 * icon-astronaut.svg
-* icon-castlesentry.svg
+* icon-castlesentry.svg* icon-rocket-launch.svg
+* icon-moon-crescent.svg
+* icon-pancake-stack.svg
+* icon-vineyard.svg
+* icon-hamburger-fries.svg
+* icon-hiking-boot.svg
+* icon-gladiator-helmet.svg
+* icon-starship.svg
+* icon-temple-greek.svg
+* icon-pharaoh.svg
+* icon-castle-medieval.svg
+* icon-wolf-howl.svg
+* icon-witch-hat.svg
+* icon-honeycomb.svg
+* icon-cactus.svg
