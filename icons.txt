@@ -8711,4 +8711,18 @@
 * icon-quicksand.svg
 * icon-clothespin.svg
 * icon-alien.svg
-* icon-monocle.svg
+* icon-monocle.svg* icon-digitalkey.svg
+* icon-spaceinvader.svg
+* icon-sailingboat.svg
+* icon-loveletter.svg
+* icon-archerybow.svg
+* icon-mountainpeak.svg
+* icon-vinylrecord.svg
+* icon-meteor.svg
+* icon-glacier.svg
+* icon-mushroom.svg
+* icon-dragon.svg
+* icon-galaxy.svg
+* icon-sushi.svg
+* icon-sommelier.svg
+* icon-pterodactyl.svg
