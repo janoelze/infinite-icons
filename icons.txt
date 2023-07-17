@@ -8137,4 +8137,18 @@
 * icon-mythicalbeast.svg
 * icon-fluxcapacitor.svg
 * icon-virtualreality.svg
-* icon-nanobot.svg
+* icon-nanobot.svg* icon-digitalpen.svg
+* icon-satellite.svg
+* icon-magnet.svg
+* icon-algorithm.svg
+* icon-coding.svg
+* icon-cloudsync.svg
+* icon-advancedsetting.svg
+* icon-encrypted.svg
+* icon-quantumcomputing.svg
+* icon-biometric.svg
+* icon-geolocation.svg
+* icon-3dprinting.svg
+* icon-neuralnetwork.svg
+* icon-drones.svg
+* icon-globeconnect.svg
