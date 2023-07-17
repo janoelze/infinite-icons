@@ -8613,4 +8613,18 @@
 * icon-exploding-star.svg
 * icon-pirate-flag.svg
 * icon-flying-saucer.svg
-* icon-laurel-wreath.svg
+* icon-laurel-wreath.svg* icon-global-network.svg
+* icon-digital-compass.svg
+* icon-photo-album.svg
+* icon-moon-phase.svg
+* icon-quantum-computer.svg
+* icon-cyber-security.svg
+* icon-cryptocurrency.svg
+* icon-virtual-reality.svg
+* icon-blood-donation.svg
+* icon-space-rocket.svg
+* icon-kinetic-energy.svg
+* icon-nanotech.svg
+* icon-solar-panel.svg
+* icon-cloning.svg
+* icon-geothermal-energy.svg
