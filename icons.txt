@@ -8599,4 +8599,18 @@
 * icon-virtual-reality.svg
 * icon-eco-transport.svg
 * icon-sustainable-energy.svg
-* icon-digital-nomad.svg
+* icon-digital-nomad.svg* icon-lightning-bolt.svg
+* icon-hiking-boot.svg
+* icon-plane-ticket.svg
+* icon-old-key.svg
+* icon-coffee-bean.svg
+* icon-raincloud.svg
+* icon-robot-head.svg
+* icon-broken-mirror.svg
+* icon-astronaut-helmet.svg
+* icon-chess-knight.svg
+* icon-quill-pen.svg
+* icon-exploding-star.svg
+* icon-pirate-flag.svg
+* icon-flying-saucer.svg
+* icon-laurel-wreath.svg

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-planet-galaxy">
+  <circle cx="25" cy="25" r="20" fill="#0000FF" />
+  <path d="M25 5 Q35 15 25 25 Q15 15 25 5" fill="#FFFFFF" />
+  <circle cx="15" cy="35" r="5" fill="#00FFFF" />
+  <circle cx="35" cy="15" r="5" fill="#FFFF00" />
+</svg>
