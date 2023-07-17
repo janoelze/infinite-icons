@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="icon icon-octagonal-prism">
+  <polygon points="25,5 75,5 100,30 100,70 75,95 25,95 0,70 0,30"/>
+  <polygon points="25,5 75,5 75,95 25,95" opacity=".4"/>
+  <polygon points="75,5 100,30 100,70 75,95" opacity=".6"/>
+</svg>

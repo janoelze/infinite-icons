@@ -8767,4 +8767,18 @@
 * icon-radiotower.svg
 * icon-ferriswheel.svg
 * icon-champagnebottle.svg
-* icon-windsurfer.svg
+* icon-windsurfer.svg* icon-global-connection.svg
+* icon-virtual-reality.svg
+* icon-organic-food.svg
+* icon-futuristic-technology.svg
+* icon-quantum-computing.svg
+* icon-astronomy-telescope.svg
+* icon-robotic-arm.svg
+* icon-energy-conservation.svg
+* icon-marine-biodiversity.svg
+* icon-genetic-engineering.svg
+* icon-space-exploration.svg
+* icon-climate-change.svg
+* icon-urbanization.svg
+* icon-blockchain-technology.svg
+* icon-digital-art.svg
