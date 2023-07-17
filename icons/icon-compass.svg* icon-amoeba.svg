@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-compass.svg icon-amoeba">
+  <circle cx="50" cy="50" r="45" style="fill:white;stroke:black;stroke-width:5" />
+  <path d="M 50 20 A 30 30 0 0 1 80 50 A 30 30 0 0 1 50 80 A 30 30 0 0 1 20 50 A 30 30 0 0 1 50 20 z" style="fill:black;stroke:black;stroke-width:5" />
+  <path d="M 40 60 L 60 60 L 60 80 L 40 80 z" style="fill:black" />
+</svg>

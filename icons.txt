@@ -8879,4 +8879,18 @@
 * icon-ancient-pyramid.svg
 * icon-solar-panel.svg
 * icon-cyber-security.svg
-* icon-chess-knight.svg
+* icon-chess-knight.svg* icon-galaxy.svg
+* icon-lighthouse.svg
+* icon-quill.svg
+* icon-origami.svg
+* icon-obelisk.svg
+* icon-bindings.svg
+* icon-quantum.svg
+* icon-metronome.svg
+* icon-oasis.svg
+* icon-iris.svg
+* icon-nimbus.svg
+* icon-coyote.svg
+* icon-serval.svg
+* icon-anomaly.svg
+* icon-rune.svg
