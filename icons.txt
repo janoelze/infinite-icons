@@ -8655,4 +8655,18 @@
 * icon-alien.svg
 * icon-guillotine.svg
 * icon-iguana.svg
-* icon-mayan-pyramid.svg
+* icon-mayan-pyramid.svg* icon-treasure-chest.svg
+* icon-sandcastle.svg
+* icon-martini-glass.svg
+* icon-space-rocket.svg
+* icon-pinwheel.svg
+* icon-digital-watch.svg
+* icon-xylophone.svg
+* icon-quill-pen.svg
+* icon-magic-wand.svg
+* icon-desk-lamp.svg
+* icon-sundial.svg
+* icon-cactus.svg
+* icon-concert-ticket.svg
+* icon-polaroid.svg
+* icon-rainbow.svg
