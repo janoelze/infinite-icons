@@ -8417,4 +8417,18 @@
 * icon-rhinoceros.svg
 * icon-dynamite.svg
 * icon-chopsticks.svg
-* icon-nomad.svg
+* icon-nomad.svg* icon-microchip.svg
+* icon-hyperspace.svg
+* icon-executive-chair.svg
+* icon-quantum-computer.svg
+* icon-satellite-dish.svg
+* icon-dna-sequence.svg
+* icon-telescope.svg
+* icon-nanobot.svg
+* icon-neural-network.svg
+* icon-rocket-boot.svg
+* icon-3d-printer.svg
+* icon-hologram.svg
+* icon-virtual-reality.svg
+* icon-ai-robot.svg
+* icon-jetpack.svg
