@@ -8627,4 +8627,18 @@
 * icon-nanotech.svg
 * icon-solar-panel.svg
 * icon-cloning.svg
-* icon-geothermal-energy.svg
+* icon-geothermal-energy.svg* icon-flamingo.svg
+* icon-origami-bird.svg
+* icon-antique-key.svg
+* icon-bamboo.svg
+* icon-cactus.svg
+* icon-marshmallow.svg
+* icon-compass-rose.svg
+* icon-quill-pen.svg
+* icon-scroll.svg
+* icon-snake.svg
+* icon-velociraptor.svg
+* icon-pinecone.svg
+* icon-sundial.svg
+* icon-stethoscope.svg
+* icon-armillary-sphere.svg
