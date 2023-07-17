@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" class="icon icon-harp">
+  <path fill="none" stroke="currentColor" stroke-width="2" d="M22,1 C24,5 26,9 26,13 C26,21 21,31 16,39 C14,42 12,45 10,48 C10,48 13,44.75 16,39 C21,31 26,21 26,13 C26,9 24,5 22,1 Z"/>
+  <line x1="22" y1="1" x2="22" y2="48" stroke="currentColor" stroke-width="2" />
+  <line x1="14" y1="7" x2="14" y2="48" stroke="currentColor" stroke-width="2" />
+</svg>
