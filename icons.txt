@@ -8865,4 +8865,18 @@
 * icon-lemur-router.svg
 * icon-meerkat-hammer.svg
 * icon-numbat-binoculars.svg
-* icon-orangutan-magnifier.svg
+* icon-orangutan-magnifier.svg* icon-fragile-box.svg
+* icon-eco-battery.svg
+* icon-gear-cogwheel.svg
+* icon-molecular-structure.svg
+* icon-hot-air-balloon.svg
+* icon-invisible-ink.svg
+* icon-space-rocket.svg
+* icon-ancient-scroll.svg
+* icon-dna-helix.svg
+* icon-global-position.svg
+* icon-pirate-ship.svg
+* icon-ancient-pyramid.svg
+* icon-solar-panel.svg
+* icon-cyber-security.svg
+* icon-chess-knight.svg
