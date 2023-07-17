@@ -8305,4 +8305,18 @@
 * icon-constellation.svg
 * icon-hot-air-balloon.svg
 * icon-submarine.svg
-* icon-rainforest.svg
+* icon-rainforest.svg* icon-octopus.svg
+* icon-kaleidoscope.svg
+* icon-flashlight.svg
+* icon-goldmine.svg
+* icon-compass.svg
+* icon-parachute.svg
+* icon-raft.svg
+* icon-desert.svg
+* icon-chameleon.svg
+* icon-origami.svg
+* icon-cobra.svg
+* icon-geyser.svg
+* icon-bamboo.svg
+* icon-guillotine.svg
+* icon-quill.svg
