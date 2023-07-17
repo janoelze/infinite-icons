@@ -8333,4 +8333,18 @@
 * icon-coral-reef.svg
 * icon-digital-cipher.svg
 * icon-astronaut-helmet.svg
-* icon-guillotine.svg
+* icon-guillotine.svg* icon-shield-alt.svg
+* icon-umbrella-beach.svg
+* icon-baseball-mask.svg
+* icon-croissant.svg
+* icon-multimedia-speakers.svg
+* icon-farm-tractor.svg
+* icon-robotic-arm.svg
+* icon-cash-register.svg
+* icon-science-microscope.svg
+* icon-train-station.svg
+* icon-iceberg.svg
+* icon-cocktail-mixer.svg
+* icon-rock-climbing.svg
+* icon-archery-target.svg
+* icon-satellite-dish.svg
