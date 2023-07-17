@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-zodiacsigns" viewBox="0 0 48 48">
+  <g>
+    <circle cx="12" cy="12" r="6"/>
+    <circle cx="36" cy="12" r="6"/>
+    <circle cx="12" cy="36" r="6"/>
+    <circle cx="36" cy="36" r="6"/>
+  </g>
+  <g>
+    <line x1="12" y1="12" x2="36" y2="12"/>
+    <line x1="12" y1="36" x2="36" y2="36"/>
+    <line x1="12" y1="12" x2="12" y2="36"/>
+    <line x1="36" y1="12" x2="36" y2="36"/>
+  </g>
+</svg>

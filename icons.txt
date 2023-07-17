@@ -8557,4 +8557,18 @@
 * icon-lantern.svg
 * icon-steampunkgoggles.svg
 * icon-guerdon.svg
-* icon-albatross.svg
+* icon-albatross.svg* icon-astrolabe.svg
+* icon-gem-stone.svg
+* icon-wheat-field.svg
+* icon-digital-cube.svg
+* icon-kaleidoscope.svg
+* icon-octopus.svg
+* icon-jigsaw-piece.svg
+* icon-quill-pen.svg
+* icon-ancient-scroll.svg
+* icon-ship-wheel.svg
+* icon-dna-strand.svg
+* icon-neon-flamingo.svg
+* icon-lantern.svg
+* icon-integral-calculus.svg
+* icon-origami-crane.svg
