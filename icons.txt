@@ -8291,4 +8291,18 @@
 * icon-opossum.svg
 * icon-plexus.svg
 * icon-quasar.svg
-* icon-rococo.svg
+* icon-rococo.svg* icon-dna.svg
+* icon-satellite.svg
+* icon-quill.svg
+* icon-hologram.svg
+* icon-magnifying-glass.svg
+* icon-sushi.svg
+* icon-meteor.svg
+* icon-rudder.svg
+* icon-time-machine.svg
+* icon-coral.svg
+* icon-skyscraper.svg
+* icon-constellation.svg
+* icon-hot-air-balloon.svg
+* icon-submarine.svg
+* icon-rainforest.svg

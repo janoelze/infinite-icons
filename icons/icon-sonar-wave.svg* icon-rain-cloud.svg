@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-sonar-wave.svg icon-rain-cloud">
+   <circle class="sonar-wave" cx="50%" cy="50%" r="25%" fill="none" stroke="currentColor" stroke-width="2">
+      <animate attributeType="XML" attributeName="r" from="25%" to="75%" dur="1s" repeatCount="indefinite"/>
+      <animate attributeType="XML" attributeName="opacity" from="1" to="0" dur="1s" repeatCount="indefinite"/>
+   </circle>
+   <path class="rain-cloud" d="M25 25 Q25 15 35 15 Q45 15 45 25 Q45 35 35 35 Q25 35 25 25" fill="currentColor"/>
+</svg>
