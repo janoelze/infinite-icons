@@ -8753,4 +8753,18 @@
 * icon-solar-panel.svg
 * icon-spaghetti-bolognese.svg
 * icon-greenhouse.svg
-* icon-volcanic-eruption.svg
+* icon-volcanic-eruption.svg* icon-moonphase.svg
+* icon-futuristiccity.svg
+* icon-satellitedish.svg
+* icon-tropicalfish.svg
+* icon-airplaneblackbox.svg
+* icon-skiingslope.svg
+* icon-dronecam.svg
+* icon-cinerama.svg
+* icon-telescopelens.svg
+* icon-3Dglasses.svg
+* icon-electriccar.svg
+* icon-radiotower.svg
+* icon-ferriswheel.svg
+* icon-champagnebottle.svg
+* icon-windsurfer.svg
