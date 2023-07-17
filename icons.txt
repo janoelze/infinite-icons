@@ -8431,4 +8431,18 @@
 * icon-hologram.svg
 * icon-virtual-reality.svg
 * icon-ai-robot.svg
-* icon-jetpack.svg
+* icon-jetpack.svg* icon-meteor-shower.svg
+* icon-puzzle-piece.svg
+* icon-quill-ink.svg
+* icon-roadmap.svg
+* icon-galaxy.svg
+* icon-theater-mask.svg
+* icon-binoculars.svg
+* icon-coral-reef.svg
+* icon-ancient-pillar.svg
+* icon-satellite.svg
+* icon-hourglass.svg
+* icon-magic-wand.svg
+* icon-palm-tree.svg
+* icon-tropical-bird.svg
+* icon-steam-engine.svg
