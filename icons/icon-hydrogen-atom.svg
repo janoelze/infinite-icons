@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-hydrogen-atom" viewBox="0 0 24 24">
+   <circle class="atom-core" cx="12" cy="12" r="3" />
+   <circle class="electron-orbit" cx="12" cy="12" r="8" fill="none" stroke="black" stroke-width="2" />
+   <circle class="electron" cx="12" cy="4" r="1" />
+</svg>

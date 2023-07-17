@@ -8809,4 +8809,18 @@
 * icon-space-elevator.svg
 * icon-alien-creature.svg
 * icon-robotic-arm.svg
-* icon-quantum-computer.svg
+* icon-quantum-computer.svg* icon-compassrose.svg
+* icon-mountainpeak.svg
+* icon-cigar.svg
+* icon-dnastrand.svg
+* icon-blackhole.svg
+* icon-bonsaitree.svg
+* icon-playingshuffle.svg
+* icon-nebula.svg
+* icon-pyramid.svg
+* icon-encryptedkey.svg
+* icon-plutonium.svg
+* icon-parasite.svg
+* icon-warship.svg
+* icon-telescope.svg
+* icon-comet.svg
