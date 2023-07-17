@@ -8641,4 +8641,18 @@
 * icon-pinecone.svg
 * icon-sundial.svg
 * icon-stethoscope.svg
-* icon-armillary-sphere.svg
+* icon-armillary-sphere.svg* icon-squid.svg
+* icon-kaleidoscope.svg
+* icon-granola-bar.svg
+* icon-constellation.svg
+* icon-ocelot.svg
+* icon-platypus.svg
+* icon-snorkel.svg
+* icon-kimchi.svg
+* icon-nanobot.svg
+* icon-hamburger.svg
+* icon-scuba-diver.svg
+* icon-alien.svg
+* icon-guillotine.svg
+* icon-iguana.svg
+* icon-mayan-pyramid.svg

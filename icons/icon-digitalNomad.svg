@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon icon-digitalNomad">
+    <path d="M12,2A4,4,0,1,1,8,6,4,4,0,0,1,12,2Z"/>
+    <path d="M22,22H2V16H22Z"/>
+    <path d="M14,14H10a6,6,0,0,1-6-6V6H6v2a4,4,0,0,0,8,0V6h2v2a4,4,0,0,0,4,4h2v4H14Z"/>
+</svg>
