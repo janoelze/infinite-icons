@@ -8823,4 +8823,18 @@
 * icon-parasite.svg
 * icon-warship.svg
 * icon-telescope.svg
-* icon-comet.svg
+* icon-comet.svg* icon-papyrus-scroll.svg
+* icon-daylight-moon.svg
+* icon-silk-cocoon.svg
+* icon-math-integral.svg
+* icon-camel-ride.svg
+* icon-ribbon-knot.svg
+* icon-tractor-beam.svg
+* icon-propeller-hat.svg
+* icon-iron-anvil.svg
+* icon-lunar-rover.svg
+* icon-alchemical-lab.svg
+* icon-graphene-sheet.svg
+* icon-jellyfish-swim.svg
+* icon-stained-glass.svg
+* icon-space-elevator.svg
